@@ -6,7 +6,7 @@ This paper evaluates the capacity of current language technologies to understand
 
 ## Data
 
-It introduces XNLIvar, a novel, manually-curated, variation inclusive NLI datasets in Basque and Spanish for NLI evaluation. The [data](https://github.com/jaioneB/XNLIvar/tree/main/data) folder is structured in the following folders: 
+It introduces XNLIvar, a novel, manually-curated, variation inclusive NLI datasets in Basque and Spanish for NLI evaluation. The [data](https://github.com/hitz-zentroa/XNLIvar/tree/main/data) folder is structured in the following folders: 
 
 - [Basque data](https://github.com/hitz-zentroa/XNLIvar/tree/main/data/eu): It provides the original XNLI test data, as well as the native and variation inclusive datasets.
 - [Spanish data](https://github.com/hitz-zentroa/XNLIvar/tree/main/data/es): It provides de original XNLI test data, as well as the Basque native data translated into Spanish and the variation inclusive data. 
