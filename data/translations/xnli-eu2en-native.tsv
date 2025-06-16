@@ -1,0 +1,622 @@
+prem_id	premise	hypothesis_id	hypothesis	label
+prem1	The draw is conducted in the presence of a notary and is carried out using a computer program that assigns equiprobable numbers.	prem1_hyp0	A computer and a notary are needed to conduct the draw.	0
+prem1	The draw is conducted in the presence of a notary and is carried out using a computer program that assigns equiprobable numbers.	prem1_hyp1	Usually the same notary is present at all drawings.	1
+prem1	The draw is conducted in the presence of a notary and is carried out using a computer program that assigns equiprobable numbers.	prem1_hyp2	The drawing is done by placing numbered slips of paper in a container and randomly selecting one.	2
+prem2	Enrike Eizagirre and Ane Sarasketa performing the exciting Arratia dance.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+prem2	Enrike Eizagirre and Ane Sarasketa performing the exciting Arratia dance.	prem2_hyp1	Ane and Enrike have blue pants.	1
+prem2	Enrike Eizagirre and Ane Sarasketa performing the exciting Arratia dance.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+prem3	The Sorgintxulo youth center was occupied in 1998 in the empty premises of the Karmelo church.	prem3_hyp0	The owner of Sorgintxulo youth center was the Karmelo church.	0
+prem3	The Sorgintxulo youth center was occupied in 1998 in the empty premises of the Karmelo church.	prem3_hyp1	Several concerts are held at the Sorgintxulo youth center.	1
+prem3	The Sorgintxulo youth center was occupied in 1998 in the empty premises of the Karmelo church.	prem3_hyp2	The city council gave the Sorgintxulo youth center to a group of young people.	2
+prem4	The nine-song album mixes hardcore with rock and metal.	prem4_hyp0	The disc has fewer than ten songs in total.	0
+prem4	The nine-song album mixes hardcore with rock and metal.	prem4_hyp1	Each song is about three minutes long, but there is also one that is six minutes long.	1
+prem4	The nine-song album mixes hardcore with rock and metal.	prem4_hyp2	Calm melodies dominate the album.	2
+prem5	"The movie ""Ballerina"" will arrive at movie theaters the day after tomorrow, in Basque."	prem5_hyp0	"The film ""Ballerina"" will be available to watch in Basque."	0
+prem5	"The movie ""Ballerina"" will arrive at movie theaters the day after tomorrow, in Basque."	prem5_hyp1	"""Ballerina"" is an animated film made in France."	1
+prem5	"The movie ""Ballerina"" will arrive at movie theaters the day after tomorrow, in Basque."	prem5_hyp2	"""Ballerina"" cannot be seen in theaters for another month."	2
+prem6	The new work of the Santutxu-based band Solte has been released today.	prem6_hyp0	The Solte group from Santutxu has created a new work.	0
+prem6	The new work of the Santutxu-based band Solte has been released today.	prem6_hyp1	The album has arrived after being idle for five years.	1
+prem6	The new work of the Santutxu-based band Solte has been released today.	prem6_hyp2	The band Solte disappeared three years ago.	2
+prem7	Although Txirrita the bertsolari was a person who didn't know how to read, he had an extraordinary intuition for interpreting the information he gathered.	prem7_hyp0	Txirrita never read a single book in his entire life.	0
+prem7	Although Txirrita the bertsolari was a person who didn't know how to read, he had an extraordinary intuition for interpreting the information he gathered.	prem7_hyp1	The bertsolari Basarri, on the other hand, greatly enjoyed reading novels.	1
+prem7	Although Txirrita the bertsolari was a person who didn't know how to read, he had an extraordinary intuition for interpreting the information he gathered.	prem7_hyp2	While drinking coffee, Txirrita would read the newspaper every morning.	2
+prem8	The assignments will be only two pages long, in A4 format (portrait orientation).	prem8_hyp0	A4 format must be used for the assignments.	0
+prem8	The assignments will be only two pages long, in A4 format (portrait orientation).	prem8_hyp1	Arial size 12 must be used for writing.	1
+prem8	The assignments will be only two pages long, in A4 format (portrait orientation).	prem8_hyp2	Four-page works will also be accepted.	2
+prem9	Antton's way of life was truly peculiar and his dwelling place was even more fascinating!	prem9_hyp0	The place where Antton lived was strange.	0
+prem9	Antton's way of life was truly peculiar and his dwelling place was even more fascinating!	prem9_hyp1	Antton had two daughters at a very young age.	1
+prem9	Antton's way of life was truly peculiar and his dwelling place was even more fascinating!	prem9_hyp2	Antton had a peaceful life, without any great adventures.	2
+prem10	The Santurtzi Business Center is located in the El Árbol industrial area of Santurtzi, near the A-8 motorway.	prem10_hyp0	The Santurtzi Business Center is not far from the A-8 motorway.	0
+prem10	The Santurtzi Business Center is located in the El Árbol industrial area of Santurtzi, near the A-8 motorway.	prem10_hyp1	There are 27 companies in total in the El Árbol industrial park.	1
+prem10	The Santurtzi Business Center is located in the El Árbol industrial area of Santurtzi, near the A-8 motorway.	prem10_hyp2	Despite what its name suggests, Santurtzi Business Center is located in Portugalete.	2
+prem11	"""Ballerina"" is one of the largest animation co-productions made in Europe in recent years."	prem11_hyp0	"The animated film ""Ballerina"" was made in Europe."	0
+prem11	"""Ballerina"" is one of the largest animation co-productions made in Europe in recent years."	prem11_hyp1	The protagonist of the film is a girl.	1
+prem11	"""Ballerina"" is one of the largest animation co-productions made in Europe in recent years."	prem11_hyp2	"Although it was made in the United States, the story of ""Ballerina"" is set in Europe."	2
+prem12	It is true, incidentally, that many passages are probably better understood after having read the book.	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+prem12	It is true, incidentally, that many passages are probably better understood after having read the book.	prem12_hyp1	They have modified some passages in the book that were scary.	1
+prem12	It is true, incidentally, that many passages are probably better understood after having read the book.	prem12_hyp2	Not having read the book has no effect at all.	2
+prem13	While Miren was smoking a cigarette by the house window, Lucia approached her and, in front of her husband, began touching Miren.	prem13_hyp0	While Miren was by the house window, Lucia started touching her.	0
+prem13	While Miren was smoking a cigarette by the house window, Lucia approached her and, in front of her husband, began touching Miren.	prem13_hyp1	Miren's husband was watching television when Lucia arrived.	1
+prem13	While Miren was smoking a cigarette by the house window, Lucia approached her and, in front of her husband, began touching Miren.	prem13_hyp2	When Lucia arrived, she didn't dare approach Miren because her husband was present.	2
+prem14	"This autumn, they will begin their third year of the radio program ""Sukalde dema"" (Kitchen Challenge) on Radio Euskadi."	prem14_hyp0	The cooking competition shows have been running on Radio Euskadi for more than a year.	0
+prem14	"This autumn, they will begin their third year of the radio program ""Sukalde dema"" (Kitchen Challenge) on Radio Euskadi."	prem14_hyp1	The presenters of the cooking competition show changed after the first year.	1
+prem14	"This autumn, they will begin their third year of the radio program ""Sukalde dema"" (Kitchen Challenge) on Radio Euskadi."	prem14_hyp2	"The ""Kitchen Challenge"" program only lasted one year on Radio Euskadi."	2
+prem15	Moreover, they don't have the accident report form in either Basque or in bilingual Basque-Spanish.	prem15_hyp0	They don't have accident reports in Basque.	0
+prem15	Moreover, they don't have the accident report form in either Basque or in bilingual Basque-Spanish.	prem15_hyp1	He/She had an accident in the red car two weeks ago.	1
+prem15	Moreover, they don't have the accident report form in either Basque or in bilingual Basque-Spanish.	prem15_hyp2	They told me they have an accident report that is written entirely in Basque.	2
+prem16	In Spain, 60% of married couples get divorced.	prem16_hyp0	More than half of married couples get divorced in Spain.	0
+prem16	In Spain, 60% of married couples get divorced.	prem16_hyp1	Fewer and fewer people are getting married in church in the Spanish state.	1
+prem16	In Spain, 60% of married couples get divorced.	prem16_hyp2	Less than half get divorced after getting married.	2
+prem17	A nation that cannot be imagined cannot exist.	prem17_hyp0	All existing peoples can be imagined.	0
+prem17	A nation that cannot be imagined cannot exist.	prem17_hyp1	There are some villages where all the houses are white.	1
+prem17	A nation that cannot be imagined cannot exist.	prem17_hyp2	Yesterday we saw a town that is not imagined.	2
+prem18	In recent days, we have learned about the prosecutor's requests against 48 people for working in the field of Basque political prisoners, some of them for more than 20 years.	prem18_hyp0	The prosecution has requested sentences for several people.	0
+prem18	In recent days, we have learned about the prosecutor's requests against 48 people for working in the field of Basque political prisoners, some of them for more than 20 years.	prem18_hyp1	Most of those who work on the issue of political prisoners are from Gipuzkoa.	1
+prem18	In recent days, we have learned about the prosecutor's requests against 48 people for working in the field of Basque political prisoners, some of them for more than 20 years.	prem18_hyp2	The prosecutor's office has approved the work being done by those involved in the matter of political prisoners.	2
+prem19	Until now, due to poor Basque language proficiency, local students' overall grade in the university entrance exam was significantly lowered.	prem19_hyp0	The language level had an impact on the overall university entrance exam score.	0
+prem19	Until now, due to poor Basque language proficiency, local students' overall grade in the university entrance exam was significantly lowered.	prem19_hyp1	Last year, the university entrance exams had the lowest scores ever recorded.	1
+prem19	Until now, due to poor Basque language proficiency, local students' overall grade in the university entrance exam was significantly lowered.	prem19_hyp2	The Basque language level did not matter in the university entrance exam score.	2
+prem20	My friend says that despite having traveled all over the world, the day they get sick, they will return to the Basque Country.	prem20_hyp0	My friend is traveling around the world.	0
+prem20	My friend says that despite having traveled all over the world, the day they get sick, they will return to the Basque Country.	prem20_hyp1	The friend was not born in the Basque Country.	1
+prem20	My friend says that despite having traveled all over the world, the day they get sick, they will return to the Basque Country.	prem20_hyp2	The friend says they intend to travel around the world forever.	2
+prem21	Even though more than 40 years have passed, 'Alien, the eighth passenger' doesn't age.	prem21_hyp0	The film 'Alien, the eighth passenger' was made more than four decades ago.	0
+prem21	Even though more than 40 years have passed, 'Alien, the eighth passenger' doesn't age.	prem21_hyp1	The film 'Alien, the eighth passenger' did not receive particularly good reviews initially.	1
+prem21	Even though more than 40 years have passed, 'Alien, the eighth passenger' doesn't age.	prem21_hyp2	The film 'Alien, the eighth passenger' will be released soon.	2
+prem22	Our work can often be very difficult, very hard, and very dark, and we need to turn to humor from time to time.	prem22_hyp0	Our work is often tough more than once.	0
+prem22	Our work can often be very difficult, very hard, and very dark, and we need to turn to humor from time to time.	prem22_hyp1	We have a good relationship among colleagues, although we sometimes have some disagreements.	1
+prem22	Our work can often be very difficult, very hard, and very dark, and we need to turn to humor from time to time.	prem22_hyp2	We always have to be very serious at work.	2
+prem23	It is well known that anyone who approaches a public health system will find some fault and reason to get angry about something.	prem23_hyp0	There are flaws in the public health system.	0
+prem23	It is well known that anyone who approaches a public health system will find some fault and reason to get angry about something.	prem23_hyp1	Doctors in the public health system are angry with the measures that have been taken.	1
+prem23	It is well known that anyone who approaches a public health system will find some fault and reason to get angry about something.	prem23_hyp2	The public health system here can be said to be perfect.	2
+prem24	Therefore, the neighborhood association is not attractive to young people.	prem24_hyp0	Most of the people who come to the neighborhood association are adults.	0
+prem24	Therefore, the neighborhood association is not attractive to young people.	prem24_hyp1	The neighborhood association celebrated its twentieth anniversary last year.	1
+prem24	Therefore, the neighborhood association is not attractive to young people.	prem24_hyp2	Many young people have been participating in the neighborhood association lately.	2
+prem25	The Antton Abbadie Award, created by the Provincial Council, has been a well-deserved recognition.	prem25_hyp0	He/She deserved to receive the Antton Abbadie award.	0
+prem25	The Antton Abbadie Award, created by the Provincial Council, has been a well-deserved recognition.	prem25_hyp1	In addition to the Antton Abbadie award, they have received others as well.	1
+prem25	The Antton Abbadie Award, created by the Provincial Council, has been a well-deserved recognition.	prem25_hyp2	The Provincial Council was awarded the Antton Abbadie prize.	2
+prem26	In this book, their expressions and language details have been collected.	prem26_hyp0	What they expressed has been recorded in the book.	0
+prem26	In this book, their expressions and language details have been collected.	prem26_hyp1	The person who wrote the book is famous.	1
+prem26	In this book, their expressions and language details have been collected.	prem26_hyp2	There is very little in the book about language/speech.	2
+prem27	It will be interesting to compare the future construction with the photographs taken there.	prem27_hyp0	Pictures were taken there.	0
+prem27	It will be interesting to compare the future construction with the photographs taken there.	prem27_hyp1	The future construction will be better.	1
+prem27	It will be interesting to compare the future construction with the photographs taken there.	prem27_hyp2	It is boring to compare buildings.	2
+prem28	The Fronton has 65 seats for people with reduced mobility, and the Trinquet has 16.	prem28_hyp0	The fronton has more seats for people with reduced mobility than the Trinquet.	0
+prem28	The Fronton has 65 seats for people with reduced mobility, and the Trinquet has 16.	prem28_hyp1	More people usually go to the Pilotaleku to watch matches than to the Trinket.	1
+prem28	The Fronton has 65 seats for people with reduced mobility, and the Trinquet has 16.	prem28_hyp2	The Trinketa has at least as many seats as the Pilotaleku for people with reduced mobility.	2
+prem29	I recently took a guided tour of the San Sebastian Aquarium in October.	prem29_hyp0	I was in San Sebastian in October.	0
+prem29	I recently took a guided tour of the San Sebastian Aquarium in October.	prem29_hyp1	I have been to the aquarium three times in total.	1
+prem29	I recently took a guided tour of the San Sebastian Aquarium in October.	prem29_hyp2	I haven't been to the Aquarium all autumn.	2
+prem30	We are in the midst of change and, among other things, we are also working on reviewing language criteria.	prem30_hyp0	Among other things, we are reviewing the language criteria.	0
+prem30	We are in the midst of change and, among other things, we are also working on reviewing language criteria.	prem30_hyp1	The main goal of the change is to facilitate the opportunity to learn more languages.	1
+prem30	We are in the midst of change and, among other things, we are also working on reviewing language criteria.	prem30_hyp2	It seemed like we were going to make some changes, but in the end we decided to continue the same way.	2
+prem31	The most interesting legends that govern our minds were born in darkness.	prem31_hyp0	The most interesting stories in our brain are born in darkness.	0
+prem31	The most interesting legends that govern our minds were born in darkness.	prem31_hyp1	We cannot know where all the interesting legends come from.	1
+prem31	The most interesting legends that govern our minds were born in darkness.	prem31_hyp2	All our interesting stories in the brain are born in the light.	2
+prem32	On the first day, we met with three groups; only one was in Basque.	prem32_hyp0	One-third of the groups encountered on the first day were speaking in Basque.	0
+prem32	On the first day, we met with three groups; only one was in Basque.	prem32_hyp1	The groups on the first day were very heterogeneous, with people of different ages and cultures.	1
+prem32	On the first day, we met with three groups; only one was in Basque.	prem32_hyp2	Most of the groups encountered on the first day were speaking in Basque.	2
+prem33	Many children are attending Spanish language courses in San Sebastian.	prem33_hyp0	In San Sebastian, parents take many children to Spanish language courses.	0
+prem33	Many children are attending Spanish language courses in San Sebastian.	prem33_hyp1	Children's courses in San Sebastian are in the afternoons.	1
+prem33	Many children are attending Spanish language courses in San Sebastian.	prem33_hyp2	Spanish language courses in San Sebastian are empty.	2
+prem34	To recover your travel ticket, you need to access your file in the electronic office.	prem34_hyp0	You can retrieve your travel ticket by accessing your file in the electronic portal.	0
+prem34	To recover your travel ticket, you need to access your file in the electronic office.	prem34_hyp1	Access your file in the electronic office and you will retrieve your travel ticket within a week.	1
+prem34	To recover your travel ticket, you need to access your file in the electronic office.	prem34_hyp2	It is sufficient to call by phone to recover the travel ticket.	2
+prem35	Taking the course has helped them gain skill with balance and jumps.	prem35_hyp0	Thanks to the course, they improved their balance and gained skill with jumps.	0
+prem35	Taking the course has helped them gain skill with balance and jumps.	prem35_hyp1	Thanks to the course, they have greatly improved their flexibility.	1
+prem35	Taking the course has helped them gain skill with balance and jumps.	prem35_hyp2	Taking the course hasn't been of any use to him/her.	2
+prem36	Both approaching 60 years old, we have begun to notice things that were invisible to us until now, health issues, and friends who are dying more and more frequently.	prem36_hyp0	Between the two of us, we are less than 61 years old.	0
+prem36	Both approaching 60 years old, we have begun to notice things that were invisible to us until now, health issues, and friends who are dying more and more frequently.	prem36_hyp1	At the threshold of 60 years, it's better not to dwell on the past.	1
+prem36	Both approaching 60 years old, we have begun to notice things that were invisible to us until now, health issues, and friends who are dying more and more frequently.	prem36_hyp2	Growing older has not changed our perspective on health and death.	2
+prem37	Immediately after the draw, the offered positions are allocated.	prem37_hyp0	Places are assigned by lottery.	0
+prem37	Immediately after the draw, the offered positions are allocated.	prem37_hyp1	The allocation of places is done through a computerized lottery.	1
+prem37	Immediately after the draw, the offered positions are allocated.	prem37_hyp2	The spots are awarded two weeks after the draw is held.	2
+prem38	Saturday's event was smooth and beautiful.	prem38_hyp0	Saturday's event was pleasant.	0
+prem38	Saturday's event was smooth and beautiful.	prem38_hyp1	I watched Saturday's event from home.	1
+prem38	Saturday's event was smooth and beautiful.	prem38_hyp2	Saturday's event wasn't to my liking, it lacked intensity.	2
+prem39	Romantic love is a device to ensure the survival of the patriarchal system.	prem39_hyp0	Romantic love is used to keep the patriarchal system alive.	0
+prem39	Romantic love is a device to ensure the survival of the patriarchal system.	prem39_hyp1	There are several devices that allow the patriarchal system to survive.	1
+prem39	Romantic love is a device to ensure the survival of the patriarchal system.	prem39_hyp2	The patriarchal system is a device for ensuring the survival of romantic love.	2
+prem40	He/She was 46 years old and was taken from our side by sudden death.	prem40_hyp0	He/She died suddenly at 46 years old.	0
+prem40	He/She was 46 years old and was taken from our side by sudden death.	prem40_hyp1	He/She had a happy life.	1
+prem40	He/She was 46 years old and was taken from our side by sudden death.	prem40_hyp2	A long illness killed him/her.	2
+prem41	Last year, the Zinema Euskaraz program dubbed 15 films into Basque, and 2017 has also gotten off to a good start.	prem41_hyp0	The Cinema in Basque program dubs films into Basque.	0
+prem41	Last year, the Zinema Euskaraz program dubbed 15 films into Basque, and 2017 has also gotten off to a good start.	prem41_hyp1	All the dubbing done by the Cinema in Basque program has been from Spanish to Basque.	1
+prem41	Last year, the Zinema Euskaraz program dubbed 15 films into Basque, and 2017 has also gotten off to a good start.	prem41_hyp2	It seems that the Cinema in Basque program will dub very few films in 2017 as well.	2
+prem42	Last week, the Bilbao Occupation Office turned four years old.	prem42_hyp0	The Bilbao Occupation Office celebrated its fourth anniversary.	0
+prem42	Last week, the Bilbao Occupation Office turned four years old.	prem42_hyp1	The Bilbao Employment Office will hire new workers next month.	1
+prem42	Last week, the Bilbao Occupation Office turned four years old.	prem42_hyp2	Two years have passed since the Bilbao Occupation Office closed.	2
+prem43	The cultural offerings in Getaria have quadrupled since I lived there.	prem43_hyp0	There is an increasing cultural offering in Getaria.	0
+prem43	The cultural offerings in Getaria have quadrupled since I lived there.	prem43_hyp1	A quarter of Getaria's cultural offerings is theater.	1
+prem43	The cultural offerings in Getaria have quadrupled since I lived there.	prem43_hyp2	Before, when I didn't live there, there was a greater cultural offering in Getaria.	2
+prem44	In addition to submitting on paper, they will also be submitted in digital format, if possible.	prem44_hyp0	They will be presented in paper and digital format.	0
+prem44	In addition to submitting on paper, they will also be submitted in digital format, if possible.	prem44_hyp1	They will be presented on paper next week.	1
+prem44	In addition to submitting on paper, they will also be submitted in digital format, if possible.	prem44_hyp2	They will be presented in digital format only.	2
+prem45	Although they were a prolific and leading designer and book illustrator, their contribution to comics has been no less significant.	prem45_hyp0	He/She has also made a great contribution to comic creation.	0
+prem45	Although they were a prolific and leading designer and book illustrator, their contribution to comics has been no less significant.	prem45_hyp1	The recently published comic collection has been a great success among minors.	1
+prem45	Although they were a prolific and leading designer and book illustrator, their contribution to comics has been no less significant.	prem45_hyp2	He/She is a comic artist and sometimes creates illustrations.	2
+prem46	The Artxanda Funicular, S.A. is a commercial company wholly owned by the Bilbao City Council.	prem46_hyp0	The Bilbao City Council owns the Artxanda Funicular.	0
+prem46	The Artxanda Funicular, S.A. is a commercial company wholly owned by the Bilbao City Council.	prem46_hyp1	The operating budget of Bilbao City Council includes those derived from all activities carried out by the commercial company.	1
+prem46	The Artxanda Funicular, S.A. is a commercial company wholly owned by the Bilbao City Council.	prem46_hyp2	The Bilbao City Council has a stake in the Artxanda Funicular.	2
+prem47	There were many whales along the Gipuzkoan coast at one time, but historian Xabier Alberdi mentions 4 well-known whales in an interview conducted on Radio Euskadi.	prem47_hyp0	Xabier Alberdi is a historian and knows well the whales of the surrounding seas.	0
+prem47	There were many whales along the Gipuzkoan coast at one time, but historian Xabier Alberdi mentions 4 well-known whales in an interview conducted on Radio Euskadi.	prem47_hyp1	Xabier Alberdi has mentioned that the whales that lived along the Gipuzkoan coast also lived along other coasts.	1
+prem47	There were many whales along the Gipuzkoan coast at one time, but historian Xabier Alberdi mentions 4 well-known whales in an interview conducted on Radio Euskadi.	prem47_hyp2	In an interview with Euskadi Irratia, Xabier Alberdi mentions that whales have never been present along the Gipuzkoan coast.	2
+prem48	We have been to Mount Ulia after a long time.	prem48_hyp0	It wasn't long ago that we went to Mount Ulia.	0
+prem48	We have been to Mount Ulia after a long time.	prem48_hyp1	Mount Ulia seemed very beautiful to us.	1
+prem48	We have been to Mount Ulia after a long time.	prem48_hyp2	It's been years since we've been to the mountains.	2
+prem49	The main building for service companies has 19 modules.	prem49_hyp0	The main building for service companies consists of 19 modules.	0
+prem49	The main building for service companies has 19 modules.	prem49_hyp1	The main building for service companies has 19 modules and three floors.	1
+prem49	The main building for service companies has 19 modules.	prem49_hyp2	The main building for service companies may have modules, but it is not mandatory.	2
+prem50	The European Union is implementing a regulation called Uspace to create authorized airspace for automated drones.	prem50_hyp0	The Uspace ordinance will create authorized airspace zones for automated drones.	0
+prem50	The European Union is implementing a regulation called Uspace to create authorized airspace for automated drones.	prem50_hyp1	The Uspace ordinance will come into effect in 2030.	1
+prem50	The European Union is implementing a regulation called Uspace to create authorized airspace for automated drones.	prem50_hyp2	An ordinance that will ban automated aerial drones in the European Union will soon come into effect.	2
+prem51	The landing in Dublin was very uncomfortable, the plane moved a lot from side to side.	prem51_hyp0	The landing in Dublin was very uncomfortable, the plane moved a lot from side to side.	0
+prem51	The landing in Dublin was very uncomfortable, the plane moved a lot from side to side.	prem51_hyp1	When the plane landed in Dublin, passengers started screaming in fear.	1
+prem51	The landing in Dublin was very uncomfortable, the plane moved a lot from side to side.	prem51_hyp2	Landings in Dublin are always very calm, without turbulence.	2
+prem52	It is known that Joxan Goikoetxea had a close relationship with Xabier Lete, especially during the final years of his life.	prem52_hyp0	Xabier Lete and Joxan Goikoetxea had a close relationship.	0
+prem52	It is known that Joxan Goikoetxea had a close relationship with Xabier Lete, especially during the final years of his life.	prem52_hyp1	Xabier Lete and Joxan Goikoetxea are the same age.	1
+prem52	It is known that Joxan Goikoetxea had a close relationship with Xabier Lete, especially during the final years of his life.	prem52_hyp2	Xabier Lete and Joxan Goikoetxea had their closest relationship during their youth.	2
+prem53	"The Arriaga Theater in Bilbao has presented the play ""Hard Times,"" based on one of the great classics by Norwegian playwright Henrik Ibsen."	prem53_hyp0	"The play ""Hard Times"" is based on one of the great classics by Norwegian playwright Henrik Ibsen."	0
+prem53	"The Arriaga Theater in Bilbao has presented the play ""Hard Times,"" based on one of the great classics by Norwegian playwright Henrik Ibsen."	prem53_hyp1	"The play ""Hard Times"" presented by the Arriaga Theater in Bilbao is spectacular."	1
+prem53	"The Arriaga Theater in Bilbao has presented the play ""Hard Times,"" based on one of the great classics by Norwegian playwright Henrik Ibsen."	prem53_hyp2	"The play ""Hard Times"" that will be presented at the Arriaga Theater in Bilbao is based on one of the great classics by Norwegian playwright Henrik Ibsen."	2
+prem54	On Saturday, October 31st, we received an invitation to go watch a film at the Horror Film Festival.	prem54_hyp0	We were invited to watch a movie at the Horror Film Festival.	0
+prem54	On Saturday, October 31st, we received an invitation to go watch a film at the Horror Film Festival.	prem54_hyp1	On Saturday we watched two movies at the Horror Film Festival.	1
+prem54	On Saturday, October 31st, we received an invitation to go watch a film at the Horror Film Festival.	prem54_hyp2	We invited them to watch a movie at the Horror Film Festival.	2
+prem55	"Adarretatik is a newly created festival in Zarautz, which aims to carve out its own space among summer music festivals and seeks to ""bring fringe music to the center stage."""	prem55_hyp0	A new summer music festival showcasing alternative music has been created in Zarautz: Adarretatik.	0
+prem55	"Adarretatik is a newly created festival in Zarautz, which aims to carve out its own space among summer music festivals and seeks to ""bring fringe music to the center stage."""	prem55_hyp1	The Adarretatik festival drew crowds to the streets of Zarautz.	1
+prem55	"Adarretatik is a newly created festival in Zarautz, which aims to carve out its own space among summer music festivals and seeks to ""bring fringe music to the center stage."""	prem55_hyp2	"The Adarretatik summer music festival in Zarautz has been working for years to bring ""marginal music to the center stage."""	2
+prem56	European organizations have strongly condemned the case against Goioaga.	prem56_hyp0	European associations disagree with the case against Goioaga.	0
+prem56	European organizations have strongly condemned the case against Goioaga.	prem56_hyp1	The case against Goioaga has received numerous complaints.	1
+prem56	European organizations have strongly condemned the case against Goioaga.	prem56_hyp2	The European association has strongly condemned the cases against Goioaga.	2
+prem57	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album 'IXA' (Taupaka Association, 2016)."	prem57_hyp0	The latest album by Solte is 'IXA'.	0
+prem57	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album 'IXA' (Taupaka Association, 2016)."	prem57_hyp1	The Solte music band uses lively rhythms, as demonstrated in their song 'Transformed World'.	1
+prem57	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album 'IXA' (Taupaka Association, 2016)."	prem57_hyp2	'IXA' is Solte music group's first album.	2
+prem58	Many workers don't know what is right and what is wrong, they don't know how to act.	prem58_hyp0	Distinguishing between good and evil is not easy for many workers.	0
+prem58	Many workers don't know what is right and what is wrong, they don't know how to act.	prem58_hyp1	Not knowing how to act greatly affects the workers.	1
+prem58	Many workers don't know what is right and what is wrong, they don't know how to act.	prem58_hyp2	The workers have no doubts, they always know how to act.	2
+prem59	We discovered a recommendable place last weekend. It's a small complex of houses created in a family atmosphere with a South American touch.	prem59_hyp0	Last weekend we were at a small housing complex that has a South American touch.	0
+prem59	We discovered a recommendable place last weekend. It's a small complex of houses created in a family atmosphere with a South American touch.	prem59_hyp1	The small housing complex I discovered last weekend was recommended by my aunt, it was created in a family environment and has a South American touch.	1
+prem59	We discovered a recommendable place last weekend. It's a small complex of houses created in a family atmosphere with a South American touch.	prem59_hyp2	The small group of houses we saw last weekend is not recommendable.	2
+prem60	The winners will receive various computer and drawing materials, and the winning comic will be published in Mahatseri's BERTON magazine.	prem60_hyp0	The winners will receive computer and drawing materials.	0
+prem60	The winners will receive various computer and drawing materials, and the winning comic will be published in Mahatseri's BERTON magazine.	prem60_hyp1	Each participant may submit only one comic.	1
+prem60	The winners will receive various computer and drawing materials, and the winning comic will be published in Mahatseri's BERTON magazine.	prem60_hyp2	The award-winning comics will be published in Mahatseri's BERTON magazine.	2
+prem61	The band Zea Mays will release their eighth work, titled 'Harro', on November 3rd.	prem61_hyp0	The band Zea Mays will release a new album.	0
+prem61	The band Zea Mays will release their eighth work, titled 'Harro', on November 3rd.	prem61_hyp1	The band Zea Mays consists of five members.	1
+prem61	The band Zea Mays will release their eighth work, titled 'Harro', on November 3rd.	prem61_hyp2	The band Zea Mays has not released a single album.	2
+prem62	The same fishing crew won the first flag of La Concha for Orio.	prem62_hyp0	Orio won the first flag at La Concha.	0
+prem62	The same fishing crew won the first flag of La Concha for Orio.	prem62_hyp1	The Orio crew typically dresses in yellow.	1
+prem62	The same fishing crew won the first flag of La Concha for Orio.	prem62_hyp2	Hondarribia won the first flag of La Concha.	2
+prem63	I have just been in Rome with my children.	prem63_hyp0	I was in Italy recently.	0
+prem63	I have just been in Rome with my children.	prem63_hyp1	My children love me very much.	1
+prem63	I have just been in Rome with my children.	prem63_hyp2	I have never been to Italy.	2
+prem64	"The theatrical work ""Gabon, Txirrita"" written and directed by Xabier Lete was staged in 1982."	prem64_hyp0	Gabon Txirrita is the name of a theater play.	0
+prem64	"The theatrical work ""Gabon, Txirrita"" written and directed by Xabier Lete was staged in 1982."	prem64_hyp1	Xabier Lete was an excellent singer.	1
+prem64	"The theatrical work ""Gabon, Txirrita"" written and directed by Xabier Lete was staged in 1982."	prem64_hyp2	Xabier Lete did not write any theatrical works.	2
+prem65	"Recently, they screened ""ORM in the Snow Kingdom,"" and soon they will premiere ""The Lego Batman Movie."""	prem65_hyp0	Animated films are usually dubbed into Basque.	0
+prem65	"Recently, they screened ""ORM in the Snow Kingdom,"" and soon they will premiere ""The Lego Batman Movie."""	prem65_hyp1	Fewer and fewer people are going to watch movies.	1
+prem65	"Recently, they screened ""ORM in the Snow Kingdom,"" and soon they will premiere ""The Lego Batman Movie."""	prem65_hyp2	ORM will be the last film to be screened in the Kingdom of Snow.	2
+prem66	Amazon offers artificial intelligence for schools and cloud services and Alexa Echo Dot and Alexa Echo Plus.	prem66_hyp0	Amazon has many products related to artificial intelligence.	0
+prem66	Amazon offers artificial intelligence for schools and cloud services and Alexa Echo Dot and Alexa Echo Plus.	prem66_hyp1	Amazon's products tend to be cheap.	1
+prem66	Amazon offers artificial intelligence for schools and cloud services and Alexa Echo Dot and Alexa Echo Plus.	prem66_hyp2	There are no artificial intelligence products directed at schools.	2
+prem67	For a first approach to Basque, the Basque learning method published by the University of Deusto in its time is interesting.	prem67_hyp0	The University of Deusto has developed a method for learning Basque.	0
+prem67	For a first approach to Basque, the Basque learning method published by the University of Deusto in its time is interesting.	prem67_hyp1	The University of Deusto has several schools and faculties.	1
+prem67	For a first approach to Basque, the Basque learning method published by the University of Deusto in its time is interesting.	prem67_hyp2	The University of Deusto has developed material only for learning Spanish.	2
+prem68	If you would like to know what your Basque language level is, the network also provides that option.	prem68_hyp0	There is an opportunity to measure one's own level of Basque.	0
+prem68	If you would like to know what your Basque language level is, the network also provides that option.	prem68_hyp1	The usage level of the Basque language has been decreasing lately.	1
+prem68	If you would like to know what your Basque language level is, the network also provides that option.	prem68_hyp2	A face-to-face interview is mandatory to determine one's level of Basque language proficiency.	2
+prem69	The certificate includes the identification of the electronic headquarters' holder and is issued through a secure device or equivalent means.	prem69_hyp0	The certificate attempts to verify the identity of each person.	0
+prem69	The certificate includes the identification of the electronic headquarters' holder and is issued through a secure device or equivalent means.	prem69_hyp1	There is no single technique to ensure the identification of the holder.	1
+prem69	The certificate includes the identification of the electronic headquarters' holder and is issued through a secure device or equivalent means.	prem69_hyp2	The certificate transmits the raw information of the holder, without encryption.	2
+prem70	Something that was amusing two weeks ago might be completely burned out today.	prem70_hyp0	Jokes have a limited lifespan, they don't last forever.	0
+prem70	Something that was amusing two weeks ago might be completely burned out today.	prem70_hyp1	What one friend finds funny, another doesn't like.	1
+prem70	Something that was amusing two weeks ago might be completely burned out today.	prem70_hyp2	People like hearing the same jokes over and over again.	2
+prem71	It has modern facilities, free WiFi in common areas, and 24-hour permanent security service.	prem71_hyp0	You can connect to the internet if you go to that place.	0
+prem71	It has modern facilities, free WiFi in common areas, and 24-hour permanent security service.	prem71_hyp1	Renting that space is very expensive.	1
+prem71	It has modern facilities, free WiFi in common areas, and 24-hour permanent security service.	prem71_hyp2	The lack of security is noticeable in that space at night.	2
+prem72	We've been quite scared this month with the film 'It Follows' directed by David Robert Mitchell.	prem72_hyp0	It is a horror film.	0
+prem72	We've been quite scared this month with the film 'It Follows' directed by David Robert Mitchell.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+prem72	We've been quite scared this month with the film 'It Follows' directed by David Robert Mitchell.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+prem73	The remaining 5 buildings have two floors each; the ground floor contains industrial modules, and the upper floor contains office modules.	prem73_hyp0	The buildings are prepared for industrial use.	0
+prem73	The remaining 5 buildings have two floors each; the ground floor contains industrial modules, and the upper floor contains office modules.	prem73_hyp1	The buildings are very modern.	1
+prem73	The remaining 5 buildings have two floors each; the ground floor contains industrial modules, and the upper floor contains office modules.	prem73_hyp2	All buildings have a single floor.	2
+prem74	Let's hope all runners use more Basque from now on!	prem74_hyp0	Many runners don't use Basque language.	0
+prem74	Let's hope all runners use more Basque from now on!	prem74_hyp1	Running is generally healthy.	1
+prem74	Let's hope all runners use more Basque from now on!	prem74_hyp2	Everyone who runs also speaks Basque.	2
+prem75	We still have the ability to influence public opinion.	prem75_hyp0	Public opinion can change.	0
+prem75	We still have the ability to influence public opinion.	prem75_hyp1	People have different opinions.	1
+prem75	We still have the ability to influence public opinion.	prem75_hyp2	Public opinion is firm.	2
+prem76	There are thousands and thousands of articles, texts, videos and audio files on the Ikasbil website.	prem76_hyp0	No text, video, or audio can be found on the internet.	0
+prem76	There are thousands and thousands of articles, texts, videos and audio files on the Ikasbil website.	prem76_hyp1	Iskanbil is a well-known internet website.	1
+prem76	There are thousands and thousands of articles, texts, videos and audio files on the Ikasbil website.	prem76_hyp2	On the Iskanbil website, there is only text.	2
+prem77	You will find detailed information about each procedure, process and service in the electronic office's catalog of procedures.	prem77_hyp0	Documentation explaining the procedure and operation of services is accessible.	0
+prem77	You will find detailed information about each procedure, process and service in the electronic office's catalog of procedures.	prem77_hyp1	Accessing the electronic headquarters is very complex.	1
+prem77	You will find detailed information about each procedure, process and service in the electronic office's catalog of procedures.	prem77_hyp2	No documentation is required to learn about procedures and services.	2
+prem78	In that Sondika Business Center there are industrial modules and office modules, distributed across 5 buildings.	prem78_hyp0	Several companies have their headquarters located in Sondika.	0
+prem78	In that Sondika Business Center there are industrial modules and office modules, distributed across 5 buildings.	prem78_hyp1	The Sondika Business Center is one of the most important in Bizkaia.	1
+prem78	In that Sondika Business Center there are industrial modules and office modules, distributed across 5 buildings.	prem78_hyp2	The Sondika Business Center has two buildings.	2
+prem79	We are five friends, and I am the youngest.	prem79_hyp0	There are friends of different ages in the group.	0
+prem79	We are five friends, and I am the youngest.	prem79_hyp1	If we wanted to play mus, one out of five would have to sit out.	1
+prem79	We are five friends, and I am the youngest.	prem79_hyp2	Five friends were born on the same day and year.	2
+prem80	The judge sentenced four young people from the neighborhood to six months in prison.	prem80_hyp0	There are several young people in the neighborhood who have received prison sentences.	0
+prem80	The judge sentenced four young people from the neighborhood to six months in prison.	prem80_hyp1	Since the prison sentence is less than two years, the four young people will not go to jail.	1
+prem80	The judge sentenced four young people from the neighborhood to six months in prison.	prem80_hyp2	The judge acquitted the four young people from the neighborhood.	2
+prem81	Miren and Andrea's relationship was clandestine from the beginning, because the couple existed outside societal norms.	prem81_hyp0	Miren and Andrea are in a romantic relationship.	0
+prem81	Miren and Andrea's relationship was clandestine from the beginning, because the couple existed outside societal norms.	prem81_hyp1	Homosexual relationships should be lived with normality.	1
+prem81	Miren and Andrea's relationship was clandestine from the beginning, because the couple existed outside societal norms.	prem81_hyp2	Miren and Andrea's relationship was completely normal.	2
+prem82	Being an international festival, there are also proposals from abroad, although the presence of Basque groups predominates.	prem82_hyp0	International bands perform at this festival.	0
+prem82	Being an international festival, there are also proposals from abroad, although the presence of Basque groups predominates.	prem82_hyp1	Festivals are unparalleled opportunities to experience live music.	1
+prem82	Being an international festival, there are also proposals from abroad, although the presence of Basque groups predominates.	prem82_hyp2	Only one Basque band played at this festival.	2
+prem83	For the third consecutive year, the Santutxu Mountaineering Group has organized a timed hike for Saturday, October 20.	prem83_hyp0	The Santutxu Mountaineering Group regularly organizes mountain excursions.	0
+prem83	For the third consecutive year, the Santutxu Mountaineering Group has organized a timed hike for Saturday, October 20.	prem83_hyp1	Many people show up for the hiking excursions of Santutxu Mountaineering Group.	1
+prem83	For the third consecutive year, the Santutxu Mountaineering Group has organized a timed hike for Saturday, October 20.	prem83_hyp2	The Santutxu Mountaineering Group was formed last year.	2
+prem84	The album features sophisticated lyrics and arrangements that blend R 'n' R style with southern rock.	prem84_hyp0	It can be said that rock is the main style of the songs that make up the album.	0
+prem84	The album features sophisticated lyrics and arrangements that blend R 'n' R style with southern rock.	prem84_hyp1	Guitars dominate in southern rock songs.	1
+prem84	The album features sophisticated lyrics and arrangements that blend R 'n' R style with southern rock.	prem84_hyp2	All songs on the disc are instrumental.	2
+prem85	A parent takes photos of the children and prepares a special invitation to distribute to 60 children.	prem85_hyp0	The children will receive a special invitation.	0
+prem85	A parent takes photos of the children and prepares a special invitation to distribute to 60 children.	prem85_hyp1	Children always turn out well in photographs.	1
+prem85	A parent takes photos of the children and prepares a special invitation to distribute to 60 children.	prem85_hyp2	The children took a photo of a parent.	2
+prem86	The Ertzaintza identified and arrested eleven people during the disturbances.	prem86_hyp0	The Ertzaintza (Basque police) arrested many people.	0
+prem86	The Ertzaintza identified and arrested eleven people during the disturbances.	prem86_hyp1	Many of the arrested people will be set free.	1
+prem86	The Ertzaintza identified and arrested eleven people during the disturbances.	prem86_hyp2	The Ertzaintza arrested all the people who participated in the riots.	2
+prem87	Before becoming a musician or writer, Xabier Lete was a theater actor.	prem87_hyp0	Xabier Lete was an artist who worked in multiple fields.	0
+prem87	Before becoming a musician or writer, Xabier Lete was a theater actor.	prem87_hyp1	Xabier Lete's voice was very pleasant.	1
+prem87	Before becoming a musician or writer, Xabier Lete was a theater actor.	prem87_hyp2	Xabier Lete did not pursue any artistic field until he started singing.	2
+prem88	On the last day, when there were only 3 kilometers left to reach Logroño, I met the daughter of Maria la de los Higos.	prem88_hyp0	I spent several days on the road to Logroño.	0
+prem88	On the last day, when there were only 3 kilometers left to reach Logroño, I met the daughter of Maria la de los Higos.	prem88_hyp1	Maria de los Higos's daughter is very friendly.	1
+prem88	On the last day, when there were only 3 kilometers left to reach Logroño, I met the daughter of Maria la de los Higos.	prem88_hyp2	All of Maria de los Higos's children were male.	2
+prem89	We know well that I am not a bird like them and they too were not born to be tied to one place.	prem89_hyp0	Both of our natures are very different.	0
+prem89	We know well that I am not a bird like them and they too were not born to be tied to one place.	prem89_hyp1	There are different personalities, and one is not better than the other.	1
+prem89	We know well that I am not a bird like them and they too were not born to be tied to one place.	prem89_hyp2	He/She prefers to stay at home rather than travel abroad.	2
+prem90	The fourth anniversary of the Occupation Office will be celebrated on October 20th	prem90_hyp0	The anniversary of the Occupation Office is celebrated in autumn.	0
+prem90	The fourth anniversary of the Occupation Office will be celebrated on October 20th	prem90_hyp1	Next year they will celebrate the anniversary of the Occupation Office in San Sebastian.	1
+prem90	The fourth anniversary of the Occupation Office will be celebrated on October 20th	prem90_hyp2	Last year, they celebrated the fourth anniversary of the Occupation Office.	2
+prem91	As decided by parents or guardians, Basque will be the language used by participants	prem91_hyp0	Parents and tutors have decided that participants will speak in Basque.	0
+prem91	As decided by parents or guardians, Basque will be the language used by participants	prem91_hyp1	Parents and guardians have decided to speak Basque with their children.	1
+prem91	As decided by parents or guardians, Basque will be the language used by participants	prem91_hyp2	The participants have decided that parents and guardians will speak in Basque.	2
+prem92	Friend Aro has posted notices written entirely in Spanish on both sides of the door at the Antigua Benta Berri branch.	prem92_hyp0	The notices placed by friend Aro in the Antigua's Benta Berri branch were written in Spanish.	0
+prem92	Friend Aro has posted notices written entirely in Spanish on both sides of the door at the Antigua Benta Berri branch.	prem92_hyp1	The notices placed by friend Aro at the Benta Berri branch in Antiguo were well written.	1
+prem92	Friend Aro has posted notices written entirely in Spanish on both sides of the door at the Antigua Benta Berri branch.	prem92_hyp2	The notices placed by friend Aro in the Benta Berri branch in Antiguo were written in English.	2
+prem93	Reports of torture have been received from all police forces, including the Ertzaintza.	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+prem93	Reports of torture have been received from all police forces, including the Ertzaintza.	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+prem93	Reports of torture have been received from all police forces, including the Ertzaintza.	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+prem94	My sister wanted to recover grandmother Jexuxa's recipe for making madeleines.	prem94_hyp0	Grandmother Jesusa had a recipe for making madeleines.	0
+prem94	My sister wanted to recover grandmother Jexuxa's recipe for making madeleines.	prem94_hyp1	Only my sister likes the magdalenas (muffins) made by Grandmother Jexuxa.	1
+prem94	My sister wanted to recover grandmother Jexuxa's recipe for making madeleines.	prem94_hyp2	Grandmother Jexuxa wanted to recover my sister's recipe for making madeleines.	2
+prem95	No face-to-face identification is required to activate and issue BAK: it is done via the Internet.	prem95_hyp0	You can request to have your BAK activated and sent to you online.	0
+prem95	No face-to-face identification is required to activate and issue BAK: it is done via the Internet.	prem95_hyp1	You can request the cancellation of your BAK online.	1
+prem95	No face-to-face identification is required to activate and issue BAK: it is done via the Internet.	prem95_hyp2	You need to request the BAK online and have it activated and sent to you.	2
+prem96	I was only able to save three photos.	prem96_hyp0	I haven't had the chance to save four photos.	0
+prem96	I was only able to save three photos.	prem96_hyp1	He/She had four photographs saved.	1
+prem96	I was only able to save three photos.	prem96_hyp2	I only have four pictures saved.	2
+prem97	On Saturday, October 31st, we received an invitation to go watch a film at the Horror Film Festival.	prem97_hyp0	We were invited to watch a movie at the Horror Film Festival.	0
+prem97	On Saturday, October 31st, we received an invitation to go watch a film at the Horror Film Festival.	prem97_hyp1	We went to watch a movie at the Horror Film Festival.	1
+prem97	On Saturday, October 31st, we received an invitation to go watch a film at the Horror Film Festival.	prem97_hyp2	We were invited to participate in a film at the Horror Film Festival.	2
+prem98	Euskadiko Kutxa has once again placed a worker who doesn't know Basque to handle tax returns at their branch on Matia Street in Antiguo, San Sebastian.	prem98_hyp0	The employee who helps with tax returns at the Matia Street branch of Euskadiko Kutxa in Antiguo speaks only Spanish (is monolingual Spanish-speaking).	0
+prem98	Euskadiko Kutxa has once again placed a worker who doesn't know Basque to handle tax returns at their branch on Matia Street in Antiguo, San Sebastian.	prem98_hyp1	The employees at the Euskadiko Kutxa branch on Matia Street in Antiguo speak only in Spanish.	1
+prem98	Euskadiko Kutxa has once again placed a worker who doesn't know Basque to handle tax returns at their branch on Matia Street in Antiguo, San Sebastian.	prem98_hyp2	The employees at the Kutxa Bank branch on Matia Street in Antiguo (San Sebastian) speak only in Basque.	2
+prem99	Humor between nurses makes everything more bearable.	prem99_hyp0	When nurses joke among themselves, everything becomes more bearable.	0
+prem99	Humor between nurses makes everything more bearable.	prem99_hyp1	Nurses being in good humor helps patients a lot.	1
+prem99	Humor between nurses makes everything more bearable.	prem99_hyp2	Nurses are forbidden to use humor.	2
+prem100	In addition to the obvious damages brought by the pandemic, what has happened has dramatically highlighted and exposed the weaknesses of the European Union and, among other things, has denounced the decline of European technological innovation and the lack of industrial leadership.	prem100_hyp0	What has happened has made it clear that, besides the damage caused by the pandemic, the European Union is weak and is not a world leader in technological and industrial innovation.	0
+prem100	In addition to the obvious damages brought by the pandemic, what has happened has dramatically highlighted and exposed the weaknesses of the European Union and, among other things, has denounced the decline of European technological innovation and the lack of industrial leadership.	prem100_hyp1	What has happened has made it clear that, due to the damage caused by the pandemic, the European Union must regain its leadership in technological and industrial innovation in the world.	1
+prem100	In addition to the obvious damages brought by the pandemic, what has happened has dramatically highlighted and exposed the weaknesses of the European Union and, among other things, has denounced the decline of European technological innovation and the lack of industrial leadership.	prem100_hyp2	What happened has made it clear that, in addition to the damages caused by the pandemic, the European Union is weak but remains a world leader in technological and industrial innovation.	2
+prem101	People who do not obtain a spot are placed on the waiting list, in the same order as the draw.	prem101_hyp0	If you don't get a spot, you will be placed on the waiting list, maintaining the order of the draw.	0
+prem101	People who do not obtain a spot are placed on the waiting list, in the same order as the draw.	prem101_hyp1	People who do not obtain a spot have the opportunity to participate in a lottery.	1
+prem101	People who do not obtain a spot are placed on the waiting list, in the same order as the draw.	prem101_hyp2	If you don't get a spot, you will be entered into a draw to determine your position on the waiting list.	2
+prem102	If we don't imagine ourselves, we will be imagined by others.	prem102_hyp0	If we don't imagine ourselves, others will imagine us.	0
+prem102	If we don't imagine ourselves, we will be imagined by others.	prem102_hyp1	If we don't make ourselves visible, misconceptions about us will multiply.	1
+prem102	If we don't imagine ourselves, we will be imagined by others.	prem102_hyp2	If we don't imagine ourselves, representations of us will cease to exist.	2
+prem103	The Basque Government has emphasized that in 2003 it began implementing the Ertzaintza Protocol for the Prevention of Mistreatment to strengthen legal guarantees for detainees.	prem103_hyp0	The Ertzaintza Protocol for the Prevention of Mistreatment has been in force since 2003 to guarantee the rights of detainees, according to the Basque Government.	0
+prem103	The Basque Government has emphasized that in 2003 it began implementing the Ertzaintza Protocol for the Prevention of Mistreatment to strengthen legal guarantees for detainees.	prem103_hyp1	The Basque Government began developing the Ertzaintza Protocol for the Prevention of Mistreatment in January 2003 to strengthen legal guarantees for detainees.	1
+prem103	The Basque Government has emphasized that in 2003 it began implementing the Ertzaintza Protocol for the Prevention of Mistreatment to strengthen legal guarantees for detainees.	prem103_hyp2	According to the Basque Government, the Ertzaintza (Basque Police) began implementing the Protocol for the Prevention of Mistreatment in 2003 to expedite the process of prisoner release.	2
+prem104	The damages of heteropatriarchy are found within the confines of homes, and romantic love-based affective-sexual relationships are their manifestation.	prem104_hyp0	Affective-sexual relationships built on romantic love demonstrate that the influence of heteropatriarchy is everywhere.	0
+prem104	The damages of heteropatriarchy are found within the confines of homes, and romantic love-based affective-sexual relationships are their manifestation.	prem104_hyp1	We must take into account what affective-sexual relationships built on romantic love express.	1
+prem104	The damages of heteropatriarchy are found within the confines of homes, and romantic love-based affective-sexual relationships are their manifestation.	prem104_hyp2	Affective-sexual relationships built on romantic love are accustomed to fighting against heteropatriarchy.	2
+prem105	It was the first book I read on an ebook and I enjoyed the experience	prem105_hyp0	This is the only book I have read in ebook format and it was a pleasant experience.	0
+prem105	It was the first book I read on an ebook and I enjoyed the experience	prem105_hyp1	I didn't expect that the first book I would read on an ebook would be such a lovely experience.	1
+prem105	It was the first book I read on an ebook and I enjoyed the experience	prem105_hyp2	Although I had already read a book in ebook format, I enjoyed the experience.	2
+prem106	Andy Hippy Baldwin has once again handled the mastering work, at Metropolis studios in London.	prem106_hyp0	Andy Hippy Baldwin from London's Metropolis studio has once again helped with the mastering work.	0
+prem106	Andy Hippy Baldwin has once again handled the mastering work, at Metropolis studios in London.	prem106_hyp1	"Andy ""Hippy"" Baldwin did all the mastering work at Metropolis Studios in London."	1
+prem106	Andy Hippy Baldwin has once again handled the mastering work, at Metropolis studios in London.	prem106_hyp2	Andy Hippy Baldwin worked on the mastering for the first time at Metropolis Studios in London.	2
+prem107	On December 4, 2018, the company changed its name and purpose with the aim of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp0	At the end of 2018, the company's name and purpose were changed with the aim of extending its activities to the Left Bank and Txorierri areas.	0
+prem107	On December 4, 2018, the company changed its name and purpose with the aim of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp1	In 2018, in addition to changing the company's name and purpose, it also changed its type of activity.	1
+prem107	On December 4, 2018, the company changed its name and purpose with the aim of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp2	On December 4, 2018, the company changed its name and purpose with the intention of expanding its scope of activity to all areas of Bilbao.	2
+prem108	This award ceremony aims to highlight the value of translations made from Basque.	prem108_hyp0	The purpose of this award ceremony is to celebrate the value of translations made from Basque.	0
+prem108	This award ceremony aims to highlight the value of translations made from Basque.	prem108_hyp1	The sole purpose of this award ceremony is to give value to translations made from Basque.	1
+prem108	This award ceremony aims to highlight the value of translations made from Basque.	prem108_hyp2	This award ceremony aims to highlight the value of translations made into the Basque language.	2
+prem109	We got into this mess long ago and there's no turning back now.	prem109_hyp0	We have had this conflict for a long time and we cannot back down.	0
+prem109	We got into this mess long ago and there's no turning back now.	prem109_hyp1	We started fighting long ago and we have no way of winning.	1
+prem109	We got into this mess long ago and there's no turning back now.	prem109_hyp2	We entered this fight recently and there's no turning back.	2
+prem110	One must always break some law to gain rights.	prem110_hyp0	If you want to gain more rights, you always have to do something that is forbidden.	0
+prem110	One must always break some law to gain rights.	prem110_hyp1	The more laws you break, the more rights you gain.	1
+prem110	One must always break some law to gain rights.	prem110_hyp2	More rights are always achieved when laws are respected.	2
+prem111	The guide provided interesting data and it was very entertaining.	prem111_hyp0	The interesting data provided by the guide has made the experience entertaining.	0
+prem111	The guide provided interesting data and it was very entertaining.	prem111_hyp1	The driver entertained himself by providing data that was interesting to him.	1
+prem111	The guide provided interesting data and it was very entertaining.	prem111_hyp2	Although the data provided by the driver was of little interest, it was an entertaining experience.	2
+prem112	It was a long-held dream to visit Prague.	prem112_hyp0	She/He has had a strong desire to visit Prague for a long time.	0
+prem112	It was a long-held dream to visit Prague.	prem112_hyp1	He/She has dreamed that he/she visited Prague.	1
+prem112	It was a long-held dream to visit Prague.	prem112_hyp2	He/She has known Prague for a long time.	2
+prem113	Those of us who work in the world of Basque know very well how exhausting it is to defend our interests.	prem113_hyp0	Those of us who work in the world of Basque know how tiring it is to defend our interests.	0
+prem113	Those of us who work in the world of Basque know very well how exhausting it is to defend our interests.	prem113_hyp1	Those of us in the Basque language world are tired of defending our interests.	1
+prem113	Those of us who work in the world of Basque know very well how exhausting it is to defend our interests.	prem113_hyp2	Those of us in the Basque language world have a good time defending our interests.	2
+prem114	Amazon has filed a patent for drone deliveries.	prem114_hyp0	Amazon has submitted a patent for delivering packages with drones.	0
+prem114	Amazon has filed a patent for drone deliveries.	prem114_hyp1	Amazon has distributed drones for submitting patents.	1
+prem114	Amazon has filed a patent for drone deliveries.	prem114_hyp2	Amazon is waiting for the patent to make deliveries with drones.	2
+prem115	Many Santutxu residents have gathered near the Gaztetxe to protest against its closure.	prem115_hyp0	Many people who live in Santutxu have come to demand that the youth center remain open.	0
+prem115	Many Santutxu residents have gathered near the Gaztetxe to protest against its closure.	prem115_hyp1	Many Santutxu residents have surrounded the youth center to protest against its closure.	1
+prem115	Many Santutxu residents have gathered near the Gaztetxe to protest against its closure.	prem115_hyp2	Many residents of Santutxu have approached to request the closure of the youth center.	2
+prem116	Music has been very important in my life.	prem116_hyp0	I have felt the importance of music throughout life.	0
+prem116	Music has been very important in my life.	prem116_hyp1	Music is said to be very important in life.	1
+prem116	Music has been very important in my life.	prem116_hyp2	The current importance of music in my life is new.	2
+prem117	Force itself is natural, therefore its use cannot be good or bad as an absolute value.	prem117_hyp0	Since force is natural, there is no absolute way to say whether its use is good or bad.	0
+prem117	Force itself is natural, therefore its use cannot be good or bad as an absolute value.	prem117_hyp1	We cannot normalize judging whether someone who has resorted to using force is good or bad.	1
+prem117	Force itself is natural, therefore its use cannot be good or bad as an absolute value.	prem117_hyp2	Absolute values are nothing more natural than determining whether the use of force is good or bad.	2
+prem118	At specific moments, people's response and commitment are clearly shown.	prem118_hyp0	People respond to problems at specific moments.	0
+prem118	At specific moments, people's response and commitment are clearly shown.	prem118_hyp1	People are always ready to do anything.	1
+prem118	At specific moments, people's response and commitment are clearly shown.	prem118_hyp2	At specific moments people become afraid	2
+prem119	The goal of tomorrow's session will be to contribute to the 18 projects proposed within the Gazteok Eraikitzen (Youth Building) dynamic.	prem119_hyp0	Among the projects is the construction of a new youth center.	0
+prem119	The goal of tomorrow's session will be to contribute to the 18 projects proposed within the Gazteok Eraikitzen (Youth Building) dynamic.	prem119_hyp1	Gazteok Eraikitzen was founded in March 2018.	1
+prem119	The goal of tomorrow's session will be to contribute to the 18 projects proposed within the Gazteok Eraikitzen (Youth Building) dynamic.	prem119_hyp2	Tomorrow's contribution will be moved to next week.	2
+prem120	If I learn the other person's language, but they don't respect mine, speaking their language is not a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp0	If another person doesn't respect my language, one thing is clear: their parents didn't raise their children well.	0
+prem120	If I learn the other person's language, but they don't respect mine, speaking their language is not a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp1	Learning other languages is good for people.	1
+prem120	If I learn the other person's language, but they don't respect mine, speaking their language is not a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp2	It is necessary to respect other languages.	2
+prem121	This is a beautiful place where the mountain and the sea meet.	prem121_hyp0	You can find beauty where the mountain and the sea meet.	0
+prem121	This is a beautiful place where the mountain and the sea meet.	prem121_hyp1	The world is full of beautiful places.	1
+prem121	This is a beautiful place where the mountain and the sea meet.	prem121_hyp2	The mountains and seas are filled with garbage.	2
+prem122	Tools are proposed there to give a boost to the dynamics of one's association, company, or organization.	prem122_hyp0	The best way to change dynamics is to put yourself in someone else's shoes.	0
+prem122	Tools are proposed there to give a boost to the dynamics of one's association, company, or organization.	prem122_hyp1	Changing dynamics opens people's minds.	1
+prem122	Tools are proposed there to give a boost to the dynamics of one's association, company, or organization.	prem122_hyp2	Changing dynamics can bring many problems, for example discomfort.	2
+prem123	Lucia is married to a man.	prem123_hyp0	A man is married to Lucia.	0
+prem123	Lucia is married to a man.	prem123_hyp1	Men and women often get married.	1
+prem123	Lucia is married to a man.	prem123_hyp2	Lucia is divorced.	2
+prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete	prem124_hyp0	Lete won many awards for his theatrical play.	0
+prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete	prem124_hyp1	Plays have been performed for 500 years.	1
+prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete	prem124_hyp2	Lete has not worked from so many perspectives.	2
+prem125	Last year I decided that I should celebrate my 40th anniversary thoroughly and frequently.	prem125_hyp0	I had the party of a lifetime at my 40th birthday.	0
+prem125	Last year I decided that I should celebrate my 40th anniversary thoroughly and frequently.	prem125_hyp1	Anniversaries are important.	1
+prem125	Last year I decided that I should celebrate my 40th anniversary thoroughly and frequently.	prem125_hyp2	I forgot my 40th anniversary.	2
+prem126	The company is managed by a Board of Directors which has representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp0	Among the political parties are PP, PNV, PSO, and Sumar.	0
+prem126	The company is managed by a Board of Directors which has representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp1	The City Council works together with the Basque Government.	1
+prem126	The company is managed by a Board of Directors which has representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp2	The city council belongs not to politicians, but to civil servants and citizens.	2
+prem127	From the beginning, they set their goal: for our children to be balanced bilinguals.	prem127_hyp0	Our goal is to have children.	0
+prem127	From the beginning, they set their goal: for our children to be balanced bilinguals.	prem127_hyp1	Everyone's children should be bilingual.	1
+prem127	From the beginning, they set their goal: for our children to be balanced bilinguals.	prem127_hyp2	They don't want children.	2
+prem128	On May 1, 2016, the ADES Speleology Association discovered an important rock art complex in the Armintxe cave in Lekeitio.	prem128_hyp0	The cave art depicted a bison hunt.	0
+prem128	On May 1, 2016, the ADES Speleology Association discovered an important rock art complex in the Armintxe cave in Lekeitio.	prem128_hyp1	The oldest cave art dates back to 600 BC.	1
+prem128	On May 1, 2016, the ADES Speleology Association discovered an important rock art complex in the Armintxe cave in Lekeitio.	prem128_hyp2	Cave art was a graffiti.	2
+prem129	And we bought delicious bread at the Mormon farmhouse.	prem129_hyp0	The bread made by the Mormons is very delicious.	0
+prem129	And we bought delicious bread at the Mormon farmhouse.	prem129_hyp1	The bread is good for one or two days.	1
+prem129	And we bought delicious bread at the Mormon farmhouse.	prem129_hyp2	The bread we bought from the mummies is hard and tasteless	2
+prem130	Although you reported torture, the news did not spread.	prem130_hyp0	They tortured that poor fellow for 3 years.	0
+prem130	Although you reported torture, the news did not spread.	prem130_hyp1	Torturing someone is the worst thing in the world.	1
+prem130	Although you reported torture, the news did not spread.	prem130_hyp2	The fact that they had tortured took the world by surprise.	2
+prem131	Mood is very changeable, it fluctuates a lot.	prem131_hyp0	We have always known that their/his/her mood is changeable.	0
+prem131	Mood is very changeable, it fluctuates a lot.	prem131_hyp1	A person's mood is not always the same.	1
+prem131	Mood is very changeable, it fluctuates a lot.	prem131_hyp2	He/She is always happy.	2
+prem132	Because you can go to San Sebastian by public transport, or park in one of the surrounding neighborhoods, or in a paid parking lot.	prem132_hyp0	If you're taking public transportation, take the bus, don't even think about taking the train.	0
+prem132	Because you can go to San Sebastian by public transport, or park in one of the surrounding neighborhoods, or in a paid parking lot.	prem132_hyp1	The bus transportation from Bilbao to Donostia takes approximately one and a half hours.	1
+prem132	Because you can go to San Sebastian by public transport, or park in one of the surrounding neighborhoods, or in a paid parking lot.	prem132_hyp2	Don't go to San Sebastian, everything is very expensive.	2
+prem133	The documentary will begin at six in the afternoon at the Uztaldi youth center.	prem133_hyp0	The youth center Uztaldi is open in the afternoons.	0
+prem133	The documentary will begin at six in the afternoon at the Uztaldi youth center.	prem133_hyp1	The youth center is full of young people.	1
+prem133	The documentary will begin at six in the afternoon at the Uztaldi youth center.	prem133_hyp2	The young Uztaldi's television has broken.	2
+prem134	The happy endings promised by monogamous fidelity are not as common as believed.	prem134_hyp0	You have to work to have a happy ending.	0
+prem134	The happy endings promised by monogamous fidelity are not as common as believed.	prem134_hyp1	Monogamy and polygamy are opposites.	1
+prem134	The happy endings promised by monogamous fidelity are not as common as believed.	prem134_hyp2	Monogamy, like in fairy tales, always brings a happy ending.	2
+prem135	First and foremost, strength is necessary to confront a forcefully imposed reality.	prem135_hyp0	Strength alone is not enough, perseverance is also needed.	0
+prem135	First and foremost, strength is necessary to confront a forcefully imposed reality.	prem135_hyp1	First you need to be ready to face a reality.	1
+prem135	First and foremost, strength is necessary to confront a forcefully imposed reality.	prem135_hyp2	Communication is the first step against a forcefully imposed reality.	2
+prem136	Along with the Leisure Time Monitor and Director courses, it is among the Official Qualifications issued by the Basque Government.	prem136_hyp0	The Leisure Time Monitor course is 150 hours long and can be taken in either extensive or intensive format.	0
+prem136	Along with the Leisure Time Monitor and Director courses, it is among the Official Qualifications issued by the Basque Government.	prem136_hyp1	Courses are the best ways to learn new things.	1
+prem136	Along with the Leisure Time Monitor and Director courses, it is among the Official Qualifications issued by the Basque Government.	prem136_hyp2	The Leisure Time Monitor course is among the Official Qualifications extended by the central government.	2
+prem137	The ON Bizkaia Awards recognize the contribution made by companies in creating economic activity and jobs.	prem137_hyp0	This year, 1,300,000 new jobs have been created.	0
+prem137	The ON Bizkaia Awards recognize the contribution made by companies in creating economic activity and jobs.	prem137_hyp1	Today's work is much more advanced compared to 1000 years ago.	1
+prem137	The ON Bizkaia Awards recognize the contribution made by companies in creating economic activity and jobs.	prem137_hyp2	These are temporary positions that are being created and therefore we shouldn't give out a prize for it.	2
+prem138	It was a great pleasure to reach the top.	prem138_hyp0	When we reached the top, the views were beautiful.	0
+prem138	It was a great pleasure to reach the top.	prem138_hyp1	Achieving goals is amazing	1
+prem138	It was a great pleasure to reach the top.	prem138_hyp2	We didn't make it to the top because Mikel broke his leg.	2
+prem139	Specific courses will be organized throughout the year to address different topics: spaces, psychomotricity...	prem139_hyp0	Among the courses, modern abstract art is the best, Mikel has already signed up.	0
+prem139	Specific courses will be organized throughout the year to address different topics: spaces, psychomotricity...	prem139_hyp1	The goal of the courses is always to teach people new things.	1
+prem139	Specific courses will be organized throughout the year to address different topics: spaces, psychomotricity...	prem139_hyp2	Courses are useless because people don't learn anything unless they work.	2
+prem140	He has made deep reflections about the state of our art.	prem140_hyp0	We have talked a lot about our art.	0
+prem140	He has made deep reflections about the state of our art.	prem140_hyp1	Each person's art is unique.	1
+prem140	He has made deep reflections about the state of our art.	prem140_hyp2	We don't care about our art.	2
+prem141	More activities have been organized this week as part of the anti-capitalist campaign.	prem141_hyp0	Among the new initiatives, there is a concert.	0
+prem141	More activities have been organized this week as part of the anti-capitalist campaign.	prem141_hyp1	Anti-capitalist campaigns and anti-socialist campaigns are opposites.	1
+prem141	More activities have been organized this week as part of the anti-capitalist campaign.	prem141_hyp2	The anti-capitalist campaign has been cancelled, as no one showed up.	2
+prem142	"To change these addresses, you need to access the ""My Data"" section in the electronic portal."	prem142_hyp0	"After entering my Data, you need to press the ""OK"" button."	0
+prem142	"To change these addresses, you need to access the ""My Data"" section in the electronic portal."	prem142_hyp1	Email addresses are used to send messages.	1
+prem142	"To change these addresses, you need to access the ""My Data"" section in the electronic portal."	prem142_hyp2	It is impossible to change the addresses because the website has crashed.	2
+prem143	Digital transformation has changed the way we work and interact.	prem143_hyp0	People spend more time on their mobile phones and computers.	0
+prem143	Digital transformation has changed the way we work and interact.	prem143_hyp1	Digital transformation is the next advancement that the world needs.	1
+prem143	Digital transformation has changed the way we work and interact.	prem143_hyp2	People work as always.	2
+prem144	There is always a reason to complain, especially when one is weak and help is never perfect.	prem144_hyp0	With help, anyone can do anything.	0
+prem144	There is always a reason to complain, especially when one is weak and help is never perfect.	prem144_hyp1	We all need help sometimes.	1
+prem144	There is always a reason to complain, especially when one is weak and help is never perfect.	prem144_hyp2	Nobody is weak, there are only people who don't want to work.	2
+prem145	He/She didn't know that he/she was dead.	prem145_hyp0	He/She appeared to be dead.	0
+prem145	He/She didn't know that he/she was dead.	prem145_hyp1	Dead people do not move.	1
+prem145	He/She didn't know that he/she was dead.	prem145_hyp2	He/She wasn't dead, he/she was sleeping.	2
+prem146	I was completely moved by this unexpected farewell.	prem146_hyp0	Fortunately, it was a pleasant surprise.	0
+prem146	I was completely moved by this unexpected farewell.	prem146_hyp1	Surprises can be good or bad.	1
+prem146	I was completely moved by this unexpected farewell.	prem146_hyp2	I heard about that surprise many weeks ago.	2
+prem147	Samsung has a smart school and proposes teaching classes with their Samsung Gear VR glasses and MagicIWB S2 boards.	prem147_hyp0	Samsung will have the most technologically advanced class in the world.	0
+prem147	Samsung has a smart school and proposes teaching classes with their Samsung Gear VR glasses and MagicIWB S2 boards.	prem147_hyp1	Samsung makes televisions, mobile phones, and cameras.	1
+prem147	Samsung has a smart school and proposes teaching classes with their Samsung Gear VR glasses and MagicIWB S2 boards.	prem147_hyp2	Samsung cannot teach classes with VR glasses because children would be playing.	2
+prem148	"The book ""GETAIKO EUSKERA"" is the result of the GETARIAKO AHOTSAK project, which collects the dialect and oral heritage of Getaria."	prem148_hyp0	"The Getarian dialect of Basque can be found in the book ""GETAIKO EUSKERA"" (Basque of Getaria)."	0
+prem148	"The book ""GETAIKO EUSKERA"" is the result of the GETARIAKO AHOTSAK project, which collects the dialect and oral heritage of Getaria."	prem148_hyp1	"I don't like the book ""GETAIKO EUSKERA""."	1
+prem148	"The book ""GETAIKO EUSKERA"" is the result of the GETARIAKO AHOTSAK project, which collects the dialect and oral heritage of Getaria."	prem148_hyp2	The book GETAIKO EUSKERA contains Biscayan Basque.	2
+prem149	In the early days of digitalization, websites were created, offering opportunities to democratize communication.	prem149_hyp0	In the early days of digitalization, websites became more well-known.	0
+prem149	In the early days of digitalization, websites were created, offering opportunities to democratize communication.	prem149_hyp1	Digitalization happened a long time ago.	1
+prem149	In the early days of digitalization, websites were created, offering opportunities to democratize communication.	prem149_hyp2	At the beginning of digitalization, communication possibilities were destroyed.	2
+prem150	Two young women appeared for the award ceremony, with the introduction in Basque and occasionally throughout, but the main content was in Spanish.	prem150_hyp0	The girls spoke more in Spanish than in Basque.	0
+prem150	Two young women appeared for the award ceremony, with the introduction in Basque and occasionally throughout, but the main content was in Spanish.	prem150_hyp1	The award ceremony took place in Lekeitio.	1
+prem150	Two young women appeared for the award ceremony, with the introduction in Basque and occasionally throughout, but the main content was in Spanish.	prem150_hyp2	The girls spoke in English at the award ceremony.	2
+prem151	It is highly recommended to visit Mount San Anton (mouse).	prem151_hyp0	It's worth getting to know San Anton media.	0
+prem151	It is highly recommended to visit Mount San Anton (mouse).	prem151_hyp1	Mount San Anton is in Spain.	1
+prem151	It is highly recommended to visit Mount San Anton (mouse).	prem151_hyp2	Mount San Anton is very ugly.	2
+prem152	We ran into Lili face to face.	prem152_hyp0	We saw the flower.	0
+prem152	We ran into Lili face to face.	prem152_hyp1	The flower was very beautiful.	1
+prem152	We ran into Lili face to face.	prem152_hyp2	We haven't seen Lili for a long time.	2
+prem153	The sun is nothing more than an increasingly red circumference in the teenager's eyes.	prem153_hyp0	Teenagers don't pay much attention to everything else.	0
+prem153	The sun is nothing more than an increasingly red circumference in the teenager's eyes.	prem153_hyp1	Teenagers are very fun.	1
+prem153	The sun is nothing more than an increasingly red circumference in the teenager's eyes.	prem153_hyp2	Teenagers notice everything.	2
+prem154	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album 'IXA' (Taupaka Association, 2016)."	prem154_hyp0	The Solte group has prepared a new music video.	0
+prem154	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album 'IXA' (Taupaka Association, 2016)."	prem154_hyp1	The famous song has gained great success in a short time.	1
+prem154	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album 'IXA' (Taupaka Association, 2016)."	prem154_hyp2	The Solte group has retired and they will not do anything else.	2
+prem155	Digital transformation brings a major paradigm shift in the cultural and creative sector.	prem155_hyp0	Digital transformation provides you with more opportunities in the cultural and creative field.	0
+prem155	Digital transformation brings a major paradigm shift in the cultural and creative sector.	prem155_hyp1	Digital transformation can still bring many innovations to our society.	1
+prem155	Digital transformation brings a major paradigm shift in the cultural and creative sector.	prem155_hyp2	Digital transformation brings a small paradigm shift in the cultural and creative sector.	2
+prem156	The European Union has been serving as the first world's reference point for democracy, equality, security, and well-being for many decades.	prem156_hyp0	The European Union is a first-world reference in many areas.	0
+prem156	The European Union has been serving as the first world's reference point for democracy, equality, security, and well-being for many decades.	prem156_hyp1	There are several countries in the European Union.	1
+prem156	The European Union has been serving as the first world's reference point for democracy, equality, security, and well-being for many decades.	prem156_hyp2	The United States has been the first world's reference for democracy, equality, security, and well-being.	2
+prem157	We look at life with commercial logic: everything should be easy, comfortable, changeable, high-quality and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+prem157	We look at life with commercial logic: everything should be easy, comfortable, changeable, high-quality and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+prem157	We look at life with commercial logic: everything should be easy, comfortable, changeable, high-quality and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+prem158	In the National Court, before the judge, they did not confirm their statement.	prem158_hyp0	They did not confess to the judge what needed to be confessed.	0
+prem158	In the National Court, before the judge, they did not confirm their statement.	prem158_hyp1	They are decided in the National Court.	1
+prem158	In the National Court, before the judge, they did not confirm their statement.	prem158_hyp2	They confessed everything before the judge.	2
+prem159	Antton Olariaga will receive the Joseph Camino award in Santutxu, as part of the Parrapean Comic Days events centered around Basque comics.	prem159_hyp0	Antton Olariaga will win the Joseph Camino award for his work.	0
+prem159	Antton Olariaga will receive the Joseph Camino award in Santutxu, as part of the Parrapean Comic Days events centered around Basque comics.	prem159_hyp1	Joseph Camino died in 2015.	1
+prem159	Antton Olariaga will receive the Joseph Camino award in Santutxu, as part of the Parrapean Comic Days events centered around Basque comics.	prem159_hyp2	Joseph Camino will receive the award in Madrid.	2
+prem160	Yesterday, I briefly saw the Galician actor Nancho Novo on television playing the role of Jesus's father, looking dead serious.	prem160_hyp0	Yesterday I watched a seriously demonic movie for a while.	0
+prem160	Yesterday, I briefly saw the Galician actor Nancho Novo on television playing the role of Jesus's father, looking dead serious.	prem160_hyp1	Actor Nacho Novo was born on September 17, 1958.	1
+prem160	Yesterday, I briefly saw the Galician actor Nancho Novo on television playing the role of Jesus's father, looking dead serious.	prem160_hyp2	The actor Nacho Novo always plays comedic roles.	2
+prem161	The premises, which were inaugurated on July 13, were forced to close on September 28 by the Ertzaintza (Basque Police) in compliance with an eviction order signed by the judge.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+prem161	The premises, which were inaugurated on July 13, were forced to close on September 28 by the Ertzaintza (Basque Police) in compliance with an eviction order signed by the judge.	prem161_hyp1	I really liked the place.	1
+prem161	The premises, which were inaugurated on July 13, were forced to close on September 28 by the Ertzaintza (Basque Police) in compliance with an eviction order signed by the judge.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+prem162	One night, while Lucia and Miren were having some wine, they invited Andrea to their boss's house, and the three of them had sexual relations.	prem162_hyp0	They were at the boss's house on the day they had sexual relations.	0
+prem162	One night, while Lucia and Miren were having some wine, they invited Andrea to their boss's house, and the three of them had sexual relations.	prem162_hyp1	When having sexual relations, one must be very careful regarding sexually transmitted diseases.	1
+prem162	One night, while Lucia and Miren were having some wine, they invited Andrea to their boss's house, and the three of them had sexual relations.	prem162_hyp2	Lucia, Miren and Andrea are virgins.	2
+prem163	It will soon be announced which theater will screen the film.	prem163_hyp0	The movie will be shown in a theater.	0
+prem163	It will soon be announced which theater will screen the film.	prem163_hyp1	People are eager to watch the movie.	1
+prem163	It will soon be announced which theater will screen the film.	prem163_hyp2	They will announce late which theater it will be screened in.	2
+prem164	Our field has suffered, but we have great capacity to adapt.	prem164_hyp0	A lot of arduous work is done in our field.	0
+prem164	Our field has suffered, but we have great capacity to adapt.	prem164_hyp1	Even though it has involved suffering, we really love our field.	1
+prem164	Our field has suffered, but we have great capacity to adapt.	prem164_hyp2	We don't do anything in our field/area, it's very boring.	2
+prem165	Its aim is to promote the economy of Orduña and it is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp0	He/She wants to help Orduña's economy.	0
+prem165	Its aim is to promote the economy of Orduña and it is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp1	Orduña is located in Álava.	1
+prem165	Its aim is to promote the economy of Orduña and it is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp2	The Development Network of Basque Development Agencies has no members.	2
+prem166	Those who have less time also have the option to take shorter courses.	prem166_hyp0	They also think about people who have less time.	0
+prem166	Those who have less time also have the option to take shorter courses.	prem166_hyp1	I didn't know there were such options in that course.	1
+prem166	Those who have less time also have the option to take shorter courses.	prem166_hyp2	Those who have less time also have the opportunity to take longer courses.	2
+prem167	After being a meeting place for local youth for three and a half years, Lakomi Youth Center closed its doors in November 2011.	prem167_hyp0	Today the Lakomi Youth Center is not open.	0
+prem167	After being a meeting place for local youth for three and a half years, Lakomi Youth Center closed its doors in November 2011.	prem167_hyp1	I spent a lot of time at Lakomi Youth Center.	1
+prem167	After being a meeting place for local youth for three and a half years, Lakomi Youth Center closed its doors in November 2011.	prem167_hyp2	The Lakomi Youth Center remained open for 10 years.	2
+prem168	Starting in 1972 with Zeruko Argia, with his highly distinctive and innovative style, he revolutionized the history of Basque graphic humor.	prem168_hyp0	Zeruko Argia had an influence on the history of Basque graphic humor.	0
+prem168	Starting in 1972 with Zeruko Argia, with his highly distinctive and innovative style, he revolutionized the history of Basque graphic humor.	prem168_hyp1	In 1972, besides Zeruko Argia, other things happened.	1
+prem168	Starting in 1972 with Zeruko Argia, with his highly distinctive and innovative style, he revolutionized the history of Basque graphic humor.	prem168_hyp2	Starting in Zeruko Argia in 2015, with a distinctive and innovative style, they revolutionized the history of Basque graphic humor.	2
+prem169	The Gaztetape beach is covered with rocks; but we encountered a beautiful octopus.	prem169_hyp0	Gaztetape beach is not covered with sand.	0
+prem169	The Gaztetape beach is covered with rocks; but we encountered a beautiful octopus.	prem169_hyp1	Since the octopus was very poisonous, we never went back to Gaztetape beach again.	1
+prem169	The Gaztetape beach is covered with rocks; but we encountered a beautiful octopus.	prem169_hyp2	There are no octopuses at Gaztetape beach.	2
+prem170	He/She is doing quite well health-wise and remains steady at work, especially with room rentals.	prem170_hyp0	He/She does good work in room rentals.	0
+prem170	He/She is doing quite well health-wise and remains steady at work, especially with room rentals.	prem170_hyp1	For a while they/he/she was doing rather poorly, but now they/he/she is doing better.	1
+prem170	He/She is doing quite well health-wise and remains steady at work, especially with room rentals.	prem170_hyp2	He/She has several illnesses and is performing rather poorly at work.	2
+prem171	"The team members appeared very happy and ""eager"" to share their completed work with the fans."	prem171_hyp0	The team members are very happy with the work they have done.	0
+prem171	"The team members appeared very happy and ""eager"" to share their completed work with the fans."	prem171_hyp1	The fans are incredibly eager to hear everything.	1
+prem171	"The team members appeared very happy and ""eager"" to share their completed work with the fans."	prem171_hyp2	The team members have been gloomy.	2
+prem172	Democracy will not make us free.	prem172_hyp0	Democracy will imprison us.	0
+prem172	Democracy will not make us free.	prem172_hyp1	Democracy is a political structure.	1
+prem172	Democracy will not make us free.	prem172_hyp2	Democracy will set us free	2
+prem173	Its aim is to spread the message of cat adoption so that animals rescued from the streets can have a dignified future.	prem173_hyp0	Animals collected from the streets have worse conditions than those who are adopted.	0
+prem173	Its aim is to spread the message of cat adoption so that animals rescued from the streets can have a dignified future.	prem173_hyp1	There are many cats in the streets.	1
+prem173	Its aim is to spread the message of cat adoption so that animals rescued from the streets can have a dignified future.	prem173_hyp2	The aim is to release adopted cats.	2
+prem174	The changes may not be noticeable immediately, but we are establishing criteria to progressively take steps in a new direction.	prem174_hyp0	The changes will be noticed gradually.	0
+prem174	The changes may not be noticeable immediately, but we are establishing criteria to progressively take steps in a new direction.	prem174_hyp1	To achieve changes, one must have a proactive mindset.	1
+prem174	The changes may not be noticeable immediately, but we are establishing criteria to progressively take steps in a new direction.	prem174_hyp2	We are working on establishing criteria for an old direction.	2
+prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp0	If you open Pandora's box, you can discover a world of a thousand colors.	0
+prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp1	Amancay Gaztañaga Sagarzazu is from Gipuzkoa.	1
+prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp2	Amancay Gaztañaga Sagarzazu kept Pandora's box closed.	2
+prem176	Using humor and cheerfulness, you can achieve many things with children.	prem176_hyp0	Children really like humor and cheerfulness.	0
+prem176	Using humor and cheerfulness, you can achieve many things with children.	prem176_hyp1	Children can be very exhausting sometimes.	1
+prem176	Using humor and cheerfulness, you can achieve many things with children.	prem176_hyp2	If you use humor and cheerfulness with children, they will take advantage of you	2
+prem177	Why does the lack of clarity, complete darkness, create fear in most of us.	prem177_hyp0	Darkness and lack of light cause fear to most of society.	0
+prem177	Why does the lack of clarity, complete darkness, create fear in most of us.	prem177_hyp1	We should not be afraid of darkness, it is an irrational fear.	1
+prem177	Why does the lack of clarity, complete darkness, create fear in most of us.	prem177_hyp2	Society is very brave, it has no fear at all.	2
+prem178	Urtxintxa School has made a long journey training society in values through non-formal education.	prem178_hyp0	Urtxintxa School has spent many years teaching values in non-formal education courses.	0
+prem178	Urtxintxa School has made a long journey training society in values through non-formal education.	prem178_hyp1	Urtxintxa School offers non-classroom courses in non-formal education.	1
+prem178	Urtxintxa School has made a long journey training society in values through non-formal education.	prem178_hyp2	Urtxintxa School has limited experience in non-formal education.	2
+prem179	Subsequently, there were attempts to occupy several premises, but they did not succeed.	prem179_hyp0	The premises remained unoccupied, despite the efforts made.	0
+prem179	Subsequently, there were attempts to occupy several premises, but they did not succeed.	prem179_hyp1	Young people primarily participated in the attempts to occupy the premises.	1
+prem179	Subsequently, there were attempts to occupy several premises, but they did not succeed.	prem179_hyp2	The attempts to occupy several premises were very successful.	2
+prem180	The tradition of theater is horizontal.	prem180_hyp0	In theater productions, all participants have equal importance.	0
+prem180	The tradition of theater is horizontal.	prem180_hyp1	Theater has a long tradition.	1
+prem180	The tradition of theater is horizontal.	prem180_hyp2	The tradition of theater is vertical or hierarchical.	2
+prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+prem182	We see the world through learned eyes.	prem182_hyp0	Our perspective is not innate, we learn it.	0
+prem182	We see the world through learned eyes.	prem182_hyp1	We all have a perspective on reality.	1
+prem182	We see the world through learned eyes.	prem182_hyp2	Our opinions cannot be conditioned.	2
+prem183	From October to June, Urtxintxa Eskola offers the opportunity to participate in short-duration courses.	prem183_hyp0	From October to June, Urtxintxa Eskola offers short courses.	0
+prem183	From October to June, Urtxintxa Eskola offers the opportunity to participate in short-duration courses.	prem183_hyp1	At Urtxintxa school, training courses of different durations can be taken depending on the season.	1
+prem183	From October to June, Urtxintxa Eskola offers the opportunity to participate in short-duration courses.	prem183_hyp2	Urtxintxa School only offers long courses from October to June.	2
+prem184	There are also places across the internet to prepare for the EGA.	prem184_hyp0	The EGA can be prepared in a non-classroom format.	0
+prem184	There are also places across the internet to prepare for the EGA.	prem184_hyp1	You need to work hard to prepare for the EGA exam.	1
+prem184	There are also places across the internet to prepare for the EGA.	prem184_hyp2	The EGA exam can only be prepared for in face-to-face classes.	2
+prem185	The Arriaga Theater will premiere a version of Macbeth, Shakespeare's classic work, on February 7th.	prem185_hyp0	A version of Shakespeare's play, specifically Macbeth, will be performed at the Arriaga Theater on February 7th.	0
+prem185	The Arriaga Theater will premiere a version of Macbeth, Shakespeare's classic work, on February 7th.	prem185_hyp1	The play premiering at the Arriaga Theater is a completely modern adaptation of Macbeth.	1
+prem185	The Arriaga Theater will premiere a version of Macbeth, Shakespeare's classic work, on February 7th.	prem185_hyp2	The audience will not be able to see Macbeth at the Arriaga Theater on February 7th.	2
+prem186	Marijuli was a very lively person, sweet, approachable, responsible, and loving.	prem186_hyp0	Marijuli had great vitality and was very friendly and approachable with people.	0
+prem186	Marijuli was a very lively person, sweet, approachable, responsible, and loving.	prem186_hyp1	Marijuli was an elderly woman from the village.	1
+prem186	Marijuli was a very lively person, sweet, approachable, responsible, and loving.	prem186_hyp2	Marijuli was a lifeless, slovenly, careless, cold, and unpleasant person.	2
+prem187	Berrizabal was arrested in March 2008 in connection with the 18/98 macro-case and was sentenced to 12 years in prison by the National Court.	prem187_hyp0	After being arrested in 2008 for the 19/98 macro-summary case, the National Court decided that Berrizabal was guilty and would have to spend 12 years in prison.	0
+prem187	Berrizabal was arrested in March 2008 in connection with the 18/98 macro-case and was sentenced to 12 years in prison by the National Court.	prem187_hyp1	Berrizabal was arrested in 2008, and was placed in pre-trial detention until the trial of the 18/98 macro-case.	1
+prem187	Berrizabal was arrested in March 2008 in connection with the 18/98 macro-case and was sentenced to 12 years in prison by the National Court.	prem187_hyp2	He was arrested in March 2008 for the macro-summary 19/98, but during the trial, the National Court declared the accused innocent and cleared him of all charges.	2
+prem188	Peru has recently completed a course in the ice palace.	prem188_hyp0	Peru has recently been to an ice rink.	0
+prem188	Peru has recently completed a course in the ice palace.	prem188_hyp1	Peru has been in an ice skating class.	1
+prem188	Peru has recently completed a course in the ice palace.	prem188_hyp2	Peru has never been on an ice rink.	2
+prem189	The four of them ended up in a small bed in the master's house.	prem189_hyp0	The four of them went to their leader's house.	0
+prem189	The four of them ended up in a small bed in the master's house.	prem189_hyp1	In the master's house, only a small bed is available.	1
+prem189	The four of them ended up in a small bed in the master's house.	prem189_hyp2	The four of them ended up on the street.	2
+prem190	Peru goes to the English summer camp organized by Kutxa in the mornings.	prem190_hyp0	Every morning, Peru goes to summer camp to learn English.	0
+prem190	Peru goes to the English summer camp organized by Kutxa in the mornings.	prem190_hyp1	Summer camps are organized for children and young people.	1
+prem190	Peru goes to the English summer camp organized by Kutxa in the mornings.	prem190_hyp2	In summer, Peru spends his mornings at home.	2
+prem191	All peoples have the right to decide.	prem191_hyp0	Any country must have the right to decide.	0
+prem191	All peoples have the right to decide.	prem191_hyp1	The right to decide is recognized in the constitution of some countries.	1
+prem191	All peoples have the right to decide.	prem191_hyp2	The right to decide belongs to only a few nations.	2
+prem192	The Santutxu festivities began last Saturday with a proclamation by members of the AEK euskaltegi (Basque language school) and the Gaztedi Dance Group.	prem192_hyp0	Last Saturday, the Santutxu festivities began with the proclamation by the AEK euskaltegi (Basque language school) and the Gaztedi Dance Group.	0
+prem192	The Santutxu festivities began last Saturday with a proclamation by members of the AEK euskaltegi (Basque language school) and the Gaztedi Dance Group.	prem192_hyp1	Last Saturday, there was a pleasant atmosphere in Santutxu due to the beginning of the festivities.	1
+prem192	The Santutxu festivities began last Saturday with a proclamation by members of the AEK euskaltegi (Basque language school) and the Gaztedi Dance Group.	prem192_hyp2	Last Saturday, the Santutxu festivities began, even though members of the AEK euskaltegi (Basque language school) and Gaztedi Dance Group declined to be the announcers.	2
+prem193	The Markina Business Center is a Business Center with a notable industrial character.	prem193_hyp0	Most of the companies gathered in the Markina Business Park belong to the secondary sector.	0
+prem193	The Markina Business Center is a Business Center with a notable industrial character.	prem193_hyp1	Medium-sized industrial companies are gathered in the Markina Business Park.	1
+prem193	The Markina Business Center is a Business Center with a notable industrial character.	prem193_hyp2	The companies gathered in the Markina Business Park are from the primary sector, that is, they are engaged in agriculture and livestock farming.	2
+prem194	I saw them/him/her for the last time three weeks ago.	prem194_hyp0	It's been three weeks since I've seen him/her.	0
+prem194	I saw them/him/her for the last time three weeks ago.	prem194_hyp1	It's been three weeks since I went out.	1
+prem194	I saw them/him/her for the last time three weeks ago.	prem194_hyp2	I will see them/him/her for the first time in three weeks.	2
+prem195	The Gernika Business Center is a business hub created to host newly established business projects and companies in their expansion process.	prem195_hyp0	The purpose of the Gernika Business Center is to bring together companies that have been recently established or are in the process of expansion.	0
+prem195	The Gernika Business Center is a business hub created to host newly established business projects and companies in their expansion process.	prem195_hyp1	The Gernika Business Park is very large and houses many newly established companies.	1
+prem195	The Gernika Business Center is a business hub created to host newly established business projects and companies in their expansion process.	prem195_hyp2	The Gernika Business Center serves to establish new business projects and expanding companies.	2
+prem196	Let's say he has an amazing occupation: world traveler.	prem196_hyp0	It is unusual to have traveling the world as a profession.	0
+prem196	Let's say he has an amazing occupation: world traveler.	prem196_hyp1	You have to work to earn money.	1
+prem196	Let's say he has an amazing occupation: world traveler.	prem196_hyp2	He/She does their work without moving from home.	2
+prem197	The flight from Chicago to Los Angeles had a two-hour delay.	prem197_hyp0	The plane from Chicago to Los Angeles arrived late.	0
+prem197	The flight from Chicago to Los Angeles had a two-hour delay.	prem197_hyp1	There is a flight from Chicago to Los Angeles every three hours.	1
+prem197	The flight from Chicago to Los Angeles had a two-hour delay.	prem197_hyp2	The flight from Chicago to Los Angeles arrived two hours ahead of schedule.	2
+prem198	After traveling by kayak through Jack London's landscapes and the spectacular lakes of Alaska, a close friend came to visit me at the hospital yesterday.	prem198_hyp0	Yesterday, a friend who had been traveling from California and Alaska visited me in the hospital.	0
+prem198	After traveling by kayak through Jack London's landscapes and the spectacular lakes of Alaska, a close friend came to visit me at the hospital yesterday.	prem198_hyp1	I have known the close friend who visited me at the hospital yesterday since we were very young.	1
+prem198	After traveling by kayak through Jack London's landscapes and the spectacular lakes of Alaska, a close friend came to visit me at the hospital yesterday.	prem198_hyp2	Yesterday I was alone at the hospital.	2
+prem199	We have had four long seasons of the four seasons at Cinema Paradise.	prem199_hyp0	The four seasons we discussed at Paradise cinema are long-running.	0
+prem199	We have had four long seasons of the four seasons at Cinema Paradise.	prem199_hyp1	The seasons discussed in Paradise cinema vary in length.	1
+prem199	We have had four long seasons of the four seasons at Cinema Paradise.	prem199_hyp2	At Paradise Cinema, we have shown four short seasons for the four seasons of the year.	2
+prem200	In this way, children and young people from the Basque Country have the opportunity to enjoy cinema in their own language, Basque, at the same time as the Spanish versions are released.	prem200_hyp0	Since the Basque and Spanish versions will be released simultaneously, children and young people in the Basque Country will be able to enjoy cinema in Basque from the start.	0
+prem200	In this way, children and young people from the Basque Country have the opportunity to enjoy cinema in their own language, Basque, at the same time as the Spanish versions are released.	prem200_hyp1	In the Basque Country, sometimes films can also be enjoyed in English from their premiere.	1
+prem200	In this way, children and young people from the Basque Country have the opportunity to enjoy cinema in their own language, Basque, at the same time as the Spanish versions are released.	prem200_hyp2	In this way, children and young people from the Basque Country will be able to watch films in Spanish from their release date, but they will have to wait a long time to watch them in Basque.	2
+prem201	"In response to the ""oppressive"" capitalism, the Santutxu Youth Assembly has organized two initiatives this week."	prem201_hyp0	The Santutxu Youth Assembly organizes actions against capitalist oppression.	0
+prem201	"In response to the ""oppressive"" capitalism, the Santutxu Youth Assembly has organized two initiatives this week."	prem201_hyp1	Activities are organized weekly at the Santutxu Youth Assembly.	1
+prem201	"In response to the ""oppressive"" capitalism, the Santutxu Youth Assembly has organized two initiatives this week."	prem201_hyp2	This week, two activities have been organized by the Santutxu Youth Assembly to defend the liberating aspect of capitalism.	2
+prem202	The birthday present this year had to be special: a photo album of mom's life and a surprise snack.	prem202_hyp0	To make this year's birthday gift different, we prepared a surprise snack for mom and gave her a photo album.	0
+prem202	The birthday present this year had to be special: a photo album of mom's life and a surprise snack.	prem202_hyp1	To make mother's birthday special this year, the whole family gathered together for an afternoon snack.	1
+prem202	The birthday present this year had to be special: a photo album of mom's life and a surprise snack.	prem202_hyp2	This year's birthday gift for mother was supposed to be completely ordinary, that's why we only gave her a photo album.	2
+prem203	Furthermore, it brings joy to know that there was someone in the aristocracy who took steps to ensure that the Basque language was loved and used.	prem203_hyp0	Some aristocrat made efforts to promote the use of Basque because they liked the language, and that is heartening.	0
+prem203	Furthermore, it brings joy to know that there was someone in the aristocracy who took steps to ensure that the Basque language was loved and used.	prem203_hyp1	Among the aristocracy, some were engaged in Basque linguistics, and that brings joy.	1
+prem203	Furthermore, it brings joy to know that there was someone in the aristocracy who took steps to ensure that the Basque language was loved and used.	prem203_hyp2	All aristocrats hated the Basque language, which is why they took steps to restrict its use.	2
+prem204	Only when we Basque speakers address passive recipients in Basque, and only then, will we reverse the pattern of usage.	prem204_hyp0	To increase the use of Basque, we Basque speakers must speak Basque to passive receivers.	0
+prem204	Only when we Basque speakers address passive recipients in Basque, and only then, will we reverse the pattern of usage.	prem204_hyp1	When children are present, we Basque speakers use the Basque language more frequently with passive listeners.	1
+prem204	Only when we Basque speakers address passive recipients in Basque, and only then, will we reverse the pattern of usage.	prem204_hyp2	To revolutionize the use of Basque, we Basque speakers need to speak in Spanish/foreign language to passive receivers.	2
+prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is said to be the core of the novel.	prem205_hyp0	Mikel Antza wrote the novel Atzerri, and it is said that the core of the novel is a mixture between his personal experiences and fiction.	0
+prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is said to be the core of the novel.	prem205_hyp1	"Mikel Antza's novel ""Atzerri"" was published in 2012, and since then it has achieved great success among Basque readers."	1
+prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is said to be the core of the novel.	prem205_hyp2	In 2012, Mikel Antza published Atzerri, an autobiographical book that compiles his life experiences.	2
+prem206	When it ended, I clapped for the first time in my life.	prem206_hyp0	At the end, I expressed that I enjoyed it.	0
+prem206	When it ended, I clapped for the first time in my life.	prem206_hyp1	My final reactions are very common.	1
+prem206	When it ended, I clapped for the first time in my life.	prem206_hyp2	When it ended, as always, I remained completely still.	2
+prem207	It also has an entrepreneurship and coworking room, with all the infrastructure needed to launch a business project.	prem207_hyp0	It has the necessary infrastructure to promote collaboration between companies and encourage the creation of new businesses.	0
+prem207	It also has an entrepreneurship and coworking room, with all the infrastructure needed to launch a business project.	prem207_hyp1	The basic infrastructure needed to launch a business project depends on the company's requirements.	1
+prem207	It also has an entrepreneurship and coworking room, with all the infrastructure needed to launch a business project.	prem207_hyp2	Although it has an entrepreneurship and coworking room, its infrastructure is too inadequate to launch a business project.	2

@@ -1,0 +1,895 @@
+ann_id	change_type	prem_id	premise	hypothesis_id	hypothesis	label
+g6	dialectal	prem1	The drawing is conducted in front of a notary and they will give out numbers by computer.	prem1_hyp0	A computer and a notary are needed to conduct the draw.	0
+g6	dialectal	prem1	The drawing is conducted in front of a notary and they will give out numbers by computer.	prem1_hyp1	Usually the same notary is present at all drawings.	1
+g6	dialectal	prem1	The drawing is conducted in front of a notary and they will give out numbers by computer.	prem1_hyp2	The drawing is done by placing numbered slips of paper in a container and randomly selecting one.	2
+s2	toka	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+s2	toka	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp1	Ane and Enrike have blue pants.	1
+s2	toka	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+s2	noka	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+s2	noka	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp1	Ane and Enrike have blue pants.	1
+s2	noka	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+s2	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+s2	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp1	Ane and Enrike have blue pants.	1
+s2	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing the elegant dance of Arratia.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+s3	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing an interesting Arratia dance.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+s3	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing an interesting Arratia dance.	prem2_hyp1	Ane and Enrike have blue pants.	1
+s3	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing an interesting Arratia dance.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+s4	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing the exciting Arratia dance.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+s4	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing the exciting Arratia dance.	prem2_hyp1	Ane and Enrike have blue pants.	1
+s4	dialectal	prem2	Enrike Eizagirre and Ane Sarasketa performing the exciting Arratia dance.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+s1	dialectal	prem2	Enrike Eizagirre is performing the exciting Arratia dance with Ane Sarasketa.	prem2_hyp0	Enrike and Ane doing dance steps.	0
+s1	dialectal	prem2	Enrike Eizagirre is performing the exciting Arratia dance with Ane Sarasketa.	prem2_hyp1	Ane and Enrike have blue pants.	1
+s1	dialectal	prem2	Enrike Eizagirre is performing the exciting Arratia dance with Ane Sarasketa.	prem2_hyp2	Enrike Izagirre and Ane Sarasketa were eating ice cream.	2
+s3	dialectal	prem3	The Sorgintzulo youth center was squatted in 1998 in some empty premises of the Carmelo church.	prem3_hyp0	The owner of Sorgintxulo youth center was the Karmelo church.	0
+s3	dialectal	prem3	The Sorgintzulo youth center was squatted in 1998 in some empty premises of the Carmelo church.	prem3_hyp1	Several concerts are held at the Sorgintxulo youth center.	1
+s3	dialectal	prem3	The Sorgintzulo youth center was squatted in 1998 in some empty premises of the Carmelo church.	prem3_hyp2	The city council gave the Sorgintxulo youth center to a group of young people.	2
+s3	dialectal	prem4	The nine-song disc mixes hardcore rock and metal.	prem4_hyp0	The disc has fewer than ten songs in total.	0
+s3	dialectal	prem4	The nine-song disc mixes hardcore rock and metal.	prem4_hyp1	Each song is about three minutes long, but there is also one that is six minutes long.	1
+s3	dialectal	prem4	The nine-song disc mixes hardcore rock and metal.	prem4_hyp2	Calm melodies dominate the album.	2
+g3	berridazketa	prem5	"The movie ""Ballerina"" will start showing in theaters in Basque the day after tomorrow."	prem5_hyp0	"The film ""Ballerina"" will be available to watch in Basque."	0
+g3	berridazketa	prem5	"The movie ""Ballerina"" will start showing in theaters in Basque the day after tomorrow."	prem5_hyp1	"""Ballerina"" is an animated film made in France."	1
+g3	berridazketa	prem5	"The movie ""Ballerina"" will start showing in theaters in Basque the day after tomorrow."	prem5_hyp2	"""Ballerina"" cannot be seen in theaters for another month."	2
+g4	dialectal	prem6	Today is the release of the new work by the Solte group from Santutxu.	prem6_hyp0	The Solte group from Santutxu has created a new work.	0
+g4	dialectal	prem6	Today is the release of the new work by the Solte group from Santutxu.	prem6_hyp1	The album has arrived after being idle for five years.	1
+g4	dialectal	prem6	Today is the release of the new work by the Solte group from Santutxu.	prem6_hyp2	The band Solte disappeared three years ago.	2
+g5	dialectal	prem7	Although Txirrita was a person who didn't know how to read, he had an extraordinary intuition for interpreting the information he gathered.	prem7_hyp0	Txirrita never read a single book in his entire life.	0
+g5	dialectal	prem7	Although Txirrita was a person who didn't know how to read, he had an extraordinary intuition for interpreting the information he gathered.	prem7_hyp1	The bertsolari Basarri, on the other hand, greatly enjoyed reading novels.	1
+g5	dialectal	prem7	Although Txirrita was a person who didn't know how to read, he had an extraordinary intuition for interpreting the information he gathered.	prem7_hyp2	While drinking coffee, Txirrita would read the newspaper every morning.	2
+g8	dialectal	prem8	The assignments will be only two pages long, in A4 format (vertical).	prem8_hyp0	A4 format must be used for the assignments.	0
+g8	dialectal	prem8	The assignments will be only two pages long, in A4 format (vertical).	prem8_hyp1	Arial size 12 must be used for writing.	1
+g8	dialectal	prem8	The assignments will be only two pages long, in A4 format (vertical).	prem8_hyp2	Four-page works will also be accepted.	2
+g1	dialectal	prem8	The work will only be two pages long in A4 format, in vertical orientation.	prem8_hyp0	A4 format must be used for the assignments.	0
+g1	dialectal	prem8	The work will only be two pages long in A4 format, in vertical orientation.	prem8_hyp1	Arial size 12 must be used for writing.	1
+g1	dialectal	prem8	The work will only be two pages long in A4 format, in vertical orientation.	prem8_hyp2	Four-page works will also be accepted.	2
+g7	dialectal	prem9	Anton's way of life was extremely strange and even stranger was the place where he lived.	prem9_hyp0	The place where Antton lived was strange.	0
+g7	dialectal	prem9	Anton's way of life was extremely strange and even stranger was the place where he lived.	prem9_hyp1	Antton had two daughters at a very young age.	1
+g7	dialectal	prem9	Anton's way of life was extremely strange and even stranger was the place where he lived.	prem9_hyp2	Antton had a peaceful life, without any great adventures.	2
+s4	dialectal	prem10	The Santurtzi Business Center is located in the El Árbol industrial area of Santurtzi, near the A-8 motorway.	prem10_hyp0	The Santurtzi Business Center is not far from the A-8 motorway.	0
+s4	dialectal	prem10	The Santurtzi Business Center is located in the El Árbol industrial area of Santurtzi, near the A-8 motorway.	prem10_hyp1	There are 27 companies in total in the El Árbol industrial park.	1
+s4	dialectal	prem10	The Santurtzi Business Center is located in the El Árbol industrial area of Santurtzi, near the A-8 motorway.	prem10_hyp2	Despite what its name suggests, Santurtzi Business Center is located in Portugalete.	2
+g6	dialectal	prem11	"""Ballerina"" is one of the largest animation co-productions made in Europe in recent years."	prem11_hyp0	"The animated film ""Ballerina"" was made in Europe."	0
+g6	dialectal	prem11	"""Ballerina"" is one of the largest animation co-productions made in Europe in recent years."	prem11_hyp1	The protagonist of the film is a girl.	1
+g6	dialectal	prem11	"""Ballerina"" is one of the largest animation co-productions made in Europe in recent years."	prem11_hyp2	"Although it was made in the United States, the story of ""Ballerina"" is set in Europe."	2
+s1	dialectal	prem12	It's true that, by the way, when you read the book, you understand some passages better, most likely.	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+s1	dialectal	prem12	It's true that, by the way, when you read the book, you understand some passages better, most likely.	prem12_hyp1	They have modified some passages in the book that were scary.	1
+s1	dialectal	prem12	It's true that, by the way, when you read the book, you understand some passages better, most likely.	prem12_hyp2	Not having read the book has no effect at all.	2
+s2	dialectal	prem12	It's true that, by the way, having read the book, you understand many passages better, surely.	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+s2	dialectal	prem12	It's true that, by the way, having read the book, you understand many passages better, surely.	prem12_hyp1	They have modified some passages in the book that were scary.	1
+s2	dialectal	prem12	It's true that, by the way, having read the book, you understand many passages better, surely.	prem12_hyp2	Not having read the book has no effect at all.	2
+s2	toka	prem12	It's true that, by the way, having read the book, you would probably understand many passages better.	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+s2	toka	prem12	It's true that, by the way, having read the book, you would probably understand many passages better.	prem12_hyp1	They have modified some passages in the book that were scary.	1
+s2	toka	prem12	It's true that, by the way, having read the book, you would probably understand many passages better.	prem12_hyp2	Not having read the book has no effect at all.	2
+s2	noka	prem12	It's true that, by the way, having read the book, you understand many passages better, for sure.	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+s2	noka	prem12	It's true that, by the way, having read the book, you understand many passages better, for sure.	prem12_hyp1	They have modified some passages in the book that were scary.	1
+s2	noka	prem12	It's true that, by the way, having read the book, you understand many passages better, for sure.	prem12_hyp2	Not having read the book has no effect at all.	2
+s3	dialectal	prem12	Indeed, by the way, having read books helps to better understand many passages, most likely.	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+s3	dialectal	prem12	Indeed, by the way, having read books helps to better understand many passages, most likely.	prem12_hyp1	They have modified some passages in the book that were scary.	1
+s3	dialectal	prem12	Indeed, by the way, having read books helps to better understand many passages, most likely.	prem12_hyp2	Not having read the book has no effect at all.	2
+s4	dialectal	prem12	It is true that after reading the book, many passages are better understood, for sure	prem12_hyp0	Some passages are harder to understand without reading the book.	0
+s4	dialectal	prem12	It is true that after reading the book, many passages are better understood, for sure	prem12_hyp1	They have modified some passages in the book that were scary.	1
+s4	dialectal	prem12	It is true that after reading the book, many passages are better understood, for sure	prem12_hyp2	Not having read the book has no effect at all.	2
+s4	dialectal	prem13	While Miren was smoking a cigarette by the house window, Lucia sat down next to her and, in front of her husband, began touching Miren.	prem13_hyp0	While Miren was by the house window, Lucia started touching her.	0
+s4	dialectal	prem13	While Miren was smoking a cigarette by the house window, Lucia sat down next to her and, in front of her husband, began touching Miren.	prem13_hyp1	Miren's husband was watching television when Lucia arrived.	1
+s4	dialectal	prem13	While Miren was smoking a cigarette by the house window, Lucia sat down next to her and, in front of her husband, began touching Miren.	prem13_hyp2	When Lucia arrived, she didn't dare approach Miren because her husband was present.	2
+g8	dialectal	prem13	While Miren was smoking a cigarette by the house window, Lucia approached her and, in front of her husband, began touching Miren.	prem13_hyp0	While Miren was by the house window, Lucia started touching her.	0
+g8	dialectal	prem13	While Miren was smoking a cigarette by the house window, Lucia approached her and, in front of her husband, began touching Miren.	prem13_hyp1	Miren's husband was watching television when Lucia arrived.	1
+g8	dialectal	prem13	While Miren was smoking a cigarette by the house window, Lucia approached her and, in front of her husband, began touching Miren.	prem13_hyp2	When Lucia arrived, she didn't dare approach Miren because her husband was present.	2
+g6	dialectal	prem14	"This autumn, they will begin their third year of the radio show ""Sukalde dema"" on Radio Euskadi."	prem14_hyp0	The cooking competition shows have been running on Radio Euskadi for more than a year.	0
+g6	dialectal	prem14	"This autumn, they will begin their third year of the radio show ""Sukalde dema"" on Radio Euskadi."	prem14_hyp1	The presenters of the cooking competition show changed after the first year.	1
+g6	dialectal	prem14	"This autumn, they will begin their third year of the radio show ""Sukalde dema"" on Radio Euskadi."	prem14_hyp2	"The ""Kitchen Challenge"" program only lasted one year on Radio Euskadi."	2
+s1	dialectal	prem15	Moreover, they don't have accident reports in either Basque or in Basque-Spanish.	prem15_hyp0	They don't have accident reports in Basque.	0
+s1	dialectal	prem15	Moreover, they don't have accident reports in either Basque or in Basque-Spanish.	prem15_hyp1	He/She had an accident in the red car two weeks ago.	1
+s1	dialectal	prem15	Moreover, they don't have accident reports in either Basque or in Basque-Spanish.	prem15_hyp2	They told me they have an accident report that is written entirely in Basque.	2
+g8	toka	prem16	In Spain, 60% of married couples get divorced.	prem16_hyp0	More than half of married couples get divorced in Spain.	0
+g8	toka	prem16	In Spain, 60% of married couples get divorced.	prem16_hyp1	Fewer and fewer people are getting married in church in the Spanish state.	1
+g8	toka	prem16	In Spain, 60% of married couples get divorced.	prem16_hyp2	Less than half get divorced after getting married.	2
+s4	dialectal	prem16	In Spain, 60% of married couples get divorced.	prem16_hyp0	More than half of married couples get divorced in Spain.	0
+s4	dialectal	prem16	In Spain, 60% of married couples get divorced.	prem16_hyp1	Fewer and fewer people are getting married in church in the Spanish state.	1
+s4	dialectal	prem16	In Spain, 60% of married couples get divorced.	prem16_hyp2	Less than half get divorced after getting married.	2
+g6	dialectal	prem17	A nation that cannot be imagined cannot exist.	prem17_hyp0	All existing peoples can be imagined.	0
+g6	dialectal	prem17	A nation that cannot be imagined cannot exist.	prem17_hyp1	There are some villages where all the houses are white.	1
+g6	dialectal	prem17	A nation that cannot be imagined cannot exist.	prem17_hyp2	Yesterday we saw a town that is not imagined.	2
+g4	dialectal	prem18	In recent days, we have learned about the prosecutor's requests against 48 people for their work in the area of Basque political prisoners, some of them facing more than 20 years	prem18_hyp0	The prosecution has requested sentences for several people.	0
+g4	dialectal	prem18	In recent days, we have learned about the prosecutor's requests against 48 people for their work in the area of Basque political prisoners, some of them facing more than 20 years	prem18_hyp1	Most of those who work on the issue of political prisoners are from Gipuzkoa.	1
+g4	dialectal	prem18	In recent days, we have learned about the prosecutor's requests against 48 people for their work in the area of Basque political prisoners, some of them facing more than 20 years	prem18_hyp2	The prosecutor's office has approved the work being done by those involved in the matter of political prisoners.	2
+g1	dialectal	prem19	Until now, due to low Basque language levels, local students' overall grades in the university entrance exams were significantly lowered.	prem19_hyp0	The language level had an impact on the overall university entrance exam score.	0
+g1	dialectal	prem19	Until now, due to low Basque language levels, local students' overall grades in the university entrance exams were significantly lowered.	prem19_hyp1	Last year, the university entrance exams had the lowest scores ever recorded.	1
+g1	dialectal	prem19	Until now, due to low Basque language levels, local students' overall grades in the university entrance exams were significantly lowered.	prem19_hyp2	The Basque language level did not matter in the university entrance exam score.	2
+g8	dialectal	prem19	Until now, due to poor Basque language skills, students there had their overall selectividad (university entrance exam) scores significantly lowered.	prem19_hyp0	The language level had an impact on the overall university entrance exam score.	0
+g8	dialectal	prem19	Until now, due to poor Basque language skills, students there had their overall selectividad (university entrance exam) scores significantly lowered.	prem19_hyp1	Last year, the university entrance exams had the lowest scores ever recorded.	1
+g8	dialectal	prem19	Until now, due to poor Basque language skills, students there had their overall selectividad (university entrance exam) scores significantly lowered.	prem19_hyp2	The Basque language level did not matter in the university entrance exam score.	2
+g5	dialectal	prem20	The friend says that, despite having traveled all over the world, on the day he falls ill he will return to the Basque Country.	prem20_hyp0	My friend is traveling around the world.	0
+g5	dialectal	prem20	The friend says that, despite having traveled all over the world, on the day he falls ill he will return to the Basque Country.	prem20_hyp1	The friend was not born in the Basque Country.	1
+g5	dialectal	prem20	The friend says that, despite having traveled all over the world, on the day he falls ill he will return to the Basque Country.	prem20_hyp2	The friend says they intend to travel around the world forever.	2
+g3	berridazketa	prem21	Even after 40 years, the movie 'Alien' is still widely watched	prem21_hyp0	The film 'Alien, the eighth passenger' was made more than four decades ago.	0
+g3	berridazketa	prem21	Even after 40 years, the movie 'Alien' is still widely watched	prem21_hyp1	The film 'Alien, the eighth passenger' did not receive particularly good reviews initially.	1
+g3	berridazketa	prem21	Even after 40 years, the movie 'Alien' is still widely watched	prem21_hyp2	The film 'Alien, the eighth passenger' will be released soon.	2
+g2	dialectal	prem22	Our work can often be difficult, very hard and very dark, and from time to time we need to maintain our sense of humor	prem22_hyp0	Our work is often tough more than once.	0
+g2	dialectal	prem22	Our work can often be difficult, very hard and very dark, and from time to time we need to maintain our sense of humor	prem22_hyp1	We have a good relationship among colleagues, although we sometimes have some disagreements.	1
+g2	dialectal	prem22	Our work can often be difficult, very hard and very dark, and from time to time we need to maintain our sense of humor	prem22_hyp2	We always have to be very serious at work.	2
+g5	dialectal	prem23	It is well known that when approaching a public health system, anyone will find flaws and reasons to get angry about something.	prem23_hyp0	There are flaws in the public health system.	0
+g5	dialectal	prem23	It is well known that when approaching a public health system, anyone will find flaws and reasons to get angry about something.	prem23_hyp1	Doctors in the public health system are angry with the measures that have been taken.	1
+g5	dialectal	prem23	It is well known that when approaching a public health system, anyone will find flaws and reasons to get angry about something.	prem23_hyp2	The public health system here can be said to be perfect.	2
+s1	dialectal	prem24	From childhood, the neighborhood association has not been attractive for young people.	prem24_hyp0	Most of the people who come to the neighborhood association are adults.	0
+s1	dialectal	prem24	From childhood, the neighborhood association has not been attractive for young people.	prem24_hyp1	The neighborhood association celebrated its twentieth anniversary last year.	1
+s1	dialectal	prem24	From childhood, the neighborhood association has not been attractive for young people.	prem24_hyp2	Many young people have been participating in the neighborhood association lately.	2
+s4	dialectal	prem25	The prize created by the Provincial Council, the Antton Abbadie prize, has been a well-deserved recognition.	prem25_hyp0	He/She deserved to receive the Antton Abbadie award.	0
+s4	dialectal	prem25	The prize created by the Provincial Council, the Antton Abbadie prize, has been a well-deserved recognition.	prem25_hyp1	In addition to the Antton Abbadie award, they have received others as well.	1
+s4	dialectal	prem25	The prize created by the Provincial Council, the Antton Abbadie prize, has been a well-deserved recognition.	prem25_hyp2	The Provincial Council was awarded the Antton Abbadie prize.	2
+g6	dialectal	prem26	In this book, their expressions and details of their speech have been collected.	prem26_hyp0	What they expressed has been recorded in the book.	0
+g6	dialectal	prem26	In this book, their expressions and details of their speech have been collected.	prem26_hyp1	The person who wrote the book is famous.	1
+g6	dialectal	prem26	In this book, their expressions and details of their speech have been collected.	prem26_hyp2	There is very little in the book about language/speech.	2
+s1	dialectal	prem27	It would be interesting to compare future construction with the photographs taken there.	prem27_hyp0	Pictures were taken there.	0
+s1	dialectal	prem27	It would be interesting to compare future construction with the photographs taken there.	prem27_hyp1	The future construction will be better.	1
+s1	dialectal	prem27	It would be interesting to compare future construction with the photographs taken there.	prem27_hyp2	It is boring to compare buildings.	2
+g3	berridazketa	prem28	The Fronton has 65 seats for people with physical disabilities and the Trinquet has 16.	prem28_hyp0	The fronton has more seats for people with reduced mobility than the Trinquet.	0
+g3	berridazketa	prem28	The Fronton has 65 seats for people with physical disabilities and the Trinquet has 16.	prem28_hyp1	More people usually go to the Pilotaleku to watch matches than to the Trinket.	1
+g3	berridazketa	prem28	The Fronton has 65 seats for people with physical disabilities and the Trinquet has 16.	prem28_hyp2	The Trinketa has at least as many seats as the Pilotaleku for people with reduced mobility.	2
+s2	toka	prem29	I recently took a guided tour of the San Sebastian Aquarium.	prem29_hyp0	I was in San Sebastian in October.	0
+s2	toka	prem29	I recently took a guided tour of the San Sebastian Aquarium.	prem29_hyp1	I have been to the aquarium three times in total.	1
+s2	toka	prem29	I recently took a guided tour of the San Sebastian Aquarium.	prem29_hyp2	I haven't been to the Aquarium all autumn.	2
+s2	dialectal	prem29	I recently took a guided tour at the San Sebastian Aquarium.	prem29_hyp0	I was in San Sebastian in October.	0
+s2	dialectal	prem29	I recently took a guided tour at the San Sebastian Aquarium.	prem29_hyp1	I have been to the aquarium three times in total.	1
+s2	dialectal	prem29	I recently took a guided tour at the San Sebastian Aquarium.	prem29_hyp2	I haven't been to the Aquarium all autumn.	2
+s2	noka	prem29	I recently took a guided tour at the San Sebastian Aquarium.	prem29_hyp0	I was in San Sebastian in October.	0
+s2	noka	prem29	I recently took a guided tour at the San Sebastian Aquarium.	prem29_hyp1	I have been to the aquarium three times in total.	1
+s2	noka	prem29	I recently took a guided tour at the San Sebastian Aquarium.	prem29_hyp2	I haven't been to the Aquarium all autumn.	2
+s2	dialectal	prem30	However, we are in the midst of a change and also reviewing language criteria in between.	prem30_hyp0	Among other things, we are reviewing the language criteria.	0
+s2	dialectal	prem30	However, we are in the midst of a change and also reviewing language criteria in between.	prem30_hyp1	The main goal of the change is to facilitate the opportunity to learn more languages.	1
+s2	dialectal	prem30	However, we are in the midst of a change and also reviewing language criteria in between.	prem30_hyp2	It seemed like we were going to make some changes, but in the end we decided to continue the same way.	2
+s2	noka	prem30	We were involved in a change and in between the revision of language criteria as well.	prem30_hyp0	Among other things, we are reviewing the language criteria.	0
+s2	noka	prem30	We were involved in a change and in between the revision of language criteria as well.	prem30_hyp1	The main goal of the change is to facilitate the opportunity to learn more languages.	1
+s2	noka	prem30	We were involved in a change and in between the revision of language criteria as well.	prem30_hyp2	It seemed like we were going to make some changes, but in the end we decided to continue the same way.	2
+s2	toka	prem30	We need to make a change, however, and also review the language criteria in between.	prem30_hyp0	Among other things, we are reviewing the language criteria.	0
+s2	toka	prem30	We need to make a change, however, and also review the language criteria in between.	prem30_hyp1	The main goal of the change is to facilitate the opportunity to learn more languages.	1
+s2	toka	prem30	We need to make a change, however, and also review the language criteria in between.	prem30_hyp2	It seemed like we were going to make some changes, but in the end we decided to continue the same way.	2
+g1	dialectal	prem31	The most interesting stories that govern our brains were born in darkness.	prem31_hyp0	The most interesting stories in our brain are born in darkness.	0
+g1	dialectal	prem31	The most interesting stories that govern our brains were born in darkness.	prem31_hyp1	We cannot know where all the interesting legends come from.	1
+g1	dialectal	prem31	The most interesting stories that govern our brains were born in darkness.	prem31_hyp2	All our interesting stories in the brain are born in the light.	2
+g8	toka	prem31	The most interesting legends that govern our minds were born in darkness.	prem31_hyp0	The most interesting stories in our brain are born in darkness.	0
+g8	toka	prem31	The most interesting legends that govern our minds were born in darkness.	prem31_hyp1	We cannot know where all the interesting legends come from.	1
+g8	toka	prem31	The most interesting legends that govern our minds were born in darkness.	prem31_hyp2	All our interesting stories in the brain are born in the light.	2
+g6	dialectal	prem32	On the first day we met with three groups; only one was in Basque.	prem32_hyp0	One-third of the groups encountered on the first day were speaking in Basque.	0
+g6	dialectal	prem32	On the first day we met with three groups; only one was in Basque.	prem32_hyp1	The groups on the first day were very heterogeneous, with people of different ages and cultures.	1
+g6	dialectal	prem32	On the first day we met with three groups; only one was in Basque.	prem32_hyp2	Most of the groups encountered on the first day were speaking in Basque.	2
+g7	dialectal	prem33	Many children attend Spanish language courses in San Sebastian.	prem33_hyp0	In San Sebastian, parents take many children to Spanish language courses.	0
+g7	dialectal	prem33	Many children attend Spanish language courses in San Sebastian.	prem33_hyp1	Children's courses in San Sebastian are in the afternoons.	1
+g7	dialectal	prem33	Many children attend Spanish language courses in San Sebastian.	prem33_hyp2	Spanish language courses in San Sebastian are empty.	2
+g6	dialectal	prem34	To recover your ticket, you need to enter your file/reference number online.	prem34_hyp0	You can retrieve your travel ticket by accessing your file in the electronic portal.	0
+g6	dialectal	prem34	To recover your ticket, you need to enter your file/reference number online.	prem34_hyp1	Access your file in the electronic office and you will retrieve your travel ticket within a week.	1
+g6	dialectal	prem34	To recover your ticket, you need to enter your file/reference number online.	prem34_hyp2	It is sufficient to call by phone to recover the travel ticket.	2
+g4	dialectal	prem35	Taking the course will help them gain skill with balance and jumps.	prem35_hyp0	Thanks to the course, they improved their balance and gained skill with jumps.	0
+g4	dialectal	prem35	Taking the course will help them gain skill with balance and jumps.	prem35_hyp1	Thanks to the course, they have greatly improved their flexibility.	1
+g4	dialectal	prem35	Taking the course will help them gain skill with balance and jumps.	prem35_hyp2	Taking the course hasn't been of any use to him/her.	2
+s1	dialectal	prem36	As we're approaching 60 years old, we've started paying attention to many things we didn't notice before, to our health, and to friends who are dying more and more frequently.	prem36_hyp0	Between the two of us, we are less than 61 years old.	0
+s1	dialectal	prem36	As we're approaching 60 years old, we've started paying attention to many things we didn't notice before, to our health, and to friends who are dying more and more frequently.	prem36_hyp1	At the threshold of 60 years, it's better not to dwell on the past.	1
+s1	dialectal	prem36	As we're approaching 60 years old, we've started paying attention to many things we didn't notice before, to our health, and to friends who are dying more and more frequently.	prem36_hyp2	Growing older has not changed our perspective on health and death.	2
+g3	berridazketa	prem37	As soon as the draw is made, the spots are allocated.	prem37_hyp0	Places are assigned by lottery.	0
+g3	berridazketa	prem37	As soon as the draw is made, the spots are allocated.	prem37_hyp1	The allocation of places is done through a computerized lottery.	1
+g3	berridazketa	prem37	As soon as the draw is made, the spots are allocated.	prem37_hyp2	The spots are awarded two weeks after the draw is held.	2
+g5	dialectal	prem38	Saturday's event was smooth and beautiful.	prem38_hyp0	Saturday's event was pleasant.	0
+g5	dialectal	prem38	Saturday's event was smooth and beautiful.	prem38_hyp1	I watched Saturday's event from home.	1
+g5	dialectal	prem38	Saturday's event was smooth and beautiful.	prem38_hyp2	Saturday's event wasn't to my liking, it lacked intensity.	2
+g6	dialectal	prem39	Romantic love is an invention created to maintain the patriarchal system.	prem39_hyp0	Romantic love is used to keep the patriarchal system alive.	0
+g6	dialectal	prem39	Romantic love is an invention created to maintain the patriarchal system.	prem39_hyp1	There are several devices that allow the patriarchal system to survive.	1
+g6	dialectal	prem39	Romantic love is an invention created to maintain the patriarchal system.	prem39_hyp2	The patriarchal system is a device for ensuring the survival of romantic love.	2
+g4	dialectal	prem40	He/She was 46 years old and a sudden death took him/her away from us.	prem40_hyp0	He/She died suddenly at 46 years old.	0
+g4	dialectal	prem40	He/She was 46 years old and a sudden death took him/her away from us.	prem40_hyp1	He/She had a happy life.	1
+g4	dialectal	prem40	He/She was 46 years old and a sudden death took him/her away from us.	prem40_hyp2	A long illness killed him/her.	2
+g7	dialectal	prem41	Last year, the Zinema Euskaraz program dubbed 15 films into Basque, and 2017 has started with good momentum.	prem41_hyp0	The Cinema in Basque program dubs films into Basque.	0
+g7	dialectal	prem41	Last year, the Zinema Euskaraz program dubbed 15 films into Basque, and 2017 has started with good momentum.	prem41_hyp1	All the dubbing done by the Cinema in Basque program has been from Spanish to Basque.	1
+g7	dialectal	prem41	Last year, the Zinema Euskaraz program dubbed 15 films into Basque, and 2017 has started with good momentum.	prem41_hyp2	It seems that the Cinema in Basque program will dub very few films in 2017 as well.	2
+g5	dialectal	prem42	The previous Bilbao Occupation Office completed four years.	prem42_hyp0	The Bilbao Occupation Office celebrated its fourth anniversary.	0
+g5	dialectal	prem42	The previous Bilbao Occupation Office completed four years.	prem42_hyp1	The Bilbao Employment Office will hire new workers next month.	1
+g5	dialectal	prem42	The previous Bilbao Occupation Office completed four years.	prem42_hyp2	Two years have passed since the Bilbao Occupation Office closed.	2
+s3	dialectal	prem43	When I lived there in Getaria, there were four times more cultural offerings than now.	prem43_hyp0	There is an increasing cultural offering in Getaria.	0
+s3	dialectal	prem43	When I lived there in Getaria, there were four times more cultural offerings than now.	prem43_hyp1	A quarter of Getaria's cultural offerings is theater.	1
+s3	dialectal	prem43	When I lived there in Getaria, there were four times more cultural offerings than now.	prem43_hyp2	Before, when I didn't live there, there was a greater cultural offering in Getaria.	2
+g3	dialectal	prem44	They should be submitted in both paper and digital format, if possible.	prem44_hyp0	They will be presented in paper and digital format.	0
+g3	dialectal	prem44	They should be submitted in both paper and digital format, if possible.	prem44_hyp1	They will be presented on paper next week.	1
+g3	dialectal	prem44	They should be submitted in both paper and digital format, if possible.	prem44_hyp2	They will be presented in digital format only.	2
+g8	toka	prem45	Despite being a prolific and outstanding designer and book illustrator, their contribution to comics has been no less significant.	prem45_hyp0	He/She has also made a great contribution to comic creation.	0
+g8	toka	prem45	Despite being a prolific and outstanding designer and book illustrator, their contribution to comics has been no less significant.	prem45_hyp1	The recently published comic collection has been a great success among minors.	1
+g8	toka	prem45	Despite being a prolific and outstanding designer and book illustrator, their contribution to comics has been no less significant.	prem45_hyp2	He/She is a comic artist and sometimes creates illustrations.	2
+g7	dialectal	prem46	The Artxanda Funicular, S.A. is a commercial company wholly owned by the Bilbao City Council.	prem46_hyp0	The Bilbao City Council owns the Artxanda Funicular.	0
+g7	dialectal	prem46	The Artxanda Funicular, S.A. is a commercial company wholly owned by the Bilbao City Council.	prem46_hyp1	The operating budget of Bilbao City Council includes those derived from all activities carried out by the commercial company.	1
+g7	dialectal	prem46	The Artxanda Funicular, S.A. is a commercial company wholly owned by the Bilbao City Council.	prem46_hyp2	The Bilbao City Council has a stake in the Artxanda Funicular.	2
+g8	dialectal	prem47	There used to be many whales along the Gipuzkoan coast at one time, but historian Xabier Alberdi mentions 4 well-known whales in an interview conducted on Radio Euskadi.	prem47_hyp0	Xabier Alberdi is a historian and knows well the whales of the surrounding seas.	0
+g8	dialectal	prem47	There used to be many whales along the Gipuzkoan coast at one time, but historian Xabier Alberdi mentions 4 well-known whales in an interview conducted on Radio Euskadi.	prem47_hyp1	Xabier Alberdi has mentioned that the whales that lived along the Gipuzkoan coast also lived along other coasts.	1
+g8	dialectal	prem47	There used to be many whales along the Gipuzkoan coast at one time, but historian Xabier Alberdi mentions 4 well-known whales in an interview conducted on Radio Euskadi.	prem47_hyp2	In an interview with Euskadi Irratia, Xabier Alberdi mentions that whales have never been present along the Gipuzkoan coast.	2
+s4	dialectal	prem47	There were many whales along the Gipuzkoa coast at one time, and historian Xabier Alberdi mentions 4 well-known whales in an interview given to Euskadi Irratia.	prem47_hyp0	Xabier Alberdi is a historian and knows well the whales of the surrounding seas.	0
+s4	dialectal	prem47	There were many whales along the Gipuzkoa coast at one time, and historian Xabier Alberdi mentions 4 well-known whales in an interview given to Euskadi Irratia.	prem47_hyp1	Xabier Alberdi has mentioned that the whales that lived along the Gipuzkoan coast also lived along other coasts.	1
+s4	dialectal	prem47	There were many whales along the Gipuzkoa coast at one time, and historian Xabier Alberdi mentions 4 well-known whales in an interview given to Euskadi Irratia.	prem47_hyp2	In an interview with Euskadi Irratia, Xabier Alberdi mentions that whales have never been present along the Gipuzkoan coast.	2
+g2	dialectal	prem48	We've been at Mount Ulia after a long time	prem48_hyp0	It wasn't long ago that we went to Mount Ulia.	0
+g2	dialectal	prem48	We've been at Mount Ulia after a long time	prem48_hyp1	Mount Ulia seemed very beautiful to us.	1
+g2	dialectal	prem48	We've been at Mount Ulia after a long time	prem48_hyp2	It's been years since we've been to the mountains.	2
+g5	dialectal	prem49	The main operations of the service company release 19 modules.	prem49_hyp0	The main building for service companies consists of 19 modules.	0
+g5	dialectal	prem49	The main operations of the service company release 19 modules.	prem49_hyp1	The main building for service companies has 19 modules and three floors.	1
+g5	dialectal	prem49	The main operations of the service company release 19 modules.	prem49_hyp2	The main building for service companies may have modules, but it is not mandatory.	2
+g8	toka	prem50	The European Union is implementing a regulation called Uspace to create authorized airspace zones for automated drones.	prem50_hyp0	The Uspace ordinance will create authorized airspace zones for automated drones.	0
+g8	toka	prem50	The European Union is implementing a regulation called Uspace to create authorized airspace zones for automated drones.	prem50_hyp1	The Uspace ordinance will come into effect in 2030.	1
+g8	toka	prem50	The European Union is implementing a regulation called Uspace to create authorized airspace zones for automated drones.	prem50_hyp2	An ordinance that will ban automated aerial drones in the European Union will soon come into effect.	2
+g6	dialectal	prem51	The landing in Dublin was super uncomfortable, the plane moved a lot, swaying from side to side.	prem51_hyp0	The landing in Dublin was very uncomfortable, the plane moved a lot from side to side.	0
+g6	dialectal	prem51	The landing in Dublin was super uncomfortable, the plane moved a lot, swaying from side to side.	prem51_hyp1	When the plane landed in Dublin, passengers started screaming in fear.	1
+g6	dialectal	prem51	The landing in Dublin was super uncomfortable, the plane moved a lot, swaying from side to side.	prem51_hyp2	Landings in Dublin are always very calm, without turbulence.	2
+g3	dialectal	prem51	The landing we had in Dublin was very scary, the plane moved a lot from side to side.	prem51_hyp0	The landing in Dublin was very uncomfortable, the plane moved a lot from side to side.	0
+g3	dialectal	prem51	The landing we had in Dublin was very scary, the plane moved a lot from side to side.	prem51_hyp1	When the plane landed in Dublin, passengers started screaming in fear.	1
+g3	dialectal	prem51	The landing we had in Dublin was very scary, the plane moved a lot from side to side.	prem51_hyp2	Landings in Dublin are always very calm, without turbulence.	2
+s1	dialectal	prem52	It is known that Joxan Goikoetxea maintained a close relationship with Xabier Lete, especially during the final years of his life.	prem52_hyp0	Xabier Lete and Joxan Goikoetxea had a close relationship.	0
+s1	dialectal	prem52	It is known that Joxan Goikoetxea maintained a close relationship with Xabier Lete, especially during the final years of his life.	prem52_hyp1	Xabier Lete and Joxan Goikoetxea are the same age.	1
+s1	dialectal	prem52	It is known that Joxan Goikoetxea maintained a close relationship with Xabier Lete, especially during the final years of his life.	prem52_hyp2	Xabier Lete and Joxan Goikoetxea had their closest relationship during their youth.	2
+g3	berridazketa	prem53	"The play ""Hard Times"" has been presented at the Arriaga Theater. It is based on a classic by Henrik Ibsen."	prem53_hyp0	"The play ""Hard Times"" is based on one of the great classics by Norwegian playwright Henrik Ibsen."	0
+g3	berridazketa	prem53	"The play ""Hard Times"" has been presented at the Arriaga Theater. It is based on a classic by Henrik Ibsen."	prem53_hyp1	"The play ""Hard Times"" presented by the Arriaga Theater in Bilbao is spectacular."	1
+g3	berridazketa	prem53	"The play ""Hard Times"" has been presented at the Arriaga Theater. It is based on a classic by Henrik Ibsen."	prem53_hyp2	"The play ""Hard Times"" that will be presented at the Arriaga Theater in Bilbao is based on one of the great classics by Norwegian playwright Henrik Ibsen."	2
+g2	dialectal	prem54	On Saturday, October 31st, we received an invitation to go see a film at the Horror Film Festival	prem54_hyp0	We were invited to watch a movie at the Horror Film Festival.	0
+g2	dialectal	prem54	On Saturday, October 31st, we received an invitation to go see a film at the Horror Film Festival	prem54_hyp1	On Saturday we watched two movies at the Horror Film Festival.	1
+g2	dialectal	prem54	On Saturday, October 31st, we received an invitation to go see a film at the Horror Film Festival	prem54_hyp2	We invited them to watch a movie at the Horror Film Festival.	2
+s4	dialectal	prem55	"Adarretatik is a newly created festival in Zautzen, which aims to find its place among summer music festivals, with the goal of ""bringing fringe music to the center."""	prem55_hyp0	A new summer music festival showcasing alternative music has been created in Zarautz: Adarretatik.	0
+s4	dialectal	prem55	"Adarretatik is a newly created festival in Zautzen, which aims to find its place among summer music festivals, with the goal of ""bringing fringe music to the center."""	prem55_hyp1	The Adarretatik festival drew crowds to the streets of Zarautz.	1
+s4	dialectal	prem55	"Adarretatik is a newly created festival in Zautzen, which aims to find its place among summer music festivals, with the goal of ""bringing fringe music to the center."""	prem55_hyp2	"The Adarretatik summer music festival in Zarautz has been working for years to bring ""marginal music to the center stage."""	2
+g8	toka	prem55	"Adarretatik is a newly created festival in Zarautz, which aims to carve out its own space among summer music festivals, with the goal of ""bringing fringe music to the center stage."""	prem55_hyp0	A new summer music festival showcasing alternative music has been created in Zarautz: Adarretatik.	0
+g8	toka	prem55	"Adarretatik is a newly created festival in Zarautz, which aims to carve out its own space among summer music festivals, with the goal of ""bringing fringe music to the center stage."""	prem55_hyp1	The Adarretatik festival drew crowds to the streets of Zarautz.	1
+g8	toka	prem55	"Adarretatik is a newly created festival in Zarautz, which aims to carve out its own space among summer music festivals, with the goal of ""bringing fringe music to the center stage."""	prem55_hyp2	"The Adarretatik summer music festival in Zarautz has been working for years to bring ""marginal music to the center stage."""	2
+g2	dialectal	prem56	European organizations strongly condemn the case against Goiaga	prem56_hyp0	European associations disagree with the case against Goioaga.	0
+g2	dialectal	prem56	European organizations strongly condemn the case against Goiaga	prem56_hyp1	The case against Goioaga has received numerous complaints.	1
+g2	dialectal	prem56	European organizations strongly condemn the case against Goiaga	prem56_hyp2	The European association has strongly condemned the cases against Goioaga.	2
+g6	dialectal	prem57	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" (Transformed World) from their latest album 'IXA'."	prem57_hyp0	The latest album by Solte is 'IXA'.	0
+g6	dialectal	prem57	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" (Transformed World) from their latest album 'IXA'."	prem57_hyp1	The Solte music band uses lively rhythms, as demonstrated in their song 'Transformed World'.	1
+g6	dialectal	prem57	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" (Transformed World) from their latest album 'IXA'."	prem57_hyp2	'IXA' is Solte music group's first album.	2
+g1	dialectal	prem58	Many workers don't know what is right or wrong, they don't know how to act.	prem58_hyp0	Distinguishing between good and evil is not easy for many workers.	0
+g1	dialectal	prem58	Many workers don't know what is right or wrong, they don't know how to act.	prem58_hyp1	Not knowing how to act greatly affects the workers.	1
+g1	dialectal	prem58	Many workers don't know what is right or wrong, they don't know how to act.	prem58_hyp2	The workers have no doubts, they always know how to act.	2
+s4	dialectal	prem59	We discovered a recommendable place last weekend. It's a small complex of houses created in a family atmosphere with a South American touch.	prem59_hyp0	Last weekend we were at a small housing complex that has a South American touch.	0
+s4	dialectal	prem59	We discovered a recommendable place last weekend. It's a small complex of houses created in a family atmosphere with a South American touch.	prem59_hyp1	The small housing complex I discovered last weekend was recommended by my aunt, it was created in a family environment and has a South American touch.	1
+s4	dialectal	prem59	We discovered a recommendable place last weekend. It's a small complex of houses created in a family atmosphere with a South American touch.	prem59_hyp2	The small group of houses we saw last weekend is not recommendable.	2
+s1	dialectal	prem60	The winners will receive computer and drawing materials, and the winning comic will be published in the BERTON magazine of Mahatsarri.	prem60_hyp0	The winners will receive computer and drawing materials.	0
+s1	dialectal	prem60	The winners will receive computer and drawing materials, and the winning comic will be published in the BERTON magazine of Mahatsarri.	prem60_hyp1	Each participant may submit only one comic.	1
+s1	dialectal	prem60	The winners will receive computer and drawing materials, and the winning comic will be published in the BERTON magazine of Mahatsarri.	prem60_hyp2	The award-winning comics will be published in Mahatseri's BERTON magazine.	2
+g1	dialectal	prem61	"Zea Mays will release ""Harro"", their eighth work, on November 3rd."	prem61_hyp0	The band Zea Mays will release a new album.	0
+g1	dialectal	prem61	"Zea Mays will release ""Harro"", their eighth work, on November 3rd."	prem61_hyp1	The band Zea Mays consists of five members.	1
+g1	dialectal	prem61	"Zea Mays will release ""Harro"", their eighth work, on November 3rd."	prem61_hyp2	The band Zea Mays has not released a single album.	2
+s2	noka	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp0	Orio won the first flag at La Concha.	0
+s2	noka	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp1	The Orio crew typically dresses in yellow.	1
+s2	noka	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp2	Hondarribia won the first flag of La Concha.	2
+s2	toka	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp0	Orio won the first flag at La Concha.	0
+s2	toka	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp1	The Orio crew typically dresses in yellow.	1
+s2	toka	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp2	Hondarribia won the first flag of La Concha.	2
+s2	dialectal	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp0	Orio won the first flag at La Concha.	0
+s2	dialectal	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp1	The Orio crew typically dresses in yellow.	1
+s2	dialectal	prem62	The same fishing crew won Orio's first flag at La Concha.	prem62_hyp2	Hondarribia won the first flag of La Concha.	2
+g2	dialectal	prem63	I have been in Rome with my children	prem63_hyp0	I was in Italy recently.	0
+g2	dialectal	prem63	I have been in Rome with my children	prem63_hyp1	My children love me very much.	1
+g2	dialectal	prem63	I have been in Rome with my children	prem63_hyp2	I have never been to Italy.	2
+g3	berridazketa	prem64	"Xabier Lete's play ""Gabon, Txirrita"" premiered in 1982."	prem64_hyp0	Gabon Txirrita is the name of a theater play.	0
+g3	berridazketa	prem64	"Xabier Lete's play ""Gabon, Txirrita"" premiered in 1982."	prem64_hyp1	Xabier Lete was an excellent singer.	1
+g3	berridazketa	prem64	"Xabier Lete's play ""Gabon, Txirrita"" premiered in 1982."	prem64_hyp2	Xabier Lete did not write any theatrical works.	2
+g2	dialectal	prem65	"Recently ""ORM in the Snow Kingdom"" was released, and soon ""The Lego Batman Movie"" will premiere"	prem65_hyp0	Animated films are usually dubbed into Basque.	0
+g2	dialectal	prem65	"Recently ""ORM in the Snow Kingdom"" was released, and soon ""The Lego Batman Movie"" will premiere"	prem65_hyp1	Fewer and fewer people are going to watch movies.	1
+g2	dialectal	prem65	"Recently ""ORM in the Snow Kingdom"" was released, and soon ""The Lego Batman Movie"" will premiere"	prem65_hyp2	ORM will be the last film to be screened in the Kingdom of Snow.	2
+g1	dialectal	prem66	Amazon offers artificial intelligence for schools and its cloud services, as well as Alexa Echo Dot and Alexa Echo Plus.	prem66_hyp0	Amazon has many products related to artificial intelligence.	0
+g1	dialectal	prem66	Amazon offers artificial intelligence for schools and its cloud services, as well as Alexa Echo Dot and Alexa Echo Plus.	prem66_hyp1	Amazon's products tend to be cheap.	1
+g1	dialectal	prem66	Amazon offers artificial intelligence for schools and its cloud services, as well as Alexa Echo Dot and Alexa Echo Plus.	prem66_hyp2	There are no artificial intelligence products directed at schools.	2
+g7	dialectal	prem67	The Basque language learning method developed by the University of Deusto in its time is interesting for taking the first steps in Basque.	prem67_hyp0	The University of Deusto has developed a method for learning Basque.	0
+g7	dialectal	prem67	The Basque language learning method developed by the University of Deusto in its time is interesting for taking the first steps in Basque.	prem67_hyp1	The University of Deusto has several schools and faculties.	1
+g7	dialectal	prem67	The Basque language learning method developed by the University of Deusto in its time is interesting for taking the first steps in Basque.	prem67_hyp2	The University of Deusto has developed material only for learning Spanish.	2
+s2	dialectal	prem68	If you want to know what your level of Basque is, the internet provides that opportunity.	prem68_hyp0	There is an opportunity to measure one's own level of Basque.	0
+s2	dialectal	prem68	If you want to know what your level of Basque is, the internet provides that opportunity.	prem68_hyp1	The usage level of the Basque language has been decreasing lately.	1
+s2	dialectal	prem68	If you want to know what your level of Basque is, the internet provides that opportunity.	prem68_hyp2	A face-to-face interview is mandatory to determine one's level of Basque language proficiency.	2
+s2	toka	prem68	If you wanted to know what your level of Basque is, the internet provides that opportunity.	prem68_hyp0	There is an opportunity to measure one's own level of Basque.	0
+s2	toka	prem68	If you wanted to know what your level of Basque is, the internet provides that opportunity.	prem68_hyp1	The usage level of the Basque language has been decreasing lately.	1
+s2	toka	prem68	If you wanted to know what your level of Basque is, the internet provides that opportunity.	prem68_hyp2	A face-to-face interview is mandatory to determine one's level of Basque language proficiency.	2
+s2	noka	prem68	If you wanted to know what your Basque level is, the network also gives you that option.	prem68_hyp0	There is an opportunity to measure one's own level of Basque.	0
+s2	noka	prem68	If you wanted to know what your Basque level is, the network also gives you that option.	prem68_hyp1	The usage level of the Basque language has been decreasing lately.	1
+s2	noka	prem68	If you wanted to know what your Basque level is, the network also gives you that option.	prem68_hyp2	A face-to-face interview is mandatory to determine one's level of Basque language proficiency.	2
+s2	dialectal	prem69	The electronic certificate contains the identification of the holder and is transmitted with a secure device or something similar.	prem69_hyp0	The certificate attempts to verify the identity of each person.	0
+s2	dialectal	prem69	The electronic certificate contains the identification of the holder and is transmitted with a secure device or something similar.	prem69_hyp1	There is no single technique to ensure the identification of the holder.	1
+s2	dialectal	prem69	The electronic certificate contains the identification of the holder and is transmitted with a secure device or something similar.	prem69_hyp2	The certificate transmits the raw information of the holder, without encryption.	2
+s2	noka	prem69	The certificate receives the identification of the holder in the electronic residence, and sends it with a secure device or something similar.	prem69_hyp0	The certificate attempts to verify the identity of each person.	0
+s2	noka	prem69	The certificate receives the identification of the holder in the electronic residence, and sends it with a secure device or something similar.	prem69_hyp1	There is no single technique to ensure the identification of the holder.	1
+s2	noka	prem69	The certificate receives the identification of the holder in the electronic residence, and sends it with a secure device or something similar.	prem69_hyp2	The certificate transmits the raw information of the holder, without encryption.	2
+s2	toka	prem69	Receiving the identification of the holder in the electronic headquarters with a certificate, and sending it with a secure device or something similar.	prem69_hyp0	The certificate attempts to verify the identity of each person.	0
+s2	toka	prem69	Receiving the identification of the holder in the electronic headquarters with a certificate, and sending it with a secure device or something similar.	prem69_hyp1	There is no single technique to ensure the identification of the holder.	1
+s2	toka	prem69	Receiving the identification of the holder in the electronic headquarters with a certificate, and sending it with a secure device or something similar.	prem69_hyp2	The certificate transmits the raw information of the holder, without encryption.	2
+g6	dialectal	prem70	Something that was funny two weeks ago might be completely over today.	prem70_hyp0	Jokes have a limited lifespan, they don't last forever.	0
+g6	dialectal	prem70	Something that was funny two weeks ago might be completely over today.	prem70_hyp1	What one friend finds funny, another doesn't like.	1
+g6	dialectal	prem70	Something that was funny two weeks ago might be completely over today.	prem70_hyp2	People like hearing the same jokes over and over again.	2
+s3	dialectal	prem71	It has modern facilities, free WiFi in all common areas, and 24-hour uninterrupted security service.	prem71_hyp0	You can connect to the internet if you go to that place.	0
+s3	dialectal	prem71	It has modern facilities, free WiFi in all common areas, and 24-hour uninterrupted security service.	prem71_hyp1	Renting that space is very expensive.	1
+s3	dialectal	prem71	It has modern facilities, free WiFi in all common areas, and 24-hour uninterrupted security service.	prem71_hyp2	The lack of security is noticeable in that space at night.	2
+s2	toka	prem72	We got a bit scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp0	It is a horror film.	0
+s2	toka	prem72	We got a bit scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+s2	toka	prem72	We got a bit scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+s2	dialectal	prem72	We got a bit scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp0	It is a horror film.	0
+s2	dialectal	prem72	We got a bit scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+s2	dialectal	prem72	We got a bit scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+s2	noka	prem72	We got quite scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp0	It is a horror film.	0
+s2	noka	prem72	We got quite scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+s2	noka	prem72	We got quite scared this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+s3	dialectal	prem72	A little while ago this month, the movie 'It Follows' directed by David Robert Mitchell was released.	prem72_hyp0	It is a horror film.	0
+s3	dialectal	prem72	A little while ago this month, the movie 'It Follows' directed by David Robert Mitchell was released.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+s3	dialectal	prem72	A little while ago this month, the movie 'It Follows' directed by David Robert Mitchell was released.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+s1	dialectal	prem72	I was a bit disappointed this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp0	It is a horror film.	0
+s1	dialectal	prem72	I was a bit disappointed this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+s1	dialectal	prem72	I was a bit disappointed this month with the movie 'It Follows' directed by David Robert Mitchell.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+s4	dialectal	prem72	We were a bit scared this month with the film 'It Follows' directed by David Robert Mitchell.	prem72_hyp0	It is a horror film.	0
+s4	dialectal	prem72	We were a bit scared this month with the film 'It Follows' directed by David Robert Mitchell.	prem72_hyp1	The film 'It Follows' is a sequel to the film 'It'.	1
+s4	dialectal	prem72	We were a bit scared this month with the film 'It Follows' directed by David Robert Mitchell.	prem72_hyp2	Director David Robert Mitchell only makes comedies.	2
+g3	berridazketa	prem73	The other 5 buildings have two floors; the ground floor contains industrial modules, and the upper floor has offices.	prem73_hyp0	The buildings are prepared for industrial use.	0
+g3	berridazketa	prem73	The other 5 buildings have two floors; the ground floor contains industrial modules, and the upper floor has offices.	prem73_hyp1	The buildings are very modern.	1
+g3	berridazketa	prem73	The other 5 buildings have two floors; the ground floor contains industrial modules, and the upper floor has offices.	prem73_hyp2	All buildings have a single floor.	2
+g2	dialectal	prem74	Almost all runners are using more Basque from now on!	prem74_hyp0	Many runners don't use Basque language.	0
+g2	dialectal	prem74	Almost all runners are using more Basque from now on!	prem74_hyp1	Running is generally healthy.	1
+g2	dialectal	prem74	Almost all runners are using more Basque from now on!	prem74_hyp2	Everyone who runs also speaks Basque.	2
+s4	dialectal	prem75	We still have the ability to influence public opinion.	prem75_hyp0	Public opinion can change.	0
+s4	dialectal	prem75	We still have the ability to influence public opinion.	prem75_hyp1	People have different opinions.	1
+s4	dialectal	prem75	We still have the ability to influence public opinion.	prem75_hyp2	Public opinion is firm.	2
+s2	noka	prem75	She still had something to say in public opinion.	prem75_hyp0	Public opinion can change.	0
+s2	noka	prem75	She still had something to say in public opinion.	prem75_hyp1	People have different opinions.	1
+s2	noka	prem75	She still had something to say in public opinion.	prem75_hyp2	Public opinion is firm.	2
+s2	toka	prem75	We still have time to influence public opinion.	prem75_hyp0	Public opinion can change.	0
+s2	toka	prem75	We still have time to influence public opinion.	prem75_hyp1	People have different opinions.	1
+s2	toka	prem75	We still have time to influence public opinion.	prem75_hyp2	Public opinion is firm.	2
+s2	dialectal	prem75	There is still the ability to shape public opinion.	prem75_hyp0	Public opinion can change.	0
+s2	dialectal	prem75	There is still the ability to shape public opinion.	prem75_hyp1	People have different opinions.	1
+s2	dialectal	prem75	There is still the ability to shape public opinion.	prem75_hyp2	Public opinion is firm.	2
+s1	dialectal	prem75	It still doesn't have the ability to influence public opinion.	prem75_hyp0	Public opinion can change.	0
+s1	dialectal	prem75	It still doesn't have the ability to influence public opinion.	prem75_hyp1	People have different opinions.	1
+s1	dialectal	prem75	It still doesn't have the ability to influence public opinion.	prem75_hyp2	Public opinion is firm.	2
+s3	dialectal	prem75	We still have the ability to influence public opinion.	prem75_hyp0	Public opinion can change.	0
+s3	dialectal	prem75	We still have the ability to influence public opinion.	prem75_hyp1	People have different opinions.	1
+s3	dialectal	prem75	We still have the ability to influence public opinion.	prem75_hyp2	Public opinion is firm.	2
+g1	dialectal	prem76	There are tons of articles, texts, videos, and audio on the Ikasbil website.	prem76_hyp0	No text, video, or audio can be found on the internet.	0
+g1	dialectal	prem76	There are tons of articles, texts, videos, and audio on the Ikasbil website.	prem76_hyp1	Iskanbil is a well-known internet website.	1
+g1	dialectal	prem76	There are tons of articles, texts, videos, and audio on the Ikasbil website.	prem76_hyp2	On the Iskanbil website, there is only text.	2
+g8	toka	prem76	There are thousands and thousands of articles, texts, videos and audios in Ikasibil.	prem76_hyp0	No text, video, or audio can be found on the internet.	0
+g8	toka	prem76	There are thousands and thousands of articles, texts, videos and audios in Ikasibil.	prem76_hyp1	Iskanbil is a well-known internet website.	1
+g8	toka	prem76	There are thousands and thousands of articles, texts, videos and audios in Ikasibil.	prem76_hyp2	On the Iskanbil website, there is only text.	2
+g4	dialectal	prem77	You will find detailed information about each procedure, process and service in the electronic office's catalog of procedures.	prem77_hyp0	Documentation explaining the procedure and operation of services is accessible.	0
+g4	dialectal	prem77	You will find detailed information about each procedure, process and service in the electronic office's catalog of procedures.	prem77_hyp1	Accessing the electronic headquarters is very complex.	1
+g4	dialectal	prem77	You will find detailed information about each procedure, process and service in the electronic office's catalog of procedures.	prem77_hyp2	No documentation is required to learn about procedures and services.	2
+g3	berridazketa	prem78	That company in Sondika has industrial and office modules, distributed across 5 buildings.	prem78_hyp0	Several companies have their headquarters located in Sondika.	0
+g3	berridazketa	prem78	That company in Sondika has industrial and office modules, distributed across 5 buildings.	prem78_hyp1	The Sondika Business Center is one of the most important in Bizkaia.	1
+g3	berridazketa	prem78	That company in Sondika has industrial and office modules, distributed across 5 buildings.	prem78_hyp2	The Sondika Business Center has two buildings.	2
+g1	dialectal	prem79	We are five people and I am the youngest	prem79_hyp0	There are friends of different ages in the group.	0
+g1	dialectal	prem79	We are five people and I am the youngest	prem79_hyp1	If we wanted to play mus, one out of five would have to sit out.	1
+g1	dialectal	prem79	We are five people and I am the youngest	prem79_hyp2	Five friends were born on the same day and year.	2
+g6	dialectal	prem80	The judge sentenced four young people from the neighborhood to six months in prison.	prem80_hyp0	There are several young people in the neighborhood who have received prison sentences.	0
+g6	dialectal	prem80	The judge sentenced four young people from the neighborhood to six months in prison.	prem80_hyp1	Since the prison sentence is less than two years, the four young people will not go to jail.	1
+g6	dialectal	prem80	The judge sentenced four young people from the neighborhood to six months in prison.	prem80_hyp2	The judge acquitted the four young people from the neighborhood.	2
+g7	dialectal	prem81	Miren and Andrea's relationship was clandestine from the beginning, because it existed outside of the normative couple model.	prem81_hyp0	Miren and Andrea are in a romantic relationship.	0
+g7	dialectal	prem81	Miren and Andrea's relationship was clandestine from the beginning, because it existed outside of the normative couple model.	prem81_hyp1	Homosexual relationships should be lived with normality.	1
+g7	dialectal	prem81	Miren and Andrea's relationship was clandestine from the beginning, because it existed outside of the normative couple model.	prem81_hyp2	Miren and Andrea's relationship was completely normal.	2
+g4	dialectal	prem82	It's an international festival, there are proposals from abroad, although there is also a presence of Basque groups	prem82_hyp0	International bands perform at this festival.	0
+g4	dialectal	prem82	It's an international festival, there are proposals from abroad, although there is also a presence of Basque groups	prem82_hyp1	Festivals are unparalleled opportunities to experience live music.	1
+g4	dialectal	prem82	It's an international festival, there are proposals from abroad, although there is also a presence of Basque groups	prem82_hyp2	Only one Basque band played at this festival.	2
+s4	dialectal	prem83	For the third consecutive year, the Santutxu Mountaineering Club has organized a timed hike, scheduled for Saturday, October 20th.	prem83_hyp0	The Santutxu Mountaineering Group regularly organizes mountain excursions.	0
+s4	dialectal	prem83	For the third consecutive year, the Santutxu Mountaineering Club has organized a timed hike, scheduled for Saturday, October 20th.	prem83_hyp1	Many people show up for the hiking excursions of Santutxu Mountaineering Group.	1
+s4	dialectal	prem83	For the third consecutive year, the Santutxu Mountaineering Club has organized a timed hike, scheduled for Saturday, October 20th.	prem83_hyp2	The Santutxu Mountaineering Group was formed last year.	2
+g4	dialectal	prem84	The album features R 'N' R style and southern rock with carefully crafted lyrics and arrangements	prem84_hyp0	It can be said that rock is the main style of the songs that make up the album.	0
+g4	dialectal	prem84	The album features R 'N' R style and southern rock with carefully crafted lyrics and arrangements	prem84_hyp1	Guitars dominate in southern rock songs.	1
+g4	dialectal	prem84	The album features R 'N' R style and southern rock with carefully crafted lyrics and arrangements	prem84_hyp2	All songs on the disc are instrumental.	2
+g5	dialectal	prem85	A clown takes photos of children and prepares a special invitation to distribute to 60 children.	prem85_hyp0	The children will receive a special invitation.	0
+g5	dialectal	prem85	A clown takes photos of children and prepares a special invitation to distribute to 60 children.	prem85_hyp1	Children always turn out well in photographs.	1
+g5	dialectal	prem85	A clown takes photos of children and prepares a special invitation to distribute to 60 children.	prem85_hyp2	The children took a photo of a parent.	2
+g5	dialectal	prem86	The Ertzaintza identified and arrested eleven people in Mobidata.	prem86_hyp0	The Ertzaintza (Basque police) arrested many people.	0
+g5	dialectal	prem86	The Ertzaintza identified and arrested eleven people in Mobidata.	prem86_hyp1	Many of the arrested people will be set free.	1
+g5	dialectal	prem86	The Ertzaintza identified and arrested eleven people in Mobidata.	prem86_hyp2	The Ertzaintza arrested all the people who participated in the riots.	2
+g1	dialectal	prem87	Before becoming a musician and writer, Xabier Lete worked as a theater actor.	prem87_hyp0	Xabier Lete was an artist who worked in multiple fields.	0
+g1	dialectal	prem87	Before becoming a musician and writer, Xabier Lete worked as a theater actor.	prem87_hyp1	Xabier Lete's voice was very pleasant.	1
+g1	dialectal	prem87	Before becoming a musician and writer, Xabier Lete worked as a theater actor.	prem87_hyp2	Xabier Lete did not pursue any artistic field until he started singing.	2
+s4	dialectal	prem88	In the last days, when there were only 3 kilometers left to reach Logroño, I met the daughter of Maria la de los Higos.	prem88_hyp0	I spent several days on the road to Logroño.	0
+s4	dialectal	prem88	In the last days, when there were only 3 kilometers left to reach Logroño, I met the daughter of Maria la de los Higos.	prem88_hyp1	Maria de los Higos's daughter is very friendly.	1
+s4	dialectal	prem88	In the last days, when there were only 3 kilometers left to reach Logroño, I met the daughter of Maria la de los Higos.	prem88_hyp2	All of Maria de los Higos's children were male.	2
+g7	dialectal	prem89	We know well that I am not a bird like them and they were not born to stay tied to one place.	prem89_hyp0	Both of our natures are very different.	0
+g7	dialectal	prem89	We know well that I am not a bird like them and they were not born to stay tied to one place.	prem89_hyp1	There are different personalities, and one is not better than the other.	1
+g7	dialectal	prem89	We know well that I am not a bird like them and they were not born to stay tied to one place.	prem89_hyp2	He/She prefers to stay at home rather than travel abroad.	2
+g7	dialectal	prem90	They will celebrate their fourth year at the Occupation Office on October 20th.	prem90_hyp0	The anniversary of the Occupation Office is celebrated in autumn.	0
+g7	dialectal	prem90	They will celebrate their fourth year at the Occupation Office on October 20th.	prem90_hyp1	Next year they will celebrate the anniversary of the Occupation Office in San Sebastian.	1
+g7	dialectal	prem90	They will celebrate their fourth year at the Occupation Office on October 20th.	prem90_hyp2	Last year, they celebrated the fourth anniversary of the Occupation Office.	2
+g3	berridazketa	prem91	Basque will be the language used as decided by parents or guardians	prem91_hyp0	Parents and tutors have decided that participants will speak in Basque.	0
+g3	berridazketa	prem91	Basque will be the language used as decided by parents or guardians	prem91_hyp1	Parents and guardians have decided to speak Basque with their children.	1
+g3	berridazketa	prem91	Basque will be the language used as decided by parents or guardians	prem91_hyp2	The participants have decided that parents and guardians will speak in Basque.	2
+g4	dialectal	prem92	Friend Aro has put up a notice written only in Spanish on both sides of the door at the Benta Berri branch in Antiguo.	prem92_hyp0	The notices placed by friend Aro in the Antigua's Benta Berri branch were written in Spanish.	0
+g4	dialectal	prem92	Friend Aro has put up a notice written only in Spanish on both sides of the door at the Benta Berri branch in Antiguo.	prem92_hyp1	The notices placed by friend Aro at the Benta Berri branch in Antiguo were well written.	1
+g4	dialectal	prem92	Friend Aro has put up a notice written only in Spanish on both sides of the door at the Benta Berri branch in Antiguo.	prem92_hyp2	The notices placed by friend Aro in the Benta Berri branch in Antiguo were written in English.	2
+s4	dialectal	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+s4	dialectal	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+s4	dialectal	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+s2	toka	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+s2	toka	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+s2	toka	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+s3	dialectal	prem93	All police torture allegations received, including those against the Ertzaintza.	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+s3	dialectal	prem93	All police torture allegations received, including those against the Ertzaintza.	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+s3	dialectal	prem93	All police torture allegations received, including those against the Ertzaintza.	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+s2	noka	prem93	Torture complaints have been received against all police forces, including the Ertzaintza.	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+s2	noka	prem93	Torture complaints have been received against all police forces, including the Ertzaintza.	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+s2	noka	prem93	Torture complaints have been received against all police forces, including the Ertzaintza.	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+s2	dialectal	prem93	All police have received torture complaints, including the Ertzaintza (Basque Police).	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+s2	dialectal	prem93	All police have received torture complaints, including the Ertzaintza (Basque Police).	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+s2	dialectal	prem93	All police have received torture complaints, including the Ertzaintza (Basque Police).	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+s1	dialectal	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp0	They have reported that the Ertzaintza has also committed torture.	0
+s1	dialectal	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp1	The Ertzaintza has reported cases of police torture.	1
+s1	dialectal	prem93	Torture allegations have been received against all police forces, including the Ertzaintza.	prem93_hyp2	The Ertzaintza has been cleared of torture allegations.	2
+s3	dialectal	prem94	My sister wanted to recover Grandma Jesus's madeleine recipe from home.	prem94_hyp0	Grandmother Jesusa had a recipe for making madeleines.	0
+s3	dialectal	prem94	My sister wanted to recover Grandma Jesus's madeleine recipe from home.	prem94_hyp1	Only my sister likes the magdalenas (muffins) made by Grandmother Jexuxa.	1
+s3	dialectal	prem94	My sister wanted to recover Grandma Jesus's madeleine recipe from home.	prem94_hyp2	Grandmother Jexuxa wanted to recover my sister's recipe for making madeleines.	2
+s3	dialectal	prem95	No in-person identification is required to activate and send BAK: It is done online from home.	prem95_hyp0	You can request to have your BAK activated and sent to you online.	0
+s3	dialectal	prem95	No in-person identification is required to activate and send BAK: It is done online from home.	prem95_hyp1	You can request the cancellation of your BAK online.	1
+s3	dialectal	prem95	No in-person identification is required to activate and send BAK: It is done online from home.	prem95_hyp2	You need to request the BAK online and have it activated and sent to you.	2
+s2	noka	prem96	I was only able to save three photographs.	prem96_hyp0	I haven't had the chance to save four photos.	0
+s2	noka	prem96	I was only able to save three photographs.	prem96_hyp1	He/She had four photographs saved.	1
+s2	noka	prem96	I was only able to save three photographs.	prem96_hyp2	I only have four pictures saved.	2
+s2	dialectal	prem96	I could only save three photos	prem96_hyp0	I haven't had the chance to save four photos.	0
+s2	dialectal	prem96	I could only save three photos	prem96_hyp1	He/She had four photographs saved.	1
+s2	dialectal	prem96	I could only save three photos	prem96_hyp2	I only have four pictures saved.	2
+s2	toka	prem96	It could only save three photos for me.	prem96_hyp0	I haven't had the chance to save four photos.	0
+s2	toka	prem96	It could only save three photos for me.	prem96_hyp1	He/She had four photographs saved.	1
+s2	toka	prem96	It could only save three photos for me.	prem96_hyp2	I only have four pictures saved.	2
+s4	dialectal	prem96	I was only able to save three photos.	prem96_hyp0	I haven't had the chance to save four photos.	0
+s4	dialectal	prem96	I was only able to save three photos.	prem96_hyp1	He/She had four photographs saved.	1
+s4	dialectal	prem96	I was only able to save three photos.	prem96_hyp2	I only have four pictures saved.	2
+s3	dialectal	prem96	Only three portraits could be saved.	prem96_hyp0	I haven't had the chance to save four photos.	0
+s3	dialectal	prem96	Only three portraits could be saved.	prem96_hyp1	He/She had four photographs saved.	1
+s3	dialectal	prem96	Only three portraits could be saved.	prem96_hyp2	I only have four pictures saved.	2
+s1	dialectal	prem96	I was only able to save three photos.	prem96_hyp0	I haven't had the chance to save four photos.	0
+s1	dialectal	prem96	I was only able to save three photos.	prem96_hyp1	He/She had four photographs saved.	1
+s1	dialectal	prem96	I was only able to save three photos.	prem96_hyp2	I only have four pictures saved.	2
+g3	dialectal	prem97	On Saturday, we were invited to watch a horror movie	prem97_hyp0	We were invited to watch a movie at the Horror Film Festival.	0
+g3	dialectal	prem97	On Saturday, we were invited to watch a horror movie	prem97_hyp1	We went to watch a movie at the Horror Film Festival.	1
+g3	dialectal	prem97	On Saturday, we were invited to watch a horror movie	prem97_hyp2	We were invited to participate in a film at the Horror Film Festival.	2
+g8	toka	prem98	Euskadiko Kutxa has once again placed a worker who doesn't know Basque to handle tax returns at the branch on Matia Street in Antiguo, San Sebastian.	prem98_hyp0	The employee who helps with tax returns at the Matia Street branch of Euskadiko Kutxa in Antiguo speaks only Spanish (is monolingual Spanish-speaking).	0
+g8	toka	prem98	Euskadiko Kutxa has once again placed a worker who doesn't know Basque to handle tax returns at the branch on Matia Street in Antiguo, San Sebastian.	prem98_hyp1	The employees at the Euskadiko Kutxa branch on Matia Street in Antiguo speak only in Spanish.	1
+g8	toka	prem98	Euskadiko Kutxa has once again placed a worker who doesn't know Basque to handle tax returns at the branch on Matia Street in Antiguo, San Sebastian.	prem98_hyp2	The employees at the Kutxa Bank branch on Matia Street in Antiguo (San Sebastian) speak only in Basque.	2
+s4	dialectal	prem98	Euskadiko Kutxa has once again placed a non-Basque speaking employee at the branch office on Matia Street in Antiguo, San Sebastian.	prem98_hyp0	The employee who helps with tax returns at the Matia Street branch of Euskadiko Kutxa in Antiguo speaks only Spanish (is monolingual Spanish-speaking).	0
+s4	dialectal	prem98	Euskadiko Kutxa has once again placed a non-Basque speaking employee at the branch office on Matia Street in Antiguo, San Sebastian.	prem98_hyp1	The employees at the Euskadiko Kutxa branch on Matia Street in Antiguo speak only in Spanish.	1
+s4	dialectal	prem98	Euskadiko Kutxa has once again placed a non-Basque speaking employee at the branch office on Matia Street in Antiguo, San Sebastian.	prem98_hyp2	The employees at the Kutxa Bank branch on Matia Street in Antiguo (San Sebastian) speak only in Basque.	2
+g1	dialectal	prem99	Humor between nurses makes everything more bearable.	prem99_hyp0	When nurses joke among themselves, everything becomes more bearable.	0
+g1	dialectal	prem99	Humor between nurses makes everything more bearable.	prem99_hyp1	Nurses being in good humor helps patients a lot.	1
+g1	dialectal	prem99	Humor between nurses makes everything more bearable.	prem99_hyp2	Nurses are forbidden to use humor.	2
+g8	toka	prem99	The humor between nurses makes everything more bearable.	prem99_hyp0	When nurses joke among themselves, everything becomes more bearable.	0
+g8	toka	prem99	The humor between nurses makes everything more bearable.	prem99_hyp1	Nurses being in good humor helps patients a lot.	1
+g8	toka	prem99	The humor between nurses makes everything more bearable.	prem99_hyp2	Nurses are forbidden to use humor.	2
+s4	dialectal	prem99	Humor among nurses makes everything more bearable.	prem99_hyp0	When nurses joke among themselves, everything becomes more bearable.	0
+s4	dialectal	prem99	Humor among nurses makes everything more bearable.	prem99_hyp1	Nurses being in good humor helps patients a lot.	1
+s4	dialectal	prem99	Humor among nurses makes everything more bearable.	prem99_hyp2	Nurses are forbidden to use humor.	2
+g4	dialectal	prem100	In addition to the obvious damages brought by the pandemic, what happened has dramatically highlighted and exposed the weaknesses of the European Union and, among other things, has shown the decline in European technological innovation and the lack of industrial leadership.	prem100_hyp0	What has happened has made it clear that, besides the damage caused by the pandemic, the European Union is weak and is not a world leader in technological and industrial innovation.	0
+g4	dialectal	prem100	In addition to the obvious damages brought by the pandemic, what happened has dramatically highlighted and exposed the weaknesses of the European Union and, among other things, has shown the decline in European technological innovation and the lack of industrial leadership.	prem100_hyp1	What has happened has made it clear that, due to the damage caused by the pandemic, the European Union must regain its leadership in technological and industrial innovation in the world.	1
+g4	dialectal	prem100	In addition to the obvious damages brought by the pandemic, what happened has dramatically highlighted and exposed the weaknesses of the European Union and, among other things, has shown the decline in European technological innovation and the lack of industrial leadership.	prem100_hyp2	What happened has made it clear that, in addition to the damages caused by the pandemic, the European Union is weak but remains a world leader in technological and industrial innovation.	2
+g4	dialectal	prem101	People who do not obtain a spot are placed on the waiting list, in the same order as the draw	prem101_hyp0	If you don't get a spot, you will be placed on the waiting list, maintaining the order of the draw.	0
+g4	dialectal	prem101	People who do not obtain a spot are placed on the waiting list, in the same order as the draw	prem101_hyp1	People who do not obtain a spot have the opportunity to participate in a lottery.	1
+g4	dialectal	prem101	People who do not obtain a spot are placed on the waiting list, in the same order as the draw	prem101_hyp2	If you don't get a spot, you will be entered into a draw to determine your position on the waiting list.	2
+s1	dialectal	prem102	If we don't imagine ourselves, they will imagine us.	prem102_hyp0	If we don't imagine ourselves, others will imagine us.	0
+s1	dialectal	prem102	If we don't imagine ourselves, they will imagine us.	prem102_hyp1	If we don't make ourselves visible, misconceptions about us will multiply.	1
+s1	dialectal	prem102	If we don't imagine ourselves, they will imagine us.	prem102_hyp2	If we don't imagine ourselves, representations of us will cease to exist.	2
+g4	dialectal	prem103	The Basque Government has emphasized that in 2003 it began implementing the Protocol for the Prevention of Mistreatment by the Ertzaintza to strengthen the legal guarantees for detainees	prem103_hyp0	The Ertzaintza Protocol for the Prevention of Mistreatment has been in force since 2003 to guarantee the rights of detainees, according to the Basque Government.	0
+g4	dialectal	prem103	The Basque Government has emphasized that in 2003 it began implementing the Protocol for the Prevention of Mistreatment by the Ertzaintza to strengthen the legal guarantees for detainees	prem103_hyp1	The Basque Government began developing the Ertzaintza Protocol for the Prevention of Mistreatment in January 2003 to strengthen legal guarantees for detainees.	1
+g4	dialectal	prem103	The Basque Government has emphasized that in 2003 it began implementing the Protocol for the Prevention of Mistreatment by the Ertzaintza to strengthen the legal guarantees for detainees	prem103_hyp2	According to the Basque Government, the Ertzaintza (Basque Police) began implementing the Protocol for the Prevention of Mistreatment in 2003 to expedite the process of prisoner release.	2
+g5	dialectal	prem104	In the heteropatriarchy, compensations exist within households, and affective-sexual relationships built on romantic love are an example of these.	prem104_hyp0	Affective-sexual relationships built on romantic love demonstrate that the influence of heteropatriarchy is everywhere.	0
+g5	dialectal	prem104	In the heteropatriarchy, compensations exist within households, and affective-sexual relationships built on romantic love are an example of these.	prem104_hyp1	We must take into account what affective-sexual relationships built on romantic love express.	1
+g5	dialectal	prem104	In the heteropatriarchy, compensations exist within households, and affective-sexual relationships built on romantic love are an example of these.	prem104_hyp2	Affective-sexual relationships built on romantic love are accustomed to fighting against heteropatriarchy.	2
+g7	dialectal	prem105	For the first time, I read a book as an ebook and I liked the experience.	prem105_hyp0	This is the only book I have read in ebook format and it was a pleasant experience.	0
+g7	dialectal	prem105	For the first time, I read a book as an ebook and I liked the experience.	prem105_hyp1	I didn't expect that the first book I would read on an ebook would be such a lovely experience.	1
+g7	dialectal	prem105	For the first time, I read a book as an ebook and I liked the experience.	prem105_hyp2	Although I had already read a book in ebook format, I enjoyed the experience.	2
+g3	berridazketa	prem106	Andy Hippy Baldwin has been doing the mastering again at Metropolis Studios in London.	prem106_hyp0	Andy Hippy Baldwin from London's Metropolis studio has once again helped with the mastering work.	0
+g3	berridazketa	prem106	Andy Hippy Baldwin has been doing the mastering again at Metropolis Studios in London.	prem106_hyp1	"Andy ""Hippy"" Baldwin did all the mastering work at Metropolis Studios in London."	1
+g3	berridazketa	prem106	Andy Hippy Baldwin has been doing the mastering again at Metropolis Studios in London.	prem106_hyp2	Andy Hippy Baldwin worked on the mastering for the first time at Metropolis Studios in London.	2
+g8	toka	prem107	On December 4, 2018, the company changed its name and purpose, with the intention of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp0	At the end of 2018, the company's name and purpose were changed with the aim of extending its activities to the Left Bank and Txorierri areas.	0
+g8	toka	prem107	On December 4, 2018, the company changed its name and purpose, with the intention of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp1	In 2018, in addition to changing the company's name and purpose, it also changed its type of activity.	1
+g8	toka	prem107	On December 4, 2018, the company changed its name and purpose, with the intention of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp2	On December 4, 2018, the company changed its name and purpose with the intention of expanding its scope of activity to all areas of Bilbao.	2
+s4	dialectal	prem107	On December 4, 2018, the company changed its name and purpose, with the intention of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp0	At the end of 2018, the company's name and purpose were changed with the aim of extending its activities to the Left Bank and Txorierri areas.	0
+s4	dialectal	prem107	On December 4, 2018, the company changed its name and purpose, with the intention of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp1	In 2018, in addition to changing the company's name and purpose, it also changed its type of activity.	1
+s4	dialectal	prem107	On December 4, 2018, the company changed its name and purpose, with the intention of expanding its area of activity to the Left Bank and Txorierri.	prem107_hyp2	On December 4, 2018, the company changed its name and purpose with the intention of expanding its scope of activity to all areas of Bilbao.	2
+g6	dialectal	prem108	This award ceremony is to recognize the value of translations from Basque.	prem108_hyp0	The purpose of this award ceremony is to celebrate the value of translations made from Basque.	0
+g6	dialectal	prem108	This award ceremony is to recognize the value of translations from Basque.	prem108_hyp1	The sole purpose of this award ceremony is to give value to translations made from Basque.	1
+g6	dialectal	prem108	This award ceremony is to recognize the value of translations from Basque.	prem108_hyp2	This award ceremony aims to highlight the value of translations made into the Basque language.	2
+g5	dialectal	prem109	We got into this mess a long time ago and now there's no turning back.	prem109_hyp0	We have had this conflict for a long time and we cannot back down.	0
+g5	dialectal	prem109	We got into this mess a long time ago and now there's no turning back.	prem109_hyp1	We started fighting long ago and we have no way of winning.	1
+g5	dialectal	prem109	We got into this mess a long time ago and now there's no turning back.	prem109_hyp2	We entered this fight recently and there's no turning back.	2
+g2	dialectal	prem110	You always have to break some law to win from the right	prem110_hyp0	If you want to gain more rights, you always have to do something that is forbidden.	0
+g2	dialectal	prem110	You always have to break some law to win from the right	prem110_hyp1	The more laws you break, the more rights you gain.	1
+g2	dialectal	prem110	You always have to break some law to win from the right	prem110_hyp2	More rights are always achieved when laws are respected.	2
+g2	dialectal	prem111	The guide provided interesting data and it was very entertaining	prem111_hyp0	The interesting data provided by the guide has made the experience entertaining.	0
+g2	dialectal	prem111	The guide provided interesting data and it was very entertaining	prem111_hyp1	The driver entertained himself by providing data that was interesting to him.	1
+g2	dialectal	prem111	The guide provided interesting data and it was very entertaining	prem111_hyp2	Although the data provided by the driver was of little interest, it was an entertaining experience.	2
+g6	dialectal	prem112	It was a long-held dream to visit Prague.	prem112_hyp0	She/He has had a strong desire to visit Prague for a long time.	0
+g6	dialectal	prem112	It was a long-held dream to visit Prague.	prem112_hyp1	He/She has dreamed that he/she visited Prague.	1
+g6	dialectal	prem112	It was a long-held dream to visit Prague.	prem112_hyp2	He/She has known Prague for a long time.	2
+g4	dialectal	prem113	Those of us in the Basque language world know well how exhausting it is to defend our interests.	prem113_hyp0	Those of us who work in the world of Basque know how tiring it is to defend our interests.	0
+g4	dialectal	prem113	Those of us in the Basque language world know well how exhausting it is to defend our interests.	prem113_hyp1	Those of us in the Basque language world are tired of defending our interests.	1
+g4	dialectal	prem113	Those of us in the Basque language world know well how exhausting it is to defend our interests.	prem113_hyp2	Those of us in the Basque language world have a good time defending our interests.	2
+g4	dialectal	prem114	Amazon has filed a patent for drone delivery	prem114_hyp0	Amazon has submitted a patent for delivering packages with drones.	0
+g4	dialectal	prem114	Amazon has filed a patent for drone delivery	prem114_hyp1	Amazon has distributed drones for submitting patents.	1
+g4	dialectal	prem114	Amazon has filed a patent for drone delivery	prem114_hyp2	Amazon is waiting for the patent to make deliveries with drones.	2
+g4	dialectal	prem115	Many Santutxu residents have gathered near the Gaztetxe to protest against its closure	prem115_hyp0	Many people who live in Santutxu have come to demand that the youth center remain open.	0
+g4	dialectal	prem115	Many Santutxu residents have gathered near the Gaztetxe to protest against its closure	prem115_hyp1	Many Santutxu residents have surrounded the youth center to protest against its closure.	1
+g4	dialectal	prem115	Many Santutxu residents have gathered near the Gaztetxe to protest against its closure	prem115_hyp2	Many residents of Santutxu have approached to request the closure of the youth center.	2
+g3	berridazketa	prem116	Music has been very important in my life.	prem116_hyp0	I have felt the importance of music throughout life.	0
+g3	berridazketa	prem116	Music has been very important in my life.	prem116_hyp1	Music is said to be very important in life.	1
+g3	berridazketa	prem116	Music has been very important in my life.	prem116_hyp2	The current importance of music in my life is new.	2
+g5	dialectal	prem117	Force is natural, therefore its use cannot be good or bad as an absolute value.	prem117_hyp0	Since force is natural, there is no absolute way to say whether its use is good or bad.	0
+g5	dialectal	prem117	Force is natural, therefore its use cannot be good or bad as an absolute value.	prem117_hyp1	We cannot normalize judging whether someone who has resorted to using force is good or bad.	1
+g5	dialectal	prem117	Force is natural, therefore its use cannot be good or bad as an absolute value.	prem117_hyp2	Absolute values are nothing more natural than determining whether the use of force is good or bad.	2
+s1	dialectal	prem118	At specific moments, people's response shows their commitment clearly.	prem118_hyp0	People respond to problems at specific moments.	0
+s1	dialectal	prem118	At specific moments, people's response shows their commitment clearly.	prem118_hyp1	People are always ready to do anything.	1
+s1	dialectal	prem118	At specific moments, people's response shows their commitment clearly.	prem118_hyp2	At specific moments people become afraid	2
+s2	noka	prem118	People's response and commitment become clearly visible at specific moments.	prem118_hyp0	People respond to problems at specific moments.	0
+s2	noka	prem118	People's response and commitment become clearly visible at specific moments.	prem118_hyp1	People are always ready to do anything.	1
+s2	noka	prem118	People's response and commitment become clearly visible at specific moments.	prem118_hyp2	At specific moments people become afraid	2
+s4	dialectal	prem118	At specific moments, people's response and commitment are clearly shown.	prem118_hyp0	People respond to problems at specific moments.	0
+s4	dialectal	prem118	At specific moments, people's response and commitment are clearly shown.	prem118_hyp1	People are always ready to do anything.	1
+s4	dialectal	prem118	At specific moments, people's response and commitment are clearly shown.	prem118_hyp2	At specific moments people become afraid	2
+s3	dialectal	prem118	At specific moments, you can clearly see people's response and commitment.	prem118_hyp0	People respond to problems at specific moments.	0
+s3	dialectal	prem118	At specific moments, you can clearly see people's response and commitment.	prem118_hyp1	People are always ready to do anything.	1
+s3	dialectal	prem118	At specific moments, you can clearly see people's response and commitment.	prem118_hyp2	At specific moments people become afraid	2
+s2	toka	prem118	To clearly show people's response and commitment at specific moments.	prem118_hyp0	People respond to problems at specific moments.	0
+s2	toka	prem118	To clearly show people's response and commitment at specific moments.	prem118_hyp1	People are always ready to do anything.	1
+s2	toka	prem118	To clearly show people's response and commitment at specific moments.	prem118_hyp2	At specific moments people become afraid	2
+s2	dialectal	prem118	To clearly show people's response and commitment at specific moments	prem118_hyp0	People respond to problems at specific moments.	0
+s2	dialectal	prem118	To clearly show people's response and commitment at specific moments	prem118_hyp1	People are always ready to do anything.	1
+s2	dialectal	prem118	To clearly show people's response and commitment at specific moments	prem118_hyp2	At specific moments people become afraid	2
+g7	dialectal	prem119	The objective for tomorrow will be to contribute to the 18 projects that have been proposed within the Gazteok Eraikitzen (Youth Building) dynamic.	prem119_hyp0	Among the projects is the construction of a new youth center.	0
+g7	dialectal	prem119	The objective for tomorrow will be to contribute to the 18 projects that have been proposed within the Gazteok Eraikitzen (Youth Building) dynamic.	prem119_hyp1	Gazteok Eraikitzen was founded in March 2018.	1
+g7	dialectal	prem119	The objective for tomorrow will be to contribute to the 18 projects that have been proposed within the Gazteok Eraikitzen (Youth Building) dynamic.	prem119_hyp2	Tomorrow's contribution will be moved to next week.	2
+s4	dialectal	prem120	If I learn another language, but others don't respect mine, speaking their language isn't a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp0	If another person doesn't respect my language, one thing is clear: their parents didn't raise their children well.	0
+s4	dialectal	prem120	If I learn another language, but others don't respect mine, speaking their language isn't a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp1	Learning other languages is good for people.	1
+s4	dialectal	prem120	If I learn another language, but others don't respect mine, speaking their language isn't a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp2	It is necessary to respect other languages.	2
+g8	toka	prem120	If I learn another language, but others don't respect mine, speaking their language is not a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp0	If another person doesn't respect my language, one thing is clear: their parents didn't raise their children well.	0
+g8	toka	prem120	If I learn another language, but others don't respect mine, speaking their language is not a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp1	Learning other languages is good for people.	1
+g8	toka	prem120	If I learn another language, but others don't respect mine, speaking their language is not a gesture of openness, but rather a gesture of dependency and submission.	prem120_hyp2	It is necessary to respect other languages.	2
+g3	berridazketa	prem121	What a beautiful place this is, with the sea and mountain together	prem121_hyp0	You can find beauty where the mountain and the sea meet.	0
+g3	berridazketa	prem121	What a beautiful place this is, with the sea and mountain together	prem121_hyp1	The world is full of beautiful places.	1
+g3	berridazketa	prem121	What a beautiful place this is, with the sea and mountain together	prem121_hyp2	The mountains and seas are filled with garbage.	2
+g5	dialectal	prem122	Here are tools proposed to give a boost to the dynamics in any association, company, or organization.	prem122_hyp0	The best way to change dynamics is to put yourself in someone else's shoes.	0
+g5	dialectal	prem122	Here are tools proposed to give a boost to the dynamics in any association, company, or organization.	prem122_hyp1	Changing dynamics opens people's minds.	1
+g5	dialectal	prem122	Here are tools proposed to give a boost to the dynamics in any association, company, or organization.	prem122_hyp2	Changing dynamics can bring many problems, for example discomfort.	2
+s3	dialectal	prem123	Lucia is married to a man.	prem123_hyp0	A man is married to Lucia.	0
+s3	dialectal	prem123	Lucia is married to a man.	prem123_hyp1	Men and women often get married.	1
+s3	dialectal	prem123	Lucia is married to a man.	prem123_hyp2	Lucia is divorced.	2
+s2	toka	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete.	prem124_hyp0	Lete won many awards for his theatrical play.	0
+s2	toka	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete.	prem124_hyp1	Plays have been performed for 500 years.	1
+s2	toka	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete.	prem124_hyp2	Lete has not worked from so many perspectives.	2
+s2	dialectal	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete.	prem124_hyp0	Lete won many awards for his theatrical play.	0
+s2	dialectal	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete.	prem124_hyp1	Plays have been performed for 500 years.	1
+s2	dialectal	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete.	prem124_hyp2	Lete has not worked from so many perspectives.	2
+s2	noka	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete did.	prem124_hyp0	Lete won many awards for his theatrical play.	0
+s2	noka	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete did.	prem124_hyp1	Plays have been performed for 500 years.	1
+s2	noka	prem124	No one in the Basque Country has practiced theater from as many perspectives as Lete did.	prem124_hyp2	Lete has not worked from so many perspectives.	2
+g7	dialectal	prem125	Last year I decided that I needed to celebrate my 40th year really well and frequently.	prem125_hyp0	I had the party of a lifetime at my 40th birthday.	0
+g7	dialectal	prem125	Last year I decided that I needed to celebrate my 40th year really well and frequently.	prem125_hyp1	Anniversaries are important.	1
+g7	dialectal	prem125	Last year I decided that I needed to celebrate my 40th year really well and frequently.	prem125_hyp2	I forgot my 40th anniversary.	2
+g1	dialectal	prem126	The company is managed by an Administrative Council that includes representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp0	Among the political parties are PP, PNV, PSO, and Sumar.	0
+g1	dialectal	prem126	The company is managed by an Administrative Council that includes representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp1	The City Council works together with the Basque Government.	1
+g1	dialectal	prem126	The company is managed by an Administrative Council that includes representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp2	The city council belongs not to politicians, but to civil servants and citizens.	2
+g8	toka	prem126	The company is directed by an Administrative Council that has representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp0	Among the political parties are PP, PNV, PSO, and Sumar.	0
+g8	toka	prem126	The company is directed by an Administrative Council that has representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp1	The City Council works together with the Basque Government.	1
+g8	toka	prem126	The company is directed by an Administrative Council that has representatives from all political parties, and the General Assembly is the City Council itself.	prem126_hyp2	The city council belongs not to politicians, but to civil servants and citizens.	2
+g6	dialectal	prem127	From the beginning, they set their goal: for our children to speak equally well in both languages.	prem127_hyp0	Our goal is to have children.	0
+g6	dialectal	prem127	From the beginning, they set their goal: for our children to speak equally well in both languages.	prem127_hyp1	Everyone's children should be bilingual.	1
+g6	dialectal	prem127	From the beginning, they set their goal: for our children to speak equally well in both languages.	prem127_hyp2	They don't want children.	2
+g7	dialectal	prem128	On May 1, 2016, the ADES speleology association discovered important cave paintings in the Armintxe cave in Lekeitio.	prem128_hyp0	The cave art depicted a bison hunt.	0
+g7	dialectal	prem128	On May 1, 2016, the ADES speleology association discovered important cave paintings in the Armintxe cave in Lekeitio.	prem128_hyp1	The oldest cave art dates back to 600 BC.	1
+g7	dialectal	prem128	On May 1, 2016, the ADES speleology association discovered important cave paintings in the Armintxe cave in Lekeitio.	prem128_hyp2	Cave art was a graffiti.	2
+g2	dialectal	prem129	And we bought sweet bread at the Mormon farmhouse	prem129_hyp0	The bread made by the Mormons is very delicious.	0
+g2	dialectal	prem129	And we bought sweet bread at the Mormon farmhouse	prem129_hyp1	The bread is good for one or two days.	1
+g2	dialectal	prem129	And we bought sweet bread at the Mormon farmhouse	prem129_hyp2	The bread we bought from the mummies is hard and tasteless	2
+g6	dialectal	prem130	Although you reported the torture, the news did not spread.	prem130_hyp0	They tortured that poor fellow for 3 years.	0
+g6	dialectal	prem130	Although you reported the torture, the news did not spread.	prem130_hyp1	Torturing someone is the worst thing in the world.	1
+g6	dialectal	prem130	Although you reported the torture, the news did not spread.	prem130_hyp2	The fact that they had tortured took the world by surprise.	2
+g2	dialectal	prem131	Their mood is very changeable, it fluctuates a lot	prem131_hyp0	We have always known that their/his/her mood is changeable.	0
+g2	dialectal	prem131	Their mood is very changeable, it fluctuates a lot	prem131_hyp1	A person's mood is not always the same.	1
+g2	dialectal	prem131	Their mood is very changeable, it fluctuates a lot	prem131_hyp2	He/She is always happy.	2
+s4	dialectal	prem132	You can go to San Sebastian by public transport, or park in one of the surrounding neighborhoods, or in a paid parking lot.	prem132_hyp0	If you're taking public transportation, take the bus, don't even think about taking the train.	0
+s4	dialectal	prem132	You can go to San Sebastian by public transport, or park in one of the surrounding neighborhoods, or in a paid parking lot.	prem132_hyp1	The bus transportation from Bilbao to Donostia takes approximately one and a half hours.	1
+s4	dialectal	prem132	You can go to San Sebastian by public transport, or park in one of the surrounding neighborhoods, or in a paid parking lot.	prem132_hyp2	Don't go to San Sebastian, everything is very expensive.	2
+g4	dialectal	prem133	The documentary will begin at six in the afternoon at the Uztaldi youth center.	prem133_hyp0	The youth center Uztaldi is open in the afternoons.	0
+g4	dialectal	prem133	The documentary will begin at six in the afternoon at the Uztaldi youth center.	prem133_hyp1	The youth center is full of young people.	1
+g4	dialectal	prem133	The documentary will begin at six in the afternoon at the Uztaldi youth center.	prem133_hyp2	The young Uztaldi's television has broken.	2
+s4	dialectal	prem134	Happy endings promised by monogamous fidelity are not as common as believed.	prem134_hyp0	You have to work to have a happy ending.	0
+s4	dialectal	prem134	Happy endings promised by monogamous fidelity are not as common as believed.	prem134_hyp1	Monogamy and polygamy are opposites.	1
+s4	dialectal	prem134	Happy endings promised by monogamous fidelity are not as common as believed.	prem134_hyp2	Monogamy, like in fairy tales, always brings a happy ending.	2
+g8	toka	prem134	Happy endings promised by monogamous fidelity are not as common as you might think.	prem134_hyp0	You have to work to have a happy ending.	0
+g8	toka	prem134	Happy endings promised by monogamous fidelity are not as common as you might think.	prem134_hyp1	Monogamy and polygamy are opposites.	1
+g8	toka	prem134	Happy endings promised by monogamous fidelity are not as common as you might think.	prem134_hyp2	Monogamy, like in fairy tales, always brings a happy ending.	2
+g2	dialectal	prem135	To counter an imposed reality, one must first generate their own power	prem135_hyp0	Strength alone is not enough, perseverance is also needed.	0
+g2	dialectal	prem135	To counter an imposed reality, one must first generate their own power	prem135_hyp1	First you need to be ready to face a reality.	1
+g2	dialectal	prem135	To counter an imposed reality, one must first generate their own power	prem135_hyp2	Communication is the first step against a forcefully imposed reality.	2
+g4	dialectal	prem136	Along with the Leisure Time Monitor and Director courses, it is among the Official Certifications issued by the Basque Government.	prem136_hyp0	The Leisure Time Monitor course is 150 hours long and can be taken in either extensive or intensive format.	0
+g4	dialectal	prem136	Along with the Leisure Time Monitor and Director courses, it is among the Official Certifications issued by the Basque Government.	prem136_hyp1	Courses are the best ways to learn new things.	1
+g4	dialectal	prem136	Along with the Leisure Time Monitor and Director courses, it is among the Official Certifications issued by the Basque Government.	prem136_hyp2	The Leisure Time Monitor course is among the Official Qualifications extended by the central government.	2
+s2	toka	prem137	The ON Bizkaia Awards recognize the contribution made by companies in creating economic activity and jobs.	prem137_hyp0	This year, 1,300,000 new jobs have been created.	0
+s2	toka	prem137	The ON Bizkaia Awards recognize the contribution made by companies in creating economic activity and jobs.	prem137_hyp1	Today's work is much more advanced compared to 1000 years ago.	1
+s2	toka	prem137	The ON Bizkaia Awards recognize the contribution made by companies in creating economic activity and jobs.	prem137_hyp2	These are temporary positions that are being created and therefore we shouldn't give out a prize for it.	2
+s2	noka	prem137	The ON Bizkaia Awards recognize companies' contribution to creating economic activity and jobs.	prem137_hyp0	This year, 1,300,000 new jobs have been created.	0
+s2	noka	prem137	The ON Bizkaia Awards recognize companies' contribution to creating economic activity and jobs.	prem137_hyp1	Today's work is much more advanced compared to 1000 years ago.	1
+s2	noka	prem137	The ON Bizkaia Awards recognize companies' contribution to creating economic activity and jobs.	prem137_hyp2	These are temporary positions that are being created and therefore we shouldn't give out a prize for it.	2
+s2	dialectal	prem137	The ON Bizkaia Awards recognize companies' contributions to creating economic activity and jobs.	prem137_hyp0	This year, 1,300,000 new jobs have been created.	0
+s2	dialectal	prem137	The ON Bizkaia Awards recognize companies' contributions to creating economic activity and jobs.	prem137_hyp1	Today's work is much more advanced compared to 1000 years ago.	1
+s2	dialectal	prem137	The ON Bizkaia Awards recognize companies' contributions to creating economic activity and jobs.	prem137_hyp2	These are temporary positions that are being created and therefore we shouldn't give out a prize for it.	2
+g1	dialectal	prem138	How great it was to reach the top!!	prem138_hyp0	When we reached the top, the views were beautiful.	0
+g1	dialectal	prem138	How great it was to reach the top!!	prem138_hyp1	Achieving goals is amazing	1
+g1	dialectal	prem138	How great it was to reach the top!!	prem138_hyp2	We didn't make it to the top because Mikel broke his leg.	2
+g8	toka	prem138	It was a great pleasure to reach the top.	prem138_hyp0	When we reached the top, the views were beautiful.	0
+g8	toka	prem138	It was a great pleasure to reach the top.	prem138_hyp1	Achieving goals is amazing	1
+g8	toka	prem138	It was a great pleasure to reach the top.	prem138_hyp2	We didn't make it to the top because Mikel broke his leg.	2
+g7	dialectal	prem139	Specific courses will be organized throughout the year to talk about different things: places, psychomotricity...	prem139_hyp0	Among the courses, modern abstract art is the best, Mikel has already signed up.	0
+g7	dialectal	prem139	Specific courses will be organized throughout the year to talk about different things: places, psychomotricity...	prem139_hyp1	The goal of the courses is always to teach people new things.	1
+g7	dialectal	prem139	Specific courses will be organized throughout the year to talk about different things: places, psychomotricity...	prem139_hyp2	Courses are useless because people don't learn anything unless they work.	2
+s2	noka	prem140	I have thought a lot about the state of our art in this area.	prem140_hyp0	We have talked a lot about our art.	0
+s2	noka	prem140	I have thought a lot about the state of our art in this area.	prem140_hyp1	Each person's art is unique.	1
+s2	noka	prem140	I have thought a lot about the state of our art in this area.	prem140_hyp2	We don't care about our art.	2
+s2	dialectal	prem140	He has thought a lot about the state of our art.	prem140_hyp0	We have talked a lot about our art.	0
+s2	dialectal	prem140	He has thought a lot about the state of our art.	prem140_hyp1	Each person's art is unique.	1
+s2	dialectal	prem140	He has thought a lot about the state of our art.	prem140_hyp2	We don't care about our art.	2
+s2	toka	prem140	He has thought a lot about the state of our art.	prem140_hyp0	We have talked a lot about our art.	0
+s2	toka	prem140	He has thought a lot about the state of our art.	prem140_hyp1	Each person's art is unique.	1
+s2	toka	prem140	He has thought a lot about the state of our art.	prem140_hyp2	We don't care about our art.	2
+g2	dialectal	prem141	They have organized more activities this week within the anti-capitalist campaign	prem141_hyp0	Among the new initiatives, there is a concert.	0
+g2	dialectal	prem141	They have organized more activities this week within the anti-capitalist campaign	prem141_hyp1	Anti-capitalist campaigns and anti-socialist campaigns are opposites.	1
+g2	dialectal	prem141	They have organized more activities this week within the anti-capitalist campaign	prem141_hyp2	The anti-capitalist campaign has been cancelled, as no one showed up.	2
+g6	dialectal	prem142	"To change those addresses, you need to enter the ""My Data"" section on the internet."	prem142_hyp0	"After entering my Data, you need to press the ""OK"" button."	0
+g6	dialectal	prem142	"To change those addresses, you need to enter the ""My Data"" section on the internet."	prem142_hyp1	Email addresses are used to send messages.	1
+g6	dialectal	prem142	"To change those addresses, you need to enter the ""My Data"" section on the internet."	prem142_hyp2	It is impossible to change the addresses because the website has crashed.	2
+s4	dialectal	prem143	Digital transformation has changed the way we work and interact.	prem143_hyp0	People spend more time on their mobile phones and computers.	0
+s4	dialectal	prem143	Digital transformation has changed the way we work and interact.	prem143_hyp1	Digital transformation is the next advancement that the world needs.	1
+s4	dialectal	prem143	Digital transformation has changed the way we work and interact.	prem143_hyp2	People work as always.	2
+g2	dialectal	prem144	There's always something to complain about, especially when one is weak and help is never perfect	prem144_hyp0	With help, anyone can do anything.	0
+g2	dialectal	prem144	There's always something to complain about, especially when one is weak and help is never perfect	prem144_hyp1	We all need help sometimes.	1
+g2	dialectal	prem144	There's always something to complain about, especially when one is weak and help is never perfect	prem144_hyp2	Nobody is weak, there are only people who don't want to work.	2
+g5	dialectal	prem145	He/She didn't know that he/she was dead.	prem145_hyp0	He/She appeared to be dead.	0
+g5	dialectal	prem145	He/She didn't know that he/she was dead.	prem145_hyp1	Dead people do not move.	1
+g5	dialectal	prem145	He/She didn't know that he/she was dead.	prem145_hyp2	He/She wasn't dead, he/she was sleeping.	2
+s1	dialectal	prem146	I was very moved by that unexpected farewell.	prem146_hyp0	Fortunately, it was a pleasant surprise.	0
+s1	dialectal	prem146	I was very moved by that unexpected farewell.	prem146_hyp1	Surprises can be good or bad.	1
+s1	dialectal	prem146	I was very moved by that unexpected farewell.	prem146_hyp2	I heard about that surprise many weeks ago.	2
+g5	dialectal	prem147	Samsung proposes a smart school and teaching classes with their Samsung Gear VR headsets and MagicIWB S2 boards.	prem147_hyp0	Samsung will have the most technologically advanced class in the world.	0
+g5	dialectal	prem147	Samsung proposes a smart school and teaching classes with their Samsung Gear VR headsets and MagicIWB S2 boards.	prem147_hyp1	Samsung makes televisions, mobile phones, and cameras.	1
+g5	dialectal	prem147	Samsung proposes a smart school and teaching classes with their Samsung Gear VR headsets and MagicIWB S2 boards.	prem147_hyp2	Samsung cannot teach classes with VR glasses because children would be playing.	2
+g4	dialectal	prem148	The Getaria Dialect is the result of the book GETARIAKO AHOTSAK (Voices of Getaria) which collects the local speech and oral heritage of Getaria.	prem148_hyp0	"The Getarian dialect of Basque can be found in the book ""GETAIKO EUSKERA"" (Basque of Getaria)."	0
+g4	dialectal	prem148	The Getaria Dialect is the result of the book GETARIAKO AHOTSAK (Voices of Getaria) which collects the local speech and oral heritage of Getaria.	prem148_hyp1	"I don't like the book ""GETAIKO EUSKERA""."	1
+g4	dialectal	prem148	The Getaria Dialect is the result of the book GETARIAKO AHOTSAK (Voices of Getaria) which collects the local speech and oral heritage of Getaria.	prem148_hyp2	The book GETAIKO EUSKERA contains Biscayan Basque.	2
+s3	dialectal	prem149	At the beginning of digitalization, websites were created, and they offered opportunities to democratize communication.	prem149_hyp0	In the early days of digitalization, websites became more well-known.	0
+s3	dialectal	prem149	At the beginning of digitalization, websites were created, and they offered opportunities to democratize communication.	prem149_hyp1	Digitalization happened a long time ago.	1
+s3	dialectal	prem149	At the beginning of digitalization, websites were created, and they offered opportunities to democratize communication.	prem149_hyp2	At the beginning of digitalization, communication possibilities were destroyed.	2
+g7	dialectal	prem150	At the award ceremony, two young girls appeared, with the introduction in Basque and occasionally throughout, but mostly in Spanish.	prem150_hyp0	The girls spoke more in Spanish than in Basque.	0
+g7	dialectal	prem150	At the award ceremony, two young girls appeared, with the introduction in Basque and occasionally throughout, but mostly in Spanish.	prem150_hyp1	The award ceremony took place in Lekeitio.	1
+g7	dialectal	prem150	At the award ceremony, two young girls appeared, with the introduction in Basque and occasionally throughout, but mostly in Spanish.	prem150_hyp2	The girls spoke in English at the award ceremony.	2
+g3	berridazketa	prem151	I highly recommend you go to the Getaria lighthouse.	prem151_hyp0	It's worth getting to know San Anton media.	0
+g3	berridazketa	prem151	I highly recommend you go to the Getaria lighthouse.	prem151_hyp1	Mount San Anton is in Spain.	1
+g3	berridazketa	prem151	I highly recommend you go to the Getaria lighthouse.	prem151_hyp2	Mount San Anton is very ugly.	2
+s4	dialectal	prem152	We met Lilikin face to face.	prem152_hyp0	We saw the flower.	0
+s4	dialectal	prem152	We met Lilikin face to face.	prem152_hyp1	The flower was very beautiful.	1
+s4	dialectal	prem152	We met Lilikin face to face.	prem152_hyp2	We haven't seen Lili for a long time.	2
+g8	toka	prem153	The sun is nothing more than an increasingly red circumference in the eyes of the adolescent.	prem153_hyp0	Teenagers don't pay much attention to everything else.	0
+g8	toka	prem153	The sun is nothing more than an increasingly red circumference in the eyes of the adolescent.	prem153_hyp1	Teenagers are very fun.	1
+g8	toka	prem153	The sun is nothing more than an increasingly red circumference in the eyes of the adolescent.	prem153_hyp2	Teenagers notice everything.	2
+g5	dialectal	prem154	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album ""IXA"" (Taupaka Association, 2016)."	prem154_hyp0	The Solte group has prepared a new music video.	0
+g5	dialectal	prem154	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album ""IXA"" (Taupaka Association, 2016)."	prem154_hyp1	The famous song has gained great success in a short time.	1
+g5	dialectal	prem154	"The band Solte has prepared an innovative music video for the song ""Eraldatutako mundua"" from their latest album ""IXA"" (Taupaka Association, 2016)."	prem154_hyp2	The Solte group has retired and they will not do anything else.	2
+g4	berridazketa	prem155	Digital transformation brings a major paradigm shift in the cultural and creative sector	prem155_hyp0	Digital transformation provides you with more opportunities in the cultural and creative field.	0
+g4	berridazketa	prem155	Digital transformation brings a major paradigm shift in the cultural and creative sector	prem155_hyp1	Digital transformation can still bring many innovations to our society.	1
+g4	berridazketa	prem155	Digital transformation brings a major paradigm shift in the cultural and creative sector	prem155_hyp2	Digital transformation brings a small paradigm shift in the cultural and creative sector.	2
+g2	dialectal	prem156	The European Union has been a reference point in the first world for many decades regarding democracy, equality, security and well-being	prem156_hyp0	The European Union is a first-world reference in many areas.	0
+g2	dialectal	prem156	The European Union has been a reference point in the first world for many decades regarding democracy, equality, security and well-being	prem156_hyp1	There are several countries in the European Union.	1
+g2	dialectal	prem156	The European Union has been a reference point in the first world for many decades regarding democracy, equality, security and well-being	prem156_hyp2	The United States has been the first world's reference for democracy, equality, security, and well-being.	2
+s2	toka	prem157	Commercial logic drives our life: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+s2	toka	prem157	Commercial logic drives our life: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+s2	toka	prem157	Commercial logic drives our life: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+s1	dialectal	prem157	Life has become dominated by commercial logic: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+s1	dialectal	prem157	Life has become dominated by commercial logic: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+s1	dialectal	prem157	Life has become dominated by commercial logic: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+s2	noka	prem157	We live our lives guided by commercial logic: everything easy, comfortable, changeable, high-quality and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+s2	noka	prem157	We live our lives guided by commercial logic: everything easy, comfortable, changeable, high-quality and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+s2	noka	prem157	We live our lives guided by commercial logic: everything easy, comfortable, changeable, high-quality and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+s2	dialectal	prem157	Commercial logic drives our life: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+s2	dialectal	prem157	Commercial logic drives our life: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+s2	dialectal	prem157	Commercial logic drives our life: everything is easy, comfortable, changeable, high-quality and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+s3	dialectal	prem157	We look at life with commercial logic: everything should be easy, comfortable, changeable, of good quality, and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+s3	dialectal	prem157	We look at life with commercial logic: everything should be easy, comfortable, changeable, of good quality, and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+s3	dialectal	prem157	We look at life with commercial logic: everything should be easy, comfortable, changeable, of good quality, and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+s4	dialectal	prem157	We view life through commercial logic: everything is easy, comfortable, adaptable, high-quality and cheap.	prem157_hyp0	If we look at life through commercial logic, everything would be easier.	0
+s4	dialectal	prem157	We view life through commercial logic: everything is easy, comfortable, adaptable, high-quality and cheap.	prem157_hyp1	Commercial logic is a new concept of today.	1
+s4	dialectal	prem157	We view life through commercial logic: everything is easy, comfortable, adaptable, high-quality and cheap.	prem157_hyp2	We look at life with commercial logic: everything is difficult, uncomfortable, unchangeable, mediocre and expensive.	2
+g2	dialectal	prem158	He did not confirm his statement before the judge at the National Court	prem158_hyp0	They did not confess to the judge what needed to be confessed.	0
+g2	dialectal	prem158	He did not confirm his statement before the judge at the National Court	prem158_hyp1	They are decided in the National Court.	1
+g2	dialectal	prem158	He did not confirm his statement before the judge at the National Court	prem158_hyp2	They confessed everything before the judge.	2
+g3	berridazketa	prem159	Antton Olariaga will receive an award in Santutxu on Comic Day.	prem159_hyp0	Antton Olariaga will win the Joseph Camino award for his work.	0
+g3	berridazketa	prem159	Antton Olariaga will receive an award in Santutxu on Comic Day.	prem159_hyp1	Joseph Camino died in 2015.	1
+g3	berridazketa	prem159	Antton Olariaga will receive an award in Santutxu on Comic Day.	prem159_hyp2	Joseph Camino will receive the award in Madrid.	2
+g4	dialectal	prem160	Yesterday I saw Galician actor Nancho Novo on TV for a moment playing the role of Jesus's father, dead serious.	prem160_hyp0	Yesterday I watched a seriously demonic movie for a while.	0
+g4	dialectal	prem160	Yesterday I saw Galician actor Nancho Novo on TV for a moment playing the role of Jesus's father, dead serious.	prem160_hyp1	Actor Nacho Novo was born on September 17, 1958.	1
+g4	dialectal	prem160	Yesterday I saw Galician actor Nancho Novo on TV for a moment playing the role of Jesus's father, dead serious.	prem160_hyp2	The actor Nacho Novo always plays comedic roles.	2
+s1	dialectal	prem161	The premises that were inaugurated on September 13 in Uzatila were closed down by the Ertzaintza on September 28, enforcing the judge's eviction order.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+s1	dialectal	prem161	The premises that were inaugurated on September 13 in Uzatila were closed down by the Ertzaintza on September 28, enforcing the judge's eviction order.	prem161_hyp1	I really liked the place.	1
+s1	dialectal	prem161	The premises that were inaugurated on September 13 in Uzatila were closed down by the Ertzaintza on September 28, enforcing the judge's eviction order.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+s2	noka	prem161	The premises that were inaugurated on July 13th were forcibly closed on September 28th by the Ertzaintza (Basque Police) in compliance with an eviction order signed by the judge.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+s2	noka	prem161	The premises that were inaugurated on July 13th were forcibly closed on September 28th by the Ertzaintza (Basque Police) in compliance with an eviction order signed by the judge.	prem161_hyp1	I really liked the place.	1
+s2	noka	prem161	The premises that were inaugurated on July 13th were forcibly closed on September 28th by the Ertzaintza (Basque Police) in compliance with an eviction order signed by the judge.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+s3	dialectal	prem161	The premises inaugurated on July 13th were closed by the Ertzaintza (Basque Police) on September 28th, following a court-ordered eviction notice.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+s3	dialectal	prem161	The premises inaugurated on July 13th were closed by the Ertzaintza (Basque Police) on September 28th, following a court-ordered eviction notice.	prem161_hyp1	I really liked the place.	1
+s3	dialectal	prem161	The premises inaugurated on July 13th were closed by the Ertzaintza (Basque Police) on September 28th, following a court-ordered eviction notice.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+s2	toka	prem161	The premises that were inaugurated on July 13th were forcibly closed by the Ertzaintza (Basque Police) on September 28th, executing an eviction order signed by the judge.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+s2	toka	prem161	The premises that were inaugurated on July 13th were forcibly closed by the Ertzaintza (Basque Police) on September 28th, executing an eviction order signed by the judge.	prem161_hyp1	I really liked the place.	1
+s2	toka	prem161	The premises that were inaugurated on July 13th were forcibly closed by the Ertzaintza (Basque Police) on September 28th, executing an eviction order signed by the judge.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+s2	dialectal	prem161	The premises inaugurated on July 13th were closed down on September 28th by the Ertzaintza (Basque Police) enforcing an eviction order signed by the judge.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+s2	dialectal	prem161	The premises inaugurated on July 13th were closed down on September 28th by the Ertzaintza (Basque Police) enforcing an eviction order signed by the judge.	prem161_hyp1	I really liked the place.	1
+s2	dialectal	prem161	The premises inaugurated on July 13th were closed down on September 28th by the Ertzaintza (Basque Police) enforcing an eviction order signed by the judge.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+s4	dialectal	prem161	The premises, which were inaugurated on July 13th, were closed by the Ertzaintza on September 28th, thus fulfilling the eviction order signed by the judge.	prem161_hyp0	The establishment has been open for a little more than a month.	0
+s4	dialectal	prem161	The premises, which were inaugurated on July 13th, were closed by the Ertzaintza on September 28th, thus fulfilling the eviction order signed by the judge.	prem161_hyp1	I really liked the place.	1
+s4	dialectal	prem161	The premises, which were inaugurated on July 13th, were closed by the Ertzaintza on September 28th, thus fulfilling the eviction order signed by the judge.	prem161_hyp2	The premises inaugurated on July 13 remain open and have never closed.	2
+g2	dialectal	prem162	One night, while Lucia and Miren were out having some wine, they invited Andrea to the boss's house, and the three of them had sexual relations.	prem162_hyp0	They were at the boss's house on the day they had sexual relations.	0
+g2	dialectal	prem162	One night, while Lucia and Miren were out having some wine, they invited Andrea to the boss's house, and the three of them had sexual relations.	prem162_hyp1	When having sexual relations, one must be very careful regarding sexually transmitted diseases.	1
+g2	dialectal	prem162	One night, while Lucia and Miren were out having some wine, they invited Andrea to the boss's house, and the three of them had sexual relations.	prem162_hyp2	Lucia, Miren and Andrea are virgins.	2
+g5	dialectal	prem163	They will soon announce which theater will be showing the film.	prem163_hyp0	The movie will be shown in a theater.	0
+g5	dialectal	prem163	They will soon announce which theater will be showing the film.	prem163_hyp1	People are eager to watch the movie.	1
+g5	dialectal	prem163	They will soon announce which theater will be showing the film.	prem163_hyp2	They will announce late which theater it will be screened in.	2
+s4	dialectal	prem164	Our field is suffering and we have great difficulty managing it.	prem164_hyp0	A lot of arduous work is done in our field.	0
+s4	dialectal	prem164	Our field is suffering and we have great difficulty managing it.	prem164_hyp1	Even though it has involved suffering, we really love our field.	1
+s4	dialectal	prem164	Our field is suffering and we have great difficulty managing it.	prem164_hyp2	We don't do anything in our field/area, it's very boring.	2
+g8	toka	prem165	It aims to promote the economy of Orduña and is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp0	He/She wants to help Orduña's economy.	0
+g8	toka	prem165	It aims to promote the economy of Orduña and is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp1	Orduña is located in Álava.	1
+g8	toka	prem165	It aims to promote the economy of Orduña and is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp2	The Development Network of Basque Development Agencies has no members.	2
+g1	dialectal	prem165	Its aim is to boost the economy of Orduña and it is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp0	He/She wants to help Orduña's economy.	0
+g1	dialectal	prem165	Its aim is to boost the economy of Orduña and it is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp1	Orduña is located in Álava.	1
+g1	dialectal	prem165	Its aim is to boost the economy of Orduña and it is a member of the Development Network of Development Agencies of the Basque Country.	prem165_hyp2	The Development Network of Basque Development Agencies has no members.	2
+g5	dialectal	prem166	Those who have less time also have the option to take shorter courses.	prem166_hyp0	They also think about people who have less time.	0
+g5	dialectal	prem166	Those who have less time also have the option to take shorter courses.	prem166_hyp1	I didn't know there were such options in that course.	1
+g5	dialectal	prem166	Those who have less time also have the option to take shorter courses.	prem166_hyp2	Those who have less time also have the opportunity to take longer courses.	2
+g7	dialectal	prem167	For three and a half years, young people from the neighborhood gathered there, but in November 2011 the Lakomi Youth Center was closed.	prem167_hyp0	Today the Lakomi Youth Center is not open.	0
+g7	dialectal	prem167	For three and a half years, young people from the neighborhood gathered there, but in November 2011 the Lakomi Youth Center was closed.	prem167_hyp1	I spent a lot of time at Lakomi Youth Center.	1
+g7	dialectal	prem167	For three and a half years, young people from the neighborhood gathered there, but in November 2011 the Lakomi Youth Center was closed.	prem167_hyp2	The Lakomi Youth Center remained open for 10 years.	2
+g3	berridazketa	prem168	In 1972, he revolutionized the history of Basque graphic humor. He began using his own style in Zeruko Argia	prem168_hyp0	Zeruko Argia had an influence on the history of Basque graphic humor.	0
+g3	berridazketa	prem168	In 1972, he revolutionized the history of Basque graphic humor. He began using his own style in Zeruko Argia	prem168_hyp1	In 1972, besides Zeruko Argia, other things happened.	1
+g3	berridazketa	prem168	In 1972, he revolutionized the history of Basque graphic humor. He began using his own style in Zeruko Argia	prem168_hyp2	Starting in Zeruko Argia in 2015, with a distinctive and innovative style, they revolutionized the history of Basque graphic humor.	2
+s1	dialectal	prem169	The Gaztetape beach is covered with stones; but we found a beautiful little fish hook.	prem169_hyp0	Gaztetape beach is not covered with sand.	0
+s1	dialectal	prem169	The Gaztetape beach is covered with stones; but we found a beautiful little fish hook.	prem169_hyp1	Since the octopus was very poisonous, we never went back to Gaztetape beach again.	1
+s1	dialectal	prem169	The Gaztetape beach is covered with stones; but we found a beautiful little fish hook.	prem169_hyp2	There are no octopuses at Gaztetape beach.	2
+g7	dialectal	prem170	He/She is doing quite well health-wise and remains strong at work too, especially with room rentals.	prem170_hyp0	He/She does good work in room rentals.	0
+g7	dialectal	prem170	He/She is doing quite well health-wise and remains strong at work too, especially with room rentals.	prem170_hyp1	For a while they/he/she was doing rather poorly, but now they/he/she is doing better.	1
+g7	dialectal	prem170	He/She is doing quite well health-wise and remains strong at work too, especially with room rentals.	prem170_hyp2	He/She has several illnesses and is performing rather poorly at work.	2
+g3	berridazketa	prem171	The team members are very happy and eager to share what they have done with people.	prem171_hyp0	The team members are very happy with the work they have done.	0
+g3	berridazketa	prem171	The team members are very happy and eager to share what they have done with people.	prem171_hyp1	The fans are incredibly eager to hear everything.	1
+g3	berridazketa	prem171	The team members are very happy and eager to share what they have done with people.	prem171_hyp2	The team members have been gloomy.	2
+s2	noka	prem172	Democracy will not make us free	prem172_hyp0	Democracy will imprison us.	0
+s2	noka	prem172	Democracy will not make us free	prem172_hyp1	Democracy is a political structure.	1
+s2	noka	prem172	Democracy will not make us free	prem172_hyp2	Democracy will set us free	2
+s2	dialectal	prem172	Democracy will not make us free	prem172_hyp0	Democracy will imprison us.	0
+s2	dialectal	prem172	Democracy will not make us free	prem172_hyp1	Democracy is a political structure.	1
+s2	dialectal	prem172	Democracy will not make us free	prem172_hyp2	Democracy will set us free	2
+s2	toka	prem172	Democracy will not set us free.	prem172_hyp0	Democracy will imprison us.	0
+s2	toka	prem172	Democracy will not set us free.	prem172_hyp1	Democracy is a political structure.	1
+s2	toka	prem172	Democracy will not set us free.	prem172_hyp2	Democracy will set us free	2
+s4	dialectal	prem173	The goal of the message about adopting cats is to spread awareness among people so that animals rescued from the streets can have a dignified future.	prem173_hyp0	Animals collected from the streets have worse conditions than those who are adopted.	0
+s4	dialectal	prem173	The goal of the message about adopting cats is to spread awareness among people so that animals rescued from the streets can have a dignified future.	prem173_hyp1	There are many cats in the streets.	1
+s4	dialectal	prem173	The goal of the message about adopting cats is to spread awareness among people so that animals rescued from the streets can have a dignified future.	prem173_hyp2	The aim is to release adopted cats.	2
+g1	dialectal	prem174	Maybe the changes won't be noticed immediately, but we are slowly establishing criteria to take steps in a new direction	prem174_hyp0	The changes will be noticed gradually.	0
+g1	dialectal	prem174	Maybe the changes won't be noticed immediately, but we are slowly establishing criteria to take steps in a new direction	prem174_hyp1	To achieve changes, one must have a proactive mindset.	1
+g1	dialectal	prem174	Maybe the changes won't be noticed immediately, but we are slowly establishing criteria to take steps in a new direction	prem174_hyp2	We are working on establishing criteria for an old direction.	2
+g8	dialectal	prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp0	If you open Pandora's box, you can discover a world of a thousand colors.	0
+g8	dialectal	prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp1	Amancay Gaztañaga Sagarzazu is from Gipuzkoa.	1
+g8	dialectal	prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp2	Amancay Gaztañaga Sagarzazu kept Pandora's box closed.	2
+s4	dialectal	prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp0	If you open Pandora's box, you can discover a world of a thousand colors.	0
+s4	dialectal	prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp1	Amancay Gaztañaga Sagarzazu is from Gipuzkoa.	1
+s4	dialectal	prem175	One day, Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) opened Pandora's box and discovered a world of a thousand colors.	prem175_hyp2	Amancay Gaztañaga Sagarzazu kept Pandora's box closed.	2
+g5	dialectal	prem176	Using humor and cheerfulness, you can achieve many things with children.	prem176_hyp0	Children really like humor and cheerfulness.	0
+g5	dialectal	prem176	Using humor and cheerfulness, you can achieve many things with children.	prem176_hyp1	Children can be very exhausting sometimes.	1
+g5	dialectal	prem176	Using humor and cheerfulness, you can achieve many things with children.	prem176_hyp2	If you use humor and cheerfulness with children, they will take advantage of you	2
+g1	dialectal	prem177	Why does the absence of light, complete darkness, create fear in most of us?	prem177_hyp0	Darkness and lack of light cause fear to most of society.	0
+g1	dialectal	prem177	Why does the absence of light, complete darkness, create fear in most of us?	prem177_hyp1	We should not be afraid of darkness, it is an irrational fear.	1
+g1	dialectal	prem177	Why does the absence of light, complete darkness, create fear in most of us?	prem177_hyp2	Society is very brave, it has no fear at all.	2
+g7	dialectal	prem178	Urtxintxa School has come a long way in teaching values to people through non-formal education.	prem178_hyp0	Urtxintxa School has spent many years teaching values in non-formal education courses.	0
+g7	dialectal	prem178	Urtxintxa School has come a long way in teaching values to people through non-formal education.	prem178_hyp1	Urtxintxa School offers non-classroom courses in non-formal education.	1
+g7	dialectal	prem178	Urtxintxa School has come a long way in teaching values to people through non-formal education.	prem178_hyp2	Urtxintxa School has limited experience in non-formal education.	2
+g6	dialectal	prem179	Afterwards, they tried to occupy some premises, but they didn't move forward with it.	prem179_hyp0	The premises remained unoccupied, despite the efforts made.	0
+g6	dialectal	prem179	Afterwards, they tried to occupy some premises, but they didn't move forward with it.	prem179_hyp1	Young people primarily participated in the attempts to occupy the premises.	1
+g6	dialectal	prem179	Afterwards, they tried to occupy some premises, but they didn't move forward with it.	prem179_hyp2	The attempts to occupy several premises were very successful.	2
+s1	dialectal	prem180	The tradition of theater is horizontal.	prem180_hyp0	In theater productions, all participants have equal importance.	0
+s1	dialectal	prem180	The tradition of theater is horizontal.	prem180_hyp1	Theater has a long tradition.	1
+s1	dialectal	prem180	The tradition of theater is horizontal.	prem180_hyp2	The tradition of theater is vertical or hierarchical.	2
+s2	toka	prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+s2	toka	prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+s2	toka	prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+s2	dialectal	prem181	Traffic will be closed on that street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+s2	dialectal	prem181	Traffic will be closed on that street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+s2	dialectal	prem181	Traffic will be closed on that street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+s2	noka	prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+s2	noka	prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+s2	noka	prem181	Traffic will be closed for work that needs to be done with a mobile crane and a truck to install a crane on that street.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+s4	dialectal	prem181	Traffic will be closed on this street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+s4	dialectal	prem181	Traffic will be closed on this street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+s4	dialectal	prem181	Traffic will be closed on this street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+s3	dialectal	prem181	There, to install a crane with a mobile crane and a truck, work needs to be done that affects traffic on the narrow street.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+s3	dialectal	prem181	There, to install a crane with a mobile crane and a truck, work needs to be done that affects traffic on the narrow street.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+s3	dialectal	prem181	There, to install a crane with a mobile crane and a truck, work needs to be done that affects traffic on the narrow street.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+s1	dialectal	prem181	Traffic will be closed on that street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp0	Traffic on that street will be suspended in order to position a mobile crane.	0
+s1	dialectal	prem181	Traffic will be closed on that street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp1	Construction work will be carried out to improve traffic flow on that street.	1
+s1	dialectal	prem181	Traffic will be closed on that street for work that needs to be done with a mobile crane and a truck to install a crane.	prem181_hyp2	While the crane installation work continues, cars will be continuously passing through that street.	2
+g6	dialectal	prem182	We see the world through learned eyes.	prem182_hyp0	Our perspective is not innate, we learn it.	0
+g6	dialectal	prem182	We see the world through learned eyes.	prem182_hyp1	We all have a perspective on reality.	1
+g6	dialectal	prem182	We see the world through learned eyes.	prem182_hyp2	Our opinions cannot be conditioned.	2
+g3	dialectal	prem183	From October to June, there is an opportunity to sign up for short courses at Urtxintxa School.	prem183_hyp0	From October to June, Urtxintxa Eskola offers short courses.	0
+g3	dialectal	prem183	From October to June, there is an opportunity to sign up for short courses at Urtxintxa School.	prem183_hyp1	At Urtxintxa school, training courses of different durations can be taken depending on the season.	1
+g3	dialectal	prem183	From October to June, there is an opportunity to sign up for short courses at Urtxintxa School.	prem183_hyp2	Urtxintxa School only offers long courses from October to June.	2
+g3	berridazketa	prem184	There are opportunities to prepare for EGA online	prem184_hyp0	The EGA can be prepared in a non-classroom format.	0
+g3	berridazketa	prem184	There are opportunities to prepare for EGA online	prem184_hyp1	You need to work hard to prepare for the EGA exam.	1
+g3	berridazketa	prem184	There are opportunities to prepare for EGA online	prem184_hyp2	The EGA exam can only be prepared for in face-to-face classes.	2
+s3	dialectal	prem185	Macbeth, a version of Shakespeare's classic work, will premiere at the Arriaga Theater on February 7th.	prem185_hyp0	A version of Shakespeare's play, specifically Macbeth, will be performed at the Arriaga Theater on February 7th.	0
+s3	dialectal	prem185	Macbeth, a version of Shakespeare's classic work, will premiere at the Arriaga Theater on February 7th.	prem185_hyp1	The play premiering at the Arriaga Theater is a completely modern adaptation of Macbeth.	1
+s3	dialectal	prem185	Macbeth, a version of Shakespeare's classic work, will premiere at the Arriaga Theater on February 7th.	prem185_hyp2	The audience will not be able to see Macbeth at the Arriaga Theater on February 7th.	2
+g1	dialectal	prem186	Marijuli was an incredibly lively person, sweet, approachable, responsible, and loving.	prem186_hyp0	Marijuli had great vitality and was very friendly and approachable with people.	0
+g1	dialectal	prem186	Marijuli was an incredibly lively person, sweet, approachable, responsible, and loving.	prem186_hyp1	Marijuli was an elderly woman from the village.	1
+g1	dialectal	prem186	Marijuli was an incredibly lively person, sweet, approachable, responsible, and loving.	prem186_hyp2	Marijuli was a lifeless, slovenly, careless, cold, and unpleasant person.	2
+g2	dialectal	prem187	Berrizabal was arrested in March 2008 for the 18/98 macro-case and was sentenced to 12 years in prison by the National Court	prem187_hyp0	After being arrested in 2008 for the 19/98 macro-summary case, the National Court decided that Berrizabal was guilty and would have to spend 12 years in prison.	0
+g2	dialectal	prem187	Berrizabal was arrested in March 2008 for the 18/98 macro-case and was sentenced to 12 years in prison by the National Court	prem187_hyp1	Berrizabal was arrested in 2008, and was placed in pre-trial detention until the trial of the 18/98 macro-case.	1
+g2	dialectal	prem187	Berrizabal was arrested in March 2008 for the 18/98 macro-case and was sentenced to 12 years in prison by the National Court	prem187_hyp2	He was arrested in March 2008 for the macro-summary 19/98, but during the trial, the National Court declared the accused innocent and cleared him of all charges.	2
+g7	dialectal	prem188	Peru went to an ice palace class a little while ago.	prem188_hyp0	Peru has recently been to an ice rink.	0
+g7	dialectal	prem188	Peru went to an ice palace class a little while ago.	prem188_hyp1	Peru has been in an ice skating class.	1
+g7	dialectal	prem188	Peru went to an ice palace class a little while ago.	prem188_hyp2	Peru has never been on an ice rink.	2
+g1	dialectal	prem189	They all four ended up in a small bed in the master's house.	prem189_hyp0	The four of them went to their leader's house.	0
+g1	dialectal	prem189	They all four ended up in a small bed in the master's house.	prem189_hyp1	In the master's house, only a small bed is available.	1
+g1	dialectal	prem189	They all four ended up in a small bed in the master's house.	prem189_hyp2	The four of them ended up on the street.	2
+g5	dialectal	prem190	He goes to the English summer camp organized by Peru Kutxa in the mornings.	prem190_hyp0	Every morning, Peru goes to summer camp to learn English.	0
+g5	dialectal	prem190	He goes to the English summer camp organized by Peru Kutxa in the mornings.	prem190_hyp1	Summer camps are organized for children and young people.	1
+g5	dialectal	prem190	He goes to the English summer camp organized by Peru Kutxa in the mornings.	prem190_hyp2	In summer, Peru spends his mornings at home.	2
+s2	toka	prem191	All peoples have the right to decide.	prem191_hyp0	Any country must have the right to decide.	0
+s2	toka	prem191	All peoples have the right to decide.	prem191_hyp1	The right to decide is recognized in the constitution of some countries.	1
+s2	toka	prem191	All peoples have the right to decide.	prem191_hyp2	The right to decide belongs to only a few nations.	2
+s2	noka	prem191	All peoples have the right to decide.	prem191_hyp0	Any country must have the right to decide.	0
+s2	noka	prem191	All peoples have the right to decide.	prem191_hyp1	The right to decide is recognized in the constitution of some countries.	1
+s2	noka	prem191	All peoples have the right to decide.	prem191_hyp2	The right to decide belongs to only a few nations.	2
+s2	dialectal	prem191	All peoples have the right to decide.	prem191_hyp0	Any country must have the right to decide.	0
+s2	dialectal	prem191	All peoples have the right to decide.	prem191_hyp1	The right to decide is recognized in the constitution of some countries.	1
+s2	dialectal	prem191	All peoples have the right to decide.	prem191_hyp2	The right to decide belongs to only a few nations.	2
+g5	dialectal	prem192	The Santutxu festivities began last Saturday with a proclamation by members of the AEK euskaltegi (Basque language school) and Gaztedi Dance Group.	prem192_hyp0	Last Saturday, the Santutxu festivities began with the proclamation by the AEK euskaltegi (Basque language school) and the Gaztedi Dance Group.	0
+g5	dialectal	prem192	The Santutxu festivities began last Saturday with a proclamation by members of the AEK euskaltegi (Basque language school) and Gaztedi Dance Group.	prem192_hyp1	Last Saturday, there was a pleasant atmosphere in Santutxu due to the beginning of the festivities.	1
+g5	dialectal	prem192	The Santutxu festivities began last Saturday with a proclamation by members of the AEK euskaltegi (Basque language school) and Gaztedi Dance Group.	prem192_hyp2	Last Saturday, the Santutxu festivities began, even though members of the AEK euskaltegi (Basque language school) and Gaztedi Dance Group declined to be the announcers.	2
+g7	dialectal	prem193	Markina Elkartegiya is a business center related to industry.	prem193_hyp0	Most of the companies gathered in the Markina Business Park belong to the secondary sector.	0
+g7	dialectal	prem193	Markina Elkartegiya is a business center related to industry.	prem193_hyp1	Medium-sized industrial companies are gathered in the Markina Business Park.	1
+g7	dialectal	prem193	Markina Elkartegiya is a business center related to industry.	prem193_hyp2	The companies gathered in the Markina Business Park are from the primary sector, that is, they are engaged in agriculture and livestock farming.	2
+g4	dialectal	prem194	I saw them/him/her for the last time three weeks ago	prem194_hyp0	It's been three weeks since I've seen him/her.	0
+g4	dialectal	prem194	I saw them/him/her for the last time three weeks ago	prem194_hyp1	It's been three weeks since I went out.	1
+g4	dialectal	prem194	I saw them/him/her for the last time three weeks ago	prem194_hyp2	I will see them/him/her for the first time in three weeks.	2
+g2	dialectal	prem195	Gernika Alkartegixe is a business center, created to host new business projects and companies that are in the process of expansion	prem195_hyp0	The purpose of the Gernika Business Center is to bring together companies that have been recently established or are in the process of expansion.	0
+g2	dialectal	prem195	Gernika Alkartegixe is a business center, created to host new business projects and companies that are in the process of expansion	prem195_hyp1	The Gernika Business Park is very large and houses many newly established companies.	1
+g2	dialectal	prem195	Gernika Alkartegixe is a business center, created to host new business projects and companies that are in the process of expansion	prem195_hyp2	The Gernika Business Center serves to establish new business projects and expanding companies.	2
+g7	dialectal	prem196	We can say that he has a curious job: world traveler.	prem196_hyp0	It is unusual to have traveling the world as a profession.	0
+g7	dialectal	prem196	We can say that he has a curious job: world traveler.	prem196_hyp1	You have to work to earn money.	1
+g7	dialectal	prem196	We can say that he has a curious job: world traveler.	prem196_hyp2	He/She does their work without moving from home.	2
+g6	dialectal	prem197	The flight from Chicago to Los Angeles arrived two hours late.	prem197_hyp0	The plane from Chicago to Los Angeles arrived late.	0
+g6	dialectal	prem197	The flight from Chicago to Los Angeles arrived two hours late.	prem197_hyp1	There is a flight from Chicago to Los Angeles every three hours.	1
+g6	dialectal	prem197	The flight from Chicago to Los Angeles arrived two hours late.	prem197_hyp2	The flight from Chicago to Los Angeles arrived two hours ahead of schedule.	2
+g5	dialectal	prem198	After Jack London went canoeing in rivers and magnificent lakes of Alaska, a good friend came to visit me at the hospital yesterday.	prem198_hyp0	Yesterday, a friend who had been traveling from California and Alaska visited me in the hospital.	0
+g5	dialectal	prem198	After Jack London went canoeing in rivers and magnificent lakes of Alaska, a good friend came to visit me at the hospital yesterday.	prem198_hyp1	I have known the close friend who visited me at the hospital yesterday since we were very young.	1
+g5	dialectal	prem198	After Jack London went canoeing in rivers and magnificent lakes of Alaska, a good friend came to visit me at the hospital yesterday.	prem198_hyp2	Yesterday I was alone at the hospital.	2
+g6	dialectal	prem199	We have had four long seasons over four years at Paradise cinema.	prem199_hyp0	The four seasons we discussed at Paradise cinema are long-running.	0
+g6	dialectal	prem199	We have had four long seasons over four years at Paradise cinema.	prem199_hyp1	The seasons discussed in Paradise cinema vary in length.	1
+g6	dialectal	prem199	We have had four long seasons over four years at Paradise cinema.	prem199_hyp2	At Paradise Cinema, we have shown four short seasons for the four seasons of the year.	2
+s3	dialectal	prem200	Children and young people from the Basque Country can enjoy movies in their own language, Basque, at the same time as the versions in Spanish are premiered.	prem200_hyp0	Since the Basque and Spanish versions will be released simultaneously, children and young people in the Basque Country will be able to enjoy cinema in Basque from the start.	0
+s3	dialectal	prem200	Children and young people from the Basque Country can enjoy movies in their own language, Basque, at the same time as the versions in Spanish are premiered.	prem200_hyp1	In the Basque Country, sometimes films can also be enjoyed in English from their premiere.	1
+s3	dialectal	prem200	Children and young people from the Basque Country can enjoy movies in their own language, Basque, at the same time as the versions in Spanish are premiered.	prem200_hyp2	In this way, children and young people from the Basque Country will be able to watch films in Spanish from their release date, but they will have to wait a long time to watch them in Basque.	2
+g2	dialectal	prem201	"The Santutxu Youth Assembly has organized two initiatives this week ""against oppressive capitalism"""	prem201_hyp0	The Santutxu Youth Assembly organizes actions against capitalist oppression.	0
+g2	dialectal	prem201	"The Santutxu Youth Assembly has organized two initiatives this week ""against oppressive capitalism"""	prem201_hyp1	Activities are organized weekly at the Santutxu Youth Assembly.	1
+g2	dialectal	prem201	"The Santutxu Youth Assembly has organized two initiatives this week ""against oppressive capitalism"""	prem201_hyp2	This week, two activities have been organized by the Santutxu Youth Assembly to defend the liberating aspect of capitalism.	2
+g7	dialectal	prem202	This year's Christmas gift had to be special: a photo collection of mom's life and a surprise snack/afternoon tea.	prem202_hyp0	To make this year's birthday gift different, we prepared a surprise snack for mom and gave her a photo album.	0
+g7	dialectal	prem202	This year's Christmas gift had to be special: a photo collection of mom's life and a surprise snack/afternoon tea.	prem202_hyp1	To make mother's birthday special this year, the whole family gathered together for an afternoon snack.	1
+g7	dialectal	prem202	This year's Christmas gift had to be special: a photo collection of mom's life and a surprise snack/afternoon tea.	prem202_hyp2	This year's birthday gift for mother was supposed to be completely ordinary, that's why we only gave her a photo album.	2
+g4	dialectal	prem203	Moreover, there was someone in the aristocracy who gave steps to ensure that the Basque language would be loved and used, bringing joy to life.	prem203_hyp0	Some aristocrat made efforts to promote the use of Basque because they liked the language, and that is heartening.	0
+g4	dialectal	prem203	Moreover, there was someone in the aristocracy who gave steps to ensure that the Basque language would be loved and used, bringing joy to life.	prem203_hyp1	Among the aristocracy, some were engaged in Basque linguistics, and that brings joy.	1
+g4	dialectal	prem203	Moreover, there was someone in the aristocracy who gave steps to ensure that the Basque language would be loved and used, bringing joy to life.	prem203_hyp2	All aristocrats hated the Basque language, which is why they took steps to restrict its use.	2
+g2	dialectal	prem204	We Basques will only respond to passive receivers in Basque when they speak to us in Basque, and only then, will we change our language use.	prem204_hyp0	To increase the use of Basque, we Basque speakers must speak Basque to passive receivers.	0
+g2	dialectal	prem204	We Basques will only respond to passive receivers in Basque when they speak to us in Basque, and only then, will we change our language use.	prem204_hyp1	When children are present, we Basque speakers use the Basque language more frequently with passive listeners.	1
+g2	dialectal	prem204	We Basques will only respond to passive receivers in Basque when they speak to us in Basque, and only then, will we change our language use.	prem204_hyp2	To revolutionize the use of Basque, we Basque speakers need to speak in Spanish/foreign language to passive receivers.	2
+s4	dialectal	prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is at the core of the novel.	prem205_hyp0	Mikel Antza wrote the novel Atzerri, and it is said that the core of the novel is a mixture between his personal experiences and fiction.	0
+s4	dialectal	prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is at the core of the novel.	prem205_hyp1	"Mikel Antza's novel ""Atzerri"" was published in 2012, and since then it has achieved great success among Basque readers."	1
+s4	dialectal	prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is at the core of the novel.	prem205_hyp2	In 2012, Mikel Antza published Atzerri, an autobiographical book that compiles his life experiences.	2
+g8	toka	prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is said to be the core of the novel.	prem205_hyp0	Mikel Antza wrote the novel Atzerri, and it is said that the core of the novel is a mixture between his personal experiences and fiction.	0
+g8	toka	prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is said to be the core of the novel.	prem205_hyp1	"Mikel Antza's novel ""Atzerri"" was published in 2012, and since then it has achieved great success among Basque readers."	1
+g8	toka	prem205	Atzerri is a novel published by Mikel Antza in 2012; autofiction is said to be the core of the novel.	prem205_hyp2	In 2012, Mikel Antza published Atzerri, an autobiographical book that compiles his life experiences.	2
+g1	dialectal	prem206	When it ended, I started clapping for the first time in my life	prem206_hyp0	At the end, I expressed that I enjoyed it.	0
+g1	dialectal	prem206	When it ended, I started clapping for the first time in my life	prem206_hyp1	My final reactions are very common.	1
+g1	dialectal	prem206	When it ended, I started clapping for the first time in my life	prem206_hyp2	When it ended, as always, I remained completely still.	2
+g1	dialectal	prem207	It also has an entrepreneurship and coworking space, with all the infrastructure needed to launch a business project.	prem207_hyp0	It has the necessary infrastructure to promote collaboration between companies and encourage the creation of new businesses.	0
+g1	dialectal	prem207	It also has an entrepreneurship and coworking space, with all the infrastructure needed to launch a business project.	prem207_hyp1	The basic infrastructure needed to launch a business project depends on the company's requirements.	1
+g1	dialectal	prem207	It also has an entrepreneurship and coworking space, with all the infrastructure needed to launch a business project.	prem207_hyp2	Although it has an entrepreneurship and coworking room, its infrastructure is too inadequate to launch a business project.	2
+g8	toka	prem207	It also has an entrepreneurship and coworking room, with all the infrastructure you need to start up a business project.	prem207_hyp0	It has the necessary infrastructure to promote collaboration between companies and encourage the creation of new businesses.	0
+g8	toka	prem207	It also has an entrepreneurship and coworking room, with all the infrastructure you need to start up a business project.	prem207_hyp1	The basic infrastructure needed to launch a business project depends on the company's requirements.	1
+g8	toka	prem207	It also has an entrepreneurship and coworking room, with all the infrastructure you need to start up a business project.	prem207_hyp2	Although it has an entrepreneurship and coworking room, its infrastructure is too inadequate to launch a business project.	2

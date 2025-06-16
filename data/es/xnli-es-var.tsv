@@ -1,0 +1,667 @@
+ann_id	change_type	herrialdea	prem_id	premise	hypothesis	label
+6	berridazketa	Ecuador	prem1	El sorteo se realiza ante un notario público y se lleva a cabo mediante un software para la asignación de los ganadores.	Se necesitan un ordenador y un notario para realizar el sorteo.	0
+6	berridazketa	Ecuador	prem1	El sorteo se realiza ante un notario público y se lleva a cabo mediante un software para la asignación de los ganadores.	Normalmente es el mismo notario en todos los sorteos.	1
+6	berridazketa	Ecuador	prem1	El sorteo se realiza ante un notario público y se lleva a cabo mediante un software para la asignación de los ganadores.	El sorteo se realiza introduciendo papeletas numeradas en un recipiente y sacando una al azar.	2
+6	berridazketa	Ecuador	prem2	Enrike Eizagirre y Ane Sarasketa se presentan ofreciendo la emocionante danza de Arratia.	Enrique y Ana bailando pasos de baile.	0
+6	berridazketa	Ecuador	prem2	Enrike Eizagirre y Ane Sarasketa se presentan ofreciendo la emocionante danza de Arratia.	Ane y Enrique tienen pantalones azules.	1
+6	berridazketa	Ecuador	prem2	Enrike Eizagirre y Ane Sarasketa se presentan ofreciendo la emocionante danza de Arratia.	Enrique Izaguirre y Ana Sarasqueta estaban comiendo helado.	2
+6	berridazketa	Ecuador	prem3	El gaztetxe Sorgintxulo fue ocupado en el año 1998 en los lugares vacíos de la iglesia de El Carmelo.	La iglesia del Carmen era la propietaria del gaztetxe Sorgintxulo.	0
+6	berridazketa	Ecuador	prem3	El gaztetxe Sorgintxulo fue ocupado en el año 1998 en los lugares vacíos de la iglesia de El Carmelo.	Se ofrecen varios conciertos en el gaztetxe Sorgintxulo.	1
+6	berridazketa	Ecuador	prem3	El gaztetxe Sorgintxulo fue ocupado en el año 1998 en los lugares vacíos de la iglesia de El Carmelo.	El gaztetxe Sorgintxulo fue cedido por el ayuntamiento a un grupo de jóvenes.	2
+6	berridazketa	Ecuador	prem4	En el disco compuesto por nueve canciones se mezclan el rock pesado con el rock tradicional y rock liviano.	El disco tiene menos de diez canciones en total.	0
+6	berridazketa	Ecuador	prem4	En el disco compuesto por nueve canciones se mezclan el rock pesado con el rock tradicional y rock liviano.	La duración de cada canción es de aproximadamente tres minutos, aunque también hay una de seis minutos.	1
+6	berridazketa	Ecuador	prem4	En el disco compuesto por nueve canciones se mezclan el rock pesado con el rock tradicional y rock liviano.	Los sonidos tranquilos predominan en el disco.	2
+6	berridazketa	Ecuador	prem5	"La película ""Ballerina"" se estrenará pasado mañana en las salas de cine, en euskera."	La película Ballerina podrá verse en euskera.	0
+6	berridazketa	Ecuador	prem5	"La película ""Ballerina"" se estrenará pasado mañana en las salas de cine, en euskera."	"""Ballerina"" es una película de animación hecha en Francia."	1
+6	berridazketa	Ecuador	prem5	"La película ""Ballerina"" se estrenará pasado mañana en las salas de cine, en euskera."	"No se podrá ver ""Ballerina"" en el cine hasta dentro de un mes."	2
+6	berridazketa	Ecuador	prem6	Hoy fue publicado el nuevo trabajo del grupo Solte de Santutxu.	El grupo Solte de Santutxu ha realizado un nuevo trabajo.	0
+6	berridazketa	Ecuador	prem6	Hoy fue publicado el nuevo trabajo del grupo Solte de Santutxu.	El disco ha llegado después de estar parado durante los últimos cinco años.	1
+6	berridazketa	Ecuador	prem6	Hoy fue publicado el nuevo trabajo del grupo Solte de Santutxu.	El grupo Solte desapareció hace tres años.	2
+6	berridazketa	Ecuador	prem7	Aunque el bertsolari Txirrita era un analfabeto, tenía una gran intuición para hacer lecturas de la información que había recopilado.	Txirrita no leyó ni un solo libro en toda su vida.	0
+6	berridazketa	Ecuador	prem7	Aunque el bertsolari Txirrita era un analfabeto, tenía una gran intuición para hacer lecturas de la información que había recopilado.	Al bertsolari Basarri, por su parte, le gustaba mucho leer novelas.	1
+6	berridazketa	Ecuador	prem7	Aunque el bertsolari Txirrita era un analfabeto, tenía una gran intuición para hacer lecturas de la información que había recopilado.	Mientras tomaba café, Txirrita leía el periódico todas las mañanas.	2
+6	berridazketa	Ecuador	prem8	Los trabajos tendrán como máximo dos páginas, en tamaño A4 (vertical).	Se deberá utilizar el formato A4 para realizar los trabajos.	0
+6	berridazketa	Ecuador	prem8	Los trabajos tendrán como máximo dos páginas, en tamaño A4 (vertical).	Se debe utilizar obligatoriamente el tamaño Arial 12 para escribir.	1
+6	berridazketa	Ecuador	prem8	Los trabajos tendrán como máximo dos páginas, en tamaño A4 (vertical).	También se aceptarán trabajos de cuatro páginas.	2
+6	berridazketa	Ecuador	prem9	¡Realmente peculiar fue la vida de Antton y su casa aún más fascinante!	El lugar donde vivió Antton era extraño.	0
+6	berridazketa	Ecuador	prem9	¡Realmente peculiar fue la vida de Antton y su casa aún más fascinante!	Antton tuvo dos hijas siendo muy joven.	1
+6	berridazketa	Ecuador	prem9	¡Realmente peculiar fue la vida de Antton y su casa aún más fascinante!	Antón tuvo una vida tranquila, sin grandes aventuras.	2
+6	berridazketa	Ecuador	prem10	El Centro Empresarial de Santurtzi está ubicado en el parque industrial El Árbol de Santurtzi, cerca de la autopista A-8.	El Centro Empresarial Santurtzi está en Portugalete, aunque por el nombre no lo parezca.	2
+6	berridazketa	Ecuador	prem10	El Centro Empresarial de Santurtzi está ubicado en el parque industrial El Árbol de Santurtzi, cerca de la autopista A-8.	El Centro Empresarial de Santurce no está lejos de la autopista A-8.	0
+6	berridazketa	Ecuador	prem10	El Centro Empresarial de Santurtzi está ubicado en el parque industrial El Árbol de Santurtzi, cerca de la autopista A-8.	En el polígono industrial El Árbol hay un total de 27 empresas.	1
+6	berridazketa	Ecuador	prem11	Ballerina es una de las más grandes coproducciones de animación realizadas en Europa en los últimos tiempos.	"Aunque fue hecha en los Estados Unidos de América, la historia de ""Ballerina"" se sitúa en Europa."	2
+6	berridazketa	Ecuador	prem11	Ballerina es una de las más grandes coproducciones de animación realizadas en Europa en los últimos tiempos.	"La película de animación ""Ballerina"" está hecha en Europa."	0
+6	berridazketa	Ecuador	prem11	Ballerina es una de las más grandes coproducciones de animación realizadas en Europa en los últimos tiempos.	La protagonista de la película es una chica.	1
+6	berridazketa	Ecuador	prem12	Es verdad, que probablemente se entienden mejor varios pasajes después de haber leído el libro.	Algunos pasajes son más difíciles de entender sin haber leído el libro.	0
+6	berridazketa	Ecuador	prem12	Es verdad, que probablemente se entienden mejor varios pasajes después de haber leído el libro.	No tiene ningún efecto no haber leído el libro.	2
+6	berridazketa	Ecuador	prem12	Es verdad, que probablemente se entienden mejor varios pasajes después de haber leído el libro.	Han modificado algunos pasajes del libro que eran de terror.	1
+6	berridazketa	Ecuador	prem13	Mientras Miren fumaba junto a la ventana de casa, Lucia se le acercó y, delante de su marido, empezó a tocarlo.	El marido de Miren estaba viendo la televisión cuando llegó Lucia.	1
+6	berridazketa	Ecuador	prem13	Mientras Miren fumaba junto a la ventana de casa, Lucia se le acercó y, delante de su marido, empezó a tocarlo.	Mientras Miren estaba junto a la ventana de casa, Lucia empezó a tocarla.	0
+6	berridazketa	Ecuador	prem13	Mientras Miren fumaba junto a la ventana de casa, Lucia se le acercó y, delante de su marido, empezó a tocarlo.	Cuando llegó Lucía no se atrevió a acercarse a Miren, ya que su marido estaba presente.	2
+6	berridazketa	Ecuador	prem14	"Este otoño empezará su tercer año en el programa de radio ""Sukalde dema"" de Radio Euskadi."	Los presentadores del concurso de cocina cambiaron después del primer año.	1
+6	berridazketa	Ecuador	prem14	"Este otoño empezará su tercer año en el programa de radio ""Sukalde dema"" de Radio Euskadi."	"El programa ""Desafío de cocina"" solo duró un año en radio euskadi."	2
+6	berridazketa	Ecuador	prem14	"Este otoño empezará su tercer año en el programa de radio ""Sukalde dema"" de Radio Euskadi."	Los concursos de cocina llevan más de un año en Radio Euskadi.	0
+6	berridazketa	Ecuador	prem15	Además, el parte policial no está ni en euskera ni en euskera-castellano.	No tienen el parte de accidente en euskera.	0
+6	berridazketa	Ecuador	prem15	Además, el parte policial no está ni en euskera ni en euskera-castellano.	Tuvo un accidente en el coche rojo hace dos semanas.	1
+6	berridazketa	Ecuador	prem15	Además, el parte policial no está ni en euskera ni en euskera-castellano.	Me han dicho que tienen un parte de accidente que está completamente en euskera.	2
+6	berridazketa	Ecuador	prem16	En España, más de la mitad de los matrimonios terminan en divorcio.	Más de la mitad de los matrimonios se divorcia en España.	0
+6	berridazketa	Ecuador	prem16	En España, más de la mitad de los matrimonios terminan en divorcio.	Cada vez son menos los que se casan por la iglesia en el estado español.	1
+6	berridazketa	Ecuador	prem16	En España, más de la mitad de los matrimonios terminan en divorcio.	Menos de la mitad son los que se separan después de casarse.	2
+6	berridazketa	Ecuador	prem17	Un pueblo que no se imagina no puede existir.	Hay algunos pueblos que tienen todas las casas blancas.	1
+6	berridazketa	Ecuador	prem17	Un pueblo que no se imagina no puede existir.	Todos los pueblos que existen pueden ser imaginados.	0
+6	berridazketa	Ecuador	prem17	Un pueblo que no se imagina no puede existir.	Ayer vimos un pueblo que no se imagina.	2
+6	berridazketa	Ecuador	prem18	En los últimos días hemos conocido las denuncias en fiscalía en contra 48 personas por trabajar en el ámbito de los presos políticos vascos, algunas de ellas superiores a 20 años.	La mayoría de los que trabajan en el tema de los presos políticos son guipuzcoanos.	1
+6	berridazketa	Ecuador	prem18	En los últimos días hemos conocido las denuncias en fiscalía en contra 48 personas por trabajar en el ámbito de los presos políticos vascos, algunas de ellas superiores a 20 años.	La Fiscalía ha dado el visto bueno a la labor que realizan quienes trabajan en el tema de los presos políticos.	2
+6	berridazketa	Ecuador	prem18	En los últimos días hemos conocido las denuncias en fiscalía en contra 48 personas por trabajar en el ámbito de los presos políticos vascos, algunas de ellas superiores a 20 años.	La fiscalía ha solicitado penas para varias personas.	0
+6	berridazketa	Ecuador	prem19	Hasta ahora, debido al bajo nivel de euskera, la nota general para la selección dejaba fuera a muchos de los estudiantes locales.	El nivel de euskera no tenía importancia en la nota de selectividad.	2
+6	berridazketa	Ecuador	prem19	Hasta ahora, debido al bajo nivel de euskera, la nota general para la selección dejaba fuera a muchos de los estudiantes locales.	El nivel de idioma influía en la nota general de selectividad.	0
+6	berridazketa	Ecuador	prem19	Hasta ahora, debido al bajo nivel de euskera, la nota general para la selección dejaba fuera a muchos de los estudiantes locales.	El año pasado se registraron las notas más bajas de la historia en los exámenes de selectividad.	1
+6	berridazketa	Ecuador	prem20	Mi amigo dice que, aunque haya viajado casí por todo el mundo, el día que enferme regresará inmediatamente al País Vasco.	El amigo anda por el mundo.	0
+6	berridazketa	Ecuador	prem20	Mi amigo dice que, aunque haya viajado casí por todo el mundo, el día que enferme regresará inmediatamente al País Vasco.	El amigo no nació en el País Vasco.	1
+6	berridazketa	Ecuador	prem20	Mi amigo dice que, aunque haya viajado casí por todo el mundo, el día que enferme regresará inmediatamente al País Vasco.	El amigo dice que tiene la intención de viajar por el mundo para siempre.	2
+6	berridazketa	Ecuador	prem21	Después de 40 años, la película 'Alien, el octavo pasajero' no pasa de moda.	La película 'Alien, el octavo pasajero' se realizó hace más de cuatro décadas.	0
+6	berridazketa	Ecuador	prem21	Después de 40 años, la película 'Alien, el octavo pasajero' no pasa de moda.	La película 'Alien, el octavo pasajero' no recibió críticas especialmente buenas en un principio.	1
+6	berridazketa	Ecuador	prem21	Después de 40 años, la película 'Alien, el octavo pasajero' no pasa de moda.	La película 'Alien, el octavo pasajero' se estrenará próximamente.	2
+6	berridazketa	Ecuador	prem22	Nuestro trabajo muchas veces puede ser muy difícil, muy duro y muy canasado, y necesitamos recurrir al humor de vez en cuando.	Siempre tenemos que estar muy serios en el trabajo.	2
+6	berridazketa	Ecuador	prem22	Nuestro trabajo muchas veces puede ser muy difícil, muy duro y muy canasado, y necesitamos recurrir al humor de vez en cuando.	Nuestro trabajo suele ser duro más de una vez.	0
+6	berridazketa	Ecuador	prem22	Nuestro trabajo muchas veces puede ser muy difícil, muy duro y muy canasado, y necesitamos recurrir al humor de vez en cuando.	Tenemos buena relación entre compañeros de trabajo, aunque a veces también tenemos algunos desacuerdos.	1
+6	berridazketa	Ecuador	prem23	Es cierto que cualquier persona que se acerque a un hospital público encontrará algún fallo y motivos para enfadarse.	Se puede decir que el sistema de salud público de aquí es perfecto.	2
+6	berridazketa	Ecuador	prem23	Es cierto que cualquier persona que se acerque a un hospital público encontrará algún fallo y motivos para enfadarse.	Hay errores en el sistema de salud público.	0
+6	berridazketa	Ecuador	prem23	Es cierto que cualquier persona que se acerque a un hospital público encontrará algún fallo y motivos para enfadarse.	Los médicos del sistema público de salud están enfadados con las medidas adoptadas.	1
+6	berridazketa	Ecuador	prem24	Por lo tanto, la directiva barrial no resulta atractiva para la gente joven.	La mayoría de la gente que se acerca a la asociación vecinal es adulta.	0
+6	berridazketa	Ecuador	prem24	Por lo tanto, la directiva barrial no resulta atractiva para la gente joven.	Últimamente hay muchos jóvenes participando en la asociación vecinal.	2
+6	berridazketa	Ecuador	prem24	Por lo tanto, la directiva barrial no resulta atractiva para la gente joven.	La asociación vecinal cumplió veinte años el año pasado.	1
+6	berridazketa	Ecuador	prem25	El premio creado por el municipio, el premio Antton Abbadie, ha sido un merecido reconocimiento.	Además del premio Antton Abbadie, ha recibido otros también.	1
+6	berridazketa	Ecuador	prem25	El premio creado por el municipio, el premio Antton Abbadie, ha sido un merecido reconocimiento.	Merecía recibir el premio Antton Abbadie.	0
+6	berridazketa	Ecuador	prem25	El premio creado por el municipio, el premio Antton Abbadie, ha sido un merecido reconocimiento.	Le otorgaron el premio Antton Abbadie a la Diputación Foral.	2
+6	berridazketa	Ecuador	prem26	Este libro recoge sus declaraciones y los detalles de su forma de hablar.	La persona que ha escrito el libro es famosa.	1
+6	berridazketa	Ecuador	prem26	Este libro recoge sus declaraciones y los detalles de su forma de hablar.	Hay muy poco en el libro sobre el lenguaje.	2
+6	berridazketa	Ecuador	prem26	Este libro recoge sus declaraciones y los detalles de su forma de hablar.	Lo que ellos indicaron ha quedado recogido en el libro.	0
+6	berridazketa	Ecuador	prem27	Será interesante comparar los nuevos edificios con las fotografías tomadas allí.	Se han sacado las fotos allí.	0
+6	berridazketa	Ecuador	prem27	Será interesante comparar los nuevos edificios con las fotografías tomadas allí.	La construcción del futuro será mejor.	1
+6	berridazketa	Ecuador	prem27	Será interesante comparar los nuevos edificios con las fotografías tomadas allí.	Es aburrido estar comparando construcciones.	2
+6	berridazketa	Ecuador	prem28	El frontón cuenta con 65 asientos para personas con discapacidad motriz, y el Trinquete con 16.	El frontón tiene más asientos para personas con movilidad reducida que el Trinquete.	0
+6	berridazketa	Ecuador	prem28	El frontón cuenta con 65 asientos para personas con discapacidad motriz, y el Trinquete con 16.	Suele ir más gente al Frontón a ver partidos que al Trinquete.	1
+6	berridazketa	Ecuador	prem28	El frontón cuenta con 65 asientos para personas con discapacidad motriz, y el Trinquete con 16.	El Trinquet tiene al menos tantos asientos como el Frontón para personas con movilidad reducida.	2
+6	berridazketa	Ecuador	prem29	He realizado una visita guiada al Acuario de San Sebastián en octubre.	Estuve en San Sebastián en octubre.	0
+6	berridazketa	Ecuador	prem29	He realizado una visita guiada al Acuario de San Sebastián en octubre.	He estado en el acuario tres veces en total.	1
+6	berridazketa	Ecuador	prem29	He realizado una visita guiada al Acuario de San Sebastián en octubre.	He estado sin ir al Acuario durante todo el otoño.	2
+6	berridazketa	Ecuador	prem30	Sin embargo, estamos inmersos en pleno cambio y, entre otras cosas, también estamos trabajando en la revisión de los criterios lingüísticos.	El objetivo principal del cambio es facilitar la oportunidad de aprender más idiomas.	1
+6	berridazketa	Ecuador	prem30	Sin embargo, estamos inmersos en pleno cambio y, entre otras cosas, también estamos trabajando en la revisión de los criterios lingüísticos.	Parecía que teníamos intención de hacer algunos cambios, pero al final hemos decidido seguir igual.	2
+6	berridazketa	Ecuador	prem30	Sin embargo, estamos inmersos en pleno cambio y, entre otras cosas, también estamos trabajando en la revisión de los criterios lingüísticos.	Entre otras cosas, estamos revisando los criterios lingüísticos.	0
+6	berridazketa	Ecuador	prem31	Las leyendas más interesantes que gobiernan nuestros cerebros han nacido en la oscuridad.	Todas las historias interesantes de nuestro cerebro nacen en la luz.	2
+6	berridazketa	Ecuador	prem31	Las leyendas más interesantes que gobiernan nuestros cerebros han nacido en la oscuridad.	Las historias más interesantes de nuestro cerebro nacen en la oscuridad.	0
+6	berridazketa	Ecuador	prem31	Las leyendas más interesantes que gobiernan nuestros cerebros han nacido en la oscuridad.	No podemos saber de dónde vienen todas las leyendas interesantes.	1
+6	berridazketa	Ecuador	prem32	El primer día nos encontramos con tres grupos; solo uno era en euskera.	Un tercio de los grupos que se encontraron el primer día eran en euskera.	0
+6	berridazketa	Ecuador	prem32	El primer día nos encontramos con tres grupos; solo uno era en euskera.	Los grupos del primer día eran muy heterogéneos, había gente de diferentes edades y culturas.	1
+6	berridazketa	Ecuador	prem32	El primer día nos encontramos con tres grupos; solo uno era en euskera.	La mayoría de los grupos encontrados el primer día eran en euskera.	2
+6	berridazketa	Ecuador	prem33	Muchos niños van a clases de castellano en San Sebastián.	En San Sebastián muchos padres llevan a sus hijos a cursos de castellano.	0
+6	berridazketa	Ecuador	prem33	Muchos niños van a clases de castellano en San Sebastián.	Los cursos infantiles en San Sebastián son por las tardes.	1
+6	berridazketa	Ecuador	prem33	Muchos niños van a clases de castellano en San Sebastián.	Los cursos de castellano en San Sebastián están vacíos.	2
+6	berridazketa	Ecuador	prem34	Para recuperar el boleto, debes acceder a tu perfil en la la página web.	Puede recuperar el billete de viaje accediendo a su expediente en la sede electrónica.	0
+6	berridazketa	Ecuador	prem34	Para recuperar el boleto, debes acceder a tu perfil en la la página web.	Accede a tu expediente en la sede electrónica y recuperarás el billete de viaje en el plazo de una semana.	1
+6	berridazketa	Ecuador	prem34	Para recuperar el boleto, debes acceder a tu perfil en la la página web.	Es suficiente llamar por teléfono para recuperar el billete de viaje.	2
+6	berridazketa	Ecuador	prem35	El curso le ha hecho bien para ganar destreza con el equilibrio y los saltos.	Gracias al curso ha mejorado su equilibrio y ha ganado destreza con los saltos.	0
+6	berridazketa	Ecuador	prem35	El curso le ha hecho bien para ganar destreza con el equilibrio y los saltos.	Gracias al curso ha mejorado mucho su elasticidad.	1
+6	berridazketa	Ecuador	prem35	El curso le ha hecho bien para ganar destreza con el equilibrio y los saltos.	No le ha servido de nada hacer el curso.	2
+6	berridazketa	Ecuador	prem36	Cerca de los 60 años ambos, hemos empezado a fijarnos en cosas que hasta ahora nos resultaban indiferentes, en la salud, en los amigos que mueren cada vez con más frecuencia.	Entre los dos tenemos menos de 61 años.	0
+6	berridazketa	Ecuador	prem36	Cerca de los 60 años ambos, hemos empezado a fijarnos en cosas que hasta ahora nos resultaban indiferentes, en la salud, en los amigos que mueren cada vez con más frecuencia.	A las puertas de los 60 años es mejor no fijarse en el pasado.	1
+6	berridazketa	Ecuador	prem36	Cerca de los 60 años ambos, hemos empezado a fijarnos en cosas que hasta ahora nos resultaban indiferentes, en la salud, en los amigos que mueren cada vez con más frecuencia.	El envejecimiento no ha cambiado nuestra perspectiva sobre la salud y la muerte.	2
+6	berridazketa	Ecuador	prem37	Inmediatamente después del sorteo, se adjudican los puestos.	Las plazas se asignan por sorteo.	0
+6	berridazketa	Ecuador	prem37	Inmediatamente después del sorteo, se adjudican los puestos.	El sorteo para la adjudicación de plazas se realiza informáticamente.	1
+6	berridazketa	Ecuador	prem37	Inmediatamente después del sorteo, se adjudican los puestos.	Las plazas se adjudican dos semanas después del sorteo.	2
+6	berridazketa	Ecuador	prem38	El evento del sábado fue agradable.	El evento del sábado fue agradable.	0
+6	berridazketa	Ecuador	prem38	El evento del sábado fue agradable.	Vi el evento del sábado desde casa.	1
+6	berridazketa	Ecuador	prem38	El evento del sábado fue agradable.	El evento del sábado no fue de mi agrado, le faltó contundencia.	2
+6	berridazketa	Ecuador	prem39	El amor romántico es una forma para garantizar la supervivencia del patriarcado.	El amor romántico se utiliza para que el sistema patriarcal sobreviva.	0
+6	berridazketa	Ecuador	prem39	El amor romántico es una forma para garantizar la supervivencia del patriarcado.	Existen varios dispositivos para que el sistema patriarcal sobreviva.	1
+6	berridazketa	Ecuador	prem39	El amor romántico es una forma para garantizar la supervivencia del patriarcado.	El sistema patriarcal es un dispositivo para garantizar la supervivencia del amor romántico.	2
+6	berridazketa	Ecuador	prem40	Tenía 46 años y una muerte repentina se lo llevó con el creador.	Murió repentinamente a los 46 años.	0
+6	berridazketa	Ecuador	prem40	Tenía 46 años y una muerte repentina se lo llevó con el creador.	Tuvo una vida feliz.	1
+6	berridazketa	Ecuador	prem40	Tenía 46 años y una muerte repentina se lo llevó con el creador.	Murió de una larga enfermedad.	2
+6	berridazketa	Ecuador	prem41	El programa Zinema Euskaraz tradujo 15 películas al euskera el año pasado, y 2017 también ha comenzado con buen ritmo.	El programa Cine en Euskera dobla películas al euskera.	0
+6	berridazketa	Ecuador	prem41	El programa Zinema Euskaraz tradujo 15 películas al euskera el año pasado, y 2017 también ha comenzado con buen ritmo.	Todos los doblajes realizados por el programa Cine en Euskera han sido del castellano al euskera.	1
+6	berridazketa	Ecuador	prem41	El programa Zinema Euskaraz tradujo 15 películas al euskera el año pasado, y 2017 también ha comenzado con buen ritmo.	Parece que el programa Cine en Euskera también doblará muy pocas películas en 2017.	2
+6	berridazketa	Ecuador	prem42	La semana pasada los consultorios gratuitos de Bilbao cumplieron cuatro años.	La Oficina de Ocupación de Bilbao celebró su cuarto aniversario.	0
+6	berridazketa	Ecuador	prem42	La semana pasada los consultorios gratuitos de Bilbao cumplieron cuatro años.	La Oficina de Empleo de Bilbao contratará nuevos trabajadores el próximo mes.	1
+6	berridazketa	Ecuador	prem42	La semana pasada los consultorios gratuitos de Bilbao cumplieron cuatro años.	Han pasado dos años desde que cerró la Oficina de Ocupación de Bilbao.	2
+6	berridazketa	Ecuador	prem43	La oferta cultural en Getaria se ha multiplicado desde que yo vivía allí.	En Getaria hay cada vez más oferta cultural.	0
+6	berridazketa	Ecuador	prem43	La oferta cultural en Getaria se ha multiplicado desde que yo vivía allí.	Una cuarta parte de la oferta cultural de Getaria es teatro.	1
+6	berridazketa	Ecuador	prem43	La oferta cultural en Getaria se ha multiplicado desde que yo vivía allí.	Antes en Getaria, cuando no vivía allí, había una mayor oferta cultural.	2
+6	berridazketa	Ecuador	prem44	Además de presentarlo a mano, también se presentarán en formato digital, siempre que sea posible.	Se presentarán únicamente en formato digital.	2
+6	berridazketa	Ecuador	prem44	Además de presentarlo a mano, también se presentarán en formato digital, siempre que sea posible.	Se presentarán en papel y en formato digital.	0
+6	berridazketa	Ecuador	prem44	Además de presentarlo a mano, también se presentarán en formato digital, siempre que sea posible.	Se presentarán en papel la semana que viene.	1
+6	berridazketa	Ecuador	prem45	A pesar de ser un dotado diseñador e ilustrador de libros, su contribución al mundo del cómic no ha sido menor.	La colección de cómics que acaba de publicar ha tenido un gran éxito entre los menores.	1
+6	berridazketa	Ecuador	prem45	A pesar de ser un dotado diseñador e ilustrador de libros, su contribución al mundo del cómic no ha sido menor.	Es dibujante de cómics y a veces hace ilustraciones.	2
+6	berridazketa	Ecuador	prem45	A pesar de ser un dotado diseñador e ilustrador de libros, su contribución al mundo del cómic no ha sido menor.	También ha hecho una gran contribución al mundo del cómic.	0
+6	berridazketa	Ecuador	prem46	El Funicular de Artxanda, S.A. es compañia que pertenece íntegramente al Ayuntamiento de Bilbao.	El Ayuntamiento de Bilbao es el propietario del Funicular de Artxanda.	0
+6	berridazketa	Ecuador	prem46	El Funicular de Artxanda, S.A. es compañia que pertenece íntegramente al Ayuntamiento de Bilbao.	El Ayuntamiento de Bilbao tiene alguna participación en el Funicular de Artxanda.	2
+6	berridazketa	Ecuador	prem46	El Funicular de Artxanda, S.A. es compañia que pertenece íntegramente al Ayuntamiento de Bilbao.	El presupuesto de explotación del Ayuntamiento de Bilbao recoge los derivados de todas las actividades que realiza la sociedad mercantil.	1
+6	berridazketa	Ecuador	prem47	En la costa de Guipúzcoa existierón muchas ballenas en una época, pero el historiador Xabier Alberdi menciona 4 ballenas conocidas en una entrevista realizada en Radio Euskadi.	Xabier Alberdi ha mencionado que las ballenas que vivían en la costa de Gipuzkoa también vivían en otras costas.	1
+6	berridazketa	Ecuador	prem47	En la costa de Guipúzcoa existierón muchas ballenas en una época, pero el historiador Xabier Alberdi menciona 4 ballenas conocidas en una entrevista realizada en Radio Euskadi.	Xabier Alberdi es historiador y conoce bien las ballenas de los mares de la zona.	0
+6	berridazketa	Ecuador	prem47	En la costa de Guipúzcoa existierón muchas ballenas en una época, pero el historiador Xabier Alberdi menciona 4 ballenas conocidas en una entrevista realizada en Radio Euskadi.	Xabier Alberdi, en una entrevista en Radio Euskadi, menciona que nunca ha habido ballenas en la costa de Gipuzkoa.	2
+6	berridazketa	Ecuador	prem48	Regresamos al monte Ulia después de mucho tiempo.	Hace años que no hemos estado en la montaña.	2
+6	berridazketa	Ecuador	prem48	Regresamos al monte Ulia después de mucho tiempo.	No hace mucho que no íbamos al monte Ulia.	0
+6	berridazketa	Ecuador	prem48	Regresamos al monte Ulia después de mucho tiempo.	El monte Ulía nos ha parecido muy bonito.	1
+6	berridazketa	Ecuador	prem49	El edificio principal para empresas que prestann servicios tiene 19 módulos.	El edificio principal para empresas de servicios cuenta con 19 módulos y tres pisos.	1
+6	berridazketa	Ecuador	prem49	El edificio principal para empresas que prestann servicios tiene 19 módulos.	El edificio principal para empresas de servicios puede tener módulos, pero no es obligatorio.	2
+6	berridazketa	Ecuador	prem49	El edificio principal para empresas que prestann servicios tiene 19 módulos.	El edificio principal para empresas de servicios está compuesto por 19 módulos.	0
+6	berridazketa	Ecuador	prem50	La Unión Europea está implementando una ordenanza llamada Uspace para crear espacios aéreos autorizados para drones.	Las ordenanzas Uspace crearán zonas aéreas autorizadas para drones automatizados.	0
+6	berridazketa	Ecuador	prem50	La Unión Europea está implementando una ordenanza llamada Uspace para crear espacios aéreos autorizados para drones.	Una ordenanza que prohibirá los drones aéreos automatizados en la Unión Europea entrará en vigor próximamente.	2
+6	berridazketa	Ecuador	prem50	La Unión Europea está implementando una ordenanza llamada Uspace para crear espacios aéreos autorizados para drones.	La ordenanza Uspace entrará en vigor en 2030.	1
+1	berridazketa	Uruguay	prem51	El aterrizaje en Dublín fue muy incómodo, el avión se movía mucho de un lado a otro.	Los pasajeros empezaron a gritar de miedo durante el aterrizaje forzoso.	1
+1	berridazketa	Uruguay	prem51	El aterrizaje en Dublín fue muy incómodo, el avión se movía mucho de un lado a otro.	El aterrizaje en Dublín ha sido muy incómodo, el avión se ha movido mucho, de un lado a otro.	0
+1	berridazketa	Uruguay	prem51	El aterrizaje en Dublín fue muy incómodo, el avión se movía mucho de un lado a otro.	Los aterrizajes en Dublín siempre son muy tranquilos, sin turbulencias.	2
+5	dialectal	Espainia_and	prem52	E sabío que Josan Goicoechea mantuvo una estrecha relación con Javier Lete, ehpecialmente durante lo ultimo año de su vida	Xabier Lete y Joxan Goikoetxea tuvieron su mayor relación durante la juventud.	2
+5	dialectal	Espainia_and	prem52	E sabío que Josan Goicoechea mantuvo una estrecha relación con Javier Lete, ehpecialmente durante lo ultimo año de su vida	Xabier Lete y Joxan Goikoetxea tuvieron una gran relación.	0
+5	dialectal	Espainia_and	prem52	E sabío que Josan Goicoechea mantuvo una estrecha relación con Javier Lete, ehpecialmente durante lo ultimo año de su vida	Xabier Lete y Joxan Goikoetxea son de la misma edad.	1
+1	berridazketa	Uruguay	prem53	"El teatro Arriaga de Bilbao presentó la obra ""Tiempos Difíciles"", basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	La obra de teatro Tiempos Míseros presentada por el teatro Arriaga de Bilbao es espectacular.	1
+1	berridazketa	Uruguay	prem53	"El teatro Arriaga de Bilbao presentó la obra ""Tiempos Difíciles"", basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	"La obra de teatro ""Tiempos Mezquinos"" que presentará el teatro Arriaga de Bilbao está basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	2
+1	berridazketa	Uruguay	prem53	"El teatro Arriaga de Bilbao presentó la obra ""Tiempos Difíciles"", basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	"La obra de teatro ""Tiempos Difíciles"" está basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	0
+5	dialectal	Espainia_and	prem54	El sábado, 31 dohtubre, recibimo una invitación pa ir a ve una película del Festival de Cine de Terror	Nos invitaron a ver una película del Festival de Cine de Terror.	0
+5	dialectal	Espainia_and	prem54	El sábado, 31 dohtubre, recibimo una invitación pa ir a ve una película del Festival de Cine de Terror	Le invitamos a ver una película del Festival de Cine de Terror.	2
+5	dialectal	Espainia_and	prem54	El sábado, 31 dohtubre, recibimo una invitación pa ir a ve una película del Festival de Cine de Terror	El sábado vimos dos películas del Festival de Cine de Terror.	1
+5	dialectal	Espainia_and	prem55	"Adarretatic e un festiva recién creao en Zarau que busca hacerse un hueco entre los festivale musicale de verano y tiene como ojetivo ""llevar lah música periférica al centro""."	El festival Adarretatik congregó a una multitud en las calles de Zarautz.	1
+5	dialectal	Espainia_and	prem55	"Adarretatic e un festiva recién creao en Zarau que busca hacerse un hueco entre los festivale musicale de verano y tiene como ojetivo ""llevar lah música periférica al centro""."	Han creado un nuevo festival de música de verano en Zarautz que visibiliza la música alternativa: Adarretatik.	0
+5	dialectal	Espainia_and	prem55	"Adarretatic e un festiva recién creao en Zarau que busca hacerse un hueco entre los festivale musicale de verano y tiene como ojetivo ""llevar lah música periférica al centro""."	"El festival de música de verano Adarretatik de Zarautz lleva años trabajando para ""traer las músicas periféricas al centro""."	2
+5	dialectal	Espainia_and	prem56	La asociacione europea han denunciao firmemente el caso contra Goioaga.	La asociación europea ha denunciado duramente los casos contra Goioaga.	2
+5	dialectal	Espainia_and	prem56	La asociacione europea han denunciao firmemente el caso contra Goioaga.	Las asociaciones europeas no están de acuerdo con el proceso contra Goioaga.	0
+5	dialectal	Espainia_and	prem56	La asociacione europea han denunciao firmemente el caso contra Goioaga.	El caso contra Goioaga ha tenido numerosas denuncias.	1
+1	berridazketa	Uruguay	prem57	"El grupo Solte preparó un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	El grupo musical Solte utiliza ritmos intensos, como lo demuestra su canción 'Mundo transformado'.	1
+1	berridazketa	Uruguay	prem57	"El grupo Solte preparó un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	'IXA' es el primer disco del grupo musical Solte.	2
+1	berridazketa	Uruguay	prem57	"El grupo Solte preparó un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	El último disco del grupo Solte es 'IXA'.	0
+5	dialectal	Espainia_and	prem58	Mucho trabajadore no saben questá bien y questá mal, no saben cómo actuar.	Distinguir entre el bien y el mal no es fácil para muchos trabajadores.	0
+5	dialectal	Espainia_and	prem58	Mucho trabajadore no saben questá bien y questá mal, no saben cómo actuar.	Los trabajadores no tienen dudas, siempre saben cómo deben actuar.	2
+5	dialectal	Espainia_and	prem58	Mucho trabajadore no saben questá bien y questá mal, no saben cómo actuar.	A los trabajadores les afecta mucho no saber cómo actuar.	1
+5	dialectal	Espainia_and	prem59	Conocimo un lugá recomendable el fin de semana pasao. E un pequeño conjunto de casa creado en ambiente familiá y con un toque sudamericano.	El pequeño conjunto de casas que conocí el fin de semana pasado me lo recomendó mi tía, está creado en un ambiente familiar y tiene un toque sudamericano.	1
+5	dialectal	Espainia_and	prem59	Conocimo un lugá recomendable el fin de semana pasao. E un pequeño conjunto de casa creado en ambiente familiá y con un toque sudamericano.	El fin de semana pasado estuvimos en un pequeño conjunto de casas que tiene un toque sudamericano.	0
+5	dialectal	Espainia_and	prem59	Conocimo un lugá recomendable el fin de semana pasao. E un pequeño conjunto de casa creado en ambiente familiá y con un toque sudamericano.	El pequeño conjunto de casas que conocimos el fin de semana pasado no es recomendable.	2
+5	dialectal	Espainia_and	prem60	Lo premiaos recibirán diversos materiales de informática y dibujo, y el cómic ganador será publicao en la revista BERTON de Mahatserri.	Los cómics premiados serán publicados en la revista BERTON de Mahatsarri.	2
+5	dialectal	Espainia_and	prem60	Lo premiaos recibirán diversos materiales de informática y dibujo, y el cómic ganador será publicao en la revista BERTON de Mahatserri.	Los premiados ganarán material de informática y dibujo.	0
+5	dialectal	Espainia_and	prem60	Lo premiaos recibirán diversos materiales de informática y dibujo, y el cómic ganador será publicao en la revista BERTON de Mahatserri.	Cada participante podrá presentar un solo cómic.	1
+5	dialectal	Espainia_and	prem61	El grupo Zea Mays lanzará su octavo trabajo, titulao 'Haro', el 3 de noviembre	El grupo Zea Mays está formado por cinco miembros.	1
+5	dialectal	Espainia_and	prem61	El grupo Zea Mays lanzará su octavo trabajo, titulao 'Haro', el 3 de noviembre	El grupo Zea Mays no ha publicado ni un solo disco.	2
+5	dialectal	Espainia_and	prem61	El grupo Zea Mays lanzará su octavo trabajo, titulao 'Haro', el 3 de noviembre	El grupo Zea Mays publicará un nuevo disco.	0
+5	dialectal	Espainia_and	prem62	La mihma tripulación de pehcadore ganó la primera bandera de la Concha pa Orio.	Orio consiguió la primera bandera de la Concha.	0
+5	dialectal	Espainia_and	prem62	La mihma tripulación de pehcadore ganó la primera bandera de la Concha pa Orio.	Hondarribia ganó la primera bandera de la Concha.	2
+5	dialectal	Espainia_and	prem62	La mihma tripulación de pehcadore ganó la primera bandera de la Concha pa Orio.	La tripulación de Orio suele vestir de amarillo.	1
+1	berridazketa	Uruguay	prem63	Acabo de estar en Roma con mis hijos.	Mis hijos me quieren mucho.	1
+1	berridazketa	Uruguay	prem63	Acabo de estar en Roma con mis hijos.	He estado en Italia hace poco.	0
+1	berridazketa	Uruguay	prem63	Acabo de estar en Roma con mis hijos.	Nunca he estado en Italia.	2
+5	dialectal	Espainia_and	prem64	"La obra de teatro ""Gabon, Txirrita"", escrita y dirigía por Xabier Lete, fue llevá a escena en 1982."	Xabier Lete no escribió obras de teatro.	2
+5	dialectal	Espainia_and	prem64	"La obra de teatro ""Gabon, Txirrita"", escrita y dirigía por Xabier Lete, fue llevá a escena en 1982."	Gabon Txirrita es el nombre de una obra de teatro.	0
+5	dialectal	Espainia_and	prem64	"La obra de teatro ""Gabon, Txirrita"", escrita y dirigía por Xabier Lete, fue llevá a escena en 1982."	Xabier Lete era un excelente cantante.	1
+5	dialectal	Espainia_and	prem65	"Recientemente ehtrenó ""Orm en el Reino de la Nieve"", y próximamente ehtrenará ""La película de Lego Batman""."	Cada vez menos gente va al cine.	1
+5	dialectal	Espainia_and	prem65	"Recientemente ehtrenó ""Orm en el Reino de la Nieve"", y próximamente ehtrenará ""La película de Lego Batman""."	Las películas de animación suelen ser dobladas al euskera.	0
+5	dialectal	Espainia_and	prem65	"Recientemente ehtrenó ""Orm en el Reino de la Nieve"", y próximamente ehtrenará ""La película de Lego Batman""."	ORM será la última película que se proyectará en el Reino de las Nieves.	2
+5	dialectal	Espainia_and	prem66	Amazon ofrece inteligencia artificial pa ehcuela, la nube y Alexa echo dot y Alexa echo plu.	No hay productos de inteligencia artificial dirigidos a las escuelas.	2
+5	dialectal	Espainia_and	prem66	Amazon ofrece inteligencia artificial pa ehcuela, la nube y Alexa echo dot y Alexa echo plu.	Amazon tiene muchos productos relacionados con la inteligencia artificial.	0
+5	dialectal	Espainia_and	prem66	Amazon ofrece inteligencia artificial pa ehcuela, la nube y Alexa echo dot y Alexa echo plu.	Los productos de Amazon suelen ser baratos.	1
+5	dialectal	Espainia_and	prem67	Pa una primera aproximación al euhkera, resulta interesante el método daprendizaje del euhkera publicao en su día por la Universidad de Deuhto.	La Universidad de Deusto tiene varias escuelas y facultades.	1
+5	dialectal	Espainia_and	prem67	Pa una primera aproximación al euhkera, resulta interesante el método daprendizaje del euhkera publicao en su día por la Universidad de Deuhto.	La Universidad de Deusto ha desarrollado únicamente material para aprender castellano.	2
+5	dialectal	Espainia_and	prem67	Pa una primera aproximación al euhkera, resulta interesante el método daprendizaje del euhkera publicao en su día por la Universidad de Deuhto.	La Universidad de Deusto ha desarrollado un método para aprender euskera.	0
+1	dialectal	Uruguay	prem68	Si querés saber cuál es tu nivel de euskera, la red también te ofrece esa posibilidad.	Existe la posibilidad de medir cuál es el nivel de euskera de cada uno.	0
+1	dialectal	Uruguay	prem68	Si querés saber cuál es tu nivel de euskera, la red también te ofrece esa posibilidad.	El nivel de uso del euskera está disminuyendo últimamente.	1
+1	dialectal	Uruguay	prem68	Si querés saber cuál es tu nivel de euskera, la red también te ofrece esa posibilidad.	Es obligatorio realizar una entrevista presencial para conocer el nivel de euskera de cada persona.	2
+5	dialectal	Espainia_and	prem69	El certificao incluye la identificación del titular de la sede eletrónica y se emite mediante un dihpositivo seguro o un medio equivalente.	El certificado intenta garantizar la identidad de cada persona.	0
+5	dialectal	Espainia_and	prem69	El certificao incluye la identificación del titular de la sede eletrónica y se emite mediante un dihpositivo seguro o un medio equivalente.	No existe una única técnica para asegurar la identificación del titular.	1
+5	dialectal	Espainia_and	prem69	El certificao incluye la identificación del titular de la sede eletrónica y se emite mediante un dihpositivo seguro o un medio equivalente.	El certificado transmite la información del titular en bruto, sin cifrar.	2
+5	dialectal	Espainia_and	prem70	Algo que hace do semana te hacía gracia hoy puede ehtá completamente quemao.	La duración de los chistes es limitada, no es para siempre.	0
+5	dialectal	Espainia_and	prem70	Algo que hace do semana te hacía gracia hoy puede ehtá completamente quemao.	Lo que a un amigo le hace gracia a otro no le gusta.	1
+5	dialectal	Espainia_and	prem70	Algo que hace do semana te hacía gracia hoy puede ehtá completamente quemao.	A la gente le gusta escuchar los mismos chistes una y otra vez.	2
+5	dialectal	Espainia_and	prem71	Cuenta con ihtalaciones modehnas, wifi gratuito en zona comune y servicio de seguridad permanente la 24 hora.	Puedes conectarte a Internet si vas a ese lugar.	0
+5	dialectal	Espainia_and	prem71	Cuenta con ihtalaciones modehnas, wifi gratuito en zona comune y servicio de seguridad permanente la 24 hora.	Alquilar ese espacio es muy caro.	1
+5	dialectal	Espainia_and	prem71	Cuenta con ihtalaciones modehnas, wifi gratuito en zona comune y servicio de seguridad permanente la 24 hora.	La inseguridad es evidente en ese espacio durante la noche.	2
+1	berridazketa	Uruguay	prem72	Pasamos un poco de miedo este mes con la película 'It Follows' dirigida por David Robert Mitchell.	Es una película de terror.	0
+1	berridazketa	Uruguay	prem72	Pasamos un poco de miedo este mes con la película 'It Follows' dirigida por David Robert Mitchell.	La película 'It follows' es la continuación de la película 'It'.	1
+1	berridazketa	Uruguay	prem72	Pasamos un poco de miedo este mes con la película 'It Follows' dirigida por David Robert Mitchell.	El director David Robert Mitchell solo hace comedias.	2
+5	dialectal	Espainia_and	prem73	Lo otro 5 edificio tienen do planta ca uno; en la planta baja hay módulo industriale, y en la planta superior hay módulo doficina.	Los edificios están preparados para uso industrial.	0
+5	dialectal	Espainia_and	prem73	Lo otro 5 edificio tienen do planta ca uno; en la planta baja hay módulo industriale, y en la planta superior hay módulo doficina.	Los edificios son muy modernos.	1
+5	dialectal	Espainia_and	prem73	Lo otro 5 edificio tienen do planta ca uno; en la planta baja hay módulo industriale, y en la planta superior hay módulo doficina.	Todos los edificios tienen una sola planta.	2
+5	dialectal	Espainia_and	prem74	¡A ve si to lo corredore usamo má el euhkera dahora en adelante!	Muchos corredores no utilizan el euskera.	0
+5	dialectal	Espainia_and	prem74	¡A ve si to lo corredore usamo má el euhkera dahora en adelante!	Correr es saludable en general.	1
+5	dialectal	Espainia_and	prem74	¡A ve si to lo corredore usamo má el euhkera dahora en adelante!	Todo aquel que corre también lo hace en euskera.	2
+5	dialectal	Espainia_and	prem75	Todavía tenemo capacida pa influir en la opinión pública.	La opinión pública puede cambiar.	0
+5	dialectal	Espainia_and	prem75	Todavía tenemo capacida pa influir en la opinión pública.	La gente tiene opiniones muy diversas.	1
+5	dialectal	Espainia_and	prem75	Todavía tenemo capacida pa influir en la opinión pública.	La opinión pública es firme.	2
+5	dialectal	Espainia_and	prem76	En la página we Ikasbil hay mile y mile dartículo, tehto, vídeo y audio.	No se pueden encontrar textos, videos ni audios en Internet.	0
+5	dialectal	Espainia_and	prem76	En la página we Ikasbil hay mile y mile dartículo, tehto, vídeo y audio.	En el sitio web Iskanbil solo hay texto.	2
+5	dialectal	Espainia_and	prem76	En la página we Ikasbil hay mile y mile dartículo, tehto, vídeo y audio.	Iskanbil es un conocido sitio web de internet.	1
+5	dialectal	Espainia_and	prem77	En el catálogo de trámite de la sede electrónica encontrará información detallá sobre cá procedimiento, trámite y servicio.	El acceso a la sede electrónica es muy complejo.	1
+5	dialectal	Espainia_and	prem77	En el catálogo de trámite de la sede electrónica encontrará información detallá sobre cá procedimiento, trámite y servicio.	La documentación que explica el trámite y el funcionamiento de los servicios está accesible.	0
+5	dialectal	Espainia_and	prem77	En el catálogo de trámite de la sede electrónica encontrará información detallá sobre cá procedimiento, trámite y servicio.	No se necesita ninguna documentación para aprender los trámites y servicios.	2
+5	dialectal	Espainia_and	prem78	En ese Centro Empresaria de Sondika hay módulo industriale y módulo doficina, distribuido en 5 edificio.	El Centro Empresarial de Sondika tiene dos edificios.	2
+5	dialectal	Espainia_and	prem78	En ese Centro Empresaria de Sondika hay módulo industriale y módulo doficina, distribuido en 5 edificio.	El Centro Empresarial de Sondika es uno de los más importantes de Bizkaia.	1
+5	dialectal	Espainia_and	prem78	En ese Centro Empresaria de Sondika hay módulo industriale y módulo doficina, distribuido en 5 edificio.	Varias empresas tienen su sede ubicada en Sondika.	0
+5	dialectal	Espainia_and	prem79	Somo cinco amigo, y yo soy el má joven.	Hay amigos de diferentes edades en el grupo.	0
+5	dialectal	Espainia_and	prem79	Somo cinco amigo, y yo soy el má joven.	Si quisiéramos jugar al mus, uno de los cinco tendría que quedarse fuera.	1
+5	dialectal	Espainia_and	prem79	Somo cinco amigo, y yo soy el má joven.	Cinco amigos nacimos el mismo día y año.	2
+5	dialectal	Espainia_and	prem80	El jué condenó a sei mese de prisión a cuatro jóvene del vecindario.	El juez absolvió a los cuatro jóvenes del barrio.	2
+5	dialectal	Espainia_and	prem80	El jué condenó a sei mese de prisión a cuatro jóvene del vecindario.	Hay varios jóvenes en el barrio que han recibido condenas de prisión.	0
+5	dialectal	Espainia_and	prem80	El jué condenó a sei mese de prisión a cuatro jóvene del vecindario.	Como la pena de prisión es inferior a dos años, los cuatro jóvenes no entrarán en la cárcel.	1
+5	dialectal	Espainia_and	prem81	La relación de Miren y Andrea fue clandehtina dehdel principio, porque la pareja ehtaba fuera de la normativa.	Las relaciones homosexuales deben vivirse con normalidad.	1
+5	dialectal	Espainia_and	prem81	La relación de Miren y Andrea fue clandehtina dehdel principio, porque la pareja ehtaba fuera de la normativa.	Miren y Andrea tienen una relación sentimental.	0
+5	dialectal	Espainia_and	prem81	La relación de Miren y Andrea fue clandehtina dehdel principio, porque la pareja ehtaba fuera de la normativa.	La relación entre Miren y Andrea fue completamente normal.	2
+5	dialectal	Espainia_and	prem82	Al ser un festiva internacioná, también hay propuehtas del ehterior, aunque predomina la presencia de grupo vahco.	Grupos internacionales tocan en este festival.	0
+5	dialectal	Espainia_and	prem82	Al ser un festiva internacioná, también hay propuehtas del ehterior, aunque predomina la presencia de grupo vahco.	Los festivales son oportunidades incomparables para vivir la música en directo.	1
+5	dialectal	Espainia_and	prem82	Al ser un festiva internacioná, también hay propuehtas del ehterior, aunque predomina la presencia de grupo vahco.	En este festival tocó solamente un grupo vasco.	2
+1	berridazketa	Uruguay	prem83	Por tercer año consecutivo, el Grupo Montañero Santutxu organizó una marcha regulada para el sábado 20 de octubre.	El Grupo Montañero Santutxu suele organizar excursiones de montaña.	0
+1	berridazketa	Uruguay	prem83	Por tercer año consecutivo, el Grupo Montañero Santutxu organizó una marcha regulada para el sábado 20 de octubre.	Mucha gente acude a las excursiones del Grupo Montañero Santutxu.	1
+1	berridazketa	Uruguay	prem83	Por tercer año consecutivo, el Grupo Montañero Santutxu organizó una marcha regulada para el sábado 20 de octubre.	El Grupo Montañero Santutxu se formó el año pasado.	2
+5	dialectal	Espainia_and	prem84	Son cancione con letra y arreglo elaborao que trabajan el ehtilo R 'N' R y el ro sureño.	Se puede decir que el estilo principal de las canciones que componen el disco es rock.	0
+5	dialectal	Espainia_and	prem84	Son cancione con letra y arreglo elaborao que trabajan el ehtilo R 'N' R y el ro sureño.	Las guitarras predominan en las canciones de rock del sur.	1
+5	dialectal	Espainia_and	prem84	Son cancione con letra y arreglo elaborao que trabajan el ehtilo R 'N' R y el ro sureño.	Todas las canciones del disco son instrumentales.	2
+5	dialectal	Espainia_and	prem85	Un padre toma foto de lo niño y prepara una invitación ehpecia pa reparti a 60 niño.	Los niños han sacado una foto a uno de los padres.	2
+5	dialectal	Espainia_and	prem85	Un padre toma foto de lo niño y prepara una invitación ehpecia pa reparti a 60 niño.	Los niños siempre salen bien en las fotos.	1
+5	dialectal	Espainia_and	prem85	Un padre toma foto de lo niño y prepara una invitación ehpecia pa reparti a 60 niño.	Los niños recibirán una invitación especial.	0
+5	dialectal	Espainia_and	prem86	La Erchancha identificó y detuvo a once persona durante lo dihturbio.	Mucha gente detenida quedará libre.	1
+5	dialectal	Espainia_and	prem86	La Erchancha identificó y detuvo a once persona durante lo dihturbio.	La Ertzaintza detuvo a todas las personas que participaron en los disturbios.	2
+5	dialectal	Espainia_and	prem86	La Erchancha identificó y detuvo a once persona durante lo dihturbio.	La Ertzaintza detuvo a muchas personas.	0
+5	dialectal	Espainia_and	prem87	Ante de ser músico o ehcritor, Xabier Lete fue ahtó de teatro.	Xabier Lete no cultivó ninguna disciplina artística hasta que empezó a cantar.	2
+5	dialectal	Espainia_and	prem87	Ante de ser músico o ehcritor, Xabier Lete fue ahtó de teatro.	Xabier Lete fue un artista que se desenvolvió en diversos campos.	0
+5	dialectal	Espainia_and	prem87	Ante de ser músico o ehcritor, Xabier Lete fue ahtó de teatro.	La voz de Xabier Lete era muy agradable.	1
+5	dialectal	Espainia_and	prem88	El último día, cuando solo faltaban 3 kilómetro pa llegá a Logroño, conocí a la hija de María la de lo Higo.	La hija de María de los Higos es muy amable.	1
+5	dialectal	Espainia_and	prem88	El último día, cuando solo faltaban 3 kilómetro pa llegá a Logroño, conocí a la hija de María la de lo Higo.	Pasé varios días en el camino a Logroño.	0
+5	dialectal	Espainia_and	prem88	El último día, cuando solo faltaban 3 kilómetro pa llegá a Logroño, conocí a la hija de María la de lo Higo.	Todos los hijos de María de los Higos eran varones.	2
+5	dialectal	Espainia_and	prem89	Bien sabemo que yo no soy un pájaro como él y que él tampoco nació pa está atao a un luga.	La naturaleza de ambos es muy diferente.	0
+5	dialectal	Espainia_and	prem89	Bien sabemo que yo no soy un pájaro como él y que él tampoco nació pa está atao a un luga.	Hay diferentes tipos de personalidades, y una no es mejor que otra.	1
+5	dialectal	Espainia_and	prem89	Bien sabemo que yo no soy un pájaro como él y que él tampoco nació pa está atao a un luga.	Prefiere quedarse en casa antes que andar viajando por ahí.	2
+5	dialectal	Espainia_and	prem90	Celebrarán el cuarto aniversario de la Oficina de Ocupación el 20 doctubre	El próximo año celebrarán el aniversario de la Oficina de Ocupación en San Sebastián.	1
+5	dialectal	Espainia_and	prem90	Celebrarán el cuarto aniversario de la Oficina de Ocupación el 20 doctubre	El año pasado celebraron el cuarto aniversario de la Oficina de Ocupación.	2
+5	dialectal	Espainia_and	prem90	Celebrarán el cuarto aniversario de la Oficina de Ocupación el 20 doctubre	El aniversario de la Oficina de Ocupación se celebra en otoño.	0
+5	dialectal	Espainia_and	prem91	Por decisión de lo padre o tutore, el euhkera será el idioma que utilizarán lo participante	Los participantes han decidido que los padres y tutores hablarán en euskera.	2
+5	dialectal	Espainia_and	prem91	Por decisión de lo padre o tutore, el euhkera será el idioma que utilizarán lo participante	Los padres y tutores han decidido que los participantes hablarán en euskera.	0
+5	dialectal	Espainia_and	prem91	Por decisión de lo padre o tutore, el euhkera será el idioma que utilizarán lo participante	Los padres y tutores han decidido hablar en euskera con los niños.	1
+1	berridazketa	Uruguay	prem92	Lagun Aro colocó avisos escritos únicamente en castellano a ambos lados de la puerta en la sucursal de Benta Berri de Antiguo.	Los avisos colocados por el amigo Aro en la sucursal de Benta Berri de Antiguo estaban escritos en castellano.	0
+1	berridazketa	Uruguay	prem92	Lagun Aro colocó avisos escritos únicamente en castellano a ambos lados de la puerta en la sucursal de Benta Berri de Antiguo.	Las notas que puso el amigo Aro en la sucursal de Benta Berri de Antiguo estaban bien escritas.	1
+1	berridazketa	Uruguay	prem92	Lagun Aro colocó avisos escritos únicamente en castellano a ambos lados de la puerta en la sucursal de Benta Berri de Antiguo.	Los avisos colocados por el amigo Aro en la sucursal de Benta Berri de Antiguo estaban escritos en inglés.	2
+1	berridazketa	Uruguay	prem93	Se recibieron denuncias de torturas de todas las policías, incluida la Ertzaintza.	Han denunciado que la Ertzaintza también ha practicado torturas.	0
+1	berridazketa	Uruguay	prem93	Se recibieron denuncias de torturas de todas las policías, incluida la Ertzaintza.	La Ertzaintza queda libre de acusaciones de tortura.	2
+1	berridazketa	Uruguay	prem93	Se recibieron denuncias de torturas de todas las policías, incluida la Ertzaintza.	La Ertzaintza ha denunciado casos de tortura policial.	1
+1	berridazketa	Uruguay	prem94	Mi hermana quiso recuperar la receta de la abuela Jesusa para hacer magdalenas.	A mi hermana solo le gustan las magdalenas que hace la Abuela Jesusa.	1
+1	berridazketa	Uruguay	prem94	Mi hermana quiso recuperar la receta de la abuela Jesusa para hacer magdalenas.	La abuela Jesusa ha querido recuperar la receta de mi hermana para hacer magdalenas.	2
+1	berridazketa	Uruguay	prem94	Mi hermana quiso recuperar la receta de la abuela Jesusa para hacer magdalenas.	La abuela Jesusa tenía la receta para hacer magdalenas.	0
+5	dialectal	Espainia_and	prem95	No se requiere identificación presencia pa activá y emití el BAK: se realiza a travé dInternet.	Debes solicitar por Internet que te activen y envíen la BAK.	2
+5	dialectal	Espainia_and	prem95	No se requiere identificación presencia pa activá y emití el BAK: se realiza a travé dInternet.	Puedes solicitar por Internet que te activen y envíen la BAK.	0
+5	dialectal	Espainia_and	prem95	No se requiere identificación presencia pa activá y emití el BAK: se realiza a travé dInternet.	Puedes solicitar la anulación de tu BAK a través de Internet.	1
+1	dialectal	Uruguay	prem96	Solo pude guardar tres fotos.	No he tenido la oportunidad de guardar las cuatro fotos.	0
+1	dialectal	Uruguay	prem96	Solo pude guardar tres fotos.	Tenía guardadas cuatro fotografías.	1
+1	dialectal	Uruguay	prem96	Solo pude guardar tres fotos.	Solo tengo guardadas cuatro fotografías.	2
+5	dialectal	Espainia_and	prem97	El sábado, 31 doctubre, recibimo una invitación pa i a ve una película del Fehtiva de Cine de Terró.	Nos invitaron a ver una película del Festival de Cine de Terror.	0
+5	dialectal	Espainia_and	prem97	El sábado, 31 doctubre, recibimo una invitación pa i a ve una película del Fehtiva de Cine de Terró.	Fuimos a ver una película del Festival de Cine de Terror.	1
+5	dialectal	Espainia_and	prem97	El sábado, 31 doctubre, recibimo una invitación pa i a ve una película del Fehtiva de Cine de Terró.	Nos invitaron a participar en una película del Festival de Cine de Terror.	2
+1	berridazketa	Uruguay	prem98	Caja Laboral volvió a poner a un empleado que no sabe euskera para hacer la declaración de la renta en la sucursal de la calle Matia de Antiguo, en San Sebastián.	Los empleados de la sucursal de Caja Laboral en la calle Matia de El Antiguo hablan solamente en castellano.	1
+1	berridazketa	Uruguay	prem98	Caja Laboral volvió a poner a un empleado que no sabe euskera para hacer la declaración de la renta en la sucursal de la calle Matia de Antiguo, en San Sebastián.	Los empleados de la sucursal de Caja Laboral en la calle Matia de El Antiguo hablan solamente en euskera.	2
+1	berridazketa	Uruguay	prem98	Caja Laboral volvió a poner a un empleado que no sabe euskera para hacer la declaración de la renta en la sucursal de la calle Matia de Antiguo, en San Sebastián.	El empleado que ayuda a hacer la declaración de la renta en la sucursal de Caja Laboral de la calle Matia de El Antiguo es exclusivamente castellanoparlante.	0
+5	dialectal	Espainia_and	prem99	El humó entre la enfermera hace que to sea má llevadero.	Las enfermeras tienen prohibido usar el humor.	2
+5	dialectal	Espainia_and	prem99	El humó entre la enfermera hace que to sea má llevadero.	Si las enfermeras bromean entre ellas, todo se lleva mejor.	0
+5	dialectal	Espainia_and	prem99	El humó entre la enfermera hace que to sea má llevadero.	Que las enfermeras estén de buen humor ayuda mucho a los pacientes.	1
+1	berridazketa	Uruguay	prem100	Además de los evidentes daños causados por la pandemia, lo ocurrido puso de manifiesto y sacó a la luz de manera dramática las debilidades de la Unión Europea y, entre otras cosas, denuncia el declive de la innovación tecnológica europea y la falta de liderazgo industrial.	Lo ocurrido ha dejado claro que, además de los daños causados por la pandemia, la Unión Europea es débil y no es líder mundial en innovación tecnológica e industrial.	0
+1	berridazketa	Uruguay	prem100	Además de los evidentes daños causados por la pandemia, lo ocurrido puso de manifiesto y sacó a la luz de manera dramática las debilidades de la Unión Europea y, entre otras cosas, denuncia el declive de la innovación tecnológica europea y la falta de liderazgo industrial.	Lo ocurrido ha dejado claro que, debido a los daños causados por la pandemia, la Unión Europea debe recuperar el liderazgo en innovación tecnológica e industrial en el mundo.	1
+1	berridazketa	Uruguay	prem100	Además de los evidentes daños causados por la pandemia, lo ocurrido puso de manifiesto y sacó a la luz de manera dramática las debilidades de la Unión Europea y, entre otras cosas, denuncia el declive de la innovación tecnológica europea y la falta de liderazgo industrial.	Lo ocurrido ha dejado claro que, además de los daños causados por la pandemia, la Unión Europea es débil pero es líder mundial en innovación tecnológica e industrial.	2
+2	dialectal	Espainia_ten	prem101	Las personas que no obtienen plasa entran en la lista de espera, en el mismo orden del sorteo .	Si no consigues plaza, entrarás en un sorteo para determinar el orden en la lista de espera.	2
+2	dialectal	Espainia_ten	prem101	Las personas que no obtienen plasa entran en la lista de espera, en el mismo orden del sorteo .	Las personas que no obtienen plaza tienen la oportunidad de participar en un sorteo.	1
+2	dialectal	Espainia_ten	prem101	Las personas que no obtienen plasa entran en la lista de espera, en el mismo orden del sorteo .	Si no consigues plaza, entrarás en la lista de espera, manteniendo el orden del sorteo.	0
+5	dialectal	Espainia_and	prem102	Si no no representamo, seremo representao.	Si no nos hacemos visibles, proliferarán las opiniones erróneas sobre nosotros.	1
+5	dialectal	Espainia_and	prem102	Si no no representamo, seremo representao.	Si no nos imaginamos, la representación sobre nosotros dejará de existir.	2
+5	dialectal	Espainia_and	prem102	Si no no representamo, seremo representao.	Si no nos imaginamos a nosotros mismos, otros nos imaginarán.	0
+2	dialectal	Espainia_ten	prem103	El Gobierno Vasco subrayó que en 2003 comenzó a implementar el Protocolo de Prevensión de Malos Tratos de la Ertxainsa para reforsar la garantía legal de los detenidos	Según el Gobierno Vasco, la Ertzaintza comenzó a implementar el Protocolo de Prevención de Malos Tratos en 2003 para agilizar el proceso de liberación de presos.	2
+2	dialectal	Espainia_ten	prem103	El Gobierno Vasco subrayó que en 2003 comenzó a implementar el Protocolo de Prevensión de Malos Tratos de la Ertxainsa para reforsar la garantía legal de los detenidos	El Protocolo de Prevención de Malos Tratos de la Ertzaintza está en vigor desde 2003 para garantizar los derechos de los detenidos, según el Gobierno Vasco.	0
+2	dialectal	Espainia_ten	prem103	El Gobierno Vasco subrayó que en 2003 comenzó a implementar el Protocolo de Prevensión de Malos Tratos de la Ertxainsa para reforsar la garantía legal de los detenidos	El Gobierno Vasco comenzó a elaborar el Protocolo de Prevención de Malos Tratos de la Ertzaintza en enero de 2003 para reforzar la garantía legal de los detenidos.	1
+2	dialectal	Espainia_ten	prem104	Las secuelas del heteropatriarcado se encuentran en las entrañas de los hogares, y las relasiones afectivo-sexuales construidas sobre el amor romántico son su manifestasión.	Hay que tener en cuenta lo que expresan las relaciones afectivo-sexuales construidas sobre el amor romántico.	1
+2	dialectal	Espainia_ten	prem104	Las secuelas del heteropatriarcado se encuentran en las entrañas de los hogares, y las relasiones afectivo-sexuales construidas sobre el amor romántico son su manifestasión.	Las relaciones afectivo-sexuales construidas sobre el amor romántico demuestran que la influencia del heteropatriarcado está presente en todas partes.	0
+2	dialectal	Espainia_ten	prem104	Las secuelas del heteropatriarcado se encuentran en las entrañas de los hogares, y las relasiones afectivo-sexuales construidas sobre el amor romántico son su manifestasión.	Las relaciones afectivo-sexuales construidas en el amor romántico están acostumbradas a luchar contra el heteropatriarcado.	2
+2	dialectal	Espainia_ten	prem105	Fue el primer libro que leí en ebook y me gustó la experiensia	Este es el único libro que he leído en formato ebook y fue una experiencia agradable.	0
+2	dialectal	Espainia_ten	prem105	Fue el primer libro que leí en ebook y me gustó la experiensia	No esperaba que el primer libro que leería en ebook fuera una experiencia tan bonita.	1
+2	dialectal	Espainia_ten	prem105	Fue el primer libro que leí en ebook y me gustó la experiensia	Aunque ya había leído un libro en formato ebook, me ha gustado la experiencia.	2
+2	dialectal	Espainia_ten	prem106	El trabajo de masterisasión estuvo de nuevo a cargo de Andy Hippy Baldwin, en los estudios Metropolis de Londres	Andy Hippy Baldwin ha realizado todo el trabajo de masterización en el estudio Metropolis de Londres.	1
+2	dialectal	Espainia_ten	prem106	El trabajo de masterisasión estuvo de nuevo a cargo de Andy Hippy Baldwin, en los estudios Metropolis de Londres	Por primera vez, Andy Hippy Baldwin ha realizado el trabajo de masterización en el estudio Metropolis de Londres.	2
+2	dialectal	Espainia_ten	prem106	El trabajo de masterisasión estuvo de nuevo a cargo de Andy Hippy Baldwin, en los estudios Metropolis de Londres	Andy Hippy Baldwin del estudio Metropolis de Londres ha vuelto a colaborar en el trabajo de masterización.	0
+2	dialectal	Espainia_ten	prem107	El 4 de disiembre de 2018 modificó el nombre y objeto sosial de la sosiedad, con el fin de ampliar su ámbito de actuasión a la Margen Isquierda y al Txorierri	El 4 de diciembre de 2018 modificó el nombre y objeto social de la sociedad, con el propósito de extender su ámbito de actividad a todas las áreas de Bilbao.	2
+2	dialectal	Espainia_ten	prem107	El 4 de disiembre de 2018 modificó el nombre y objeto sosial de la sosiedad, con el fin de ampliar su ámbito de actuasión a la Margen Isquierda y al Txorierri	A finales del año 2018 se modificaron el nombre y el objeto social de la sociedad, con el fin de ofrecer sus actividades también en la Margen Izquierda y en el Txorierri.	0
+2	dialectal	Espainia_ten	prem107	El 4 de disiembre de 2018 modificó el nombre y objeto sosial de la sosiedad, con el fin de ampliar su ámbito de actuasión a la Margen Isquierda y al Txorierri	En el año 2018, además de cambiar el nombre y el objeto social de la sociedad, también modificó el tipo de actividad.	1
+2	dialectal	Espainia_ten	prem108	Esta entrega de primios tiene como objetivo poner la traducsión realisada desde el euskera	El objetivo de esta entrega de premios es exaltar el valor de las traducciones realizadas desde el euskera.	0
+2	dialectal	Espainia_ten	prem108	Esta entrega de primios tiene como objetivo poner la traducsión realisada desde el euskera	El único objetivo de esta entrega de premios es poner en valor la traducción realizada desde el euskera.	1
+2	dialectal	Espainia_ten	prem108	Esta entrega de primios tiene como objetivo poner la traducsión realisada desde el euskera	Esta entrega de premios tiene como objetivo poner en valor las traducciones realizadas al euskera.	2
+2	dialectal	Espainia_ten	prem109	Hase tiempo que nos metimos en este lío y ya no hay vuelta atrás	Tenemos este conflicto desde hace mucho tiempo y no podemos dar marcha atrás.	0
+2	dialectal	Espainia_ten	prem109	Hase tiempo que nos metimos en este lío y ya no hay vuelta atrás	Hace poco nos metimos en esta lucha y no hay vuelta atrás.	2
+2	dialectal	Espainia_ten	prem109	Hase tiempo que nos metimos en este lío y ya no hay vuelta atrás	Empezamos a luchar hace mucho tiempo y no tenemos forma de ganar.	1
+5	dialectal	Espainia_and	prem110	Siempre hay que rompé alguna ley pa gana derecho.	Cuantas más leyes se rompan, más derechos se ganan.	1
+5	dialectal	Espainia_and	prem110	Siempre hay que rompé alguna ley pa gana derecho.	Siempre se obtienen más derechos cuando se respetan las leyes.	2
+5	dialectal	Espainia_and	prem110	Siempre hay que rompé alguna ley pa gana derecho.	Para conseguir más derechos, siempre hay que hacer algo que está prohibido.	0
+2	dialectal	Espainia_ten	prem111	El guía proporcionó datos interesantes y fue muy entretenido	Aunque los datos proporcionados por el conductor fueron de escaso interés, la experiencia ha sido entretenida.	2
+2	dialectal	Espainia_ten	prem111	El guía proporcionó datos interesantes y fue muy entretenido	Los datos interesantes que ha ofrecido el guía han convertido la experiencia en entretenida.	0
+2	dialectal	Espainia_ten	prem111	El guía proporcionó datos interesantes y fue muy entretenido	El conductor se ha entretenido dando datos que le han resultado interesantes.	1
+2	dialectal	Espainia_ten	prem112	era un sueño de hase tiempo conoser Praga	Conoce Praga desde hace tiempo.	2
+2	dialectal	Espainia_ten	prem112	era un sueño de hase tiempo conoser Praga	Ha soñado que conocía Praga.	1
+2	dialectal	Espainia_ten	prem112	era un sueño de hase tiempo conoser Praga	Ha tenido muchas ganas de conocer Praga durante mucho tiempo.	0
+5	dialectal	Espainia_and	prem113	Lo que no movemo en el mundo del euhkera sabemo mu bien lo agotaó que e la defensa de nuehtro interese.	Los que nos movemos en el mundo del euskera sabemos lo agotador que resulta defender nuestros intereses.	0
+5	dialectal	Espainia_and	prem113	Lo que no movemo en el mundo del euhkera sabemo mu bien lo agotaó que e la defensa de nuehtro interese.	Los que nos movemos en el mundo del euskera estamos cansados de defender nuestros intereses.	1
+5	dialectal	Espainia_and	prem113	Lo que no movemo en el mundo del euhkera sabemo mu bien lo agotaó que e la defensa de nuehtro interese.	Los que nos movemos en el mundo del euskera lo pasamos bien defendiendo nuestros intereses.	2
+2	dialectal	Espainia_ten	prem114	Amason presentó una patente para realisar entregas con drones.	Amazon ha distribuido drones para introducir patentes.	1
+2	dialectal	Espainia_ten	prem114	Amason presentó una patente para realisar entregas con drones.	Amazon está esperando a que se apruebe la patente para realizar repartos con drones.	2
+2	dialectal	Espainia_ten	prem114	Amason presentó una patente para realisar entregas con drones.	Amazon ha enviado la patente para distribuir paquetes con drones.	0
+2	dialectal	Espainia_ten	prem115	Numerosos vesinos de Santutxu se asercaron a los alrededores de Gastetxe para protestar contra su sierre	Numerosos vecinos de Santutxu se han acercado para pedir el cierre del gaztetxe.	2
+2	dialectal	Espainia_ten	prem115	Numerosos vesinos de Santutxu se asercaron a los alrededores de Gastetxe para protestar contra su sierre	Mucha gente que vive en Santutxu ha venido a pedir que se mantenga abierto el gaztetxe.	0
+2	dialectal	Espainia_ten	prem115	Numerosos vesinos de Santutxu se asercaron a los alrededores de Gastetxe para protestar contra su sierre	Numerosos vecinos de Santutxu han rodeado el gaztetxe para protestar contra su cierre.	1
+5	dialectal	Espainia_and	prem116	La música ha sío mu importante en mi vida.	He sentido la importancia de la música a lo largo de la vida.	0
+5	dialectal	Espainia_and	prem116	La música ha sío mu importante en mi vida.	Se dice que la música es muy importante en la vida.	1
+5	dialectal	Espainia_and	prem116	La música ha sío mu importante en mi vida.	La importancia que tiene la música en mi vida es nueva.	2
+2	dialectal	Espainia_ten	prem117	La fuersa en sí es natural, por lo tanto su uso no puede ser boueno o malo como un valor absoluto	Como la fuerza es natural, no hay manera absoluta de decir si su uso es bueno o malo.	0
+2	dialectal	Espainia_ten	prem117	La fuersa en sí es natural, por lo tanto su uso no puede ser boueno o malo como un valor absoluto	No podemos normalizar el juzgar si quien ha recurrido al uso de la fuerza es bueno o malo.	1
+2	dialectal	Espainia_ten	prem117	La fuersa en sí es natural, por lo tanto su uso no puede ser boueno o malo como un valor absoluto	Para saber si el uso de la fuerza es bueno o malo, los valores absolutos son lo más natural posible.	2
+2	dialectal	Espainia_ten	prem118	En momentos espesíficos se manifiesta claramente la respuesta y el compromiso de la gente	La gente siempre está dispuesta a hacer cualquier cosa.	1
+2	dialectal	Espainia_ten	prem118	En momentos espesíficos se manifiesta claramente la respuesta y el compromiso de la gente	En momentos específicos la gente tiene miedo	2
+2	dialectal	Espainia_ten	prem118	En momentos espesíficos se manifiesta claramente la respuesta y el compromiso de la gente	La gente responde a los problemas en momentos específicos.	0
+2	dialectal	Espainia_ten	prem119	El objetivo de mañana será realisar aportasiones a los 18 proyectos propuestos dentro de la dinámica Gasteok Eraikitzen	La contribución de mañana se trasladará a la próxima semana.	2
+2	dialectal	Espainia_ten	prem119	El objetivo de mañana será realisar aportasiones a los 18 proyectos propuestos dentro de la dinámica Gasteok Eraikitzen	Entre los proyectos está la construcción de un nuevo gaztetxe.	0
+2	dialectal	Espainia_ten	prem119	El objetivo de mañana será realisar aportasiones a los 18 proyectos propuestos dentro de la dinámica Gasteok Eraikitzen	Gazteok Eraikitzen se creó en marzo de 2018.	1
+2	dialectal	Espainia_ten	prem120	Si yo aprendo el idioma del otro, pero el otro no respeta el mío, hablar su idioma no es un gesto de apertura , sino un gesto de dependensia y sumisión	Aprender otros idiomas es bueno para las personas.	1
+2	dialectal	Espainia_ten	prem120	Si yo aprendo el idioma del otro, pero el otro no respeta el mío, hablar su idioma no es un gesto de apertura , sino un gesto de dependensia y sumisión	Si otra persona no respeta mi idioma, una cosa está clara: sus padres no cuidaron bien a sus hijos.	0
+2	dialectal	Espainia_ten	prem120	Si yo aprendo el idioma del otro, pero el otro no respeta el mío, hablar su idioma no es un gesto de apertura , sino un gesto de dependensia y sumisión	Es necesario respetar otros idiomas.	2
+5	dialectal	Espainia_and	prem121	E unermoso paraje donde la montaña y el ma se unen.	Donde se encuentran la montaña y el mar puedes encontrar la belleza.	0
+5	dialectal	Espainia_and	prem121	E unermoso paraje donde la montaña y el ma se unen.	El mundo está lleno de lugares hermosos.	1
+5	dialectal	Espainia_and	prem121	E unermoso paraje donde la montaña y el ma se unen.	Las montañas y los mares están llenos de basura.	2
+2	dialectal	Espainia_ten	prem122	Se proponen herramientas para dar un impulso a la dinámiica de la propia asosiasión, empresa u organisasión	La mejor manera de cambiar la dinámica es ponerse en la piel del otro.	0
+2	dialectal	Espainia_ten	prem122	Se proponen herramientas para dar un impulso a la dinámiica de la propia asosiasión, empresa u organisasión	Cambiar la dinámica abre la mente de la gente.	1
+2	dialectal	Espainia_ten	prem122	Se proponen herramientas para dar un impulso a la dinámiica de la propia asosiasión, empresa u organisasión	Cambiar la dinámica puede traer muchos problemas, por ejemplo incomodidad.	2
+2	dialectal	Espainia_ten	prem123	Lusía está casada con un hombre	Un hombre está casado con Lucía.	0
+2	dialectal	Espainia_ten	prem123	Lusía está casada con un hombre	Los hombres y las mujeres se casan frecuentemente.	1
+2	dialectal	Espainia_ten	prem123	Lusía está casada con un hombre	Lucía está divorciada.	2
+5	dialectal	Espainia_and	prem124	No hay nadie en el Paí Vasco que haya practicao el teatro dehde tanto punto de vihta como Lete	Lete ganó muchos premios por su obra de teatro.	0
+5	dialectal	Espainia_and	prem124	No hay nadie en el Paí Vasco que haya practicao el teatro dehde tanto punto de vihta como Lete	Lete no ha trabajado desde tantos puntos de vista.	2
+5	dialectal	Espainia_and	prem124	No hay nadie en el Paí Vasco que haya practicao el teatro dehde tanto punto de vihta como Lete	Se han realizado obras de teatro durante 500 años.	1
+2	dialectal	Espainia_ten	prem125	El año pasado desidí que debía selebrar mi 40 aniversario por todo lo alto y con frecuensia	Me olvidé de mi 40 aniversario.	2
+2	dialectal	Espainia_ten	prem125	El año pasado desidí que debía selebrar mi 40 aniversario por todo lo alto y con frecuensia	En mi 40 cumpleaños tuve la fiesta del mundo.	0
+2	dialectal	Espainia_ten	prem125	El año pasado desidí que debía selebrar mi 40 aniversario por todo lo alto y con frecuensia	Los aniversarios son importantes.	1
+2	dialectal	Espainia_ten	prem126	La sosiaded está dirigida por un Consejo de Administrasión que cuenta con representantes de todos los partidos políticos, y la Junta General es el propio Pleno Munisipal	Entre los partidos políticos se encuentran el PP, PNV, PSOE y Sumar.	0
+2	dialectal	Espainia_ten	prem126	La sosiaded está dirigida por un Consejo de Administrasión que cuenta con representantes de todos los partidos políticos, y la Junta General es el propio Pleno Munisipal	El ayuntamiento trabaja junto con el Gobierno Vasco.	1
+2	dialectal	Espainia_ten	prem126	La sosiaded está dirigida por un Consejo de Administrasión que cuenta con representantes de todos los partidos políticos, y la Junta General es el propio Pleno Munisipal	El ayuntamiento no es de los políticos, sino de los funcionarios y de los ciudadanos.	2
+2	dialectal	Espainia_ten	prem127	Desde el prinsipio fijaron el objetivo: que nuestros hijos fueran bilingües equilibrados	Nuestro objetivo es tener hijos.	0
+2	dialectal	Espainia_ten	prem127	Desde el prinsipio fijaron el objetivo: que nuestros hijos fueran bilingües equilibrados	Todos nuestros hijos e hijas deberían ser bilingües.	1
+2	dialectal	Espainia_ten	prem127	Desde el prinsipio fijaron el objetivo: que nuestros hijos fueran bilingües equilibrados	No quieren tener hijos.	2
+2	dialectal	Espainia_ten	prem128	El 1 de mayo de 2016, la Asosiasión de Espeleología ADES descubrió un importante conjunto de arte rupestre en la cueva de Armintxe en Lekeitio	El arte rupestre trataba sobre la caza de un visón.	0
+2	dialectal	Espainia_ten	prem128	El 1 de mayo de 2016, la Asosiasión de Espeleología ADES descubrió un importante conjunto de arte rupestre en la cueva de Armintxe en Lekeitio	El arte rupestre más antiguo data del año 600 a.C.	1
+2	dialectal	Espainia_ten	prem128	El 1 de mayo de 2016, la Asosiasión de Espeleología ADES descubrió un importante conjunto de arte rupestre en la cueva de Armintxe en Lekeitio	El arte rupestre fue un grafiti.	2
+2	dialectal	Espainia_ten	prem129	Y compramos pan delisioso en el caserío de los mormones	El pan que han hecho las hormigas está muy rico.	0
+2	dialectal	Espainia_ten	prem129	Y compramos pan delisioso en el caserío de los mormones	El pan está bueno para uno o dos días.	1
+2	dialectal	Espainia_ten	prem129	Y compramos pan delisioso en el caserío de los mormones	El pan que hemos comprado a los fantasmas es duro y sin sabor	2
+2	dialectal	Espainia_ten	prem130	Aunque denunsiaron la tortura, la notisia no se difundió	Torturar a alguien es la peor cosa del mundo.	1
+2	dialectal	Espainia_ten	prem130	Aunque denunsiaron la tortura, la notisia no se difundió	El mundo se sorprendió al descubrir que habían torturado.	2
+2	dialectal	Espainia_ten	prem130	Aunque denunsiaron la tortura, la notisia no se difundió	Estuvieron torturando a ese pobre hombre durante 3 años.	0
+5	dialectal	Espainia_and	prem131	El humó e mu variable, fluhtúa mucho.	Siempre está contento.	2
+5	dialectal	Espainia_and	prem131	El humó e mu variable, fluhtúa mucho.	Siempre hemos sabido que su humor es cambiante.	0
+5	dialectal	Espainia_and	prem131	El humó e mu variable, fluhtúa mucho.	El humor de una persona no es siempre el mismo.	1
+2	dialectal	Espainia_ten	prem132	Ya que puedes ir a San Sebastián en transporte público, o aparcar en algún barrio sercano, o en un parking de pago	Si van a tomar transporte público, cojan el autobús, ni se les ocurra tomar el tren.	0
+2	dialectal	Espainia_ten	prem132	Ya que puedes ir a San Sebastián en transporte público, o aparcar en algún barrio sercano, o en un parking de pago	No vayas a San Sebastián, todo es muy caro.	2
+2	dialectal	Espainia_ten	prem132	Ya que puedes ir a San Sebastián en transporte público, o aparcar en algún barrio sercano, o en un parking de pago	El transporte en autobús desde Bilbao a San Sebastián tarda aproximadamente una hora y media.	1
+2	dialectal	Espainia_ten	prem133	El documental comensará a las seis de la tarde en el gastetxe Ustaldi	El centro juvenil está lleno de jóvenes.	1
+2	dialectal	Espainia_ten	prem133	El documental comensará a las seis de la tarde en el gastetxe Ustaldi	Al centro juvenil Uztaldi se le ha roto la televisión.	2
+2	dialectal	Espainia_ten	prem133	El documental comensará a las seis de la tarde en el gastetxe Ustaldi	El gaztetxe está abierto por las tardes.	0
+2	dialectal	Espainia_ten	prem134	Los finales felises que promete la monogamia fiel no son tan comunes como se cree	Tienes que trabajar para tener un final feliz.	0
+2	dialectal	Espainia_ten	prem134	Los finales felises que promete la monogamia fiel no son tan comunes como se cree	La monogamia y la poligamia son opuestas.	1
+2	dialectal	Espainia_ten	prem134	Los finales felises que promete la monogamia fiel no son tan comunes como se cree	La monogamia, como en los cuentos de hadas, siempre trae un final feliz.	2
+2	dialectal	Espainia_ten	prem135	Para haser frente a una realidad impuesta por la fuerza, la fuerza es necesaria, ante todo	La fuerza sola no es suficiente, también se necesita perseverancia.	0
+2	dialectal	Espainia_ten	prem135	Para haser frente a una realidad impuesta por la fuerza, la fuerza es necesaria, ante todo	Para enfrentarse a una realidad primero hay que estar preparado.	1
+2	dialectal	Espainia_ten	prem135	Para haser frente a una realidad impuesta por la fuerza, la fuerza es necesaria, ante todo	La comunicación es el primer paso contra una realidad impuesta por la fuerza.	2
+2	dialectal	Espainia_ten	prem136	junto con los cursos de Monitor y Director de Tiempo Libre, se encuentra entre las Titulasiones Ofisiales otorgadas por el Gobierno Vasco	Los cursos son las mejores formas de aprender cosas nuevas.	1
+2	dialectal	Espainia_ten	prem136	junto con los cursos de Monitor y Director de Tiempo Libre, se encuentra entre las Titulasiones Ofisiales otorgadas por el Gobierno Vasco	El curso de Monitor de Tiempo Libre está entre las Titulaciones Oficiales expedidas por el gobierno central.	2
+2	dialectal	Espainia_ten	prem136	junto con los cursos de Monitor y Director de Tiempo Libre, se encuentra entre las Titulasiones Ofisiales otorgadas por el Gobierno Vasco	El curso de Monitor de Tiempo Libre es de 150 horas y se puede realizar tanto de forma extensiva como intensiva.	0
+2	dialectal	Espainia_ten	prem137	Los Premios ON Bizkaia reconosen la contribusión de las empresas en la creasión de actividad económica y puestos de trabajo	Los trabajos actuales son cada vez más avanzados en comparación con los de hace 1000 años.	1
+2	dialectal	Espainia_ten	prem137	Los Premios ON Bizkaia reconosen la contribusión de las empresas en la creasión de actividad económica y puestos de trabajo	Este año se han creado 1.300.000 nuevos puestos de trabajo.	0
+2	dialectal	Espainia_ten	prem137	Los Premios ON Bizkaia reconosen la contribusión de las empresas en la creasión de actividad económica y puestos de trabajo	Son puestos de trabajo temporales que se crean y por eso no deberíamos dar un premio.	2
+2	dialectal	Espainia_ten	prem138	Fue un gran plaser llegar arriba	Cuando llegamos arriba las vistas eran hermosas.	0
+2	dialectal	Espainia_ten	prem138	Fue un gran plaser llegar arriba	Cumplir los objetivos es increíble	1
+2	dialectal	Espainia_ten	prem138	Fue un gran plaser llegar arriba	No llegamos arriba porque Mikel se rompió la pierna.	2
+2	dialectal	Espainia_ten	prem139	Se otorgarán cursos espesíficos a lo largo del año para abordar diferentes temas: espasios, psicomotrisidad,	Los cursos son inútiles porque la gente no aprende nada si no trabaja.	2
+2	dialectal	Espainia_ten	prem139	Se otorgarán cursos espesíficos a lo largo del año para abordar diferentes temas: espasios, psicomotrisidad,	Entre los cursos, el arte moderno abstracto es el mejor, Mikel ya se ha inscrito.	0
+2	dialectal	Espainia_ten	prem139	Se otorgarán cursos espesíficos a lo largo del año para abordar diferentes temas: espasios, psicomotrisidad,	El objetivo de los cursos siempre es enseñar cosas nuevas a la gente.	1
+2	dialectal	Espainia_ten	prem140	Hizo profundas reflexiones sobre el estado de nuestro arte	El arte que cada uno tiene es único.	1
+2	dialectal	Espainia_ten	prem140	Hizo profundas reflexiones sobre el estado de nuestro arte	Hemos hablado mucho sobre nuestro arte.	0
+2	dialectal	Espainia_ten	prem140	Hizo profundas reflexiones sobre el estado de nuestro arte	No nos importa nuestro arte.	2
+2	dialectal	Espainia_ten	prem141	han organisado más actividades esta semana dentro de la campaña anticapitalista	Entre las nuevas iniciativas hay un concierto.	0
+2	dialectal	Espainia_ten	prem141	han organisado más actividades esta semana dentro de la campaña anticapitalista	Las campañas anticapitalistas y las campañas antisocialistas son opuestas.	1
+2	dialectal	Espainia_ten	prem141	han organisado más actividades esta semana dentro de la campaña anticapitalista	Han suspendido la campaña anticapitalista debido a que no se presentó la gente.	2
+2	dialectal	Espainia_ten	prem142	"Para modificar estas direcsiones, debes acseder a la secsión ""Mis Datos"" de la sede electrónica"	Las direcciones de correo electrónico se utilizan para enviar mensajes.	1
+2	dialectal	Espainia_ten	prem142	"Para modificar estas direcsiones, debes acseder a la secsión ""Mis Datos"" de la sede electrónica"	Es imposible cambiar las direcciones porque la página web se ha caído.	2
+2	dialectal	Espainia_ten	prem142	"Para modificar estas direcsiones, debes acseder a la secsión ""Mis Datos"" de la sede electrónica"	"Después de introducir mis datos, debes pulsar el botón ""OK""."	0
+2	dialectal	Espainia_ten	prem143	La transformasión digital cambió la forma de trabajar y relasionarse	La transformación digital es el siguiente avance que el mundo necesita.	1
+2	dialectal	Espainia_ten	prem143	La transformasión digital cambió la forma de trabajar y relasionarse	La gente trabaja como siempre.	2
+2	dialectal	Espainia_ten	prem143	La transformasión digital cambió la forma de trabajar y relasionarse	La gente pasa más tiempo en el móvil y en el ordenador.	0
+5	dialectal	Espainia_and	prem144	Siempre hay motivo pa quejarse, sobre to cuando uno e débi y layuda nunca llega a se perfehta.	Con ayuda cualquiera puede hacer cualquier cosa.	0
+5	dialectal	Espainia_and	prem144	Siempre hay motivo pa quejarse, sobre to cuando uno e débi y layuda nunca llega a se perfehta.	No hay gente débil, sino gente que no quiere trabajar.	2
+5	dialectal	Espainia_and	prem144	Siempre hay motivo pa quejarse, sobre to cuando uno e débi y layuda nunca llega a se perfehta.	Todos necesitamos ayuda de vez en cuando.	1
+5	dialectal	Espainia_and	prem145	No sabía que ehtaba muerto.	No estaba muerta, estaba dormida.	2
+5	dialectal	Espainia_and	prem145	No sabía que ehtaba muerto.	Parecía que estaba muerto.	0
+5	dialectal	Espainia_and	prem145	No sabía que ehtaba muerto.	Las personas que están muertas no se mueven.	1
+5	dialectal	Espainia_and	prem146	Me quedé completamente conmovío con ehta dehpedía inehperá.	Las sorpresas pueden ser buenas o malas.	1
+5	dialectal	Espainia_and	prem146	Me quedé completamente conmovío con ehta dehpedía inehperá.	Me enteré de esa sorpresa hace muchas semanas.	2
+5	dialectal	Espainia_and	prem146	Me quedé completamente conmovío con ehta dehpedía inehperá.	Afortunadamente fue una buena sorpresa.	0
+2	dialectal	Espainia_ten	prem147	Samsung tiene una esmart escul y propone dar clases con sus gafas Sansung Gear VR y sus pisarras MagiclWB S2	Samsung no puede dar clases con gafas de realidad virtual porque los niños estarían jugando.	2
+2	dialectal	Espainia_ten	prem147	Samsung tiene una esmart escul y propone dar clases con sus gafas Sansung Gear VR y sus pisarras MagiclWB S2	Samsung tendrá la clase tecnológica más avanzada del mundo.	0
+2	dialectal	Espainia_ten	prem147	Samsung tiene una esmart escul y propone dar clases con sus gafas Sansung Gear VR y sus pisarras MagiclWB S2	Samsung fabrica televisores, teléfonos móviles y cámaras.	1
+5	dialectal	Espainia_and	prem148	El libro GETAIKO EUSKERA e el resultao del proyecto GETARIAKO AHOTSAK, que recopila el habla y el patrimonio ora de Getaria.	El libro EUSKERA DE GUETARIA recoge el euskera de Vizcaya.	2
+5	dialectal	Espainia_and	prem148	El libro GETAIKO EUSKERA e el resultao del proyecto GETARIAKO AHOTSAK, que recopila el habla y el patrimonio ora de Getaria.	En el libro EUSKERA DE GUETARIA se puede encontrar el habla de Guetaria.	0
+5	dialectal	Espainia_and	prem148	El libro GETAIKO EUSKERA e el resultao del proyecto GETARIAKO AHOTSAK, que recopila el habla y el patrimonio ora de Getaria.	No me gusta el libro EUSKERA DE GUETARIA.	1
+2	dialectal	Espainia_ten	prem149	En los inisios de la digitalisasión, se crearon las páginas web, y ofresieron oportunidades para democratisar la comunicasión	La digitalización ocurrió hace mucho tiempo.	1
+2	dialectal	Espainia_ten	prem149	En los inisios de la digitalisasión, se crearon las páginas web, y ofresieron oportunidades para democratisar la comunicasión	En los inicios de la digitalización, las páginas web se volvieron más conocidas.	0
+2	dialectal	Espainia_ten	prem149	En los inisios de la digitalisasión, se crearon las páginas web, y ofresieron oportunidades para democratisar la comunicasión	Al principio de la digitalización, las opciones de comunicación fueron destruidas.	2
+2	dialectal	Espainia_ten	prem150	Dos jóvenes chicas aparesieron para la entrega de premios, la introducsión fue en euskera y ocasionalmente también, pero el contenido prinsipal fue en castellano	Las chicas hablaron más en castellano que en euskera.	0
+2	dialectal	Espainia_ten	prem150	Dos jóvenes chicas aparesieron para la entrega de premios, la introducsión fue en euskera y ocasionalmente también, pero el contenido prinsipal fue en castellano	La entrega de premios fue en Lekeitio.	1
+2	dialectal	Espainia_ten	prem150	Dos jóvenes chicas aparesieron para la entrega de premios, la introducsión fue en euskera y ocasionalmente también, pero el contenido prinsipal fue en castellano	Las chicas hablaron en inglés durante la entrega de premios.	2
+3	dialectal	Cuba	prem151	Ej totalmente recomendable conocer el monte San Antón (el ratón).	Vale la pena conocer la media de San Antón.	0
+3	dialectal	Cuba	prem151	Ej totalmente recomendable conocer el monte San Antón (el ratón).	El Monte San Antón está en España.	1
+3	dialectal	Cuba	prem151	Ej totalmente recomendable conocer el monte San Antón (el ratón).	El monte San Antón es muy feo.	2
+3	dialectal	Cuba	prem152	Noj encontramo con Lili cara a cara.	Vimos la flor.	0
+3	dialectal	Cuba	prem152	Noj encontramo con Lili cara a cara.	Hace mucho que no vemos a Lili.	2
+3	dialectal	Cuba	prem152	Noj encontramo con Lili cara a cara.	La flor estaba muy bonita.	1
+3	dialectal	Cuba	prem153	El sol no ej maj que una circunferencia cada vej maj roja en losojo del adolescente.	Los adolescentes son muy divertidos.	1
+3	dialectal	Cuba	prem153	El sol no ej maj que una circunferencia cada vej maj roja en losojo del adolescente.	Los adolescentes se dan cuenta de todo.	2
+3	dialectal	Cuba	prem153	El sol no ej maj que una circunferencia cada vej maj roja en losojo del adolescente.	Los adolescentes no prestan mucha atención a todas las demás cosas.	0
+3	dialectal	Cuba	prem154	"El grupo Solte ha preparado un innovador vidioclic con la canción ""Eraldatutako mundua"" de su último dijco 'IXA' (Taupaka elkartea, 2016)"	El grupo Solte ha preparado un nuevo videoclip.	0
+3	dialectal	Cuba	prem154	"El grupo Solte ha preparado un innovador vidioclic con la canción ""Eraldatutako mundua"" de su último dijco 'IXA' (Taupaka elkartea, 2016)"	La famosa canción ha ganado mucho en poco tiempo.	1
+3	dialectal	Cuba	prem154	"El grupo Solte ha preparado un innovador vidioclic con la canción ""Eraldatutako mundua"" de su último dijco 'IXA' (Taupaka elkartea, 2016)"	El grupo de solteros se ha retirado y no harán nada más.	2
+3	dialectal	Cuba	prem155	La tranformación digital conlleva un gran cambio de paradigma en el ámbito cultural y creativo.	La transformación digital te ofrece más oportunidades en el ámbito cultural y creativo.	0
+3	dialectal	Cuba	prem155	La tranformación digital conlleva un gran cambio de paradigma en el ámbito cultural y creativo.	La transformación digital todavía puede traer muchas innovaciones a nuestra sociedad.	1
+3	dialectal	Cuba	prem155	La tranformación digital conlleva un gran cambio de paradigma en el ámbito cultural y creativo.	La transformación digital supone un pequeño cambio de paradigma en el ámbito cultural y creativo.	2
+3	dialectal	Cuba	prem156	La Unión Europea ha sido durante muchaj décadaj la referencia del primer mundo en cuanto a democracia, igualdá, seguridá y bienejtar.	Hay varios países en la Unión Europea.	1
+3	dialectal	Cuba	prem156	La Unión Europea ha sido durante muchaj décadaj la referencia del primer mundo en cuanto a democracia, igualdá, seguridá y bienejtar.	Estados Unidos ha sido la referencia del primer mundo en democracia, igualdad, seguridad y bienestar.	2
+3	dialectal	Cuba	prem156	La Unión Europea ha sido durante muchaj décadaj la referencia del primer mundo en cuanto a democracia, igualdá, seguridá y bienejtar.	La Unión Europea es una referencia del primer mundo en muchos ámbitos.	0
+3	dialectal	Cuba	prem157	Miramoj la vida con lógica comercial: todo fácil, cómodo, intercambiable, de calidá y barato.	La lógica comercial es un concepto nuevo de la actualidad.	1
+3	dialectal	Cuba	prem157	Miramoj la vida con lógica comercial: todo fácil, cómodo, intercambiable, de calidá y barato.	Si miráramos la vida a través de la lógica comercial todo sería más fácil.	0
+3	dialectal	Cuba	prem157	Miramoj la vida con lógica comercial: todo fácil, cómodo, intercambiable, de calidá y barato.	Miramos la vida con lógica comercial: todo difícil, incómodo, inmutable, mediocre y caro.	2
+3	dialectal	Cuba	prem158	En lAudiencia Nacional, ante el juez, no ratificaron la declaración.	No le confesaron al juez lo que debían confesar.	0
+3	dialectal	Cuba	prem158	En lAudiencia Nacional, ante el juez, no ratificaron la declaración.	Se deciden en la Audiencia Nacional.	1
+3	dialectal	Cuba	prem158	En lAudiencia Nacional, ante el juez, no ratificaron la declaración.	Lo confesaron todo ante el juez.	2
+3	dialectal	Cuba	prem159	Antton Olariaga recibirá el premio Joseph Camino en Santutxu, dentro de laj jornadaj Parrapean Komiki Egunak dedicadaj a la hijtorieta vajca.	Antton Olariaga ganará el premio Joseph Camino por su trabajo realizado.	0
+3	dialectal	Cuba	prem159	Antton Olariaga recibirá el premio Joseph Camino en Santutxu, dentro de laj jornadaj Parrapean Komiki Egunak dedicadaj a la hijtorieta vajca.	Joseph Camino murió en 2015.	1
+3	dialectal	Cuba	prem159	Antton Olariaga recibirá el premio Joseph Camino en Santutxu, dentro de laj jornadaj Parrapean Komiki Egunak dedicadaj a la hijtorieta vajca.	Joseph Camino recibirá el premio en Madrid.	2
+3	dialectal	Cuba	prem160	Ayer vi por un momento alactor gallego Nancho Novo en la televisión en el papel del padre de Jesú, tremendamente serio.	Ayer vi una película tremendamente seria por un momento.	0
+3	dialectal	Cuba	prem160	Ayer vi por un momento alactor gallego Nancho Novo en la televisión en el papel del padre de Jesú, tremendamente serio.	El actor Nacho Novo siempre interpreta papeles cómicos.	2
+3	dialectal	Cuba	prem160	Ayer vi por un momento alactor gallego Nancho Novo en la televisión en el papel del padre de Jesú, tremendamente serio.	El actor Nacho Novo nació el 17 de septiembre de 1958.	1
+3	dialectal	Cuba	prem161	El local inaugurado el 13 de julio fue clausurado por la Ertzaintza el 28 de segtiembre en cumplimiento e una orden judicial de desalojo.	El local inaugurado el 13 de julio sigue abierto y nunca ha cerrado.	2
+3	dialectal	Cuba	prem161	El local inaugurado el 13 de julio fue clausurado por la Ertzaintza el 28 de segtiembre en cumplimiento e una orden judicial de desalojo.	El local ha estado abierto poco más de un mes.	0
+3	dialectal	Cuba	prem161	El local inaugurado el 13 de julio fue clausurado por la Ertzaintza el 28 de segtiembre en cumplimiento e una orden judicial de desalojo.	Me gustaba mucho el local.	1
+3	dialectal	Cuba	prem162	Una noche, mientraj Lucia y Miren ejtaban tomando vino, invitaron a Andrea a la casa del jefe, y loj tre tuvieron relaciones sexuale.	Tuvieron relaciones sexuales el día que estuvieron en la casa del jefe.	0
+3	dialectal	Cuba	prem162	Una noche, mientraj Lucia y Miren ejtaban tomando vino, invitaron a Andrea a la casa del jefe, y loj tre tuvieron relaciones sexuale.	Hay que tener mucho cuidado con las enfermedades de transmisión sexual al mantener relaciones sexuales.	1
+3	dialectal	Cuba	prem162	Una noche, mientraj Lucia y Miren ejtaban tomando vino, invitaron a Andrea a la casa del jefe, y loj tre tuvieron relaciones sexuale.	Lucía, Miren y Andrea son vírgenes.	2
+3	dialectal	Cuba	prem163	Próximamente se anunciará en qué sala se proyectará la película.	Se verá en una sala de cine.	0
+3	dialectal	Cuba	prem163	Próximamente se anunciará en qué sala se proyectará la película.	La gente está ansiosa por ver la película.	1
+3	dialectal	Cuba	prem163	Próximamente se anunciará en qué sala se proyectará la película.	Se anunciará tarde en qué sala se ha proyectado.	2
+3	dialectal	Cuba	prem164	Nuejtro campo ha sufrido, y tenemo una gran capacidá de adagtación.	En nuestro campo no hacemos nada, es muy aburrido.	2
+3	dialectal	Cuba	prem164	Nuejtro campo ha sufrido, y tenemo una gran capacidá de adagtación.	Se realizan muchos trabajos arduos en nuestro campo.	0
+3	dialectal	Cuba	prem164	Nuejtro campo ha sufrido, y tenemo una gran capacidá de adagtación.	Aunque sea sufrido, nos gusta mucho nuestro campo.	1
+3	dialectal	Cuba	prem165	Tiene como ogjetivo impulsal la economía de Orduña y ej miembro de la Red de Agencias de Desarrollo de la Red de Desarrollo del Paíj Vajco.	Orduña está situada en Álava.	1
+3	dialectal	Cuba	prem165	Tiene como ogjetivo impulsal la economía de Orduña y ej miembro de la Red de Agencias de Desarrollo de la Red de Desarrollo del Paíj Vajco.	Quiere ayudar a la economía de Orduña.	0
+3	dialectal	Cuba	prem165	Tiene como ogjetivo impulsal la economía de Orduña y ej miembro de la Red de Agencias de Desarrollo de la Red de Desarrollo del Paíj Vajco.	La Red de Agencias de Desarrollo de Euskadi no tiene miembros.	2
+3	dialectal	Cuba	prem166	Laj personaj que dijponen de menoj tiempo también tienen la ogción de realizar cursoj máj corto.	También piensan en las personas que tienen menos tiempo.	0
+3	dialectal	Cuba	prem166	Laj personaj que dijponen de menoj tiempo también tienen la ogción de realizar cursoj máj corto.	No sabía que había ese tipo de oportunidades en ese curso.	1
+3	dialectal	Cuba	prem166	Laj personaj que dijponen de menoj tiempo también tienen la ogción de realizar cursoj máj corto.	Las personas que disponen de menos tiempo también tienen la opción de realizar cursos más largos.	2
+3	dialectal	Cuba	prem167	Dejpuéj de haber sido durante tres añoj y medio un punto de encuentro para lo jóvene del barrio, el Gaztetxe Lakomi cerró suj puertaj en noviembre de 2011.	Hoy en día el Gaztetxe Lakomi no está abierto.	0
+3	dialectal	Cuba	prem167	Dejpuéj de haber sido durante tres añoj y medio un punto de encuentro para lo jóvene del barrio, el Gaztetxe Lakomi cerró suj puertaj en noviembre de 2011.	Pasé mucho tiempo en el Rejuvenecimiento de Lakomi.	1
+3	dialectal	Cuba	prem167	Dejpuéj de haber sido durante tres añoj y medio un punto de encuentro para lo jóvene del barrio, el Gaztetxe Lakomi cerró suj puertaj en noviembre de 2011.	El Gaztetxe Lakomi permaneció abierto durante 10 años.	2
+3	dialectal	Cuba	prem168	Comenzando en Zeruko Argia en 1972, dio un giro a la hijtoria del humor gráfico vajco conun ejtilo innovador de gran personalidá.	Zeruko Argia tuvo influencia en la historia del humor gráfico vasco.	0
+3	dialectal	Cuba	prem168	Comenzando en Zeruko Argia en 1972, dio un giro a la hijtoria del humor gráfico vajco conun ejtilo innovador de gran personalidá.	Comenzando en Zeruko Argia en 2015, revolucionó la historia del humor gráfico vasco con un estilo innovador de gran personalidad.	2
+3	dialectal	Cuba	prem168	Comenzando en Zeruko Argia en 1972, dio un giro a la hijtoria del humor gráfico vajco conun ejtilo innovador de gran personalidá.	En 1972, además de Zeruko Argia, ocurrieron otras cosas.	1
+3	dialectal	Cuba	prem169	La playa de Gaztetape ejtá llena de piedraj; pero no encontramo con un bonito pulpo.	Como el pulpo era muy venenoso, nunca volvimos a ir a la playa de Gaztetape.	1
+3	dialectal	Cuba	prem169	La playa de Gaztetape ejtá llena de piedraj; pero no encontramo con un bonito pulpo.	La playa de Gaztetape no está cubierta de arena.	0
+3	dialectal	Cuba	prem169	La playa de Gaztetape ejtá llena de piedraj; pero no encontramo con un bonito pulpo.	No hay pulpos en la playa de Gaztetape.	2
+3	dialectal	Cuba	prem170	Sencuentra bajtante bien de salú y sigue firme en el trabajo, ejpecialmente con el alquiler de laj habitacione.	Durante un tiempo ha estado algo flojo, pero ahora va mejor.	1
+3	dialectal	Cuba	prem170	Sencuentra bajtante bien de salú y sigue firme en el trabajo, ejpecialmente con el alquiler de laj habitacione.	Tiene varias enfermedades y está trabajando bastante mal.	2
+3	dialectal	Cuba	prem170	Sencuentra bajtante bien de salú y sigue firme en el trabajo, ejpecialmente con el alquiler de laj habitacione.	Hace un buen trabajo en los alquileres de habitaciones.	0
+3	dialectal	Cuba	prem171	"Loj miembro del equipo se mostraron muy contento y ""entusiasmado"" por compartir el trabajo realizado con loj aficionado."	Los miembros del equipo han estado desanimados.	2
+3	dialectal	Cuba	prem171	"Loj miembro del equipo se mostraron muy contento y ""entusiasmado"" por compartir el trabajo realizado con loj aficionado."	Los miembros del equipo están muy contentos con el trabajo realizado.	0
+3	dialectal	Cuba	prem171	"Loj miembro del equipo se mostraron muy contento y ""entusiasmado"" por compartir el trabajo realizado con loj aficionado."	Los fans tienen una inmensa ansiedad por escucharlo todo.	1
+3	dialectal	Cuba	prem172	La democracia no nojará libre.	La democracia nos hará prisioneros.	0
+3	dialectal	Cuba	prem172	La democracia no nosará librej.	La democracia nos liberará	2
+3	dialectal	Cuba	prem172	La democracia no nojará libre.	La democracia es una estructura política.	1
+3	dialectal	Cuba	prem172	La democracia no nosará librej.	La democracia es una estructura política.	1
+3	dialectal	Cuba	prem172	La democracia no nosará librej.	La democracia nos hará prisioneros.	0
+3	dialectal	Cuba	prem172	La democracia no nojará libre.	La democracia nos liberará	2
+3	dialectal	Cuba	prem173	Con el fin de que los animale recogido de laj callej tengan un futuro mejor, tiene como ogjetivo difundir el mensaje de la adogción de gatoj.	Hay muchos gatos en las calles.	1
+3	dialectal	Cuba	prem173	Con el fin de que los animale recogido de laj callej tengan un futuro mejor, tiene como ogjetivo difundir el mensaje de la adogción de gatoj.	Tiene como objetivo sacar a la calle a los gatos adoptados.	2
+3	dialectal	Cuba	prem173	Con el fin de que los animale recogido de laj callej tengan un futuro mejor, tiene como ogjetivo difundir el mensaje de la adogción de gatoj.	Los animales recogidos de las calles tienen peores condiciones que los adoptados.	0
+3	dialectal	Cuba	prem174	Quizá loj cambioj no se notarán de inmediato, pero ejtamoj ejtableciendo criterioj para dar pasoj progresivamente en una nueva dirección.	Estamos estableciendo los criterios para dar en una dirección antigua.	2
+3	dialectal	Cuba	prem174	Quizá loj cambioj no se notarán de inmediato, pero ejtamoj ejtableciendo criterioj para dar pasoj progresivamente en una nueva dirección.	Los cambios se notarán poco a poco.	0
+3	dialectal	Cuba	prem174	Quizá loj cambioj no se notarán de inmediato, pero ejtamoj ejtableciendo criterioj para dar pasoj progresivamente en una nueva dirección.	Para lograr cambios hay que tener una mentalidad proactiva.	1
+3	dialectal	Cuba	prem175	Un día Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) abrió la caja de Pandora y dejcubrió un mundo de mil colorej.	Si abres la caja de Pandora, puedes descubrir un mundo de mil colores.	0
+3	dialectal	Cuba	prem175	Un día Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) abrió la caja de Pandora y dejcubrió un mundo de mil colorej.	Amancay Gaztañaga Sagarzazu es guipuzcoana.	1
+3	dialectal	Cuba	prem175	Un día Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) abrió la caja de Pandora y dejcubrió un mundo de mil colorej.	Amancay Gaztañaga Sagarzazu mantuvo cerrada la caja de Pandora.	2
+4	dialectal	Cuba	prem176	Con humor y alegría se consiguen muchaj cosa con loj niño.	A los niños les gusta mucho el humor y la alegría.	0
+4	dialectal	Cuba	prem176	Con humor y alegría se consiguen muchaj cosa con loj niño.	Si usas el humor y la alegría con los niños, se aprovecharán de ti	2
+4	dialectal	Cuba	prem176	Con humor y alegría se consiguen muchaj cosa con loj niño.	Los niños a veces son muy agotadores.	1
+4	dialectal	Cuba	prem177	Por qué la falta de claridá, la ojcuridá total, da miedo en la mayoría de nosotroj.	La sociedad es muy valiente, no tiene ningún miedo.	2
+4	dialectal	Cuba	prem177	Por qué la falta de claridá, la ojcuridá total, da miedo en la mayoría de nosotroj.	La oscuridad y la falta de luz dan miedo a la mayoría de la sociedad.	0
+4	dialectal	Cuba	prem177	Por qué la falta de claridá, la ojcuridá total, da miedo en la mayoría de nosotroj.	No debemos tener miedo a la oscuridad, es un miedo irracional.	1
+4	dialectal	Cuba	prem177	Por qué la falta de claridá, lojcuridá total, da miedo en la mayoría de nosotro.	No debemos tener miedo a la oscuridad, es un miedo irracional.	1
+4	dialectal	Cuba	prem177	Por qué la falta de claridá, lojcuridá total, da miedo en la mayoría de nosotro.	La sociedad es muy valiente, no tiene ningún miedo.	2
+4	dialectal	Cuba	prem177	Por qué la falta de claridá, lojcuridá total, da miedo en la mayoría de nosotro.	La oscuridad y la falta de luz dan miedo a la mayoría de la sociedad.	0
+4	dialectal	Cuba	prem178	La Ejcuela Ursinsa ha recorrido un largo camino formando a la sociedad en valorej a travéj de la educación no formal.	La Escuela Urtxintxa tiene poca experiencia en educación no formal.	2
+4	dialectal	Cuba	prem178	La Ejcuela Ursinsa ha recorrido un largo camino formando a la sociedad en valorej a travéj de la educación no formal.	La Escuela Urtxintxa lleva muchos años enseñando valores en cursos de educación no formal.	0
+4	dialectal	Cuba	prem178	La Ejcuela Ursinsa ha recorrido un largo camino formando a la sociedad en valorej a travéj de la educación no formal.	La Escuela Urtxintxa ofrece cursos no presenciales de educación no formal.	1
+4	dialectal	Cuba	prem178	La Ecuela Ursinsa ha recorrido un largo camino formando a la sociedá en valore a travé de la educación no formal.	La Escuela Urtxintxa ofrece cursos no presenciales de educación no formal.	1
+4	dialectal	Cuba	prem178	La Ecuela Ursinsa ha recorrido un largo camino formando a la sociedá en valore a travé de la educación no formal.	La Escuela Urtxintxa lleva muchos años enseñando valores en cursos de educación no formal.	0
+4	dialectal	Cuba	prem178	La Ecuela Ursinsa ha recorrido un largo camino formando a la sociedá en valore a travé de la educación no formal.	La Escuela Urtxintxa tiene poca experiencia en educación no formal.	2
+4	dialectal	Cuba	prem179	Pojteriormente hubo varioj intento de ocupar locale, pero no projperaron.	Los jóvenes fueron los principales participantes en los intentos de ocupación de los locales.	1
+4	dialectal	Cuba	prem179	Pojteriormente hubo varioj intento de ocupar locale, pero no projperaron.	Los intentos de ocupar varios locales fueron muy exitosos.	2
+4	dialectal	Cuba	prem179	Pojteriormente hubo varioj intento de ocupar locale, pero no projperaron.	Los locales quedaron desocupados, a pesar de los esfuerzos realizados.	0
+4	dialectal	Cuba	prem180	La tradición del teatro e horizontal.	La tradición del teatro es vertical o jerárquica.	2
+4	dialectal	Cuba	prem180	La tradición del teatro ej horizontal.	La tradición del teatro es vertical o jerárquica.	2
+4	dialectal	Cuba	prem180	La tradición del teatro e horizontal.	Todos los participantes tienen la misma importancia en el teatro.	0
+4	dialectal	Cuba	prem180	La tradición del teatro ej horizontal.	Todos los participantes tienen la misma importancia en el teatro.	0
+4	dialectal	Cuba	prem180	La tradición del teatro e horizontal.	El teatro tiene una larga tradición.	1
+4	dialectal	Cuba	prem180	La tradición del teatro ej horizontal.	El teatro tiene una larga tradición.	1
+4	dialectal	Cuba	prem181	Se cerrará la circulación pa loj trabajoj que se deben realizar con una grúa móvil y un camión pa intalar una grúa en esa calle.	El tráfico de esta calle será cortado para poder instalar una grúa móvil.	0
+4	dialectal	Cuba	prem181	Se cerrará la circulación pa loj trabajoj que se deben realizal con una grúa móvil y un camión pa intalal una grúa en esa calle.	El tráfico de esta calle será cortado para poder instalar una grúa móvil.	0
+4	dialectal	Cuba	prem181	Se cerrará la circulación pa loj trabajoj que se deben realizal con una grúa móvil y un camión pa intalal una grúa en esa calle.	Se realizarán obras para mejorar la circulación en esa calle.	1
+4	dialectal	Cuba	prem181	Se cerrará la circulación pa loj trabajoj que se deben realizar con una grúa móvil y un camión pa intalar una grúa en esa calle.	Se realizarán obras para mejorar la circulación en esa calle.	1
+4	dialectal	Cuba	prem181	Se cerrará la circulación pa loj trabajoj que se deben realizar con una grúa móvil y un camión pa intalar una grúa en esa calle.	Durante el tiempo que duren las obras para instalar la grúa, los coches circularán continuamente por esa calle.	2
+4	dialectal	Cuba	prem181	Se cerrará la circulación pa loj trabajoj que se deben realizal con una grúa móvil y un camión pa intalal una grúa en esa calle.	Durante el tiempo que duren las obras para instalar la grúa, los coches circularán continuamente por esa calle.	2
+4	dialectal	Cuba	prem182	Vemoj el mundo con ojoj aprendido.	Todos tenemos un punto de vista sobre la realidad.	1
+4	dialectal	Cuba	prem182	Vemo el mundo con ojoj aprendido.	Todos tenemos un punto de vista sobre la realidad.	1
+4	dialectal	Cuba	prem182	Vemoj el mundo con ojoj aprendido.	Nuestras opiniones no pueden ser condicionadas.	2
+4	dialectal	Cuba	prem182	Vemo el mundo con ojoj aprendido.	Nuestras opiniones no pueden ser condicionadas.	2
+4	dialectal	Cuba	prem182	Vemo el mundo con ojoj aprendido.	Nuestra perspectiva no es innata, la aprendemos.	0
+4	dialectal	Cuba	prem182	Vemoj el mundo con ojoj aprendido.	Nuestra perspectiva no es innata, la aprendemos.	0
+4	dialectal	Cuba	prem183	La Ejcuela Ursinsa ofrece la posibilidá de participal en curso de corta duración dede octubre hata junio.	En la escuela Urtxintxa se pueden realizar formaciones de diferente duración según la época del año.	1
+4	dialectal	Cuba	prem183	La Ejcuela Ursinsa ofrece la posibilidá de participar en cursoj de corta duración dejde octubre hajta junio.	En la escuela Urtxintxa se pueden realizar formaciones de diferente duración según la época del año.	1
+4	dialectal	Cuba	prem183	La Ejcuela Ursinsa ofrece la posibilidá de participal en curso de corta duración dede octubre hata junio.	La escuela Urtxintxa solo ofrece cursos largos de octubre a junio.	2
+4	dialectal	Cuba	prem183	La Ejcuela Ursinsa ofrece la posibilidá de participar en cursoj de corta duración dejde octubre hajta junio.	La escuela Urtxintxa solo ofrece cursos largos de octubre a junio.	2
+4	dialectal	Cuba	prem183	La Ejcuela Ursinsa ofrece la posibilidá de participal en curso de corta duración dede octubre hata junio.	De octubre a junio, la Escuela Urtxintxa ofrece cursos cortos.	0
+4	dialectal	Cuba	prem183	La Ejcuela Ursinsa ofrece la posibilidá de participar en cursoj de corta duración dejde octubre hajta junio.	De octubre a junio, la Escuela Urtxintxa ofrece cursos cortos.	0
+4	dialectal	Cuba	prem184	También hay lugare en la red pa preparal el EGA.	El examen EGA solo se puede preparar en clases presenciales.	2
+4	dialectal	Cuba	prem184	También hay lugarej en la red para preparar el EGA.	El examen EGA solo se puede preparar en clases presenciales.	2
+4	dialectal	Cuba	prem184	También hay lugare en la red pa preparal el EGA.	El EGA se puede preparar en modalidad no presencial.	0
+4	dialectal	Cuba	prem184	También hay lugarej en la red para preparar el EGA.	El EGA se puede preparar en modalidad no presencial.	0
+4	dialectal	Cuba	prem184	También hay lugarej en la red para preparar el EGA.	Hay que trabajar duro para preparar el examen EGA.	1
+4	dialectal	Cuba	prem184	También hay lugare en la red pa preparal el EGA.	Hay que trabajar duro para preparar el examen EGA.	1
+4	dialectal	Cuba	prem185	El teatro Arriaga ejtrenará el 7 de febrero una versión de Macbeth, la obra clásica de Shakespeare.	El 7 de febrero el público no podrá ver Macbeth en el teatro Arriaga.	2
+4	dialectal	Cuba	prem185	El teatro Arriaga ejtrenará el 7 de febrero una versión de Macbeth, la obra clásica de Shakespeare.	En el teatro Arriaga, el 7 de febrero, se representará una versión de una obra de Shakespeare, concretamente Macbeth.	0
+4	dialectal	Cuba	prem185	El teatro Arriaga ejtrenará el 7 de febrero una versión de Macbeth, la obra clásica de Shakespeare.	La obra que se estrenará en el teatro Arriaga es una adaptación totalmente moderna de Macbeth.	1
+4	dialectal	Cuba	prem186	Marijuli era una persona muy vital, dulce, cercana, rejponsable, cariñosa.	Marijuli tenía mucha vitalidad y era muy amable y cercana con la gente.	0
+4	dialectal	Cuba	prem186	Marijuli era una persona muy vital, dulce, cercana, rejponsable, cariñosa.	Marijuli era una mujer mayor del pueblo.	1
+4	dialectal	Cuba	prem186	Marijuli era una persona muy vital, dulce, cercana, rejponsable, cariñosa.	Marijuli era una persona inanimada, descuidada, irresponsable, fría y desagradable.	2
+4	dialectal	Cuba	prem187	Berrizabal fue detenido en marzo de 2008 en relación con el macrosumario 18/98 y la Audiencia Nacional limpuso una pena de 12 año de prisión.	En 2008, tras ser detenido por el macrosumario 19/98, la Audiencia Nacional determinó que Berrizabal era culpable y debería permanecer encarcelado durante 12 años.	0
+4	dialectal	Cuba	prem187	Berrizabal fue detenido en marzo de 2008 en relación con el macrosumario 18/98 y la Audiencia Nacional limpuso una pena de 12 año de prisión.	Berrizabal fue detenido en 2008, y se le impuso prisión provisional hasta la llegada del juicio del macrosumario 18/98.	1
+4	dialectal	Cuba	prem187	Berrizabal fue detenido en marzo de 2008 en relación con el macrosumario 18/98 y la Audiencia Nacional limpuso una pena de 12 año de prisión.	Berrizabal fue detenido en marzo de 2008 por el macrosumario 19/98, pero durante el juicio, la Audiencia Nacional declaró inocente al acusado y lo dejó libre de todos los cargos.	2
+4	dialectal	Cuba	prem188	Perú acaba de dar un curso en el palacio e hielo.	Peru nunca ha estado en una pista de hielo.	2
+4	dialectal	Cuba	prem188	Perú acaba de dar un curso en el palacio e hielo.	Peru ha estado recientemente en una pista de hielo.	0
+4	dialectal	Cuba	prem188	Perú acaba de dar un curso en el palacio e hielo.	Peru ha estado en una clase de patinaje sobre hielo.	1
+4	dialectal	Cuba	prem189	Loj cuatro terminaron en una pequeña cama e la casel jefe.	En la casa del jefe solo hay una pequeña cama libre.	1
+4	dialectal	Cuba	prem189	Loj cuatro terminaron en una pequeña cama e la casel jefe.	Los cuatro fueron a casa de su jefe.	0
+4	dialectal	Cuba	prem189	Loj cuatro terminaron en una pequeña cama e la casel jefe.	Los cuatro terminaron en la calle.	2
+4	dialectal	Cuba	prem190	Perú va por laj mañana al campamento dinglé organizado por Kusa.	Cada mañana, Peru va a las colonias de verano para aprender inglés.	0
+4	dialectal	Cuba	prem190	Perú va por laj mañana al campamento dinglé organizado por Kusa.	En verano se organizan campamentos para niños y jóvenes.	1
+4	dialectal	Cuba	prem190	Perú va por laj mañana al campamento dinglé organizado por Kusa.	En verano, Peru pasa las mañanas en casa.	2
+4	dialectal	Cuba	prem191	Todoj loj pueblo tienen derecho a decidir.	Cualquier país debe tener la opción de decidir.	0
+4	dialectal	Cuba	prem191	Todo lo pueblo tienen derecho a decidil.	Cualquier país debe tener la opción de decidir.	0
+4	dialectal	Cuba	prem191	Todoj loj pueblo tienen derecho a decidir.	El derecho a decidir corresponde a unos pocos pueblos.	2
+4	dialectal	Cuba	prem191	Todo lo pueblo tienen derecho a decidil.	El derecho a decidir corresponde a unos pocos pueblos.	2
+4	dialectal	Cuba	prem191	Todoj loj pueblo tienen derecho a decidir.	El derecho a decidir está reconocido en la constitución de algunos países.	1
+4	dialectal	Cuba	prem191	Todo lo pueblo tienen derecho a decidil.	El derecho a decidir está reconocido en la constitución de algunos países.	1
+4	dialectal	Cuba	prem192	Laj fiejta de Santusu comenzaron el sábado pasado con el pregón de loj miembro de eukaltegi AEK y del grupo de danza Gaztedi.	El sábado pasado, comenzaron las fiestas de Santutxu de la mano de los pregoneros del euskaltegi AEK y del Grupo de Danzas Gaztedi.	0
+4	dialectal	Cuba	prem192	La fieta de Santusu comenzaron el sábado pasao con el pregón de lo miembro de eukaltegi AEK y del grupo de danza Gaztedi.	El sábado pasado, comenzaron las fiestas de Santutxu de la mano de los pregoneros del euskaltegi AEK y del Grupo de Danzas Gaztedi.	0
+4	dialectal	Cuba	prem192	La fieta de Santusu comenzaron el sábado pasao con el pregón de lo miembro de eukaltegi AEK y del grupo de danza Gaztedi.	El sábado pasado, había un ambiente agradable en Santutxu debido al comienzo de las fiestas.	1
+4	dialectal	Cuba	prem192	Laj fiejta de Santusu comenzaron el sábado pasado con el pregón de loj miembro de eukaltegi AEK y del grupo de danza Gaztedi.	El sábado pasado, había un ambiente agradable en Santutxu debido al comienzo de las fiestas.	1
+4	dialectal	Cuba	prem192	La fieta de Santusu comenzaron el sábado pasao con el pregón de lo miembro de eukaltegi AEK y del grupo de danza Gaztedi.	El sábado pasado comenzaron las fiestas de Santutxu, a pesar de que los miembros del euskaltegi AEK y del grupo de danzas Gaztedi rechazaron ser pregoneros.	2
+4	dialectal	Cuba	prem192	Laj fiejta de Santusu comenzaron el sábado pasado con el pregón de loj miembro de eukaltegi AEK y del grupo de danza Gaztedi.	El sábado pasado comenzaron las fiestas de Santutxu, a pesar de que los miembros del euskaltegi AEK y del grupo de danzas Gaztedi rechazaron ser pregoneros.	2
+4	dialectal	Cuba	prem193	El Centro Empresarial Markina e un Centro de Empresa con un marcado carácter indujtrial.	Las empresas que se reúnen en el Centro Empresarial de Markina pertenecen al sector primario, es decir, se dedican a la agricultura y la ganadería.	2
+4	dialectal	Cuba	prem193	El Centro Empresarial Markina ej un Centro de Empresa con un marcado carácter indujtrial.	Las empresas que se reúnen en el Centro Empresarial de Markina pertenecen al sector primario, es decir, se dedican a la agricultura y la ganadería.	2
+4	dialectal	Cuba	prem193	El Centro Empresarial Markina ej un Centro de Empresa con un marcado carácter indujtrial.	La mayoría de las empresas que se reúnen en el Elkartegi de Markina pertenecen al sector secundario.	0
+4	dialectal	Cuba	prem193	El Centro Empresarial Markina e un Centro de Empresa con un marcado carácter indujtrial.	La mayoría de las empresas que se reúnen en el Elkartegi de Markina pertenecen al sector secundario.	0
+4	dialectal	Cuba	prem193	El Centro Empresarial Markina e un Centro de Empresa con un marcado carácter indujtrial.	En el Centro Empresarial de Markina se concentran empresas medianas del sector industrial.	1
+4	dialectal	Cuba	prem193	El Centro Empresarial Markina ej un Centro de Empresa con un marcado carácter indujtrial.	En el Centro Empresarial de Markina se concentran empresas medianas del sector industrial.	1
+4	dialectal	Cuba	prem194	Lo vi por última vej hace tres semana.	Hace tres semanas que salí a la calle.	1
+4	dialectal	Cuba	prem194	Lo vi por última ve hace tres semana.	Hace tres semanas que salí a la calle.	1
+4	dialectal	Cuba	prem194	Lo vi por última vej hace tres semana.	Hace tres semanas que no lo/la he visto.	0
+4	dialectal	Cuba	prem194	Lo vi por última ve hace tres semana.	Hace tres semanas que no lo/la he visto.	0
+4	dialectal	Cuba	prem194	Lo vi por última vej hace tres semana.	Lo veré por primera vez dentro de tres semanas.	2
+4	dialectal	Cuba	prem194	Lo vi por última ve hace tres semana.	Lo veré por primera vez dentro de tres semanas.	2
+4	dialectal	Cuba	prem195	El Centro Empresarial Gernika ej un centro de empresa creado para acoger proyectoj empresariale de nueva creación y empresa en proceso de espansión.	El objetivo del Centro Empresarial Gernika es agrupar a empresas de reciente creación o que se encuentran en proceso de expansión.	0
+4	dialectal	Cuba	prem195	El Centro Empresarial Gernika e un centro de empresa creado pacogel proyecto empresariale de nueva creación y empresa en proceso de ejpansión.	El objetivo del Centro Empresarial Gernika es agrupar a empresas de reciente creación o que se encuentran en proceso de expansión.	0
+4	dialectal	Cuba	prem195	El Centro Empresarial Gernika ej un centro de empresa creado para acoger proyectoj empresariale de nueva creación y empresa en proceso de espansión.	El Centro Empresarial Gernika sirve para destruir nuevos proyectos empresariales y empresas en expansión.	2
+4	dialectal	Cuba	prem195	El Centro Empresarial Gernika e un centro de empresa creado pacogel proyecto empresariale de nueva creación y empresa en proceso de ejpansión.	El Centro Empresarial Gernika sirve para destruir nuevos proyectos empresariales y empresas en expansión.	2
+4	dialectal	Cuba	prem195	El Centro Empresarial Gernika ej un centro de empresa creado para acoger proyectoj empresariale de nueva creación y empresa en proceso de espansión.	El Parque Tecnológico de Guernica es muy grande y alberga numerosas empresas de reciente creación.	1
+4	dialectal	Cuba	prem195	El Centro Empresarial Gernika e un centro de empresa creado pacogel proyecto empresariale de nueva creación y empresa en proceso de ejpansión.	El Parque Tecnológico de Guernica es muy grande y alberga numerosas empresas de reciente creación.	1
+4	dialectal	Cuba	prem196	Digamo que tiene un trabajo asombroso: trotamundo.	Realiza su trabajo sin moverse de casa.	2
+4	dialectal	Cuba	prem196	Digamo que tiene un trabajo asombroso: trotamundo.	Es poco común tener como profesión viajar por el mundo.	0
+4	dialectal	Cuba	prem196	Digamo que tiene un trabajo asombroso: trotamundo.	Hay que trabajar para ganar dinero.	1
+4	dialectal	Cuba	prem197	El vuelo de Chicago a Los Ángele tuvo un retraso de dos hora.	El avión que iba de Chicago a Los Ángeles llegó tarde.	0
+4	dialectal	Cuba	prem197	El vuelo de Chicago a Los Ángele tuvo un retraso de dos hora.	Sale un vuelo de Chicago a Los Ángeles cada tres horas.	1
+4	dialectal	Cuba	prem197	El vuelo de Chicago a Los Ángele tuvo un retraso de dos hora.	El vuelo de Chicago a Los Ángeles adelantó su llegada dos horas.	2
+4	dialectal	Cuba	prem198	Dejpué de recorrer en piragua loj río y loj impresionantej lago de Alajka por lo parajej de Jack London, ayer vino a visitarme al hojpital un gran amigo.	Conozco desde muy pequeño al amigo íntimo que me visitó ayer en el hospital.	1
+4	dialectal	Cuba	prem198	Depué de recorrer en piragua lo río y lo impresionante lago de Alajka pol lo paraje de Jack London, ayel vino a visitalme al hopital un gran amigo.	Conozco desde muy pequeño al amigo íntimo que me visitó ayer en el hospital.	1
+4	dialectal	Cuba	prem198	Dejpué de recorrer en piragua loj río y loj impresionantej lago de Alajka por lo parajej de Jack London, ayer vino a visitarme al hojpital un gran amigo.	Ayer, un amigo que había estado viajando por California y Alaska me visitó en el hospital.	0
+4	dialectal	Cuba	prem198	Depué de recorrer en piragua lo río y lo impresionante lago de Alajka pol lo paraje de Jack London, ayel vino a visitalme al hopital un gran amigo.	Ayer, un amigo que había estado viajando por California y Alaska me visitó en el hospital.	0
+4	dialectal	Cuba	prem198	Dejpué de recorrer en piragua loj río y loj impresionantej lago de Alajka por lo parajej de Jack London, ayer vino a visitarme al hojpital un gran amigo.	Ayer estuve solo en el hospital.	2
+4	dialectal	Cuba	prem198	Depué de recorrer en piragua lo río y lo impresionante lago de Alajka pol lo paraje de Jack London, ayel vino a visitalme al hopital un gran amigo.	Ayer estuve solo en el hospital.	2
+4	dialectal	Cuba	prem199	Hemo tenido cuatro largaj temporada de laj cuatro ejtacione en el cine Paraíso.	Las temporadas comentadas en el cine Paradisu tienen una duración variable.	1
+4	dialectal	Cuba	prem199	Hemo tenido cuatro largaj temporada de laj cuatro ejtacione en el cine Paraíso.	Las cuatro temporadas que hemos comentado en el cine Paradisu son de larga duración.	0
+4	dialectal	Cuba	prem199	Hemo tenido cuatro largaj temporada de laj cuatro ejtacione en el cine Paraíso.	En el cine Paradisu hemos estado proyectando cuatro cortometrajes de las cuatro estaciones.	2
+4	dialectal	Cuba	prem200	Deta manera, loj niño y jóvenej del Paí Vajco tienen loportunidá de difrutar del cine en su idioma, el eukera, al mimo tiempo que se etrenan la versione en cajtellano.	De esta manera, los niños y jóvenes del País Vasco podrán ver las películas en castellano desde su estreno, pero tendrán que esperar mucho tiempo para verlas en euskera.	2
+4	dialectal	Cuba	prem200	Dejta manera, loj niño y jóvenej del Paíj Vajco tienen la oportunidá de dijfrutar del cine en su idioma, el eujkera, al mijmo tiempo que se ejtrenan laj versione en cajtellano.	En el País Vasco a veces también se pueden disfrutar las películas en inglés desde su estreno.	1
+4	dialectal	Cuba	prem200	Dejta manera, loj niño y jóvenej del Paíj Vajco tienen la oportunidá de dijfrutar del cine en su idioma, el eujkera, al mijmo tiempo que se ejtrenan laj versione en cajtellano.	De esta manera, los niños y jóvenes del País Vasco podrán ver las películas en castellano desde su estreno, pero tendrán que esperar mucho tiempo para verlas en euskera.	2
+4	dialectal	Cuba	prem200	Deta manera, loj niño y jóvenej del Paí Vajco tienen loportunidá de difrutar del cine en su idioma, el eukera, al mimo tiempo que se etrenan la versione en cajtellano.	Como las versiones en euskera y castellano se estrenarán simultáneamente, los niños y jóvenes del País Vasco podrán disfrutar del cine en euskera desde el principio.	0
+4	dialectal	Cuba	prem200	Deta manera, loj niño y jóvenej del Paí Vajco tienen loportunidá de difrutar del cine en su idioma, el eukera, al mimo tiempo que se etrenan la versione en cajtellano.	En el País Vasco a veces también se pueden disfrutar las películas en inglés desde su estreno.	1
+4	dialectal	Cuba	prem200	Dejta manera, loj niño y jóvenej del Paíj Vajco tienen la oportunidá de dijfrutar del cine en su idioma, el eujkera, al mijmo tiempo que se ejtrenan laj versione en cajtellano.	Como las versiones en euskera y castellano se estrenarán simultáneamente, los niños y jóvenes del País Vasco podrán disfrutar del cine en euskera desde el principio.	0
+5	dialectal	Espainia_and	prem201	"La samblea juvenil de Santucho ha organizao do iniciativa esta semana ""frente al capitalihmo presor"""	La Asamblea Juvenil de Santutxu organiza acciones contra la opresión del capitalismo.	0
+5	dialectal	Espainia_and	prem201	"La samblea juvenil de Santucho ha organizao do iniciativa esta semana ""frente al capitalihmo presor"""	Esta semana, la Asamblea Juvenil de Santutxu ha organizado dos actividades para defender el aspecto liberador del capitalismo.	2
+5	dialectal	Espainia_and	prem201	"La samblea juvenil de Santucho ha organizao do iniciativa esta semana ""frente al capitalihmo presor"""	En la Asamblea Juvenil de Santutxu se organizan actividades semanalmente.	1
+5	dialectal	Espainia_and	prem202	El regalo de cumpleaño este año tenía que se ehpecia: un albun de foto de la vida de mamá y una merienda sorpresa	Para que el cumpleaños de mamá de este año fuera especial, toda la familia nos hemos reunido para merendar.	1
+5	dialectal	Espainia_and	prem202	El regalo de cumpleaño este año tenía que se ehpecia: un albun de foto de la vida de mamá y una merienda sorpresa	El regalo de cumpleaños de este año para mamá tenía que ser algo totalmente normal, por eso solo le hemos regalado un álbum de fotos.	2
+5	dialectal	Espainia_and	prem202	El regalo de cumpleaño este año tenía que se ehpecia: un albun de foto de la vida de mamá y una merienda sorpresa	Para que el regalo de cumpleaños de este año fuera diferente, le preparamos a mamá una merienda sorpresa y le regalamos un álbum de fotos.	0
+5	dialectal	Espainia_and	prem203	Ademá, dalegría de viví que hubiera alguien en la aristrocracia que dio paso pa quel euskera fuera amao y utilizao	Entre la aristocracia, algunos se dedicaban a la lingüística vasca, y eso produce alegría.	1
+5	dialectal	Espainia_and	prem203	Ademá, dalegría de viví que hubiera alguien en la aristrocracia que dio paso pa quel euskera fuera amao y utilizao	Todos los aristócratas odiaban el euskera, por eso tomaron medidas para reducir su uso.	2
+5	dialectal	Espainia_and	prem203	Ademá, dalegría de viví que hubiera alguien en la aristrocracia que dio paso pa quel euskera fuera amao y utilizao	Algún aristócrata hizo esfuerzos para promover el uso del euskera porque le gustaba la lengua, y eso es alentador.	0
+5	dialectal	Espainia_and	prem204	Solo en la medía en que lo vahcoparlante no dirijamo en euhkera a lo receptore pasivo, y solo entonce, lograremo cambia lo patrone de uso.	Para revolucionar el uso del euskera, los vascoparlantes debemos hablar en castellano a los receptores pasivos.	2
+5	dialectal	Espainia_and	prem204	Solo en la medía en que lo vahcoparlante no dirijamo en euhkera a lo receptore pasivo, y solo entonce, lograremo cambia lo patrone de uso.	Para aumentar el uso del euskera, los vascoparlantes debemos hablar en euskera a los receptores pasivos.	0
+5	dialectal	Espainia_and	prem204	Solo en la medía en que lo vahcoparlante no dirijamo en euhkera a lo receptore pasivo, y solo entonce, lograremo cambia lo patrone de uso.	Cuando hay niños presentes, los vascoparlantes hablamos más frecuentemente en euskera con los receptores pasivos.	1
+5	dialectal	Espainia_and	prem205	Atzerri e la novela que Miquel Ancha publicó en 2012; se dice que la autofición e la esencia de la novela.	La novela Atzerri de Mikel Antza fue publicada en 2012, y desde entonces ha tenido un gran éxito entre los lectores vascos.	1
+5	dialectal	Espainia_and	prem205	Atzerri e la novela que Miquel Ancha publicó en 2012; se dice que la autofición e la esencia de la novela.	En 2012, Mikel Antza publicó Atzerri, es decir, un libro autobiográfico que recoge sus vivencias.	2
+5	dialectal	Espainia_and	prem205	Atzerri e la novela que Miquel Ancha publicó en 2012; se dice que la autofición e la esencia de la novela.	Mikel Antza escribió la novela Atzerri, y según dicen, el eje central de la novela es una mezcla entre sus vivencias y la ficción.	0
+5	dialectal	Espainia_and	prem206	Cuando terminó aplaudí por primera ve en mi vida.	Mis reacciones finales son muy comunes.	1
+5	dialectal	Espainia_and	prem206	Cuando terminó aplaudí por primera ve en mi vida.	Al terminar, he expresado que me ha gustado.	0
+5	dialectal	Espainia_and	prem206	Cuando terminó aplaudí por primera ve en mi vida.	Cuando terminó, como siempre, me quedé completamente inmóvil.	2
+5	dialectal	Espainia_and	prem207	También cuenta con una sala dempredimiento y coworking, con toa la infrahtrutura necesaria pa poner en marcha un proyecto empresarial.	Las infraestructuras básicas necesarias para poner en marcha un proyecto empresarial dependen de las necesidades de la empresa.	1
+5	dialectal	Espainia_and	prem207	También cuenta con una sala dempredimiento y coworking, con toa la infrahtrutura necesaria pa poner en marcha un proyecto empresarial.	Aunque dispone de una sala para emprendimiento y coworking, sus infraestructuras son demasiado escasas para poner en marcha un proyecto empresarial.	2
+5	dialectal	Espainia_and	prem207	También cuenta con una sala dempredimiento y coworking, con toa la infrahtrutura necesaria pa poner en marcha un proyecto empresarial.	Dispone de las infraestructuras necesarias para fomentar la colaboración entre empresas y promover la creación de nuevas empresas.	0

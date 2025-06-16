@@ -1,0 +1,156 @@
+{
+    "datasets": {
+        "xnli-eu-native": {
+            "data_path": "/scratch/jbengoetxea/phd/XNLIvar/data/eu/xnli-eu-native.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        },
+        "xnli-eu-var": {
+            "data_path": "/scratch/jbengoetxea/phd/XNLIvar/data/eu/xnli-eu-var.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        },
+        "xnli-es-native": {
+            "data_path": "/scratch/jbengoetxea/phd/XNLIvar/data/es/xnli-eu2es-native.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        }, 
+        "xnli-es-var": {
+            "data_path": "/scratch/jbengoetxea/phd/XNLIvar/data/es/xnli-es-var.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        },
+        "xnli-en": {
+            "data_path": "/tartalo01/users/jbengoetxea004/phd/xnli-paraphrasing/xnli-var-decoders/scripts/parquet-con/xnli-en-test.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        }, 
+        "xnli-es": {
+            "data_path": "/scratch/jbengoetxea/phd/XNLIvar/data/es/xnli-es-original.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        },
+        "xnli-eu": {
+            "data_path": "/scratch/jbengoetxea/phd/XNLIvar/data/eu/xnli-eu-original.tsv",
+            "data_path_paraphrase": "",
+            "prem_col": "premise",
+            "hyp_col": "hypothesis",
+            "label_col": "label",
+            "prompts": ["trilabel", "qa-zero", "qa-few"]
+        }
+    },
+    "models": {
+        "llama3instruct8": "meta-llama/Meta-Llama-3-8B-Instruct", 
+        "llama3instruct70": "meta-llama/Meta-Llama-3-70B-Instruct", 
+        "gemmainstruct9": "google/gemma-2-9b-it", 
+        "gemmainstruct27": "google/gemma-2-27b-it"
+    },
+    "prompts": {
+        "trilabel": {
+            "nli-zero": {
+                "preffix": "Please, answer in one word, with one of the following labels: <entailment>, <contradiction> or <neutral> Use exactly one of these three labels.",
+                "label_mapping": {
+                    "entailment": "entailment",
+                    "contradiction": "contradiction",
+                    "neutral": "neutral"
+                }
+            },
+            "nli-few": {
+                "preffix": "Say which is the inference relationship between these two sentences. Please, answer in one word, with one of the following labels: <entailment>, <contradiction> or <neutral> Use exactly one of these three labels. Here you have some examples: Postal Service were to reduce delivery frequency ->  The postal service could deliver less frequently: <entailment>. This elegant spa town on the edge of the Lac du Bourget has offered cures for rheumatism and other ailments for centuries -> The town was only established in the past fifty years: <contradiction>. And while we allow people to give a kidney to their child , we do not allow them to donate their heart -> You can't always donate organs to your child: <neutral>. " ,
+                "label_mapping": {
+                    "entailment": "entailment",
+                    "contradiction": "contradiction",
+                    "neutral": "neutral"
+                }
+            },
+            "qa-zero": {
+                "preffix": "Are these two sentences entailed, contradicted or undetermined to each other? Please, answer in one word, with one of the following labels: <entailment>, <contradiction> or <neutral> Use exactly one of these three labels.",
+                "label_mapping": {
+                    "entailment": "entailment",
+                    "contradiction": "contradiction",
+                    "neutral": "neutral"
+                }
+            },
+            "qa-few": {
+                "preffix": "Are these two sentences entailed, contradicted or undetermined to each other? Please, answer in one word, with one of the following labels: <entailment>, <contradiction> or <neutral> Use exactly one of these three labels. Here you have some examples: Postal Service were to reduce delivery frequency -> The postal service could deliver less frequently: <entailment>. This elegant spa town on the edge of the Lac du Bourget has offered cures for rheumatism and other ailments for centuries -> The town was only established in the past fifty years: <contradiction>. And while we allow people to give a kidney to their child , we do not allow them to donate their heart -> You can't always donate organs to your child: <neutral>.",
+                "label_mapping": {
+                    "entailment": "entailment",
+                    "contradiction": "contradiction",
+                    "neutral": "neutral"
+                }
+            },
+            "chain": {
+                "preffix": "You are an expert linguist and your task is to annotate sentences for the task of Natural Language Inference. This task consists in determining if a first sentence (premise) entails, contradicts or does not entail nor contradict the second sentence (hypothesis). Please, answer in one word, with one of the following labels: <entailment>, <contradiction> or <neutral> \n Use exactly one of these three labels \n Here you have a few examples:\n Premise: Postal Service were to reduce delivery frequency. \n Hypothesis: The postal service could deliver less frequently. \n Answer: <entailment> \n Premise: This elegant spa town on the edge of the Lac du Bourget has offered cures for rheumatism and other ailments for centuries. \n Hypothesis: The town was only established in the past fifty years. \n Answer: <contradiction> \n Premise: And while we allow people to give a kidney to their child , we do not allow them to donate their heart. \n Hypothesis: You can't always donate organs to your child. \n Answer: <neutral>",
+                "label_mapping": {
+                    "entailment": "entailment",
+                    "contradiction": "contradiction",
+                    "neutral": "neutral"
+                }
+            }
+        }, 
+        "qa-zero": {
+            "entailment": {
+                "preffix": "Are these two sentences entailed? Please, answer between <yes> or <no>.",
+                "label_mapping": {
+                    "yes": "entailment",
+                    "no": "not_entailment"
+                }
+            },
+            "contradiction": {
+                "preffix": "Are these two sentences contradictions? Please, answer between <yes> or <no>.",
+                "label_mapping": {
+                    "yes": "contradiction",
+                    "no": "not_contradiction"
+                }
+            },
+            "neutral": {
+                "preffix": "Are these two sentences unrelated? Please, answer between <yes> or <no>.",
+                "label_mapping": {
+                    "yes": "neutral",
+                    "no": "not_neutral"
+                }
+            }
+        },
+        "qa-few": {
+            "entailment": {
+                "preffix": "Are these two sentences entailed? Please, answer between <yes> or <no>. Here you have some examples: Postal Service were to reduce delivery frequency -> The postal service could deliver less frequently: <yes>. This elegant spa town on the edge of the Lac du Bourget has offered cures for rheumatism and other ailments for centuries -> The town was only established in the past fifty years: <no>. And while we allow people to give a kidney to their child , we do not allow them to donate their heart -> You can't always donate organs to your child: <no>.",
+                "label_mapping": {
+                    "yes": "entailment",
+                    "no": "not_entailment"
+                }
+            },
+            "contradiction": {
+                "preffix": "Are these two sentences contradictions? Please, answer between <yes> or <no>. Here you have some examples: Postal Service were to reduce delivery frequency -> The postal service could deliver less frequently: <no>. This elegant spa town on the edge of the Lac du Bourget has offered cures for rheumatism and other ailments for centuries -> The town was only established in the past fifty years: <yes>. And while we allow people to give a kidney to their child , we do not allow them to donate their heart -> You can't always donate organs to your child: <no>.",
+                "label_mapping": {
+                    "yes": "contradiction",
+                    "no": "not_contradiction"
+                }
+            },
+            "neutral": {
+                "preffix": "Are these two sentences unrelated? Please, answer between <yes> or <no>. Here you have some examples: Postal Service were to reduce delivery frequency -> The postal service could deliver less frequently: <no>. This elegant spa town on the edge of the Lac du Bourget has offered cures for rheumatism and other ailments for centuries -> The town was only established in the past fifty years: <no>. And while we allow people to give a kidney to their child , we do not allow them to donate their heart -> You can't always donate organs to your child: <yes>.",
+                "label_mapping": {
+                    "yes": "neutral",
+                    "no": "not_neutral"
+                }
+            }
+        }
+    }
+}

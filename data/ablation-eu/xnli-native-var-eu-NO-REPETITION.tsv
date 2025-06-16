@@ -1,0 +1,622 @@
+ann_id	change_type	probintzia	prem_id	premise	hypothesis	label
+g6	dialectal	gipuzkoa	prem1	Zozketa notario baten aurrian iten da eta ordenagailu bidez eztakize zenbaki emango dituzte.	Ordenagailu bat eta notario bat behar dira zozketa egiteko.	0
+g6	dialectal	gipuzkoa	prem1	Zozketa notario baten aurrian iten da eta ordenagailu bidez eztakize zenbaki emango dituzte.	Zozketa guztietan notario bera izaten da normalean.	1
+g6	dialectal	gipuzkoa	prem1	Zozketa notario baten aurrian iten da eta ordenagailu bidez eztakize zenbaki emango dituzte.	Zozketa zenbakidun papertxoak ontzi batean sartu eta ausaz bat hartuta egiten da.	2
+s2	dialectal	gipuzkoa	prem2	Enrike Eizagirre ta Ane Sarasketa Arratiako dantza eleantea eskaintzen.	Anek eta Enrikek galtza urdinak dituzte.	1
+s2	dialectal	gipuzkoa	prem2	Enrike Eizagirre ta Ane Sarasketa Arratiako dantza eleantea eskaintzen.	Enrike eta Ane dantza-pausuak egiten.	0
+s2	dialectal	gipuzkoa	prem2	Enrike Eizagirre ta Ane Sarasketa Arratiako dantza eleantea eskaintzen.	Enrike Izagirre eta Ane Sarasketa izozkia jaten ari ziren.	2
+s3	dialectal	bizkaia	prem3	Sorgintzulo gaztetxi 1998. urtin okupa zan Karmelo elixin lokal huts batzutan.	Sorgintxulo gaztetxea udaletxeak eman zion gazte talde bati.	2
+s3	dialectal	bizkaia	prem3	Sorgintzulo gaztetxi 1998. urtin okupa zan Karmelo elixin lokal huts batzutan.	Hainbat kontzertu eskaintzen dira Sorgintxulo gaztetxean.	1
+s3	dialectal	bizkaia	prem3	Sorgintzulo gaztetxi 1998. urtin okupa zan Karmelo elixin lokal huts batzutan.	Sorgintxulo gaztetxearen jabea Karmelo eliza zen.	0
+s3	dialectal	bizkaia	prem4	Beatzi kantakin einddako diskun hardcori rockaz eta metalaz nahastaten diz.	Abesti bakoitzaren iraupena hiru minutu ingurukoa da, baina sei minutuko bat ere badago.	1
+s3	dialectal	bizkaia	prem4	Beatzi kantakin einddako diskun hardcori rockaz eta metalaz nahastaten diz.	Doinu lasaiak dira nagusi diskoan.	2
+s3	dialectal	bizkaia	prem4	Beatzi kantakin einddako diskun hardcori rockaz eta metalaz nahastaten diz.	Diskoak hamar kantu baino gutxiago ditu guztira.	0
+g3	berridazketa	gipuzkoa	prem5	"Etzi hasiko dira ematen ""Ballerina"" pelikula euskaraz zinemetan."	Ballerina filma euskaraz ikusi ahal izango da.	0
+g3	berridazketa	gipuzkoa	prem5	"Etzi hasiko dira ematen ""Ballerina"" pelikula euskaraz zinemetan."	"Animaziozko filma da ""Ballerina"" eta Frantzian egina."	1
+g3	berridazketa	gipuzkoa	prem5	"Etzi hasiko dira ematen ""Ballerina"" pelikula euskaraz zinemetan."	"Hilabete barru arte ezingo da ""Ballerina"" zineman ikusi."	2
+g4	dialectal	nafarroa	prem6	Gaur atea da Solte talde santuxuarraren lan berrie.	Azken bost urteetan geldirik egon ondoren etorri da diskoa.	1
+g4	dialectal	nafarroa	prem6	Gaur atea da Solte talde santuxuarraren lan berrie.	Solte taldea duela hiru urte desagertu zen.	2
+g4	dialectal	nafarroa	prem6	Gaur atea da Solte talde santuxuarraren lan berrie.	Santutxuko Solte taldeak lan berria egin du.	0
+g5	dialectal	gipuzkoa	prem7	Txirrita bertsolaia irakurtzen ez zekin pertsona zan arren, sekulako sena zakan bildutako informazioan gañeko iakurketak iteko. 	Basarri bertsolariari, berriz, asko gustatzen zitzaion eleberriak irakurtzea.	1
+g5	dialectal	gipuzkoa	prem7	Txirrita bertsolaia irakurtzen ez zekin pertsona zan arren, sekulako sena zakan bildutako informazioan gañeko iakurketak iteko. 	Txirritak ez zuen bere bizitza osoan liburu bat bera ere irakurri.	0
+g5	dialectal	gipuzkoa	prem7	Txirrita bertsolaia irakurtzen ez zekin pertsona zan arren, sekulako sena zakan bildutako informazioan gañeko iakurketak iteko. 	Kafea hartzen zuen bitartean, egunkaria irakurtzen zuen Txirritak goizero.	2
+g8	dialectal	gipuzkoa	prem8	Lanak bi orrialde baino ez dituzte izango, A4 formatuan (bertikalian).	Arial 12 tamaina erabili behar da derrigorrez idazteko.	1
+g8	dialectal	gipuzkoa	prem8	Lanak bi orrialde baino ez dituzte izango, A4 formatuan (bertikalian).	Lau orrialdeko lanak ere onartuko dira.	2
+g8	dialectal	gipuzkoa	prem8	Lanak bi orrialde baino ez dituzte izango, A4 formatuan (bertikalian).	Lanak egiteko A4 formatua erabili beharko da.	0
+g7	dialectal	gipuzkoa	prem9	Kriston arrarua zan Antton horren bizitzeko modua ta oaindik arrarogua bizi zan lekua.	Bizimodu lasaia izan zuen Anttonek, abentura handirik gabekoa.	2
+g7	dialectal	gipuzkoa	prem9	Kriston arrarua zan Antton horren bizitzeko modua ta oaindik arrarogua bizi zan lekua.	Antton bizi izan zen lekua bitxia zen.	0
+g7	dialectal	gipuzkoa	prem9	Kriston arrarua zan Antton horren bizitzeko modua ta oaindik arrarogua bizi zan lekua.	Anttonek bi alaba izan zituen oso gazterik.	1
+s4	dialectal	gipuzkoa	prem10	Santurtzi Elkartegia Santurtziko El Árbol industrialdean dao, A-8 autobidearen ingurutan.	Santurtzi Elkartegia ez dago A-8 autobidetik urrun.	0
+s4	dialectal	gipuzkoa	prem10	Santurtzi Elkartegia Santurtziko El Árbol industrialdean dao, A-8 autobidearen ingurutan.	El Árbol industrialdean 27 enpresa daude denera.	1
+s4	dialectal	gipuzkoa	prem10	Santurtzi Elkartegia Santurtziko El Árbol industrialdean dao, A-8 autobidearen ingurutan.	Santurtzi Elkartegia Portugaleten dago, izenagatik ematen ez duen arren.	2
+g6	dialectal	gipuzkoa	prem11	"Azken urteotan Europan in den animaziozko koprodukzio haundienetakoa da ""Ballerina""."	"Ameriketako Estatu Batuetan egina izan arren, Europan kokatzen da ""Ballerina""-ko istorioa."	2
+g6	dialectal	gipuzkoa	prem11	"Azken urteotan Europan in den animaziozko koprodukzio haundienetakoa da ""Ballerina""."	Filmeko protagonista neska da.	1
+g6	dialectal	gipuzkoa	prem11	"Azken urteotan Europan in den animaziozko koprodukzio haundienetakoa da ""Ballerina""."	"Europan egina da ""Ballerina"" animaziozko filma."	0
+s2	dialectal	gipuzkoa	prem12	Egie da, de paso, liburue irakurrita eukita hobeto ulertzeiela hainbat pasarte, seguruna.	Pasarte batzuk zailagoak dira ulertzen liburua irakurri gabe.	0
+s2	dialectal	gipuzkoa	prem12	Egie da, de paso, liburue irakurrita eukita hobeto ulertzeiela hainbat pasarte, seguruna.	Liburuan beldurrezkoak diren pasarte batzuk aldatu egin dituzte.	1
+s2	dialectal	gipuzkoa	prem12	Egie da, de paso, liburue irakurrita eukita hobeto ulertzeiela hainbat pasarte, seguruna.	Liburua irakurri gabe izateak ez du batere eraginik.	2
+s4	dialectal	gipuzkoa	prem13	Miren etxeko leio ondun ziarro bat erretzen ai zela, Lucia ondoan jarri zitzaion, ta, bere gizonan aurrin, Miren ikutzen hasi zen.	Miren etxeko leihoaren alboan zegoela, Lucia bera ukitzen hasi zen.	0
+s4	dialectal	gipuzkoa	prem13	Miren etxeko leio ondun ziarro bat erretzen ai zela, Lucia ondoan jarri zitzaion, ta, bere gizonan aurrin, Miren ikutzen hasi zen.	Mirenen gizona telebista ikusten ari zen Lucia etorri zenean.	1
+s4	dialectal	gipuzkoa	prem13	Miren etxeko leio ondun ziarro bat erretzen ai zela, Lucia ondoan jarri zitzaion, ta, bere gizonan aurrin, Miren ikutzen hasi zen.	Lucia iritsi zenean ez zen Mirenengana hurbiltzera ausartu, bere gizona aurrean baitzegoen.	2
+g6	dialectal	gipuzkoa	prem14	"Euskadi irratiko ""Sukalde dema"" irratsaioan hirugarren urtia hasiko dute udazken honetan."	Sukalde dema saioak urte bat baino gehiago darama euskadi irratian.	0
+g6	dialectal	gipuzkoa	prem14	"Euskadi irratiko ""Sukalde dema"" irratsaioan hirugarren urtia hasiko dute udazken honetan."	Sukalde dema saioan aurkezleak aldatu ziren lehenengo urtea eta gero.	1
+g6	dialectal	gipuzkoa	prem14	"Euskadi irratiko ""Sukalde dema"" irratsaioan hirugarren urtia hasiko dute udazken honetan."	"Urtebete bakarrik iraun zuen ""Sukalde dema"" saioak euskadi irratian."	2
+s1	dialectal	bizkaia	prem15	Ganera istripu-partie eztakoie ez euskeraz ezta euskera-gaztelaniaz.	Euskarazko istripu-parterik ez daukate.	0
+s1	dialectal	bizkaia	prem15	Ganera istripu-partie eztakoie ez euskeraz ezta euskera-gaztelaniaz.	Auto gorrian izan zuen istripua duela bi aste.	1
+s1	dialectal	bizkaia	prem15	Ganera istripu-partie eztakoie ez euskeraz ezta euskera-gaztelaniaz.	Euskara hutsean dagoen istripu-parte bat dutela esan didate.	2
+g8	toka	gipuzkoa	prem16	Espainian, ezkonduen %60 dibortziatzen dituk.	Ezkonduen erdia baino gehiago banatu egiten da Espainian.	0
+g8	toka	gipuzkoa	prem16	Espainian, ezkonduen %60 dibortziatzen dituk.	Espainiar estatuan gero eta gutxiago dira elizatik ezkontzen direnak.	1
+g8	toka	gipuzkoa	prem16	Espainian, ezkonduen %60 dibortziatzen dituk.	Erdia baino gutxiago dira ezkondu eta gero banatzen direnak.	2
+g6	dialectal	gipuzkoa	prem17	Imajinatzen ez dan herri bat ezin da existitu.	Existitzen diren herri guztiak irudikatu daitezke.	0
+g6	dialectal	gipuzkoa	prem17	Imajinatzen ez dan herri bat ezin da existitu.	Badaude herri batzuk etxe guztiak zuriak dituztenak.	1
+g6	dialectal	gipuzkoa	prem17	Imajinatzen ez dan herri bat ezin da existitu.	Irudikatzen ez den herri bat ikusi genuen atzo.	2
+g4	dialectal	nafarroa	prem18	Euskal preso politikoen arloan lan egin izanagatik 48 pertsonen kontra egindako eskaera fiskalen berri izan deu azken egunotan, hoietako batzuk 20 ure baño gehigokok	Fiskaltzak zenbait pertsonarentzat zigorrak eskatu ditu.	0
+g4	dialectal	nafarroa	prem18	Euskal preso politikoen arloan lan egin izanagatik 48 pertsonen kontra egindako eskaera fiskalen berri izan deu azken egunotan, hoietako batzuk 20 ure baño gehigokok	Preso politikoen gaian lan egiten duten gehienak Gipuzkoarrak dira.	1
+g4	dialectal	nafarroa	prem18	Euskal preso politikoen arloan lan egin izanagatik 48 pertsonen kontra egindako eskaera fiskalen berri izan deu azken egunotan, hoietako batzuk 20 ure baño gehigokok	Fiskaltzak ontzat eman du preso politikoen gaian ari direnek egiten duten lana.	2
+g1	dialectal	bizkaia	prem19	Oin arte euskera maila bajuengaitik, selektibidadean nota orokorra asko jasten jaken bertako ikasleei.	Hizkuntza mailak eragina zuen selektibitateko nota orokorrean.	0
+g1	dialectal	bizkaia	prem19	Oin arte euskera maila bajuengaitik, selektibidadean nota orokorra asko jasten jaken bertako ikasleei.	Iaz inoiz izan diren nota baxuenak izan ziren selektibitateko azterketetan.	1
+g1	dialectal	bizkaia	prem19	Oin arte euskera maila bajuengaitik, selektibidadean nota orokorra asko jasten jaken bertako ikasleei.	Euskara mailak ez zuen garrantzirik selektibitateko notan.	2
+g5	dialectal	gipuzkoa	prem20	Launak esate u, mundu guztin ibili an arren, gaixotze an eunen bertan itzuliko ala Euskal Herria.	Munduan zehar dabil laguna.	0
+g5	dialectal	gipuzkoa	prem20	Launak esate u, mundu guztin ibili an arren, gaixotze an eunen bertan itzuliko ala Euskal Herria.	Laguna ez zen Euskal Herrian jaio.	1
+g5	dialectal	gipuzkoa	prem20	Launak esate u, mundu guztin ibili an arren, gaixotze an eunen bertan itzuliko ala Euskal Herria.	Lagunak betiko munduan zehar ibiltzeko asmoa duela dio.	2
+g3	berridazketa	gipuzkoa	prem21	40 urte pasata ere 'Alien' pelikula asko ikusten da oraindik	Duela lau hamarkada baino gehiago egin zen 'Alien, zortzigarren bidaiaria' filma.	0
+g3	berridazketa	gipuzkoa	prem21	40 urte pasata ere 'Alien' pelikula asko ikusten da oraindik	Alien, zortzigarren bidaiaria' filmak ez zuen bereziki kritika onik jaso hasieran.	1
+g3	berridazketa	gipuzkoa	prem21	40 urte pasata ere 'Alien' pelikula asko ikusten da oraindik	Alien, zortzigarren bidaiaria' filma laster estreinatuko da.	2
+g2	dialectal	bizkaia	prem22	Geure biarra askotan gatxe ra, oso gogorra eta oso baltza ixan leike, eta lantzin behin umorea jo bir dou	Gogorra izaten da gure lana behin baino gehiagotan.	0
+g2	dialectal	bizkaia	prem22	Geure biarra askotan gatxe ra, oso gogorra eta oso baltza ixan leike, eta lantzin behin umorea jo bir dou	Lankideen artean harreman ona dugu, nahiz eta batzuetan desadostasun batzuk ere izaten ditugun.	1
+g2	dialectal	bizkaia	prem22	Geure biarra askotan gatxe ra, oso gogorra eta oso baltza ixan leike, eta lantzin behin umorea jo bir dou	Lanean oso serio egon behar izaten dugu beti.	2
+g5	dialectal	gipuzkoa	prem23	Jakiña da osasun sistema publiko batea hurbiltze an eozeiñek aurkituko ula akatsa ta haserretzeko bidia zerbaitekin.	Osasun sistema publikoan akatsak egoten dira.	0
+g5	dialectal	gipuzkoa	prem23	Jakiña da osasun sistema publiko batea hurbiltze an eozeiñek aurkituko ula akatsa ta haserretzeko bidia zerbaitekin.	Osasun sistema publikoko medikuak haserre daude hartu diren neurriekin.	1
+g5	dialectal	gipuzkoa	prem23	Jakiña da osasun sistema publiko batea hurbiltze an eozeiñek aurkituko ula akatsa ta haserretzeko bidia zerbaitekin.	Hemengo osasun sistema publikoa perfektua dela esan daiteke.	2
+s1	dialectal	bizkaia	prem24	Haurraitzik, gende gaztientzako auzo elkartie ezta erakargarridxe.	Auzo elkartera hurbiltzen den jende gehiena heldua da.	0
+s1	dialectal	bizkaia	prem24	Haurraitzik, gende gaztientzako auzo elkartie ezta erakargarridxe.	Auzo elkarteak hogei urte bete zituen iaz.	1
+s1	dialectal	bizkaia	prem24	Haurraitzik, gende gaztientzako auzo elkartie ezta erakargarridxe.	Gazte asko dabil auzo elkartean azken aldian.	2
+s4	dialectal	gipuzkoa	prem25	Foru Aldundiak sortu zun sariya, Antton Abbadie sariya, ondo meezitako laudoriyua izan da.	Merezi zuen Antton Abbadie saria jasotzea.	0
+s4	dialectal	gipuzkoa	prem25	Foru Aldundiak sortu zun sariya, Antton Abbadie sariya, ondo meezitako laudoriyua izan da.	Antton Abbadie sariaz gain beste batzuk ere jaso ditu.	1
+s4	dialectal	gipuzkoa	prem25	Foru Aldundiak sortu zun sariya, Antton Abbadie sariya, ondo meezitako laudoriyua izan da.	Foru Aldundiari Antton Abbadie saria eman zioten.	2
+g6	dialectal	gipuzkoa	prem26	Liburu honetan, beraien adierazpenak eta hizkeraren xehetasunak jaso dia.	Haiek adierazitakoak liburuan jasota geratu dira.	0
+g6	dialectal	gipuzkoa	prem26	Liburu honetan, beraien adierazpenak eta hizkeraren xehetasunak jaso dia.	Liburua idatzi duena pertsona ezaguna da.	1
+g6	dialectal	gipuzkoa	prem26	Liburu honetan, beraien adierazpenak eta hizkeraren xehetasunak jaso dia.	Liburuan ezer gutxi dago hizkerari buruz.	2
+s1	dialectal	bizkaia	prem27	Bertan atatako argazkidxekaz etorkizuneko eraikuntza konparatie interesgarridxe izengo zandan.	Argazkiak atera dira bertan.	0
+s1	dialectal	bizkaia	prem27	Bertan atatako argazkidxekaz etorkizuneko eraikuntza konparatie interesgarridxe izengo zandan.	Etorkizuneko eraikuntza hobea izango da.	1
+s1	dialectal	bizkaia	prem27	Bertan atatako argazkidxekaz etorkizuneko eraikuntza konparatie interesgarridxe izengo zandan.	Aspergarria da eraikuntzak konparatzen aritzea.	2
+g3	berridazketa	gipuzkoa	prem28	Frontoiak 65 leku ditu ezintasun fisikoren bat dutenentzat eta Trinketak 16.	Pilotalekuak eserleku gehiago ditu mugikortasun urriko pertsonentzat Trinketak baino.	0
+g3	berridazketa	gipuzkoa	prem28	Frontoiak 65 leku ditu ezintasun fisikoren bat dutenentzat eta Trinketak 16.	Jende gehiago joan ohi da Pilotalekura partiduak ikustera Trinketara baino.	1
+g3	berridazketa	gipuzkoa	prem28	Frontoiak 65 leku ditu ezintasun fisikoren bat dutenentzat eta Trinketak 16.	Trinketak Pilotalekuak adina eserleku baditu gutxienez mugikortasun urriko pertsonentzat.	2
+s2	dialectal	gipuzkoa	prem29	Donostiko Akuariumen bixita gidatue in berriet urrin.	Urrian Donostian egon nintzen.	0
+s2	dialectal	gipuzkoa	prem29	Donostiko Akuariumen bixita gidatue in berriet urrin.	Akuariumean hiru aldiz egon naiz guztira.	1
+s2	dialectal	gipuzkoa	prem29	Donostiko Akuariumen bixita gidatue in berriet urrin.	Udazken osoan Akuariumera joan gabe egon naiz.	2
+s2	dialectal	gipuzkoa	prem30	Aldaketa baten sartuta gaude ordea ta tarten hizkuntza irizpiden berrikuspenen e bai.	Besteak beste, hizkuntza irizpideak berrikusten ari gara.	0
+s2	dialectal	gipuzkoa	prem30	Aldaketa baten sartuta gaude ordea ta tarten hizkuntza irizpiden berrikuspenen e bai.	Aldaketaren helburu nagusia hizkuntza gehiago ikasteko aukera erraztea da.	1
+s2	dialectal	gipuzkoa	prem30	Aldaketa baten sartuta gaude ordea ta tarten hizkuntza irizpiden berrikuspenen e bai.	Aldaketa batzuk egiteko asmoa genuela zirudien, baina azkenean berdin jarraitzea erabaki dugu.	2
+g1	dialectal	bizkaia	prem31	Iluntasunian sortu dira gure burmuinak gobernetan dabezan kondaira interesgarrienak.	Gure burmuineko kondaira interesgarrienak iluntasunean sortuak dira.	0
+g1	dialectal	bizkaia	prem31	Iluntasunian sortu dira gure burmuinak gobernetan dabezan kondaira interesgarrienak.	Ezin dugu jakin nondik datozen kondaira interesgarri guztiak.	1
+g1	dialectal	bizkaia	prem31	Iluntasunian sortu dira gure burmuinak gobernetan dabezan kondaira interesgarrienak.	Gure burmuineko kondaira interesgarri guztiak argitan sortzen dira.	2
+g6	dialectal	gipuzkoa	prem32	Lehenengo egunian hiru taldekin topatu ginen; bakarra zan euskaraz.	Lehen egunean topo egindako taldeen herena euskaraz zen.	0
+g6	dialectal	gipuzkoa	prem32	Lehenengo egunian hiru taldekin topatu ginen; bakarra zan euskaraz.	Lehen eguneko taldeak oso heterogeneoak ziren, adin eta kultura ezberdinetako jendea zegoen.	1
+g6	dialectal	gipuzkoa	prem32	Lehenengo egunian hiru taldekin topatu ginen; bakarra zan euskaraz.	Lehen egunean topatutako talde gehienak euskaraz ziren.	2
+g7	dialectal	gipuzkoa	prem33	Donostin gaztelerazko ikastarotan ume asko ibiltzen da.	Donostian gurasoek ume asko gaztelaniazko ikastaroetara eramaten dituzte.	0
+g7	dialectal	gipuzkoa	prem33	Donostin gaztelerazko ikastarotan ume asko ibiltzen da.	Donostian haur ikastaroak arratsaldeetan dira.	1
+g7	dialectal	gipuzkoa	prem33	Donostin gaztelerazko ikastarotan ume asko ibiltzen da.	Donostian gaztelaniazko ikastaroak hutsik daude.	2
+g6	dialectal	gipuzkoa	prem34	Billetea errekuperatzeko, interneten zure espedientea sartu behar zea.	Egoitza elektronikoan zure espedientera sartuz berreskuratu dezakezu bidaia-txartela.	0
+g6	dialectal	gipuzkoa	prem34	Billetea errekuperatzeko, interneten zure espedientea sartu behar zea.	Egoitza elektronikoko zure espedientera sartu eta astebeteko tartean berreskuratuko duzu bidaia-txartela.	1
+g6	dialectal	gipuzkoa	prem34	Billetea errekuperatzeko, interneten zure espedientea sartu behar zea.	Bidaia-txartela berreskuratzeko telefonoz deitzearekin nahikoa da.	2
+g4	dialectal	nafarroa	prem35	Oreka eta botekin trebezia irabaztegeko ongi etorriko zaio ikastaroa ittea.	Ikastaroari esker oreka hobetu eta botekin trebezia irabazi du.	0
+g4	dialectal	nafarroa	prem35	Oreka eta botekin trebezia irabaztegeko ongi etorriko zaio ikastaroa ittea.	Ikastaroari esker elastikotasuna asko hobetu du.	1
+g4	dialectal	nafarroa	prem35	Oreka eta botekin trebezia irabaztegeko ongi etorriko zaio ikastaroa ittea.	Ikastaroa egiteak ez dio ezertarako balio izan.	2
+s1	dialectal	bizkaia	prem36	Bidxok 60 urte eitziar gauzela, lehen ikusten ez genduzan gauza askori kasu eitzen hasi gara, osasuneri, gero da sarridxau hiltzen dizen laguneri.	61 urte baino gutxiago dauzkagu biok.	0
+s1	dialectal	bizkaia	prem36	Bidxok 60 urte eitziar gauzela, lehen ikusten ez genduzan gauza askori kasu eitzen hasi gara, osasuneri, gero da sarridxau hiltzen dizen laguneri.	60 urteren atarian hobe da iraganari ez erreparatzea.	1
+s1	dialectal	bizkaia	prem36	Bidxok 60 urte eitziar gauzela, lehen ikusten ez genduzan gauza askori kasu eitzen hasi gara, osasuneri, gero da sarridxau hiltzen dizen laguneri.	Adinean gora egiteak ez du osasunaren eta heriotzaren inguruko gure ikuspegia aldatu.	2
+g3	berridazketa	gipuzkoa	prem37	Zozketa egin bezainlaister, plazak adjudikatzen dira.	Plazak zozketa bidez esleitzen dira.	0
+g3	berridazketa	gipuzkoa	prem37	Zozketa egin bezainlaister, plazak adjudikatzen dira.	Plazak adjudikatzeko zozketa informatikoki egiten da.	1
+g3	berridazketa	gipuzkoa	prem37	Zozketa egin bezainlaister, plazak adjudikatzen dira.	Plazak zozketa egin eta bi astetara adjudikatzen dira.	2
+g5	dialectal	gipuzkoa	prem38	Lanbateko ekitaldia leuna ta politta izan tzan.	Larunbatekoa ekitaldi atsegina izan zen.	0
+g5	dialectal	gipuzkoa	prem38	Lanbateko ekitaldia leuna ta politta izan tzan.	Larunbateko ekitaldia etxetik ikusi nuen.	1
+g5	dialectal	gipuzkoa	prem38	Lanbateko ekitaldia leuna ta politta izan tzan.	Larunbateko ekitaldia ez zen nire gustukoa izan, gogortasuna falta zitzaion.	2
+g6	dialectal	gipuzkoa	prem39	Maitasun erromantikoa sistema patriarkalak bizirik jarraitzeko in duten asmakizuna da.	Sistema patriarkalak bizirik iraun dezan erabiltzen da maitasun erromantikoa.	0
+g6	dialectal	gipuzkoa	prem39	Maitasun erromantikoa sistema patriarkalak bizirik jarraitzeko in duten asmakizuna da.	Sistema patriarkalak biziraun dezan hainbat dispositibo daude.	1
+g6	dialectal	gipuzkoa	prem39	Maitasun erromantikoa sistema patriarkalak bizirik jarraitzeko in duten asmakizuna da.	Sistema patriarkala maitasun erromantikoaren biziraupena bermatzeko dispositiboa da.	2
+g4	dialectal	nafarroa	prem40	46 urte zittun ta derrepenteko heriotzak eaman zun gure ondotik.	46 urterekin hil zen bat-batean.	0
+g4	dialectal	nafarroa	prem40	46 urte zittun ta derrepenteko heriotzak eaman zun gure ondotik.	Bizitza zoriontsua izan zuen.	1
+g4	dialectal	nafarroa	prem40	46 urte zittun ta derrepenteko heriotzak eaman zun gure ondotik.	Gaixotasun luze batek hil zuen.	2
+g7	dialectal	gipuzkoa	prem41	Aurreko urten 15 pelikula bikoiztu zitun euskera Zinema Euskaraz programak, ta 2017a martxa onen hasi du.	Zinema Euskaraz programak filmak euskarara bikoizten ditu.	0
+g7	dialectal	gipuzkoa	prem41	Aurreko urten 15 pelikula bikoiztu zitun euskera Zinema Euskaraz programak, ta 2017a martxa onen hasi du.	Zinema Euskaraz programak eginiko bikoizketa guztiak gaztelaniatik euskarara izan dira.	1
+g7	dialectal	gipuzkoa	prem41	Aurreko urten 15 pelikula bikoiztu zitun euskera Zinema Euskaraz programak, ta 2017a martxa onen hasi du.	Badirudi Zinema Euskaraz programak oso film gutxi bikoiztuko dituela 2017an ere.	2
+g5	dialectal	gipuzkoa	prem42	Aurreko Bilboko Okupazio Bulegoak lau urte bete zitun.	Bilboko Okupazio Bulegoak laugarren urteurrena ospatu zuen.	0
+g5	dialectal	gipuzkoa	prem42	Aurreko Bilboko Okupazio Bulegoak lau urte bete zitun.	Bilboko Okupazio Bulegoak langile berriak kontratatuko ditu datorren hilabetean.	1
+g5	dialectal	gipuzkoa	prem42	Aurreko Bilboko Okupazio Bulegoak lau urte bete zitun.	Bi urte igaro dira Bilboko Okupazio Bulegoak itxi zuenetik.	2
+s3	dialectal	bizkaia	prem43	Getaixan ni bertan bixinitxanin baño lau aldiz geixa hasire kulturako eskaintzi.	Getarian gero eta kultur eskaintza gehiago dago.	0
+s3	dialectal	bizkaia	prem43	Getaixan ni bertan bixinitxanin baño lau aldiz geixa hasire kulturako eskaintzi.	Getariako kultur eskaintzaren laurdena antzerkia da.	1
+s3	dialectal	bizkaia	prem43	Getaixan ni bertan bixinitxanin baño lau aldiz geixa hasire kulturako eskaintzi.	Lehen Getarian, bertan bizi ez nintzenean, kultur eskaintza handiagoa zegoen.	2
+g3	dialectal	gipuzkoa	prem44	Paperean eta digitalean aurkeztu behar dira, ahal dala.	Formatu digitalean bakarrik aurkeztuko dira.	2
+g3	dialectal	gipuzkoa	prem44	Paperean eta digitalean aurkeztu behar dira, ahal dala.	Paperean eta formatu digitalean aurkeztuko dira.	0
+g3	dialectal	gipuzkoa	prem44	Paperean eta digitalean aurkeztu behar dira, ahal dala.	Paperean hurrengo astean aurkeztuko dira.	1
+g8	toka	gipuzkoa	prem45	Diseinatzaile eta liburu ilustratzaile oparo eta puntakua izan arren, komikigintzari egindako ekarpena ez dek txikiyago izan.	Argitaratu berri duen komiki bildumak arrakasta handia izan du adin txikikoen artean.	1
+g8	toka	gipuzkoa	prem45	Diseinatzaile eta liburu ilustratzaile oparo eta puntakua izan arren, komikigintzari egindako ekarpena ez dek txikiyago izan.	Komikilaria da eta batzuetan ilustrazioak egiten ditu.	2
+g8	toka	gipuzkoa	prem45	Diseinatzaile eta liburu ilustratzaile oparo eta puntakua izan arren, komikigintzari egindako ekarpena ez dek txikiyago izan.	Komikigintzari ere ekarpen handia egin dio.	0
+g7	dialectal	gipuzkoa	prem46	Artxandako Funikularra, S.A. den-dena Bilboko udalan merkataritza-sozietate bat da.	Bilboko Udala Artxandako Funikularraren jabea da.	0
+g7	dialectal	gipuzkoa	prem46	Artxandako Funikularra, S.A. den-dena Bilboko udalan merkataritza-sozietate bat da.	Bilboko Udalak parte hartzeren bat du Artxandako Funikularrean.	2
+g7	dialectal	gipuzkoa	prem46	Artxandako Funikularra, S.A. den-dena Bilboko udalan merkataritza-sozietate bat da.	Bilboko Udalaren ustiakuntzako aurrekontuak merkataritza-sozietateak egiten dituen jarduera guztietatik eratorritakoak biltzen ditu.	1
+g8	dialectal	gipuzkoa	prem47	Gipuzkoako kostaldian bale asko ibili zian garai batian, baina 4 bale ezagun aipatzen ditu Xabier Alberdi historialariyak Euskadi Irratiyan egindako elkarrizketan.	Gipuzkoako kostaldean bizi ziren gainerako baleak beste kostalde batzuetan ere bizi zirela aipatu du Xabier Alberdik.	1
+g8	dialectal	gipuzkoa	prem47	Gipuzkoako kostaldian bale asko ibili zian garai batian, baina 4 bale ezagun aipatzen ditu Xabier Alberdi historialariyak Euskadi Irratiyan egindako elkarrizketan.	Xabier Alberdi historialaria da eta ondo ezagutzen ditu inguruko itsasoetako baleak.	0
+g8	dialectal	gipuzkoa	prem47	Gipuzkoako kostaldian bale asko ibili zian garai batian, baina 4 bale ezagun aipatzen ditu Xabier Alberdi historialariyak Euskadi Irratiyan egindako elkarrizketan.	Xabier Alberdik, Euskadi Irratiko elkarrizketan, Gipuzkoako kostaldean sekula ez dela balearik ibili aipatzen du.	2
+g2	dialectal	bizkaia	prem48	Ulia mendixan eon gaz aspaldiko partez	Urteak dira ez garela mendian egon.	2
+g2	dialectal	bizkaia	prem48	Ulia mendixan eon gaz aspaldiko partez	Orain dela asko ez ginela Ulia mendira joaten.	0
+g2	dialectal	bizkaia	prem48	Ulia mendixan eon gaz aspaldiko partez	Ulia mendia oso polita iruditu zaigu.	1
+g5	dialectal	gipuzkoa	prem49	Zerbitzu-enpresako erakiñ nagusiak 19 modulu azka.	Zerbitzu-enpresentzako eraikin nagusiak 19 modulu eta hiru pisu ditu.	1
+g5	dialectal	gipuzkoa	prem49	Zerbitzu-enpresako erakiñ nagusiak 19 modulu azka.	Zerbitzu-enpresentzako eraikin nagusiak moduluak izan ditzake, baina ez da nahitaezkoa.	2
+g5	dialectal	gipuzkoa	prem49	Zerbitzu-enpresako erakiñ nagusiak 19 modulu azka.	Zerbitzu-enpresentzako eraikin nagusia 19 moduluk osatzen dute.	0
+g8	toka	gipuzkoa	prem50	Europar Batasunak Uspace izeneko ordenantza bat ari dek martxan jartzen, automatizatutako dronantzat aire eremu baimenduak sortzeko.	Uspace ordenantzak automatizatutako dronentzat aire eremu baimenduak sortuko ditu.	0
+g8	toka	gipuzkoa	prem50	Europar Batasunak Uspace izeneko ordenantza bat ari dek martxan jartzen, automatizatutako dronantzat aire eremu baimenduak sortzeko.	Europar Batasunean aireko dron automatizatuak debekatuko dituen ordenantza bat sartuko da indarrean laster.	2
+g8	toka	gipuzkoa	prem50	Europar Batasunak Uspace izeneko ordenantza bat ari dek martxan jartzen, automatizatutako dronantzat aire eremu baimenduak sortzeko.	Uspace ordenantza 2030ean jarriko da martxan.	1
+g3	dialectal	gipuzkoa	prem51	Dublinen izan degun aterrizajea oso berdurgarria izan da, pila bat mugitu da abioia, batetik bestea.	Dublingo luhartzean bidaiariak beldurrez garrasika hasi dira.	1
+g3	dialectal	gipuzkoa	prem51	Dublinen izan degun aterrizajea oso berdurgarria izan da, pila bat mugitu da abioia, batetik bestea.	Dublingo lur-hartzea oso-oso deserosoa izan da, asko mugitu da hegazkina, alde batetik bestera.	0
+g3	dialectal	gipuzkoa	prem51	Dublinen izan degun aterrizajea oso berdurgarria izan da, pila bat mugitu da abioia, batetik bestea.	Dublingo lur-hartzeak beti izaten dira oso lasaiak, turbulentziarik gabeak.	2
+s1	dialectal	bizkaia	prem52	Jakiñe da Joxan Goikoetxeak Xabier Letegaz harreman istue okitzen zandauela, geidxenbat beran biziko azkan urtitan.	Xabier Letek eta Joxan Goikoetxeak gaztetan izan zuten harreman handiena.	2
+s1	dialectal	bizkaia	prem52	Jakiñe da Joxan Goikoetxeak Xabier Letegaz harreman istue okitzen zandauela, geidxenbat beran biziko azkan urtitan.	Xabier Letek eta Joxan Goikoetxeak harreman handia izan zuten.	0
+s1	dialectal	bizkaia	prem52	Jakiñe da Joxan Goikoetxeak Xabier Letegaz harreman istue okitzen zandauela, geidxenbat beran biziko azkan urtitan.	Xabier Lete eta Joxan Goikoetxea adinkideak dira.	1
+g3	berridazketa	gipuzkoa	prem53	Arriaga antzokian Garai Zekenak antzerkia aurkeztu dute. Henrik Ibsenen klasiko batean oinarrituta dago	Arriaga Bilboko antzokiak aurkeztutako Garai Zekenak antzezlana ikusgarria da.	1
+g3	berridazketa	gipuzkoa	prem53	Arriaga antzokian Garai Zekenak antzerkia aurkeztu dute. Henrik Ibsenen klasiko batean oinarrituta dago	Arriaga Bilboko antzokiak aurkeztuko duen Garai Zekenak antzezlana Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarritzen da.	2
+g3	berridazketa	gipuzkoa	prem53	Arriaga antzokian Garai Zekenak antzerkia aurkeztu dute. Henrik Ibsenen klasiko batean oinarrituta dago	Garai Zekenak antzezlana Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarritzen da.	0
+g2	dialectal	bizkaia	prem54	Zapatun, urrixan 31n, Billurrezko Zinemaldiko pelikula bat ikustea juteko inbitaziñoi jaso gendun	Beldurrezko Zinemaldiko pelikula bat ikustera gonbidatu gintuzten.	0
+g2	dialectal	bizkaia	prem54	Zapatun, urrixan 31n, Billurrezko Zinemaldiko pelikula bat ikustea juteko inbitaziñoi jaso gendun	Larunbatean Beldurrezko Zinemaldiko bi pelikula ikusi genituen.	1
+g2	dialectal	bizkaia	prem54	Zapatun, urrixan 31n, Billurrezko Zinemaldiko pelikula bat ikustea juteko inbitaziñoi jaso gendun	Beldurrezko Zinemaldiko pelikula bat ikustera gonbidatu genuen.	2
+g8	toka	gipuzkoa	prem55	"Zarautzan sortu berri deken jaialdia dek Adarretatik, udako musika festibaletan tokitxo bat egin guran datorrena, eta ""bazterreko musikak erdigunera"" ekartzia helburu zekakena."	Bazterreko musika ikustarazten duen udako musika jaialdi berria sortu dute Zarautzen: Adarretatik. 	0
+g8	toka	gipuzkoa	prem55	"Zarautzan sortu berri deken jaialdia dek Adarretatik, udako musika festibaletan tokitxo bat egin guran datorrena, eta ""bazterreko musikak erdigunera"" ekartzia helburu zekakena."	Adarretatik jaialdiak jendetza bildu zuen Zarauzko kaleetan.	1
+g8	toka	gipuzkoa	prem55	"Zarautzan sortu berri deken jaialdia dek Adarretatik, udako musika festibaletan tokitxo bat egin guran datorrena, eta ""bazterreko musikak erdigunera"" ekartzia helburu zekakena."	"Zarauzko Adarretatik udako musika jaialdiak urteak daramatza ""bazterreko musikak erdigunera"" ekartzeko lana egiten."	2
+g2	dialectal	bizkaia	prem56	Europako Elkartik gogor salatu dabe Goioagan aurkako auzixe	Europako elkarteak ez daude ados Goioagaren aurkako auziarekin.	0
+g2	dialectal	bizkaia	prem56	Europako Elkartik gogor salatu dabe Goioagan aurkako auzixe	Goioagaren aurkako auziak salaketa ugari izan ditu.	1
+g2	dialectal	bizkaia	prem56	Europako Elkartik gogor salatu dabe Goioagan aurkako auzixe	Goioagaren aurkako auziak gogor salatu ditu Europako elkarteak.	2
+g6	dialectal	gipuzkoa	prem57	Solte taldeak 'IXA' azken diskan Eraldatutako mundua abestiakin bideoklip innobatzailea prestatu du.	Solte taldearen azken diskoa 'IXA' da.	0
+g6	dialectal	gipuzkoa	prem57	Solte taldeak 'IXA' azken diskan Eraldatutako mundua abestiakin bideoklip innobatzailea prestatu du.	Solte musika taldeak erritmo biziak erabiltzen ditu, horren adierazle da 'Eraldatutako mundua' kanta.	1
+g6	dialectal	gipuzkoa	prem57	Solte taldeak 'IXA' azken diskan Eraldatutako mundua abestiakin bideoklip innobatzailea prestatu du.	Solte muska taldearen lehen diskoa da 'IXA'.	2
+g1	dialectal	bizkaia	prem58	Langile askok eztakite ze dagoen ondo o txarto, eztakite nola jokatu.	Ongia eta gaizkiaren artean bereiztea ez da erraza langile askorentzat.	0
+g1	dialectal	bizkaia	prem58	Langile askok eztakite ze dagoen ondo o txarto, eztakite nola jokatu.	Langileei asko eragiten die nola jokatu ez jakiteak.	1
+g1	dialectal	bizkaia	prem58	Langile askok eztakite ze dagoen ondo o txarto, eztakite nola jokatu.	Langileek ez daukate zalantzarik, beti dakite nola jokatu behar duten.	2
+s4	dialectal	gipuzkoa	prem59	Leku gomendagarri bat ezautu genun aurreko asteburun. Famili girun sortutako ta ikutu hego-amerikarra dun etxe multzo txiki bat da.	Aurreko asteburuan ukitu hego-amerikarra duen etxe multzo txiki batean egon ginen.	0
+s4	dialectal	gipuzkoa	prem59	Leku gomendagarri bat ezautu genun aurreko asteburun. Famili girun sortutako ta ikutu hego-amerikarra dun etxe multzo txiki bat da.	Aurreko asteburuan ezagututako etxe multzo txikia izekok gomendatu zidan, familia giroan sortutakoa da eta ukitu hego-amerikarra dauka. 	1
+s4	dialectal	gipuzkoa	prem59	Leku gomendagarri bat ezautu genun aurreko asteburun. Famili girun sortutako ta ikutu hego-amerikarra dun etxe multzo txiki bat da.	Aurreko asteburuan ezagututako etxe multzo txikia ez da gomendatzeko modukoa.	2
+s1	dialectal	bizkaia	prem60	Irabazlieri informatika da marrazketa materiala emongo datzoie, da komiki irabazlie Mahatserriko BERTON aldizkaridxen publikeko da.	Sarituek informatika eta marrazketa materiala irabaziko dute.	0
+s1	dialectal	bizkaia	prem60	Irabazlieri informatika da marrazketa materiala emongo datzoie, da komiki irabazlie Mahatserriko BERTON aldizkaridxen publikeko da.	Parte-hartzaile bakoitzak komiki bakarra aurkeztu ahal izango du.	1
+s1	dialectal	bizkaia	prem60	Irabazlieri informatika da marrazketa materiala emongo datzoie, da komiki irabazlie Mahatserriko BERTON aldizkaridxen publikeko da.	Komiki sarituak Mahatserriko BERTON aldizkarian argitaratuko dira. 	2
+g1	dialectal	bizkaia	prem61	"Zea Maysek ""Harro"", hareen zortzigarren lana atarako dabe zemendiaren 3an."	Zea Mays taldeak disko berri bat argitaratuko du.	0
+g1	dialectal	bizkaia	prem61	"Zea Maysek ""Harro"", hareen zortzigarren lana atarako dabe zemendiaren 3an."	Bost kidek osatzen dute Zea Mays taldea.	1
+g1	dialectal	bizkaia	prem61	"Zea Maysek ""Harro"", hareen zortzigarren lana atarako dabe zemendiaren 3an."	Zea Mays taldeak ez du disko bat bera ere argitaratu.	2
+s2	dialectal	gipuzkoa	prem62	Arrantzale tripulazio berdiñek irabazi zuen kontxako aurreneko bandera Orioako.	Oriok eskuratu zuen kontxako lehen bandera.	0
+s2	dialectal	gipuzkoa	prem62	Arrantzale tripulazio berdiñek irabazi zuen kontxako aurreneko bandera Orioako.	Orioko tripulazioak horiz jantzi ohi da.	1
+s2	dialectal	gipuzkoa	prem62	Arrantzale tripulazio berdiñek irabazi zuen kontxako aurreneko bandera Orioako.	Hondarribiak irabazi zuen kontxako lehen bandera.	2
+g2	dialectal	bizkaia	prem63	Seme-alabakin eon naz Erroman	Duela gutxi Italian egon naiz.	0
+g2	dialectal	bizkaia	prem63	Seme-alabakin eon naz Erroman	Nere seme-alabek asko maite naute.	1
+g2	dialectal	bizkaia	prem63	Seme-alabakin eon naz Erroman	Ez naiz inoiz Italian izan.	2
+g3	berridazketa	gipuzkoa	prem64	"Xabier Leteren ""Gabon, Txirrita"" antzerkia 1982an estrenatu zen."	Gabon Txirrita antzerki obra baten izena da.	0
+g3	berridazketa	gipuzkoa	prem64	"Xabier Leteren ""Gabon, Txirrita"" antzerkia 1982an estrenatu zen."	Xabier Lete abeslari bikaina zen.	1
+g3	berridazketa	gipuzkoa	prem64	"Xabier Leteren ""Gabon, Txirrita"" antzerkia 1982an estrenatu zen."	Xabier Letek ez zuen antzerki obrarik idatzi.	2
+g2	dialectal	bizkaia	prem65	"On dala gitxi ""ORM Elurretako Erresuman"" ata rau, eta laster ""Barman Lego filma"" estrenako rau"	Geroz eta jende gutxiago joaten da filmak ikustera.	1
+g2	dialectal	bizkaia	prem65	"On dala gitxi ""ORM Elurretako Erresuman"" ata rau, eta laster ""Barman Lego filma"" estrenako rau"	ORM Elurretako Erresuman pantailaratuko den azken filma izango da.	2
+g2	dialectal	bizkaia	prem65	"On dala gitxi ""ORM Elurretako Erresuman"" ata rau, eta laster ""Barman Lego filma"" estrenako rau"	Animazio-filmak euskaratu ohi dira.	0
+g1	dialectal	bizkaia	prem66	Amazonek eskeintzen dau adimen artifiziala eskoletarako ta bere hodeia ta Alexa echo dot ta Alexa echo plus bebai.	Amazonek produktu ugari ditu adimen artifizialaren inguruan.	0
+g1	dialectal	bizkaia	prem66	Amazonek eskeintzen dau adimen artifiziala eskoletarako ta bere hodeia ta Alexa echo dot ta Alexa echo plus bebai.	Eskoletara zuzendutako adimen artifizialeko produkturik ez dago.	2
+g1	dialectal	bizkaia	prem66	Amazonek eskeintzen dau adimen artifiziala eskoletarako ta bere hodeia ta Alexa echo dot ta Alexa echo plus bebai.	Amazonen produktuak merkeak izaten dira.	1
+g7	dialectal	gipuzkoa	prem67	Deustoko Unibertsitatiak bere momentun ateatako euskera ikasteko metodua interesgarriya da euskeran lehenengo pausuak emateko	Deustuko Unibertsitateak hainbat eskola eta fakultate ditu.	1
+g7	dialectal	gipuzkoa	prem67	Deustoko Unibertsitatiak bere momentun ateatako euskera ikasteko metodua interesgarriya da euskeran lehenengo pausuak emateko	Deustuko Unibertsitateak metodo bat garatu du euskara ikasteko.	0
+g7	dialectal	gipuzkoa	prem67	Deustoko Unibertsitatiak bere momentun ateatako euskera ikasteko metodua interesgarriya da euskeran lehenengo pausuak emateko	Deustuko Unibertsitateak gaztelera ikasteko materiala garatu du soilik.	2
+s2	dialectal	gipuzkoa	prem68	Zure euskera malla zein dan jakin nahi bazenu, hortako aukera e emateu sarek.	Norberaren euskara maila jakiteko elkarrizketa presentziala egin behar da nahitaez.	2
+s2	dialectal	gipuzkoa	prem68	Zure euskera malla zein dan jakin nahi bazenu, hortako aukera e emateu sarek.	Aukera dago norberaren euskara maila zein den neurtzeko.	0
+s2	dialectal	gipuzkoa	prem68	Zure euskera malla zein dan jakin nahi bazenu, hortako aukera e emateu sarek.	Euskararen erabilpen maila txikitzen ari da azken boladan.	1
+s2	dialectal	gipuzkoa	prem69	Ziurtagirik egoitza elektronikon titularran identifikazioa jasotzeu, ta trasto seguru batekin eo antzeko zeozerrekin bialtzea.	Ez dago teknika bakarra titularraren identifikazioa ziurtatzeko.	1
+s2	dialectal	gipuzkoa	prem69	Ziurtagirik egoitza elektronikon titularran identifikazioa jasotzeu, ta trasto seguru batekin eo antzeko zeozerrekin bialtzea.	Ziurtagiriak titularraren informazioa gordina igortzen du, zifratu gabe.	2
+s2	dialectal	gipuzkoa	prem69	Ziurtagirik egoitza elektronikon titularran identifikazioa jasotzeu, ta trasto seguru batekin eo antzeko zeozerrekin bialtzea.	Ziurtagiria lagun bakoitzaren identitatea bermatzen saiatzen da.	0
+g6	dialectal	gipuzkoa	prem70	Duela bi aste grazia iten zuen zerbait gaur guztiz pasata egon leike.	Txisteen iraupena mugatua da, ez da betirako.	0
+g6	dialectal	gipuzkoa	prem70	Duela bi aste grazia iten zuen zerbait gaur guztiz pasata egon leike.	Jendeari gustatzen zaio txiste berdinak behin eta berriz entzutea.	2
+g6	dialectal	gipuzkoa	prem70	Duela bi aste grazia iten zuen zerbait gaur guztiz pasata egon leike.	Lagun bati grazia egiten diona beste bati ez zaio gustatzen.	1
+s3	dialectal	bizkaia	prem71	Instalaziñoi modernuk dauzke, danantzako tokixetan bebaldeko wifixe, eta  etenik baiko 24 orduko seguridadeko zerbizixu.	Espazio hori alokatzea oso garestia da.	1
+s3	dialectal	bizkaia	prem71	Instalaziñoi modernuk dauzke, danantzako tokixetan bebaldeko wifixe, eta  etenik baiko 24 orduko seguridadeko zerbizixu.	Internetera konekta zaitezke toki horretara joaten bazara.	0
+s3	dialectal	bizkaia	prem71	Instalaziñoi modernuk dauzke, danantzako tokixetan bebaldeko wifixe, eta  etenik baiko 24 orduko seguridadeko zerbizixu.	Gauean segurtasun-eza nabaria da espazio horretan.	2
+s3	dialectal	bizkaia	prem72	Billur bixkat pasarou ongo hillabetin David Robert Michellek zuzendutako 'It Follows' pelikuliaz..	David Robert Michell zuzendariak komediak egiten ditu soilik.	2
+s3	dialectal	bizkaia	prem72	Billur bixkat pasarou ongo hillabetin David Robert Michellek zuzendutako 'It Follows' pelikuliaz..	It follows' beldurrezko filma da.	0
+s3	dialectal	bizkaia	prem72	Billur bixkat pasarou ongo hillabetin David Robert Michellek zuzendutako 'It Follows' pelikuliaz..	It follows' filma 'It' filmaren jarraipena da.	1
+g3	berridazketa	gipuzkoa	prem73	Beste 5 eraikinek bi solairu dituzte; behekoan industria-moduluak daude, eta goikoan bulegoak.	Eraikinak oso modernoak dira.	1
+g3	berridazketa	gipuzkoa	prem73	Beste 5 eraikinek bi solairu dituzte; behekoan industria-moduluak daude, eta goikoan bulegoak.	Eraikin guztiek solairu bakarra dute.	2
+g3	berridazketa	gipuzkoa	prem73	Beste 5 eraikinek bi solairu dituzte; behekoan industria-moduluak daude, eta goikoan bulegoak.	Eraikinak industriarako prestatuak daude.	0
+g2	dialectal	bizkaia	prem74	Ia korrikalai guztik gexa ibiltxen douen euskeri aurrerantzin!	Korrikalari askok ez dute euskara erabiltzen.	0
+g2	dialectal	bizkaia	prem74	Ia korrikalai guztik gexa ibiltxen douen euskeri aurrerantzin!	Korrika egiten duen orok euskaraz ere egiten du.	2
+g2	dialectal	bizkaia	prem74	Ia korrikalai guztik gexa ibiltxen douen euskeri aurrerantzin!	Korrika egitea osasungarria da oro har.	1
+s4	dialectal	gipuzkoa	prem75	Uaindik badugu gaitasuna iritzi publikoan eragiteko .	Jendeak askotariko iritziak ditu.	1
+s4	dialectal	gipuzkoa	prem75	Uaindik badugu gaitasuna iritzi publikoan eragiteko .	Iritzi publikoa aldatu daiteke.	0
+s4	dialectal	gipuzkoa	prem75	Uaindik badugu gaitasuna iritzi publikoan eragiteko .	Iritzi publikoa finkoa da.	2
+g1	dialectal	bizkaia	prem76	Ikasbil weban kriston pila artikulu, testu, bideo eta audio dauz.	Interneten ezin da testu, bideo eta audiorik aurkitu.	0
+g1	dialectal	bizkaia	prem76	Ikasbil weban kriston pila artikulu, testu, bideo eta audio dauz.	Iskanbil webgunean soilik testua dago.	2
+g1	dialectal	bizkaia	prem76	Ikasbil weban kriston pila artikulu, testu, bideo eta audio dauz.	Iskanbil interneteko webgune ezaguna da.	1
+g4	dialectal	nafarroa	prem77	Egoitza elektronikoaren tramite katalogoan aurkitukozu prozedura, izapide ta zerbitzu bakoitzari buruzko informazio zehatza.	Egoitza elektronikoan sartzea konplexua da oso.	1
+g4	dialectal	nafarroa	prem77	Egoitza elektronikoaren tramite katalogoan aurkitukozu prozedura, izapide ta zerbitzu bakoitzari buruzko informazio zehatza.	Izapidea eta zerbitzuen funtzionamendua azaltzen duen dokumentazioa atzigarri dago.	0
+g4	dialectal	nafarroa	prem77	Egoitza elektronikoaren tramite katalogoan aurkitukozu prozedura, izapide ta zerbitzu bakoitzari buruzko informazio zehatza.	Izapide eta zerbitzuak ikasteko ez da inolako dokumentaziorik behar.	2
+g3	berridazketa	gipuzkoa	prem78	Sondikako Enpresa hortan industria- eta bulego-moduluak daude, 5 eraikinetan banatuta.	Hainbat enpresek dute beren egoitza Sondikan kokatuta.	0
+g3	berridazketa	gipuzkoa	prem78	Sondikako Enpresa hortan industria- eta bulego-moduluak daude, 5 eraikinetan banatuta.	Sondikako Enpresa Zentroa Bizkaiko garrantzitsuenetakoa da.	1
+g3	berridazketa	gipuzkoa	prem78	Sondikako Enpresa hortan industria- eta bulego-moduluak daude, 5 eraikinetan banatuta.	Sondikako Enpresa Zentroak bi eraikin ditu.	2
+g1	dialectal	bizkaia	prem79	Bost persona gara ta gazteena ni naz	Adin desberdineko lagunak gaude taldean.	0
+g1	dialectal	bizkaia	prem79	Bost persona gara ta gazteena ni naz	Musean jolas nahiko bagenu, bostetatik bat kanpo geratuko litzateke.	1
+g1	dialectal	bizkaia	prem79	Bost persona gara ta gazteena ni naz	Bost lagunek urte eta egun berean jaio ginen.	2
+g6	dialectal	gipuzkoa	prem80	Epaileak sei hilabeteko kartzelara zigortu zitun auzoko lau gazte.	Auzoan hainbat gazte daude espetxe-zigorrak jaso dituztenak.	0
+g6	dialectal	gipuzkoa	prem80	Epaileak sei hilabeteko kartzelara zigortu zitun auzoko lau gazte.	Espetxe zigorra bi urte baino txikiagoa denez, lau gazteak ez dira kartzelara sartuko.	1
+g6	dialectal	gipuzkoa	prem80	Epaileak sei hilabeteko kartzelara zigortu zitun auzoko lau gazte.	Epaileak auzoko lau gazteak absolbitu zituen.	2
+g7	dialectal	gipuzkoa	prem81	Miren ta Andrean erlazioa klandestinua izan zan hasieratik, pareja normatibatik kanpo zeolako.	Miren eta Andrea harreman sentimentala dute.	0
+g7	dialectal	gipuzkoa	prem81	Miren ta Andrean erlazioa klandestinua izan zan hasieratik, pareja normatibatik kanpo zeolako.	Erlazio homosexualak normaltasunez bizi behar dira.	1
+g7	dialectal	gipuzkoa	prem81	Miren ta Andrean erlazioa klandestinua izan zan hasieratik, pareja normatibatik kanpo zeolako.	Miren eta Andrearen erlazioa erabat arrunta izan zen.	2
+g4	dialectal	nafarroa	prem82	Nazioarteko festibala izandare, badira kanpoko proposamenak, nahiz ta euskal taldeen presentzia	Festibalak musika zuzenean bizitzeko aukera paregabeak dira.	1
+g4	dialectal	nafarroa	prem82	Nazioarteko festibala izandare, badira kanpoko proposamenak, nahiz ta euskal taldeen presentzia	Festibal honetan talde euskaldun bakarra jo zuen.	2
+g4	dialectal	nafarroa	prem82	Nazioarteko festibala izandare, badira kanpoko proposamenak, nahiz ta euskal taldeen presentzia	Nazioarteko taldeak jotzen dute festibal honetan.	0
+s4	dialectal	gipuzkoa	prem83	Hirugarren urtez segidan, Santutxu Mendizale Taldeak ibillaldi neurtua antolatu du, urrian 20rako, larunbatakin.	Santutxu Mendizale Taldeko ibilaldietara jende ugari azaltzen da.	1
+s4	dialectal	gipuzkoa	prem83	Hirugarren urtez segidan, Santutxu Mendizale Taldeak ibillaldi neurtua antolatu du, urrian 20rako, larunbatakin.	Santutxu Mendizale Taldeak mendi irteerak antolatu ohi ditu.	0
+s4	dialectal	gipuzkoa	prem83	Hirugarren urtez segidan, Santutxu Mendizale Taldeak ibillaldi neurtua antolatu du, urrian 20rako, larunbatakin.	Santutxu Mendizale Taldea iaz osatu zen.	2
+g4	dialectal	nafarroa	prem84	R 'N' R estiloa ta hegoaldeko rocka lantzen dittun letra ta konponketa zainduak daude diskoan	Hegoaldeko rock kantetan gitarrak dira nagusi.	1
+g4	dialectal	nafarroa	prem84	R 'N' R estiloa ta hegoaldeko rocka lantzen dittun letra ta konponketa zainduak daude diskoan	Diskoa osatzen duten kanten estilo nagusia rock dela esan daiteke.	0
+g4	dialectal	nafarroa	prem84	R 'N' R estiloa ta hegoaldeko rocka lantzen dittun letra ta konponketa zainduak daude diskoan	Diskoaren kanta guztiak instrumentalak dira.	2
+g5	dialectal	gipuzkoa	prem85	Guaso batek haurrei argazkik atea ta inbitazio beezia prestatze u 60 haurrei banatzeko.	Haurrek beti ateratzen dira ondo argazkietan.	1
+g5	dialectal	gipuzkoa	prem85	Guaso batek haurrei argazkik atea ta inbitazio beezia prestatze u 60 haurrei banatzeko.	Guraso bati atera diote argazkia haurrek.	2
+g5	dialectal	gipuzkoa	prem85	Guaso batek haurrei argazkik atea ta inbitazio beezia prestatze u 60 haurrei banatzeko.	Haurrek gonbidapen berezia jasoko dute.	0
+g5	dialectal	gipuzkoa	prem86	Mobidatan hamaika laun ientifikatu ta atxilotu zitun Ertzaiñtzak.	Istiluetan parte hartutako lagun guztiak atxilotu zituen Ertzainak.	2
+g5	dialectal	gipuzkoa	prem86	Mobidatan hamaika laun ientifikatu ta atxilotu zitun Ertzaiñtzak.	Atxilotutako jende asko libre geratuko da.	1
+g5	dialectal	gipuzkoa	prem86	Mobidatan hamaika laun ientifikatu ta atxilotu zitun Ertzaiñtzak.	Ertzainak lagun asko atxilotu zituen.	0
+g1	dialectal	bizkaia	prem87	Xabier Lete musikarie ta idazlia izan baño len antzerkiko aktore ibili zan.	Xabier Lete hainbat arlotan ibilitako artista izan zen.	0
+g1	dialectal	bizkaia	prem87	Xabier Lete musikarie ta idazlia izan baño len antzerkiko aktore ibili zan.	Xabier Leteren ahotsa oso atsegina zen.	1
+g1	dialectal	bizkaia	prem87	Xabier Lete musikarie ta idazlia izan baño len antzerkiko aktore ibili zan.	Xabier Letek ez zuen inongo arlo artistikoa landu abesten hasi zen arte.	2
+s4	dialectal	gipuzkoa	prem88	Azken egunin, Logroñora iristeko 3 kilometro bakarrik falta zirenin, Maria la de los Higos-en alaba ezautu nun.	Hainbat egun pasa nituen Logroñoko bidean.	0
+s4	dialectal	gipuzkoa	prem88	Azken egunin, Logroñora iristeko 3 kilometro bakarrik falta zirenin, Maria la de los Higos-en alaba ezautu nun.	Maria de los Higos-en alaba oso jatorra da.	1
+s4	dialectal	gipuzkoa	prem88	Azken egunin, Logroñora iristeko 3 kilometro bakarrik falta zirenin, Maria la de los Higos-en alaba ezautu nun.	Maria de los Higos-en semeak gizonezkoak ziren denak.	2
+g7	dialectal	gipuzkoa	prem89	Earki dakigu ni ez naizela bea bezalako txoria ta bea ez dala jaio leku bati lotuta eoteko.	Izaera desberdin daude, eta bata ez da bestea baino hobea.	1
+g7	dialectal	gipuzkoa	prem89	Earki dakigu ni ez naizela bea bezalako txoria ta bea ez dala jaio leku bati lotuta eoteko.	Bera nahiago du etxean geratu kanpotik bidaiatzen ibili baino.	2
+g7	dialectal	gipuzkoa	prem89	Earki dakigu ni ez naizela bea bezalako txoria ta bea ez dala jaio leku bati lotuta eoteko.	Bion izaera oso desberdina da.	0
+g7	dialectal	gipuzkoa	prem90	Okupazio Bulegoan laugarren urtea ospatuko due urrian 20an.	Datorren urtean Donostian ospatuko dute Okupazio Bulegoaren urteurrena.	1
+g7	dialectal	gipuzkoa	prem90	Okupazio Bulegoan laugarren urtea ospatuko due urrian 20an.	Okupazio Bulegoaren urteurrena udazkenean ospatzen da.	0
+g7	dialectal	gipuzkoa	prem90	Okupazio Bulegoan laugarren urtea ospatuko due urrian 20an.	Okupazio Bulegoaren laugarren urteurrena ospatu zuten iaz.	2
+g3	berridazketa	gipuzkoa	prem91	Guraso edo tutoreek erabakita euskara izango da erabaliko den hizkuntza	Parte-hartzaileek euskaraz hitz egingo dutela erabaki dute guraso eta tutoreek.	0
+g3	berridazketa	gipuzkoa	prem91	Guraso edo tutoreek erabakita euskara izango da erabaliko den hizkuntza	Guraso eta tutoreek erabaki dute euskaraz hitz egingo dutela haurrekin. 	1
+g3	berridazketa	gipuzkoa	prem91	Guraso edo tutoreek erabakita euskara izango da erabaliko den hizkuntza	Guraso eta tutoreek euskaraz hitz egingo dutela erabaki dute parte-hartzaileek.	2
+g4	dialectal	nafarroa	prem92	Lagun Arok Antiguako Benta Berriko sukurtsalen gaztelaniaz bakarrik idatzitako oharra jarri dittu atean bi aldeta	Lagun Arok Antiguako Benta Berriko sukurtsalean jarritako oharrak erdaraz idatzita zeuden.	0
+g4	dialectal	nafarroa	prem92	Lagun Arok Antiguako Benta Berriko sukurtsalen gaztelaniaz bakarrik idatzitako oharra jarri dittu atean bi aldeta	Lagun Arok Antiguako Benta Berriko sukurtsalean jarritako oharrak ondo idatzita zeuden.	1
+g4	dialectal	nafarroa	prem92	Lagun Arok Antiguako Benta Berriko sukurtsalen gaztelaniaz bakarrik idatzitako oharra jarri dittu atean bi aldeta	Lagun Arok Antiguako Benta Berriko sukurtsalean jarritako oharrak ingelesez idatzita zeuden.	2
+s1	dialectal	bizkaia	prem93	Polizi danan torturan salaketak jaso diez, Ertzaintzanak tartien.	Ertzaintzak ere tortura egin duela salatu dute.	0
+s1	dialectal	bizkaia	prem93	Polizi danan torturan salaketak jaso diez, Ertzaintzanak tartien.	Ertzaintzak polizien tortura kasuak salatu ditu.	1
+s1	dialectal	bizkaia	prem93	Polizi danan torturan salaketak jaso diez, Ertzaintzanak tartien.	Ertzaintza tortura salaketetatik libre geratu da.	2
+s3	dialectal	bizkaia	prem94	Madalenak etxeko nire ahiztik aume Jexuxan errezeti errekupera nahi ixan dau.	Amona Jexuxak madalenak egiteko errezeta zeukan.	0
+s3	dialectal	bizkaia	prem94	Madalenak etxeko nire ahiztik aume Jexuxan errezeti errekupera nahi ixan dau.	Madalenak egiteko amona Jexuxak nire ahizparen errezeta berreskuratu nahi izan du.	2
+s3	dialectal	bizkaia	prem94	Madalenak etxeko nire ahiztik aume Jexuxan errezeti errekupera nahi ixan dau.	Nire ahizpari bakarrik Amona Jexuxak egindako madalenak gustatzen zaizkio.	1
+s3	dialectal	bizkaia	prem95	Ezta aurrez aurreko identifikaziñoirik eskatzen BAK aktiba ta bixaltzeko: Interneten bidez etxen da.	Internet bidez eskatu dezakezu BAK aktibatu eta bidal diezazutela.	0
+s3	dialectal	bizkaia	prem95	Ezta aurrez aurreko identifikaziñoirik eskatzen BAK aktiba ta bixaltzeko: Interneten bidez etxen da.	Internet bidez eskatu dezakezu BAK baliogabe diezazutela.	1
+s3	dialectal	bizkaia	prem95	Ezta aurrez aurreko identifikaziñoirik eskatzen BAK aktiba ta bixaltzeko: Interneten bidez etxen da.	Internet bidez eskatu behar duzu BAK aktibatu eta bidal diezazutela.	2
+s2	dialectal	gipuzkoa	prem96	Hiru argazki bakarrik gorde ahal izan dittut	Ez dut lau argazki gordetzeko aukerarik izan.	0
+s2	dialectal	gipuzkoa	prem96	Hiru argazki bakarrik gorde ahal izan dittut	Lau argazki zituen gordeta.	1
+s2	dialectal	gipuzkoa	prem96	Hiru argazki bakarrik gorde ahal izan dittut	Lau argazki bakarrik gordeta dauzkat.	2
+g3	dialectal	gipuzkoa	prem97	Larunbatian, Beldurrezko pelikula bat ikustera gonbidatu gintuzten	Beldurrezko Zinemaldiko pelikula bat ikustera joan ginen.	1
+g3	dialectal	gipuzkoa	prem97	Larunbatian, Beldurrezko pelikula bat ikustera gonbidatu gintuzten	Beldurrezko Zinemaldiko pelikula bat ikusteko gonbidatu gintuzten.	0
+g3	dialectal	gipuzkoa	prem97	Larunbatian, Beldurrezko pelikula bat ikustera gonbidatu gintuzten	Beldurrezko Zinemaldiko pelikula batean parte hartzeko gonbidatu gintuzten.	2
+g8	toka	gipuzkoa	prem98	Euskadiko Kutxak berriro ere errenta-aitorpena egiteko euskararik ez dakin langile bat ipini dik Antiguako Matia kaleko sukurtsalian, Donostian.	Euskadiko Kutxako Antiguako Matia kaleko sukurtsaleko langileek erdaraz bakarrik hitz egiten dute.	1
+g8	toka	gipuzkoa	prem98	Euskadiko Kutxak berriro ere errenta-aitorpena egiteko euskararik ez dakin langile bat ipini dik Antiguako Matia kaleko sukurtsalian, Donostian.	Euskadiko Kutxako Antiguako Matia kaleko sukurtsaleko errenta-aitorpena egiten laguntzen duen langilea erdaldun hutsa da.	0
+g8	toka	gipuzkoa	prem98	Euskadiko Kutxak berriro ere errenta-aitorpena egiteko euskararik ez dakin langile bat ipini dik Antiguako Matia kaleko sukurtsalian, Donostian.	Euskadiko Kutxako Antiguako Matia kaleko sukurtsaleko langileek euskaraz bakarrik hitz egiten dute.	2
+g1	dialectal	bizkaia	prem99	Erizainen arteko umoriak eroangarriago iten dau dana.	Erizainek bere artean bromak egiten badituzte, dena hobeto eramaten da.	0
+g1	dialectal	bizkaia	prem99	Erizainen arteko umoriak eroangarriago iten dau dana.	Erizainak umore onez egoteak asko laguntzen die pazienteei.	1
+g1	dialectal	bizkaia	prem99	Erizainen arteko umoriak eroangarriago iten dau dana.	Erizainek umorea erabiltzeko debekua dute.	2
+g4	dialectal	nafarroa	prem100	Pandemiak ekarritako begi bistako kalteez gain, gertatutakoak ikaragarri nabarmendu ta azalaretu dittu Europar Batasunaren ahuleziak ta, besteak beste, erakutsi dittu Europako berrikuntza teknologikoen beherakada ta lidergo industrialik ez dela.	Gertatutakoak garbi utzi du, pandemiak eragindako kalteez bestealde, Europar Batasuna ahula dela eta ez dela berrikuntza teknologiko eta industrialaren munduko liderra.	0
+g4	dialectal	nafarroa	prem100	Pandemiak ekarritako begi bistako kalteez gain, gertatutakoak ikaragarri nabarmendu ta azalaretu dittu Europar Batasunaren ahuleziak ta, besteak beste, erakutsi dittu Europako berrikuntza teknologikoen beherakada ta lidergo industrialik ez dela.	Gertatutakoak garbi utzi du, pandemiak eragindako kalteak direla medio, Europar Batasunak munduan berrikuntza teknologiko eta industrialaren lidergoa berreskuratu behar duela.	1
+g4	dialectal	nafarroa	prem100	Pandemiak ekarritako begi bistako kalteez gain, gertatutakoak ikaragarri nabarmendu ta azalaretu dittu Europar Batasunaren ahuleziak ta, besteak beste, erakutsi dittu Europako berrikuntza teknologikoen beherakada ta lidergo industrialik ez dela.	Gertatutakoak garbi utzi du, pandemiak eragindako kalteez gain, Europar Batasuna ahula dela baina berrikuntza teknologiko eta industrialaren munduko liderra dela.	2
+g4	dialectal	nafarroa	prem101	Plazik eskuratzen ez duen pertsonak itxaronzerrendan sartzen die, zozketaren orden beren	Plazarik lortu ezean, itxaronzerrendan sartuko zara, zozketaren ordena mantenduz.	0
+g4	dialectal	nafarroa	prem101	Plazik eskuratzen ez duen pertsonak itxaronzerrendan sartzen die, zozketaren orden beren	Plaza eskuratzen ez duten pertsonek zozketa batean parte hartzeko aukera dute.	1
+g4	dialectal	nafarroa	prem101	Plazik eskuratzen ez duen pertsonak itxaronzerrendan sartzen die, zozketaren orden beren	Plazarik eskuratzen ez baduzu, zozketa batean sartuko zara, itxaronzerrendako hurrenkera erabikitzeko.	2
+s1	dialectal	bizkaia	prem102	Ezpadun geure burue irudikatzen, irudikatu eingo gaitzuie.	Ez bagara irudikatzen, guri buruzko irudikapenak existitzeari utziko dio.	2
+s1	dialectal	bizkaia	prem102	Ezpadun geure burue irudikatzen, irudikatu eingo gaitzuie.	Geuk geure burua irudikatzen ez badugu, besteek irudikatuko gaituzte.	0
+s1	dialectal	bizkaia	prem102	Ezpadun geure burue irudikatzen, irudikatu eingo gaitzuie.	Ez bagara irudikatzen, guri buruzko iritzi okerrak ugarituko dira.	1
+g4	dialectal	nafarroa	prem103	Eusko Jaurlaritzak nabarmendu du 2003an hasi zela Ertzaintza Tratu Txarren Prebentziorako Protokoloa jartzen atxilotuen lege-bermea indatzeko	Ertzaintza Tratu Txarren Prebentziorako Protokoloa 2003tik dago indarrean atxilotuen eskubideak bermatzeko, Eusko Jaurlaritzaren arabera.	0
+g4	dialectal	nafarroa	prem103	Eusko Jaurlaritzak nabarmendu du 2003an hasi zela Ertzaintza Tratu Txarren Prebentziorako Protokoloa jartzen atxilotuen lege-bermea indatzeko	Eusko Jaurlaritza 2003ko urtarrilean hasi zen Ertzaintza Tratu Txarren Prebentziorako Protokoloa lantzen atxilotuen lege-bermea indartzeko.	1
+g4	dialectal	nafarroa	prem103	Eusko Jaurlaritzak nabarmendu du 2003an hasi zela Ertzaintza Tratu Txarren Prebentziorako Protokoloa jartzen atxilotuen lege-bermea indatzeko	Eusko Jaurlaritzaren esanetan, Ertzaintza Tratu Txarren Prebentziorako Protokoloa 2003an hasi zen ezartzen, presoen askatze prozesua arintzeko.	2
+g5	dialectal	gipuzkoa	prem104	Heteropatriarkatuan kalte-ordaiñak etxetako barrutan daude, ta maitasun erromantikoan eraikitako harreman afektibo-sexualak dia hoien adibide.	Maitasun erromantikoan eraikitako harreman afektibo-sexualek frogatzen dute heteropatriarkatuaren eragina nonahi dela.	0
+g5	dialectal	gipuzkoa	prem104	Heteropatriarkatuan kalte-ordaiñak etxetako barrutan daude, ta maitasun erromantikoan eraikitako harreman afektibo-sexualak dia hoien adibide.	Maitasun erromantikoan eraikitako harreman afektibo-sexualek adierazten dutena aintzat hartu behar da.	1
+g5	dialectal	gipuzkoa	prem104	Heteropatriarkatuan kalte-ordaiñak etxetako barrutan daude, ta maitasun erromantikoan eraikitako harreman afektibo-sexualak dia hoien adibide.	Maitasun erromantikoan eraikitako harreman afektibo-sexualak heteropatriarkatuaren aurka borrokatzera ohituta daude.	2
+g7	dialectal	gipuzkoa	prem105	Lehenego aldiz liburu bat irakurriet ebooken ta gustau zait esperientzia.	Ez nuen espero ebook-ean irakurriko nuen lehen liburua hain esperientzia polita izatea.	1
+g7	dialectal	gipuzkoa	prem105	Lehenego aldiz liburu bat irakurriet ebooken ta gustau zait esperientzia.	Ebook formatuko liburu bat jada irakurri arren, gustatu zait esperientzia.	2
+g7	dialectal	gipuzkoa	prem105	Lehenego aldiz liburu bat irakurriet ebooken ta gustau zait esperientzia.	Hau ebook formatuan irakurri dudan liburu bakarra da eta atsegin zen esperientzia. 	0
+g3	berridazketa	gipuzkoa	prem106	Masterizazioa egiten Andy Hippy Baldwin egon da berriz, Londreseko Metropolis estudioan.	Andy Hippy Baldwin-ek masterizazio lan guztia Londreseko Metropolis estudioan egin du.	1
+g3	berridazketa	gipuzkoa	prem106	Masterizazioa egiten Andy Hippy Baldwin egon da berriz, Londreseko Metropolis estudioan.	Londreseko Metropolis estudioko Andy Hippy Baldwin-ek berriro lagundu du masterizazio lanean.	0
+g3	berridazketa	gipuzkoa	prem106	Masterizazioa egiten Andy Hippy Baldwin egon da berriz, Londreseko Metropolis estudioan.	Masterizazio lanean lehenbizikoz aritu da Andy Hippy Baldwin, Londreseko Metropolis estudioan.	2
+g8	toka	gipuzkoa	prem107	2018ko abenduaren 4an sozietatiaren izena eta xedia aldatu zituen, bere jarduera-eremua Ibar Ezkerrera eta Txorierrira zabaltzeko asmuakin.	2018ko urte bukaeran aldatu ziren sozietatearen izena eta xedea, bere ekintzak Ibar Ezkerrean eta Txorierrian ere eskaintzeko xedearekin.	0
+g8	toka	gipuzkoa	prem107	2018ko abenduaren 4an sozietatiaren izena eta xedia aldatu zituen, bere jarduera-eremua Ibar Ezkerrera eta Txorierrira zabaltzeko asmuakin.	2018ko urtean sozietatearen izena eta xedea aldatzeaz gain, jarduera mota ere aldatu zuen.	1
+g8	toka	gipuzkoa	prem107	2018ko abenduaren 4an sozietatiaren izena eta xedia aldatu zituen, bere jarduera-eremua Ibar Ezkerrera eta Txorierrira zabaltzeko asmuakin.	2018ko abenduaren 4an sozietatearen izena eta xedea aldatu zituen, bere jarduera-eremua Bilboko eremu guztietara hedatzeko asmoarekin. 	2
+g6	dialectal	gipuzkoa	prem108	Sari banaketa hau euskaratik indako itzulpengintza balioan jartzeko da.	Sari banaketa honen xedea euskaratik egiten den itzulpenen balioa goraipatzea da.	0
+g6	dialectal	gipuzkoa	prem108	Sari banaketa hau euskaratik indako itzulpengintza balioan jartzeko da.	Sari banaketa honen helburu bakarra euskaratik egindako itzulpengintza balioan jartzea da.	1
+g6	dialectal	gipuzkoa	prem108	Sari banaketa hau euskaratik indako itzulpengintza balioan jartzeko da.	Sari banaketa honek euskarara egindako itzulpengintza balioan jartzea du helburu.	2
+g5	dialectal	gipuzkoa	prem109	Aspaldi sartu giñan istillu hontan ta ya ez tu atzea bueltaik.	Aspalditik dugu istilu hau eta ezin dugu atzera egin.	0
+g5	dialectal	gipuzkoa	prem109	Aspaldi sartu giñan istillu hontan ta ya ez tu atzea bueltaik.	Aspaldi hasi ginen borrokatzen eta ez dugu irabazteko modurik.	1
+g5	dialectal	gipuzkoa	prem109	Aspaldi sartu giñan istillu hontan ta ya ez tu atzea bueltaik.	Orain dela gutxi sartu ginen borroka honetan eta ez du atzera bueltarik.	2
+g2	dialectal	bizkaia	prem110	Eskubidik irabazteko lege baten bat apurtu bir de beti	Eskubide gehiago erdietsi nahi izanez gero, debekatuta dagoen zerbait egin behar da beti.	0
+g2	dialectal	bizkaia	prem110	Eskubidik irabazteko lege baten bat apurtu bir de beti	Eskubide gehiago beti lortzen dira legeak errespetatzen badira.	2
+g2	dialectal	bizkaia	prem110	Eskubidik irabazteko lege baten bat apurtu bir de beti	Zenbat eta lege gehiago hautsi, orduan eta eskubide gehiago irabazi.	1
+g2	dialectal	bizkaia	prem111	Gidarixak datu interesgarrixak emotzu eta oso entretenigarrixe ixan da	Gidariak eskaini dituen datu interesgarriek esperientzia entretenigarri bihurtu dute.	0
+g2	dialectal	bizkaia	prem111	Gidarixak datu interesgarrixak emotzu eta oso entretenigarrixe ixan da	Gidaria entretenitu da beretzat interesgarria izan diren datuak emanez.	1
+g2	dialectal	bizkaia	prem111	Gidarixak datu interesgarrixak emotzu eta oso entretenigarrixe ixan da	Gidariak eskainitako datuen interesa eskasekoa izan arren, esperientzia entretenigarria izan da.	2
+g6	dialectal	gipuzkoa	prem112	Aspaldiko ametsa zan Praga ezagutzia.	Praga ezagutzeko gogo handia izan du denbora luzez.	0
+g6	dialectal	gipuzkoa	prem112	Aspaldiko ametsa zan Praga ezagutzia.	Praga ezagutu duela amestu du.	1
+g6	dialectal	gipuzkoa	prem112	Aspaldiko ametsa zan Praga ezagutzia.	Praga ezagutzen du aspalditik.	2
+g4	dialectal	nafarroa	prem113	Euskararen mundun gaudenok ongi dakigu zein nekagarrie den gure interesen defentsa.	Euskararen munduan gabiltzanok gure interesak defendatzeaz nekatuta gaude.	1
+g4	dialectal	nafarroa	prem113	Euskararen mundun gaudenok ongi dakigu zein nekagarrie den gure interesen defentsa.	Euskararen munduan gabiltzanok badakigu gure interesak defentatzeak nola nekatzen duen.	0
+g4	dialectal	nafarroa	prem113	Euskararen mundun gaudenok ongi dakigu zein nekagarrie den gure interesen defentsa.	Euskararen munduan gabiltzanok ongi pasatzen dugu gure interesak defendatuz.	2
+g4	dialectal	nafarroa	prem114	Amazonek dronekin repartoa itteko patentea sartu du	Amazonek patenteak sartzeko dronak banatu ditu.	1
+g4	dialectal	nafarroa	prem114	Amazonek dronekin repartoa itteko patentea sartu du	Paketeak dronekin banatzeko patentea bidali du Amazonek.	0
+g4	dialectal	nafarroa	prem114	Amazonek dronekin repartoa itteko patentea sartu du	Amazon dronekin banaketak egiteko patentea noiz sartu zain dago.	2
+g4	dialectal	nafarroa	prem115	Santutxuar dexente hurbildu die Gaztetxe ondoa itxieran aurka protestatzeko	Santutxun bizi den jende asko etorri da gaztetxea irekita mantentzeko eskatzera.	0
+g4	dialectal	nafarroa	prem115	Santutxuar dexente hurbildu die Gaztetxe ondoa itxieran aurka protestatzeko	Santutxuar ugarik inguratu dute gaztetxea itxieraren aurka protestatzeko.	1
+g4	dialectal	nafarroa	prem115	Santutxuar dexente hurbildu die Gaztetxe ondoa itxieran aurka protestatzeko	Santutxuar ugari hurbildu da gaztetxea ixteko eskatzera.	2
+g3	berridazketa	gipuzkoa	prem116	Musika oso garrantzitsua izan da nire bizitzan.	Musikaren garrantzia sumatu dut bizitzan zehar.	0
+g3	berridazketa	gipuzkoa	prem116	Musika oso garrantzitsua izan da nire bizitzan.	Musika oso garrantzitsua omen da bizitzan.	1
+g3	berridazketa	gipuzkoa	prem116	Musika oso garrantzitsua izan da nire bizitzan.	Musikak nire bizitzan duen oraingo garrantzia berria da.	2
+g5	dialectal	gipuzkoa	prem117	Indarra bea natuala da, beaz bee erabillerak ezin du ona eo txarra izan balio absolutu bat bezela.	Indarra naturala denez, bere erabilera ona edo txarra den esateko modu absoluturik ez dago.	0
+g5	dialectal	gipuzkoa	prem117	Indarra bea natuala da, beaz bee erabillerak ezin du ona eo txarra izan balio absolutu bat bezela.	Indarra erabiltzeaz baliatu dena ona edo txarra den esatea ezin dugu normalizatu.	1
+g5	dialectal	gipuzkoa	prem117	Indarra bea natuala da, beaz bee erabillerak ezin du ona eo txarra izan balio absolutu bat bezela.	Indarraren erabilera ona edo txarra den jakiteko, balio absolutuak ezin naturalagoak dira.	2
+s1	dialectal	bizkaia	prem118	Momento zehatzatan jendien erantzune da konpromisue argi ikusten da.	Une zehatzetan jendea beldurtzen da	2
+s1	dialectal	bizkaia	prem118	Momento zehatzatan jendien erantzune da konpromisue argi ikusten da.	Une zehatzetan jendeak erantzuten du arazoei.	0
+s1	dialectal	bizkaia	prem118	Momento zehatzatan jendien erantzune da konpromisue argi ikusten da.	Jendea beti dago prest edozer egiteko.	1
+g7	dialectal	gipuzkoa	prem119	Gazteok Eraikitzen dinamikan barrun proposatu dian 18 proiektui ekarpenak itea izango da biyarko egunan helburua.	Proiektuen artean gaztetxe berri bat eraikitzea dago.	0
+g7	dialectal	gipuzkoa	prem119	Gazteok Eraikitzen dinamikan barrun proposatu dian 18 proiektui ekarpenak itea izango da biyarko egunan helburua.	Gazteok Eraikitzen 2018ko martxoan sortu zen.	1
+g7	dialectal	gipuzkoa	prem119	Gazteok Eraikitzen dinamikan barrun proposatu dian 18 proiektui ekarpenak itea izango da biyarko egunan helburua.	Biharko ekarpena hurrengo astera mugituko da.	2
+g8	toka	gipuzkoa	prem120	Nik bestian hizkuntza ikasten badiat, baina bestiak ez badik neria errespetatzen, bere hizkuntza hitz egitia ez dek irekitze keinu bat, mendekotasun eta sumisio keinua baizik	Beste pertsona nire hizkuntza ez badu errespetatzen gauza bat argi dago, beren gurasoek ez zuten ondo zaindu bere semeak.	0
+g8	toka	gipuzkoa	prem120	Nik bestian hizkuntza ikasten badiat, baina bestiak ez badik neria errespetatzen, bere hizkuntza hitz egitia ez dek irekitze keinu bat, mendekotasun eta sumisio keinua baizik	Beste hizkuntzak ikastea ona da pertsonentzat.	1
+g8	toka	gipuzkoa	prem120	Nik bestian hizkuntza ikasten badiat, baina bestiak ez badik neria errespetatzen, bere hizkuntza hitz egitia ez dek irekitze keinu bat, mendekotasun eta sumisio keinua baizik	Beste hizkuntzak errespetatzea beharrezkoa da.	2
+g3	berridazketa	gipuzkoa	prem121	Ze leku polita dan hau, itsasoa eta mendia batera	Mundua leku ederrez beteta dago.	1
+g3	berridazketa	gipuzkoa	prem121	Ze leku polita dan hau, itsasoa eta mendia batera	Mendiak eta itsasoak zaborrez beteta dauda.	2
+g3	berridazketa	gipuzkoa	prem121	Ze leku polita dan hau, itsasoa eta mendia batera	Mendia eta itsasoa topatzen diren tokian edertasuna aurkitu dezakezu.	0
+g5	dialectal	gipuzkoa	prem122	Norbee elkarte, enpresa eo erakundean dinamikai astindu at emateko tresnak proposatze ia bertan.	Dinamika aldatzea jendearen adimena irekitzen du.	1
+g5	dialectal	gipuzkoa	prem122	Norbee elkarte, enpresa eo erakundean dinamikai astindu at emateko tresnak proposatze ia bertan.	Dinamika aldatzeko modu hoberena bestearen larruan sartzea da.	0
+g5	dialectal	gipuzkoa	prem122	Norbee elkarte, enpresa eo erakundean dinamikai astindu at emateko tresnak proposatze ia bertan.	Dinamika aldatzea arazo asko ekarri dezake, adibidez deserosotasuna.	2
+s3	dialectal	bizkaia	prem123	Lucia gixon bateaz da ezkondute.	Gizon bat Luciarekin ezkonduta dago.	0
+s3	dialectal	bizkaia	prem123	Lucia gixon bateaz da ezkondute.	Gizonezkoak eta emakumeak maiz ezkontzen dira.	1
+s3	dialectal	bizkaia	prem123	Lucia gixon bateaz da ezkondute.	Lucia dibortziatua da.	2
+s2	dialectal	gipuzkoa	prem124	Eztao Euskal Herrin antzerkie Lete bezainbeste ikuspuntutatik praktikau dunik.	Lete sari asko irabazi zuen bere antzerki antzezlanagatik.	0
+s2	dialectal	gipuzkoa	prem124	Eztao Euskal Herrin antzerkie Lete bezainbeste ikuspuntutatik praktikau dunik.	500 urtez egin dira antzezlanak.	1
+s2	dialectal	gipuzkoa	prem124	Eztao Euskal Herrin antzerkie Lete bezainbeste ikuspuntutatik praktikau dunik.	Letek ez du hainbeste ikuspuntutatik lan egin.	2
+g7	dialectal	gipuzkoa	prem125	Lengo urten erabaki nun 40. urtea ikearri ondo eta sarri ospatu ber nula.	Nire 40 urteurrenean munduko festa izan nuen.	0
+g7	dialectal	gipuzkoa	prem125	Lengo urten erabaki nun 40. urtea ikearri ondo eta sarri ospatu ber nula.	Urteurrenak garrantzitsuak dira.	1
+g7	dialectal	gipuzkoa	prem125	Lengo urten erabaki nun 40. urtea ikearri ondo eta sarri ospatu ber nula.	Nire 40 urteurrena ahaztu nuen.	2
+g8	toka	gipuzkoa	prem126	Alderdi politiko guztiyetako ordezkariyak zezkaken Administazio Kontseiluak zuzentzen dik sozietatia eta Batzar Nagusiya Udalbatzarra bea dek.	Udalbatzarra ez da politikariena, funtzionarioena eta herritarrena baizik.	2
+g8	toka	gipuzkoa	prem126	Alderdi politiko guztiyetako ordezkariyak zezkaken Administazio Kontseiluak zuzentzen dik sozietatia eta Batzar Nagusiya Udalbatzarra bea dek.	Udalbatzarra Eusko Jaurlaritzarekin batera egiten du lan.	1
+g8	toka	gipuzkoa	prem126	Alderdi politiko guztiyetako ordezkariyak zezkaken Administazio Kontseiluak zuzentzen dik sozietatia eta Batzar Nagusiya Udalbatzarra bea dek.	Alderdi politikoen artean PP, PNV, PSO, eta Sumar daude.	0
+g6	dialectal	gipuzkoa	prem127	Hasieratik helburua jarri zuten: gure umeak bi hizkuntzatan berdin hitzegitea.	Ez dute seme-alabarik nahi.	2
+g6	dialectal	gipuzkoa	prem127	Hasieratik helburua jarri zuten: gure umeak bi hizkuntzatan berdin hitzegitea.	Gure helburua da seme-alabak izatea.	0
+g6	dialectal	gipuzkoa	prem127	Hasieratik helburua jarri zuten: gure umeak bi hizkuntzatan berdin hitzegitea.	Denon seme-alabak elebidun izan beharko zuten.	1
+g7	dialectal	gipuzkoa	prem128	2016ko maiatzan 1en, ADES espeologia elkartiak kobazulotako pintura inportatek aurkitu zituzten Lekeitioko Armintxe konazulon.	Labar-artea bisoi baten ehizari buruzkoa zen.	0
+g7	dialectal	gipuzkoa	prem128	2016ko maiatzan 1en, ADES espeologia elkartiak kobazulotako pintura inportatek aurkitu zituzten Lekeitioko Armintxe konazulon.	Labar-artea graffiti bat izan zen.	2
+g7	dialectal	gipuzkoa	prem128	2016ko maiatzan 1en, ADES espeologia elkartiak kobazulotako pintura inportatek aurkitu zituzten Lekeitioko Armintxe konazulon.	Labar-artea zaharrena K.a. 600. urtekoa da.	1
+g2	dialectal	bizkaia	prem129	Eta ogi gozu erosi dou mormoin baserrixan	Mormoiek egin duten ogia oso goxoa da.	0
+g2	dialectal	bizkaia	prem129	Eta ogi gozu erosi dou mormoin baserrixan	Ogiak ona dago bat edo bi egunetarako.	1
+g2	dialectal	bizkaia	prem129	Eta ogi gozu erosi dou mormoin baserrixan	Mormoiei erosi diegun ogia gogorra eta zapore gabekoa da	2
+g6	dialectal	gipuzkoa	prem130	Tortura salatu zenuten arren etzen berria zabaldu.	Norbait torturatzea munduko gauza txarrena da.	1
+g6	dialectal	gipuzkoa	prem130	Tortura salatu zenuten arren etzen berria zabaldu.	3 urtez egon ziren torturatzen gizajo hori.	0
+g6	dialectal	gipuzkoa	prem130	Tortura salatu zenuten arren etzen berria zabaldu.	Tortura egin zutela mundua ezustean hartu zuen.	2
+g2	dialectal	bizkaia	prem131	Umori oso aldakorra ra, asko fluktuaten dau	Betidanik dakigu bere umorea aldakorra dela.	0
+g2	dialectal	bizkaia	prem131	Umori oso aldakorra ra, asko fluktuaten dau	Pertsona baten umorea ez da beti berdina.	1
+g2	dialectal	bizkaia	prem131	Umori oso aldakorra ra, asko fluktuaten dau	Beti pozik dago.	2
+s4	dialectal	gipuzkoa	prem132	Donostira garraio publikoan joan baitzaitezke, edo inguruko auzoren batin aparkatu, edo pagatu beharreko parking batin.	Garraio publiko bat hartzen baduzue hartu autobusa, ez pentsa trena hartzean ere.	0
+s4	dialectal	gipuzkoa	prem132	Donostira garraio publikoan joan baitzaitezke, edo inguruko auzoren batin aparkatu, edo pagatu beharreko parking batin.	Bilbotik Donostiara autobuses garraioa ordu bat eta erdi da gutxi gora behera.	1
+s4	dialectal	gipuzkoa	prem132	Donostira garraio publikoan joan baitzaitezke, edo inguruko auzoren batin aparkatu, edo pagatu beharreko parking batin.	Ez joan Donostiara dena oso gareztia da.	2
+g4	dialectal	nafarroa	prem133	Atsaldeko seitan hasiko da dokumentala Uztaldi gaztetxean.	Uztaldi gaztetxea arratsaldeetan irekita dago.	0
+g4	dialectal	nafarroa	prem133	Atsaldeko seitan hasiko da dokumentala Uztaldi gaztetxean.	Uztaldi gaztetxea gazteez beteta dago.	1
+g4	dialectal	nafarroa	prem133	Atsaldeko seitan hasiko da dokumentala Uztaldi gaztetxean.	Uztaldi gaztetxeari telebista apurtu zaio.	2
+s4	dialectal	gipuzkoa	prem134	Monogamia fidelak promesten ttun bukaira zoriontsuk eztira uste bezin ohikuk.	Monogamia maitagarrien ipuinetan bezala beti amaiera zoriontsua dakar.	2
+s4	dialectal	gipuzkoa	prem134	Monogamia fidelak promesten ttun bukaira zoriontsuk eztira uste bezin ohikuk.	Amaiera zoriontsua izateko lan egin behar duzu.	0
+s4	dialectal	gipuzkoa	prem134	Monogamia fidelak promesten ttun bukaira zoriontsuk eztira uste bezin ohikuk.	Monogamia eta poligamia kontrakoak dira.	1
+g2	dialectal	bizkaia	prem135	Injarraz inposatutako realidade batei aurre etxeko injarra bir de, hasteko	Indarra bakarrik ez da nahikoa, iraunkortasuna ere behar da.	0
+g2	dialectal	bizkaia	prem135	Injarraz inposatutako realidade batei aurre etxeko injarra bir de, hasteko	Errealitate bati aurre egiteko lehenik prest egon behar zara.	1
+g2	dialectal	bizkaia	prem135	Injarraz inposatutako realidade batei aurre etxeko injarra bir de, hasteko	Indarrez inposatutako errealitate baten aurka lehen urratsa komunikazioa da.	2
+g4	dialectal	nafarroa	prem136	Astialdiko Begirale eta Zuzendari ikastaroakin batea, Eusko Jaurlaritzak luzatutako Titulazio Ofizialen arten dao.	Astialdiko Begirale 150 orduko ikastaroa da eta modu estentsiboan zein intentsiboan egin daiteke.	0
+g4	dialectal	nafarroa	prem136	Astialdiko Begirale eta Zuzendari ikastaroakin batea, Eusko Jaurlaritzak luzatutako Titulazio Ofizialen arten dao.	Ikastaroak modu hoberenak dira gauza berriak ikasteko.	1
+g4	dialectal	nafarroa	prem136	Astialdiko Begirale eta Zuzendari ikastaroakin batea, Eusko Jaurlaritzak luzatutako Titulazio Ofizialen arten dao.	Astialdiko Begirale ikastaroa gobernu zentrala luzatutako Titulazio Ofizialen artean dago.	2
+s2	dialectal	gipuzkoa	prem137	ON Bizkaia Sarik jarduera ekonomikoa ta lanpostuk sortzeko empresak indako ekarpena goraipatzeute.	Gaur egungo lanak gero eta aurreratuagoak dira orain dela 1000 urterekin alderatuta.	1
+s2	dialectal	gipuzkoa	prem137	ON Bizkaia Sarik jarduera ekonomikoa ta lanpostuk sortzeko empresak indako ekarpena goraipatzeute.	Sortzen diren behin-behineko lanpostuak dira eta horregatik ez genuke premio bat eman behar.	2
+s2	dialectal	gipuzkoa	prem137	ON Bizkaia Sarik jarduera ekonomikoa ta lanpostuk sortzeko empresak indako ekarpena goraipatzeute.	Urte honetan 1.300.000 lanpostu berriak sortu dira.	0
+g8	toka	gipuzkoa	prem138	Plazer handiya izan uan gora iristia.	Helburuak betetzea izugarria da	1
+g8	toka	gipuzkoa	prem138	Plazer handiya izan uan gora iristia.	Gora iritsi genuenean bistak ederrak ziren.	0
+g8	toka	gipuzkoa	prem138	Plazer handiya izan uan gora iristia.	Ez genuen gora iritsi Mikelek hanka apurtu zuelako.	2
+g7	dialectal	gipuzkoa	prem139	Ikastaro espezifikoak antolatuko dia urtian zehar gauza desberdinei buruz hitzeiteko: lekuak, psikomotrizitatia...	Ikastaroen artean arte moderno abstraktua hoberena da, Mikel dagoeneko izena eman du.	0
+g7	dialectal	gipuzkoa	prem139	Ikastaro espezifikoak antolatuko dia urtian zehar gauza desberdinei buruz hitzeiteko: lekuak, psikomotrizitatia...	Ikastaroen helburua beti da jendeari gauza berriak irkatea.	1
+g7	dialectal	gipuzkoa	prem139	Ikastaro espezifikoak antolatuko dia urtian zehar gauza desberdinei buruz hitzeiteko: lekuak, psikomotrizitatia...	Ikastaroak alferrikakoak dira, jendea ez duelako ezer ikasten ez badute lan egiten.	2
+s2	dialectal	gipuzkoa	prem140	Asko pentxau du gue artearen egoeran ingurun.	Gurfe arteari buruz asko hitz egin dugu.	0
+s2	dialectal	gipuzkoa	prem140	Asko pentxau du gue artearen egoeran ingurun.	Bakoitzak duen artea bakarra da.	1
+s2	dialectal	gipuzkoa	prem140	Asko pentxau du gue artearen egoeran ingurun.	Ez zaigu axola ematen gure artea.	2
+g2	dialectal	bizkaia	prem141	Kanpaña antikapitalistan barrun ongo astin ekimen gexa antolatu txuez	Ekimen berrien artean kontzertu bat dago.	0
+g2	dialectal	bizkaia	prem141	Kanpaña antikapitalistan barrun ongo astin ekimen gexa antolatu txuez	Kanpaina antikapitalistak eta kanpaina antisozialistak kontrakoak dira.	1
+g2	dialectal	bizkaia	prem141	Kanpaña antikapitalistan barrun ongo astin ekimen gexa antolatu txuez	Kanpaina antikapitalista bertan behera utzi dute, ez baizen jendea agertu.	2
+g6	dialectal	gipuzkoa	prem142	"Helbide hoiek aldatzeko, interneten "" Nire Datuak "" atalea sartu behar zea."	"Nire Datuak sartu eta gero, ""OK"" botoia sakatu behar duzu."	0
+g6	dialectal	gipuzkoa	prem142	"Helbide hoiek aldatzeko, interneten "" Nire Datuak "" atalea sartu behar zea."	Ezinezkoa da  helbideak aldatzea web orria erori delako.	2
+g6	dialectal	gipuzkoa	prem142	"Helbide hoiek aldatzeko, interneten "" Nire Datuak "" atalea sartu behar zea."	Helbide elektronikoak mezuak bidaltzeko erabiltzen dira.	1
+s4	dialectal	gipuzkoa	prem143	Lan iteko ta harremanak izateko modua aldau du eraldaketa digitalak.	Jendeak denbora gehiago mugikorrean eta ordenagailuan irauten du.	0
+s4	dialectal	gipuzkoa	prem143	Lan iteko ta harremanak izateko modua aldau du eraldaketa digitalak.	Eraldaketa digitala mundua behar duen hurrengo aurrerapena da.	1
+s4	dialectal	gipuzkoa	prem143	Lan iteko ta harremanak izateko modua aldau du eraldaketa digitalak.	Jendeak beti bezala lan egiten du.	2
+g2	dialectal	bizkaia	prem144	Beti ra kejateko bidi, batezbe norbera danin ahul eta laguntzi eztanin iñox perkektu ixaten	Laguntzarekin edonork edozer egin dezake.	0
+g2	dialectal	bizkaia	prem144	Beti ra kejateko bidi, batezbe norbera danin ahul eta laguntzi eztanin iñox perkektu ixaten	Guztiok behar dugu laguntza noizbehinka.	1
+g2	dialectal	bizkaia	prem144	Beti ra kejateko bidi, batezbe norbera danin ahul eta laguntzi eztanin iñox perkektu ixaten	Ez dago inor ahul, lan egin nahi ez duen jendea baizik.	2
+g5	dialectal	gipuzkoa	prem145	Ez zekin hilda zeola.	Hilik dauden pertsonak ez dira mugitzen.	1
+g5	dialectal	gipuzkoa	prem145	Ez zekin hilda zeola.	Hil zegoela zirudien.	0
+g5	dialectal	gipuzkoa	prem145	Ez zekin hilda zeola.	Ez zegoen hilda, lotan zegoen.	2
+s1	dialectal	bizkaia	prem146	Asko emoziona nintzen ezusteko agur horregaz.	Ezustekoak onak edo txarrak izan daitezke.	1
+s1	dialectal	bizkaia	prem146	Asko emoziona nintzen ezusteko agur horregaz.	Zorionez ezusteko ona izan zen.	0
+s1	dialectal	bizkaia	prem146	Asko emoziona nintzen ezusteko agur horregaz.	Ezusteko horri buruz duela aste ugari izen nuen berri.	2
+g5	dialectal	gipuzkoa	prem147	Samsungek bau smart school bat ta proposatze u klasek ematea bee Samsung Gear VR antiajokin ta MagicIWB S2 arbelekin.	Samsung ezin du klaseak eman VR betaurrekoekin, haurrak jolasten egongo zirelako.	2
+g5	dialectal	gipuzkoa	prem147	Samsungek bau smart school bat ta proposatze u klasek ematea bee Samsung Gear VR antiajokin ta MagicIWB S2 arbelekin.	Samsung munduko klase teknologikoena edukiko du.	0
+g5	dialectal	gipuzkoa	prem147	Samsungek bau smart school bat ta proposatze u klasek ematea bee Samsung Gear VR antiajokin ta MagicIWB S2 arbelekin.	Samsung telebistak, mugikorrak eta kamerak egiten du.	1
+g4	dialectal	nafarroa	prem148	GETAIKO EUSKERA Getariako hizkera ta ahozko ondarea biltzen dituen GETARIAKO AHOTSAK liburuan emaitza da.	GETAIKO EUSKERA liburuan Getariako hizkera aurkitu daiteke.	0
+g4	dialectal	nafarroa	prem148	GETAIKO EUSKERA Getariako hizkera ta ahozko ondarea biltzen dituen GETARIAKO AHOTSAK liburuan emaitza da.	GETAIKO EUSKERA liburuan Bizkaiko euskara jasotzen da.	2
+g4	dialectal	nafarroa	prem148	GETAIKO EUSKERA Getariako hizkera ta ahozko ondarea biltzen dituen GETARIAKO AHOTSAK liburuan emaitza da.	Ez zait gustatzen GETAIKO EUSKERA liburua.	1
+s3	dialectal	bizkaia	prem149	Digitalizaziñoin hasieretan, webgunik sortu zin, ta komunikaziñoi demokratizatzeko aukerak eskeiñi zitxuezen.	Digitalazioa orain dela asko gertatu zen.	1
+s3	dialectal	bizkaia	prem149	Digitalizaziñoin hasieretan, webgunik sortu zin, ta komunikaziñoi demokratizatzeko aukerak eskeiñi zitxuezen.	Digitalizazioaren hastapenetan, webguneak ezagunagoak bihurtu ziren.	0
+s3	dialectal	bizkaia	prem149	Digitalizaziñoin hasieretan, webgunik sortu zin, ta komunikaziñoi demokratizatzeko aukerak eskeiñi zitxuezen.	Digitalazio hasieran, komunikazio aukerak suntsitu ziren.	2
+g7	dialectal	gipuzkoa	prem150	Sari-banaketa bi neska gazte azaldu zian, sarrera euskeraz ta tarteka re bai, baiño gehiena gazteleraz.	Neskek gehiago hitz egin zuten gaztelaniaz euskaraz baino.	0
+g7	dialectal	gipuzkoa	prem150	Sari-banaketa bi neska gazte azaldu zian, sarrera euskeraz ta tarteka re bai, baiño gehiena gazteleraz.	Sari-banaketa Lekeition izan zen.	1
+g7	dialectal	gipuzkoa	prem150	Sari-banaketa bi neska gazte azaldu zian, sarrera euskeraz ta tarteka re bai, baiño gehiena gazteleraz.	Neskek ingelesez hitz egin zuten sari-banaketan.	2
+g3	berridazketa	gipuzkoa	prem151	Nik asko gomentatzen dizuet Getariako xagura joatea.	San Anton media ezagutzeak merezi du.	0
+g3	berridazketa	gipuzkoa	prem151	Nik asko gomentatzen dizuet Getariako xagura joatea.	San Anton Mendia Espainian dago.	1
+g3	berridazketa	gipuzkoa	prem151	Nik asko gomentatzen dizuet Getariako xagura joatea.	San Anton mendia oso itsusia da.	2
+s4	dialectal	gipuzkoa	prem152	Lilikin-ta topo in genun aurrez aurre.	Lili ikusi genuen.	0
+s4	dialectal	gipuzkoa	prem152	Lilikin-ta topo in genun aurrez aurre.	Lili orain dela asko ez dugula ikusten.	2
+s4	dialectal	gipuzkoa	prem152	Lilikin-ta topo in genun aurrez aurre.	Lili oso polita zegoen.	1
+g8	toka	gipuzkoa	prem153	Eguzkiya gero eta gorriagua dan zirkuferentziya baino ez dek nerabearen begitan.	Nerabeak gauza guztietaz konturatzen dira.	2
+g8	toka	gipuzkoa	prem153	Eguzkiya gero eta gorriagua dan zirkuferentziya baino ez dek nerabearen begitan.	Nerabeak oso dibertigarriak dira.	1
+g8	toka	gipuzkoa	prem153	Eguzkiya gero eta gorriagua dan zirkuferentziya baino ez dek nerabearen begitan.	Nerabeek ez dute kasu handirik egiten beste gauza guztiei.	0
+g5	dialectal	gipuzkoa	prem154	"Solte taldiak ""IXA"" azken diskoan (Taupaka elkartia, 2016) Eraldatutako mundua abestiakin bideklip berritzaillia prestatu u."	Solte taldeak bideoklip berri bat prestatu du.	0
+g5	dialectal	gipuzkoa	prem154	"Solte taldiak ""IXA"" azken diskoan (Taupaka elkartia, 2016) Eraldatutako mundua abestiakin bideklip berritzaillia prestatu u."	Solte taldea erretiratu egin dira eta ez dute ezer gehiago egingo.	2
+g5	dialectal	gipuzkoa	prem154	"Solte taldiak ""IXA"" azken diskoan (Taupaka elkartia, 2016) Eraldatutako mundua abestiakin bideklip berritzaillia prestatu u."	Abestia ospetsua handia irabazi du denbora gutxian.	1
+g4	berridazketa	nafarroa	prem155	Eraldaketa digitalak paradigma aldaketa handia ekartzen du kultura ta sormen-arloan	Eraldaketa digitalak paradigma aldaketa txikia dakar kultura eta sormen-arloan.	2
+g4	berridazketa	nafarroa	prem155	Eraldaketa digitalak paradigma aldaketa handia ekartzen du kultura ta sormen-arloan	Eraldaketa digitalak aukera gehiago ematen dizkizu kultura eta sormen-arloan.	0
+g4	berridazketa	nafarroa	prem155	Eraldaketa digitalak paradigma aldaketa handia ekartzen du kultura ta sormen-arloan	Eraldaketa digitala oraindik berrikuntza asko ekar ditzake gure gizartean.	1
+g2	dialectal	bizkaia	prem156	Europar Batasune hainbat hamarkada luzitan ibilli re lehen mundun erreferentzixi ixaten demokrazixiaz, berdintxasunaz, segurtasunaz eta ongixatiaz	Estatu Batuak izan dira lehen munduko erreferentzia demokraziaz, berdintasunaz, segurtasunaz eta ongizateaz.	2
+g2	dialectal	bizkaia	prem156	Europar Batasune hainbat hamarkada luzitan ibilli re lehen mundun erreferentzixi ixaten demokrazixiaz, berdintxasunaz, segurtasunaz eta ongixatiaz	Europar Batasunean hainbat herrialde daude.	1
+g2	dialectal	bizkaia	prem156	Europar Batasune hainbat hamarkada luzitan ibilli re lehen mundun erreferentzixi ixaten demokrazixiaz, berdintxasunaz, segurtasunaz eta ongixatiaz	Europar Batasuna haibat arlotan lehen munduko erreferentzia da.	0
+s3	dialectal	bizkaia	prem157	Bixitxiai logika komertzialaz behatzetsau: dana errez, komodo, aldatzeko morun, kalidadeku eta merki.	Logika komertzialarekin begiratzen dugu bizitza: dena zail, deseroso, aldaezin, erdipurdiko eta garesti.	2
+s3	dialectal	bizkaia	prem157	Bixitxiai logika komertzialaz behatzetsau: dana errez, komodo, aldatzeko morun, kalidadeku eta merki.	Bizitza logika komertzialaren bitartez begiratzen badugu dena errazagoa izango litzateke.	0
+s3	dialectal	bizkaia	prem157	Bixitxiai logika komertzialaz behatzetsau: dana errez, komodo, aldatzeko morun, kalidadeku eta merki.	Logika komertziala gaur eguneko kontzeptu berri bat da.	1
+g2	dialectal	bizkaia	prem158	Entzutegi Nazionalin, epailin aurrin, ez ben aitorpena berretsi	Dena aitortu zuten epailearen aurrean.	2
+g2	dialectal	bizkaia	prem158	Entzutegi Nazionalin, epailin aurrin, ez ben aitorpena berretsi	Epaileari ez zioten aitortu, aitortu beharrekoa.	0
+g2	dialectal	bizkaia	prem158	Entzutegi Nazionalin, epailin aurrin, ez ben aitorpena berretsi	Entzutegi Nazionalean erabaki hartzen dira.	1
+g3	berridazketa	gipuzkoa	prem159	Antton Olariagak sari bat jasoko du Santutxun, Komiki Egunean.	Antton Olariagak Joseph Camino saria irabaziko du egindako lanagatik.	0
+g3	berridazketa	gipuzkoa	prem159	Antton Olariagak sari bat jasoko du Santutxun, Komiki Egunean.	Joseph Caminok saria Madrilen jasoko du.	2
+g3	berridazketa	gipuzkoa	prem159	Antton Olariagak sari bat jasoko du Santutxun, Komiki Egunean.	Joseph Camino 2015ean hil zen.	1
+g4	dialectal	nafarroa	prem160	Atzo momentu baten Nancho Novo aktore galiziarra ikusi nun telebistan Jesusen aitan paperen, serio puta.	Nacho Novo aktoreak beti betetzen ditu umorezko paperak.	2
+g4	dialectal	nafarroa	prem160	Atzo momentu baten Nancho Novo aktore galiziarra ikusi nun telebistan Jesusen aitan paperen, serio puta.	Nacho Novo aktorea 1958ko irailaren 17an jaio zen.	1
+g4	dialectal	nafarroa	prem160	Atzo momentu baten Nancho Novo aktore galiziarra ikusi nun telebistan Jesusen aitan paperen, serio puta.	Atzo une batez serio demonio pelikula ikusi nuen.	0
+s4	dialectal	gipuzkoa	prem161	Uztailan 13n inaguratu zen lokala irailan 28n itxi zun Ertzaintzak eta modu hortan bete zen epaileak siñatu zun hustutzeko agindua.	Lokala asko gustatzen zitzaidan.	1
+s4	dialectal	gipuzkoa	prem161	Uztailan 13n inaguratu zen lokala irailan 28n itxi zun Ertzaintzak eta modu hortan bete zen epaileak siñatu zun hustutzeko agindua.	Uztailaren 13an inauguratutako lokala irekita jarraitzen du eta ez sekula itxi.	2
+s4	dialectal	gipuzkoa	prem161	Uztailan 13n inaguratu zen lokala irailan 28n itxi zun Ertzaintzak eta modu hortan bete zen epaileak siñatu zun hustutzeko agindua.	Lokalak hil bat baino pixka bat gehiago egon da irekita.	0
+g2	dialectal	bizkaia	prem162	Gaba baten, Lucia eta Miren ardaun batzun bueltan ebizela, Andrea gonbidatu ben nausixan etxea, eta harreman sexualak euki ben hirurek	Harreman sexualak edukitzerakoan kontu handia izan behar da sexu-transmisioko gaixotasunekin.	1
+g2	dialectal	bizkaia	prem162	Gaba baten, Lucia eta Miren ardaun batzun bueltan ebizela, Andrea gonbidatu ben nausixan etxea, eta harreman sexualak euki ben hirurek	Lucia, Miren eta Andrea birjinak dira.	2
+g2	dialectal	bizkaia	prem162	Gaba baten, Lucia eta Miren ardaun batzun bueltan ebizela, Andrea gonbidatu ben nausixan etxea, eta harreman sexualak euki ben hirurek	Harreman sexualak izan zituzten egunean, nagusiaren etxean egon ziren.	0
+g5	dialectal	gipuzkoa	prem163	Laxte esango ue pelikula zeiñ aretok proiektutako un.	Berandu jakinaraziko dute zein aretotan proiektatu den.	2
+g5	dialectal	gipuzkoa	prem163	Laxte esango ue pelikula zeiñ aretok proiektutako un.	Jendea pelikula ikusteko irrikaz dago.	1
+g5	dialectal	gipuzkoa	prem163	Laxte esango ue pelikula zeiñ aretok proiektutako un.	Pelikula areto batean ikusiko da.	0
+s4	dialectal	gipuzkoa	prem164	Gure arloa sufrittua da ta moldatzeko gattasun haundia dakagu.	Gure arloan ez dugu ezer egiten, oso aspergarria da.	2
+s4	dialectal	gipuzkoa	prem164	Gure arloa sufrittua da ta moldatzeko gattasun haundia dakagu.	Sufritua izan arren, asko gustatzen zaigu gure arloa.	1
+s4	dialectal	gipuzkoa	prem164	Gure arloa sufrittua da ta moldatzeko gattasun haundia dakagu.	Lan neketsu asko egiten dira gure arloan.	0
+g1	dialectal	bizkaia	prem165	Urduñako ekonomia sustetea dau helburu eta Euskadiko Garapen Agentzietako Garapen Sareko kidea da.	Urduñako ekonomiari lagundu nahi dio.	0
+g1	dialectal	bizkaia	prem165	Urduñako ekonomia sustetea dau helburu eta Euskadiko Garapen Agentzietako Garapen Sareko kidea da.	Euskadiko Garapen Agentzietako Garapen Sareak ez du kiderik.	2
+g1	dialectal	bizkaia	prem165	Urduñako ekonomia sustetea dau helburu eta Euskadiko Garapen Agentzietako Garapen Sareko kidea da.	Urduña Araban dago kokatuta.	1
+g5	dialectal	gipuzkoa	prem166	Denbora gutxio uenak e baue ikastaro motxaguak iteko aukera.	Denbora urriagoa dutenek ere badute ikastaro luzeagoak egiteko aukera.	2
+g5	dialectal	gipuzkoa	prem166	Denbora gutxio uenak e baue ikastaro motxaguak iteko aukera.	Denbora urriago duten pertsonetan ere pentsatzen dute.	0
+g5	dialectal	gipuzkoa	prem166	Denbora gutxio uenak e baue ikastaro motxaguak iteko aukera.	Ez nekien horrelako aukerarik zegoela ikastaro horretan.	1
+g7	dialectal	gipuzkoa	prem167	Hiru urte ta erditan auzoko gazte jendia hor elkartzen zan baino 2011ko azaron Lakomi Gaztetxea itxi ein zuten.	Lakomi Gaztetxea 10 urte iraun zuen irekita.	2
+g7	dialectal	gipuzkoa	prem167	Hiru urte ta erditan auzoko gazte jendia hor elkartzen zan baino 2011ko azaron Lakomi Gaztetxea itxi ein zuten.	Denbora asko igaro nuen Lakomi Gaztetzean.	1
+g7	dialectal	gipuzkoa	prem167	Hiru urte ta erditan auzoko gazte jendia hor elkartzen zan baino 2011ko azaron Lakomi Gaztetxea itxi ein zuten.	Gaur egun Lakomi Gaztetxea ez dago irekita.	0
+g3	berridazketa	gipuzkoa	prem168	1972an kriston buelta emantzion euskal umore grafikoaren historiari. Bere estilo propioa erabiltzen hasi zen Zeruko Argian	2015an Zeruko Argia-n hasi eta nortasun handiko estilo berritzailearekin, euskal umore grafikoaren historiari irauli bat eman zion.	2
+g3	berridazketa	gipuzkoa	prem168	1972an kriston buelta emantzion euskal umore grafikoaren historiari. Bere estilo propioa erabiltzen hasi zen Zeruko Argian	1972an Zeruko Argia-z gain beste gauza batzuk gertatu ziren.	1
+g3	berridazketa	gipuzkoa	prem168	1972an kriston buelta emantzion euskal umore grafikoaren historiari. Bere estilo propioa erabiltzen hasi zen Zeruko Argian	Euskal umore grafikoaren historian Zeruko Argia-k eragina izan zuen.	0
+s1	dialectal	bizkaia	prem169	Gaztetape hondartza harriz beteta dau; baie amorrotz politx bat topa gendun.	Olagarroa oso pozoitsua zenez, ez gara inoiz berriro joan Gaztetape hondartzara.	1
+s1	dialectal	bizkaia	prem169	Gaztetape hondartza harriz beteta dau; baie amorrotz politx bat topa gendun.	Gaztetape hondartzan ez dago olagarrorik.	2
+s1	dialectal	bizkaia	prem169	Gaztetape hondartza harriz beteta dau; baie amorrotz politx bat topa gendun.	Gaztetape hondartza ez dago hondarrez betea.	0
+g7	dialectal	gipuzkoa	prem170	Osasunez dexente ondo dabil ta lanen de bai indartsu mantentzen da, bateze gelen alokairuakin.	Denbora batez kaskar samar ibili da, baina orain hobeto dabil.	1
+g7	dialectal	gipuzkoa	prem170	Osasunez dexente ondo dabil ta lanen de bai indartsu mantentzen da, bateze gelen alokairuakin.	Gela alokairuetan lan ona egiten du.	0
+g7	dialectal	gipuzkoa	prem170	Osasunez dexente ondo dabil ta lanen de bai indartsu mantentzen da, bateze gelen alokairuakin.	Hainbat gaixotasun ditu eta lanean kaskar samar dabil.	2
+g3	berridazketa	gipuzkoa	prem171	Super pozik eta egindakoa jendearekin konpartitzeko gogoakin daude taldekoak.	Zaleak izugarrizko irrika dute dena entzuteko.	1
+g3	berridazketa	gipuzkoa	prem171	Super pozik eta egindakoa jendearekin konpartitzeko gogoakin daude taldekoak.	Taldekideak oso pozik daude egindako lanarekin.	0
+g3	berridazketa	gipuzkoa	prem171	Super pozik eta egindakoa jendearekin konpartitzeko gogoakin daude taldekoak.	Taldekideak goibel egon dira.	2
+s2	dialectal	gipuzkoa	prem172	Demokrazik ez gaittu aske ingo	Demokraziak preso egingo gaitu.	0
+s2	dialectal	gipuzkoa	prem172	Demokrazik ez gaittu aske ingo	Demokraziak askatu egingo gaitu	2
+s2	dialectal	gipuzkoa	prem172	Demokrazik ez gaittu aske ingo	Demokrazia egitura politiko bat da.	1
+s4	dialectal	gipuzkoa	prem173	Kaletatik jasotako animalik etorkizun duina izan zaten, katuk adoptatzeko mezuaren helburua da jendearen artean zabaltzea.	Adoptatutako katuak kaleratzea du xede.	2
+s4	dialectal	gipuzkoa	prem173	Kaletatik jasotako animalik etorkizun duina izan zaten, katuk adoptatzeko mezuaren helburua da jendearen artean zabaltzea.	Kaleetan katu asko daude.	1
+s4	dialectal	gipuzkoa	prem173	Kaletatik jasotako animalik etorkizun duina izan zaten, katuk adoptatzeko mezuaren helburua da jendearen artean zabaltzea.	Kaleetatik jasotako animaliek baldintza txarragoak dituzte, adoptatuak baino.	0
+g1	dialectal	bizkaia	prem174	Igual aldaketak eztira momentuan sumatuko baña bagabiz poliki pausuak norantza barri batean emoteko irizpideak finkatzen	Aldaketak apurka-apurka nabarituko dira.	0
+g1	dialectal	bizkaia	prem174	Igual aldaketak eztira momentuan sumatuko baña bagabiz poliki pausuak norantza barri batean emoteko irizpideak finkatzen	Norabide zahar batean emateko irizpideak finkatzen dihardugu.	2
+g1	dialectal	bizkaia	prem174	Igual aldaketak eztira momentuan sumatuko baña bagabiz poliki pausuak norantza barri batean emoteko irizpideak finkatzen	Aldaketak lortzeko mentalitate ekina izan behar da.	1
+g8	dialectal	gipuzkoa	prem175	Egun batian Amancay Gaztañaga Sagarzazuk (Guayaquil, 1980) Pandoraren kutxa ireki eta mila koloreko mundua deskubritu zun.	 Amancay Gaztañaga Sagarzazu k gipuzkoarra da.	1
+g8	dialectal	gipuzkoa	prem175	Egun batian Amancay Gaztañaga Sagarzazuk (Guayaquil, 1980) Pandoraren kutxa ireki eta mila koloreko mundua deskubritu zun.	Pandoraren kutxa irekiz gero, mila koloreko mundua deskubritu dezakezu.	0
+g8	dialectal	gipuzkoa	prem175	Egun batian Amancay Gaztañaga Sagarzazuk (Guayaquil, 1980) Pandoraren kutxa ireki eta mila koloreko mundua deskubritu zun.	 Amancay Gaztañaga Sagarzazu k Pandoraren kutxa itxita mantendu zuen.	2
+g5	dialectal	gipuzkoa	prem176	Umorea erabilita ta alaitasunakin gauz asko lortze ia umekin.	Umorea eta alaitasuna umeekin erabiliz gero, zutaz aprobetxatuko dira	2
+g5	dialectal	gipuzkoa	prem176	Umorea erabilita ta alaitasunakin gauz asko lortze ia umekin.	Umeak batzuetan oso neketsuak dira.	1
+g5	dialectal	gipuzkoa	prem176	Umorea erabilita ta alaitasunakin gauz asko lortze ia umekin.	Umeei asko gustatzen zaie umorea eta alaitasuna.	0
+g1	dialectal	bizkaia	prem177	Zergaitik sortzen dauen gutako gehienongan bildurra argitasun ezak, erabateko iluntasunak.	Ez dugu beldurrik izan behar iluntasunari, beldur irrazional bat da.	1
+g1	dialectal	bizkaia	prem177	Zergaitik sortzen dauen gutako gehienongan bildurra argitasun ezak, erabateko iluntasunak.	Gizartea oso ausarta da, ez du inolako beldurrik.	2
+g1	dialectal	bizkaia	prem177	Zergaitik sortzen dauen gutako gehienongan bildurra argitasun ezak, erabateko iluntasunak.	Iluntasunak eta argi ezak beldurra gizarte gehienari beldurra ematen dio.	0
+g7	dialectal	gipuzkoa	prem178	Bide luzea in du Urtxintxa eskolak jendiai balioak erakusten hezkuntza ez-formalian.	Urtxintxa Eskolak hezkuntza ez-formaleko ikastaro ez-presentzialak eskaintzen ditu.	1
+g7	dialectal	gipuzkoa	prem178	Bide luzea in du Urtxintxa eskolak jendiai balioak erakusten hezkuntza ez-formalian.	Urtxintxa Eskolak esperientzia eskasa dauka hezkuntza ez-formalean.	2
+g7	dialectal	gipuzkoa	prem178	Bide luzea in du Urtxintxa eskolak jendiai balioak erakusten hezkuntza ez-formalian.	Urtxintxa Eskolak urte asko daramatza hezkuntza ez-formaleko ikastaroetan balioak irakasten.	0
+g6	dialectal	gipuzkoa	prem179	Ondoren lokal batzuk okupatzen saiatu zian, mon etzuten aurrea in.	Hainbat lokal okupatzeko egindako ahaleginak oso arrakastatsuak izan ziren.	2
+g6	dialectal	gipuzkoa	prem179	Ondoren lokal batzuk okupatzen saiatu zian, mon etzuten aurrea in.	Lokalak okupatzeko saiakeretan batez ere gazteek hartu zuten parte.	1
+g6	dialectal	gipuzkoa	prem179	Ondoren lokal batzuk okupatzen saiatu zian, mon etzuten aurrea in.	Lokalak okupatu gabe gelditu ziren, egindako ahaleginak gorabehera.	0
+s1	dialectal	bizkaia	prem180	Antzerkidxen tradiziñu horizontala da.	Antzerkiaren tradizioa bertikala edo hierarkikoa da.	2
+s1	dialectal	bizkaia	prem180	Antzerkidxen tradiziñu horizontala da.	Antzerkiak tradizio luzea du.	1
+s1	dialectal	bizkaia	prem180	Antzerkidxen tradiziñu horizontala da.	Antzerkietan partaide guztiek dute garrantzia bera.	0
+s1	dialectal	bizkaia	prem181	Kale horretan grua bat imintzeko grua mugikor bategaz da kamioi bategaz eñ bierreko lanatarako itxiko da zirkulaziñue.	Kale horretako trafikoa eten egingo da garabi mugikorra jarri ahal izateko.	0
+s1	dialectal	bizkaia	prem181	Kale horretan grua bat imintzeko grua mugikor bategaz da kamioi bategaz eñ bierreko lanatarako itxiko da zirkulaziñue.	Kale horretan zirkulazioa hobetzeko obrak egingo dira.	1
+s1	dialectal	bizkaia	prem181	Kale horretan grua bat imintzeko grua mugikor bategaz da kamioi bategaz eñ bierreko lanatarako itxiko da zirkulaziñue.	Garabia ipintzeko lanek iraun bitartean, kale horretan autoak etengabe pasatzen ibiliko dira.	2
+g6	dialectal	gipuzkoa	prem182	Ikasitako begikin ikusten deu mundua.	Gure ikuspegia ez da jaiotzetikoa, ikasi egiten dugu.	0
+g6	dialectal	gipuzkoa	prem182	Ikasitako begikin ikusten deu mundua.	Gure iritziak ezin dira baldintzatu.	2
+g6	dialectal	gipuzkoa	prem182	Ikasitako begikin ikusten deu mundua.	Guztiok dugu errealitateari buruzko ikuspuntu bat.	1
+g3	dialectal	gipuzkoa	prem183	Urritik ekaiñea, ikastaro laburretan apuntatzeko aukera dago Urtxintxa Eskolan.	Urtxintxa eskolan iraupen desberdineko formakuntzak egin daitezke urte sasoiaren arabera.	1
+g3	dialectal	gipuzkoa	prem183	Urritik ekaiñea, ikastaro laburretan apuntatzeko aukera dago Urtxintxa Eskolan.	Urritik ekainera, Urtxintxa Eskolak ikastaro motzak eskaintzen ditu.	0
+g3	dialectal	gipuzkoa	prem183	Urritik ekaiñea, ikastaro laburretan apuntatzeko aukera dago Urtxintxa Eskolan.	Urtxintxa eskolak ikastaro luzeak baino ez ditu eskaintzen urritik ekainera.	2
+g3	berridazketa	gipuzkoa	prem184	EGA prestatzeko aukerak badaude sarean	EGA modalitate ez-presentzialean prestatu daiteke.	0
+g3	berridazketa	gipuzkoa	prem184	EGA prestatzeko aukerak badaude sarean	EGA azterketa soilik aurrez-aurreko klaseetan prestatu daiteke.	2
+g3	berridazketa	gipuzkoa	prem184	EGA prestatzeko aukerak badaude sarean	EGA azterketa prestatzeko gogor egin behar da lan.	1
+s3	dialectal	bizkaia	prem185	Arriaga antzokixan Macbeth, Shakespearen lan klasikun bertsiñoi, estreñako dabe febrerun 7xan.	Arriaga antzokian estreinatuko den antzezlana Macbeth-en moldaketa guztiz modernoa da.	1
+s3	dialectal	bizkaia	prem185	Arriaga antzokixan Macbeth, Shakespearen lan klasikun bertsiñoi, estreñako dabe febrerun 7xan.	Arriaga antzokian otsailaren 7an, Shakespeareren lan baten bertsio bat antzeztuko da, Macbeth, hain zuzen ere.	0
+s3	dialectal	bizkaia	prem185	Arriaga antzokixan Macbeth, Shakespearen lan klasikun bertsiñoi, estreñako dabe febrerun 7xan.	Otsailaren 7an ikuslegoak ezingo du Macbeth ikusi Arriaga antzokian.	2
+g1	dialectal	bizkaia	prem186	Marijuli kriston persona bizia zan, goxoa, hurbila, arduratsua, maitakorra.	Marijulik bizitasun handia zuen eta jendearekin oso atsegina eta gertukoa zen.	0
+g1	dialectal	bizkaia	prem186	Marijuli kriston persona bizia zan, goxoa, hurbila, arduratsua, maitakorra.	Marijuli herriko emakume nagusi bat zen.	1
+g1	dialectal	bizkaia	prem186	Marijuli kriston persona bizia zan, goxoa, hurbila, arduratsua, maitakorra.	Marijuli pertsona bizigabea, zatarra, arduragabea, hotza eta desatsegina zen.	2
+g2	dialectal	bizkaia	prem187	Berrizabal 2008ko martzun atxilotu ben 18/98 makrosumaixuatxik eta 12 urteko kartzela zigorra ipini tzan Auzitegi Nazionalak	Berrizabal 2008an atxilotu zuten, eta 18/98 makrosumarioren epaiketa iritsi bitartean behin-behineko espetxeratzea ezarri zioten.	1
+g2	dialectal	bizkaia	prem187	Berrizabal 2008ko martzun atxilotu ben 18/98 makrosumaixuatxik eta 12 urteko kartzela zigorra ipini tzan Auzitegi Nazionalak	2008an 19/98 makrosumarioagatik atxilotua izan eta gero, Auzitegi Nazionalak erabaki zuen Berrizabal erruduna zela eta 12 urtez espetxeratuta egon beharko zuela.	0
+g2	dialectal	bizkaia	prem187	Berrizabal 2008ko martzun atxilotu ben 18/98 makrosumaixuatxik eta 12 urteko kartzela zigorra ipini tzan Auzitegi Nazionalak	Berrizabal 19/98 makrosumarioagatik atxilotu zuten 2008ko martxoan, baina epaitzerakoan, Auzitegi Nazionalak akusatua errugabe deklaratu eta karguetatik libre utzi zuen.	2
+g7	dialectal	gipuzkoa	prem188	Oain dela gutxi jun da Peru izotz jauregiko klase batea.	Peruk duela gutxi izotz gaineko pista batean egon da.	0
+g7	dialectal	gipuzkoa	prem188	Oain dela gutxi jun da Peru izotz jauregiko klase batea.	Peru ez da sekula egon izotz gaineko pista batean.	2
+g7	dialectal	gipuzkoa	prem188	Oain dela gutxi jun da Peru izotz jauregiko klase batea.	Peru izotz-gaineko patinaje klase batean egon da.	1
+g1	dialectal	bizkaia	prem189	Nagusiaren etxeko ohe txiker baten amaitu eben laurek.	Kalean amaitu zuten laurek.	2
+g1	dialectal	bizkaia	prem189	Nagusiaren etxeko ohe txiker baten amaitu eben laurek.	Nagusiaren etxean ohe txiki bat baino ez dago libre.	1
+g1	dialectal	bizkaia	prem189	Nagusiaren etxeko ohe txiker baten amaitu eben laurek.	Laurak euren buruzagiaren etxera joan ziren.	0
+g5	dialectal	gipuzkoa	prem190	Peru Kutxak antolatutako ingles udalekua jute a goizetan.	Goizero, Peru udalekuetara doa ingelesera ikastera.	0
+g5	dialectal	gipuzkoa	prem190	Peru Kutxak antolatutako ingles udalekua jute a goizetan.	Udan, Peruk goizak etxean pasatzen ditu.	2
+g5	dialectal	gipuzkoa	prem190	Peru Kutxak antolatutako ingles udalekua jute a goizetan.	Udan udalekuak antolatzen dira haur eta gazteentzako.	1
+s2	dialectal	gipuzkoa	prem191	Herri guztik due erabakitzeko eskubidea.	Herrialde batzuen konstituzioan erabakitzeko eskubidea aitortzen da.	1
+s2	dialectal	gipuzkoa	prem191	Herri guztik due erabakitzeko eskubidea.	Edozein herrialdek izan behar du erabakitzeko aukera.	0
+s2	dialectal	gipuzkoa	prem191	Herri guztik due erabakitzeko eskubidea.	Herri banaka batzuei dagokie erabakitzeko eskubidea.	2
+g5	dialectal	gipuzkoa	prem192	Aurreko lanbaten hasi zian Santutxuko festak AEK euskaltegiko ta Gaztedi Dantzari Taldeko kiden pregoiakin.	Aurreko larunbatean, Santutxuko jaiak hasi ziren AEK euskaltegiko eta Gaztedi Dantzari Taldeko pregoilarien eskutik.	0
+g5	dialectal	gipuzkoa	prem192	Aurreko lanbaten hasi zian Santutxuko festak AEK euskaltegiko ta Gaztedi Dantzari Taldeko kiden pregoiakin.	Joan den larunbatean, Santutxuko jaiak hasi ziren, AEK euskaltegiko eta Gaztedi Dantzari Taldeko kideek pregoilari izateari uko egin bazioten ere.	2
+g5	dialectal	gipuzkoa	prem192	Aurreko lanbaten hasi zian Santutxuko festak AEK euskaltegiko ta Gaztedi Dantzari Taldeko kiden pregoiakin.	Aurreko larunbatean, Santutxun giro atsegina zegoen jaien hasiera zela eta.	1
+g7	dialectal	gipuzkoa	prem193	Markina Elkartegiya industriakin zerikusia dun enpresa zentro bat da.	Markina Elkartegian industria erloko enpresa ertainak biltzen dira.	1
+g7	dialectal	gipuzkoa	prem193	Markina Elkartegiya industriakin zerikusia dun enpresa zentro bat da.	Markina Elkartegian biltzen diren enpresa gehienak bigarren-sektorekoak dira.	0
+g7	dialectal	gipuzkoa	prem193	Markina Elkartegiya industriakin zerikusia dun enpresa zentro bat da.	Markina Elkartegian biltzen diren enpresak lehen sektorekoak dira, hau da, nekazaritza eta abeltzaintzan dihardute.	2
+g4	dialectal	nafarroa	prem194	Duela hiru aste ikusi nun azkenengoz	Hiru aste barru ikusiko dut lehenengo aldiz.	2
+g4	dialectal	nafarroa	prem194	Duela hiru aste ikusi nun azkenengoz	Badira hiru aste kalera irten nintzela.	1
+g4	dialectal	nafarroa	prem194	Duela hiru aste ikusi nun azkenengoz	Badira hiru aste ez dudala ikusi.	0
+g2	dialectal	bizkaia	prem195	Gernika Alkartegixe enpresa zentro bat a, sortu barri dizen enpresa-proiektuk eta hedapen-prozesun dazen enpresak hartzeko sortutaku	Gernika Elkartegia oso handia da eta sortu berri diren enpresa ugari biltzen dira.	1
+g2	dialectal	bizkaia	prem195	Gernika Alkartegixe enpresa zentro bat a, sortu barri dizen enpresa-proiektuk eta hedapen-prozesun dazen enpresak hartzeko sortutaku	Gernika Elkartegiaren helburua da duela gutxi sortu diren edo hedapen-prozesuan dauden enpresak biltzea.	0
+g2	dialectal	bizkaia	prem195	Gernika Alkartegixe enpresa zentro bat a, sortu barri dizen enpresa-proiektuk eta hedapen-prozesun dazen enpresak hartzeko sortutaku	Gernika Elkartegiak enpresa-proiektu berriak eta hedatzen ari diren enpresak suntsitzeko balio du.	2
+g7	dialectal	gipuzkoa	prem196	Ahal degu esan lan kurioso bat dakala: munduko ibiltaria.	Mundutik bidaiatzea ofizio izatea ez-ohikoa da.	0
+g7	dialectal	gipuzkoa	prem196	Ahal degu esan lan kurioso bat dakala: munduko ibiltaria.	Bere lana etxetik mugitu barik burutzen du.	2
+g7	dialectal	gipuzkoa	prem196	Ahal degu esan lan kurioso bat dakala: munduko ibiltaria.	Dirua irabazteko lan egin behar da.	1
+g6	dialectal	gipuzkoa	prem197	Chicagotik Los Angeleseko bueloa bi ordu beranduago iritsi zan.	Chicagotik Los Angelesera hiru orduero hegaldi bat ateratzen da.	1
+g6	dialectal	gipuzkoa	prem197	Chicagotik Los Angeleseko bueloa bi ordu beranduago iritsi zan.	Chicagotik Los Angeleserako hegaldiak bere iritsiera bi orduz aurreratu zuen.	2
+g6	dialectal	gipuzkoa	prem197	Chicagotik Los Angeleseko bueloa bi ordu beranduago iritsi zan.	Chicagotik Los Angelesera zihoan hegazkina berandu iritsi zen.	0
+g5	dialectal	gipuzkoa	prem198	Jack London paajetan piraguan ibaiak ta Alaskako lago ikusgarritan ibili ta geo, laun haundi bat etorri zitzaiten ospitalea bixitan, atzo.	Atzo ni bakarrik egon nintzen erietxean.	2
+g5	dialectal	gipuzkoa	prem198	Jack London paajetan piraguan ibaiak ta Alaskako lago ikusgarritan ibili ta geo, laun haundi bat etorri zitzaiten ospitalea bixitan, atzo.	Atzo, Kaliforniatik eta Alaskatik bidaiatzen ibili zen lagun batek bisita egin zidan ospitalean.	0
+g5	dialectal	gipuzkoa	prem198	Jack London paajetan piraguan ibaiak ta Alaskako lago ikusgarritan ibili ta geo, laun haundi bat etorri zitzaiten ospitalea bixitan, atzo.	Atzo erietxean bisitatu ninduen lagun mina txiki-txikitatik ezagutzen dut.	1
+g6	dialectal	gipuzkoa	prem199	Lau urtaotako lau denboaldi luze izan ditugu Paradisu zineman.	Paradisu zineman lau urtarotako lau denboraldi laburrez aritu gara.	2
+g6	dialectal	gipuzkoa	prem199	Lau urtaotako lau denboaldi luze izan ditugu Paradisu zineman.	Paradisu zineman komentatutako denboraldiek luze-labur aldakorra dute.	1
+g6	dialectal	gipuzkoa	prem199	Lau urtaotako lau denboaldi luze izan ditugu Paradisu zineman.	Paradisu zineman komentatu ditugun lau denboraldiak iraupen luzekoak dira.	0
+s3	dialectal	bizkaia	prem200	Holaik, Euskal Herriko umik eta gaztik ziniaz gozatzeko aukeri daukebe euren hizkuntzan, euskaraz, erderazko bertsiñoik estreñaten dizen bertan momentun.	Modu honetan, Euskal Herriko haur eta gazteek filmak gazteleraz ikusi ahalko dituzte estreinalditik, baina euskaraz ikusteko luzaroan itxaron beharko dute.	2
+s3	dialectal	bizkaia	prem200	Holaik, Euskal Herriko umik eta gaztik ziniaz gozatzeko aukeri daukebe euren hizkuntzan, euskaraz, erderazko bertsiñoik estreñaten dizen bertan momentun.	Euskal Herrian batzuetan filmak ingelesez ere gozatu daitezke estreinalditik.	1
+s3	dialectal	bizkaia	prem200	Holaik, Euskal Herriko umik eta gaztik ziniaz gozatzeko aukeri daukebe euren hizkuntzan, euskaraz, erderazko bertsiñoik estreñaten dizen bertan momentun.	Euskarazko eta gaztelerazko bertsioak aldi berean kaleratuko direnez, Euskal Herriko haur eta gazteek hasieratik gozatu ahalko dute zinemaz euskaraz.	0
+g2	dialectal	bizkaia	prem201	"Santutxuko Gazte Asanbladak kapitalismo ""zapaltzaillin aurrin"" ekimen bi antolatu txuz ongo astin"	Santutxuko Gazte Asanbladan astero ekintzak antolatzen dira.	1
+g2	dialectal	bizkaia	prem201	"Santutxuko Gazte Asanbladak kapitalismo ""zapaltzaillin aurrin"" ekimen bi antolatu txuz ongo astin"	Aste honetan, Santutxuko Gazte Asanbladaren eskutik bi ekintza antolatu dira kapitalismoaren alderdi askatzailea defendatzeko.	2
+g2	dialectal	bizkaia	prem201	"Santutxuko Gazte Asanbladak kapitalismo ""zapaltzaillin aurrin"" ekimen bi antolatu txuz ongo astin"	Santutxuko Gazte Asanbladak kapitalismoaren opresioaren kontrako ekintzak antolatzen ditu.	0
+g7	dialectal	gipuzkoa	prem202	Aurtengo zorionetako opariyak espeziala izan ber zun: aman bizitzan argazki-kolekzio bat ta merienda sorpresa.	Amaren aurtengo urtebetetzea berezia izan zedin, familia osoa elkartu gara meriendatzeko.	1
+g7	dialectal	gipuzkoa	prem202	Aurtengo zorionetako opariyak espeziala izan ber zun: aman bizitzan argazki-kolekzio bat ta merienda sorpresa.	Urte honetako urtebetetze-oparia bestelakoa izan zedin, amari ezusteko merienda bat prestatu eta argazkien bilduma bat oparitu genion.	0
+g7	dialectal	gipuzkoa	prem202	Aurtengo zorionetako opariyak espeziala izan ber zun: aman bizitzan argazki-kolekzio bat ta merienda sorpresa.	Amaren aurtengo urtebetetze oparia guztiz arrunta izan behar zuen, hori dela eta argazkien bilduma bat baino ez diogu oparitu.	2
+g4	dialectal	nafarroa	prem203	Gañea bizipoza emateu aristokrazian bazeola bat euskara maite ta erabili izan zedin urratsan eman zituena	Aristokrata guztiek euskara gorrotatzen zuten, horregatik euskararen erabilera murrizteko urratsak eman zituzten.	2
+g4	dialectal	nafarroa	prem203	Gañea bizipoza emateu aristokrazian bazeola bat euskara maite ta erabili izan zedin urratsan eman zituena	Aristokraziaren artean baten batek euskal hizkuntzalaritzan ziharduen, eta horrek poztasuna ematen du.	1
+g4	dialectal	nafarroa	prem203	Gañea bizipoza emateu aristokrazian bazeola bat euskara maite ta erabili izan zedin urratsan eman zituena	Aristokrataren batek euskararen erabilera bultzatzeko esfortzuak egin zituen hizkuntza atsegin zuelako, eta hori alaigarria da.	0
+g2	dialectal	bizkaia	prem204	Euskaldunok hartzaile pasibuai euskeraz etxe tzauenin, eta ordun bakarrik, emongo tzau buelti erabileriai	Euskararen erabilera iraultzeko euskaldunok hartzaile pasiboei erdaraz hitz egiten behar diegu.	2
+g2	dialectal	bizkaia	prem204	Euskaldunok hartzaile pasibuai euskeraz etxe tzauenin, eta ordun bakarrik, emongo tzau buelti erabileriai	Haurrak aurrean daudenean, euskaldunok hartzaile pasiboekin maizago hitz egiten dugu euskaraz.	1
+g2	dialectal	bizkaia	prem204	Euskaldunok hartzaile pasibuai euskeraz etxe tzauenin, eta ordun bakarrik, emongo tzau buelti erabileriai	Euskararen erabilera handitzeko euskaldunok hartzaile pasiboei euskaraz hitz egin behar diegu.	0
+g8	toka	gipuzkoa	prem205	Mikel Antzak 2012an argitaratu dun eleberria dek Atzerri; autofikzioa omen dek eleberriaren muina.	2012an, Mikel Antzak Atzerri argitaratu du, hots, bere bizipenak biltzen dituen liburu autobiografikoa.	2
+g8	toka	gipuzkoa	prem205	Mikel Antzak 2012an argitaratu dun eleberria dek Atzerri; autofikzioa omen dek eleberriaren muina.	Mikel Antzaren Atzerri eleberria 2012 argitaratu zen, eta geroztik arrakasta handia izan du euskal irakurleen artean.	1
+g8	toka	gipuzkoa	prem205	Mikel Antzak 2012an argitaratu dun eleberria dek Atzerri; autofikzioa omen dek eleberriaren muina.	Mikel Antzak Atzerri nobela idatzi zuen, eta diotenez nobelaren ardatza bere bizipenen eta fikzioaren arteko nahasketa da.	0
+g1	dialectal	bizkaia	prem206	Amaitu danean txaloka hasi naz len aldiz nire bizitzan	Amaitzean, atsegin izan dudala adierazi dut.	0
+g1	dialectal	bizkaia	prem206	Amaitu danean txaloka hasi naz len aldiz nire bizitzan	Amaitu denean, betiko legez, geldi-geldi geratu naiz.	2
+g1	dialectal	bizkaia	prem206	Amaitu danean txaloka hasi naz len aldiz nire bizitzan	Nire amaierako erreakzioak oso ohikoak dira.	1
+g1	dialectal	bizkaia	prem207	Ekintzailetzarako eta coworking aretoa be badau, enpresa-proiektu bat abian jartzeko behar dan azpiegitura guztiagaz.	Nahiz eta ekintzailetzarako eta coworkinetako areto bat dituen, dituen azpiegiturak eskasegiak dira enpresa-proiektu bat martxan jartzeko.	2
+g1	dialectal	bizkaia	prem207	Ekintzailetzarako eta coworking aretoa be badau, enpresa-proiektu bat abian jartzeko behar dan azpiegitura guztiagaz.	Enpresa-proiektu bat martxan jartzeko beharrezkoak diren oinarrizko azpiegiturak enpresaren beharren araberakoak dira.	1
+g1	dialectal	bizkaia	prem207	Ekintzailetzarako eta coworking aretoa be badau, enpresa-proiektu bat abian jartzeko behar dan azpiegitura guztiagaz.	Enpresen arteko elkarlana bultzatzeko eta enpresa berrien sorkuntza bultzatzeko behar diren azpiegiturak ditu.	0

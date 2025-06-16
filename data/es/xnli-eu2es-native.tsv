@@ -1,0 +1,622 @@
+prem_id	premise	hypothesis_id	hypothesis	label
+prem1	El sorteo se realiza ante notario y se lleva a cabo mediante un programa informático para la asignación de números equiprobables.	prem1_hyp0	Se necesitan un ordenador y un notario para realizar el sorteo.	0
+prem1	El sorteo se realiza ante notario y se lleva a cabo mediante un programa informático para la asignación de números equiprobables.	prem1_hyp1	Normalmente es el mismo notario en todos los sorteos.	1
+prem1	El sorteo se realiza ante notario y se lleva a cabo mediante un programa informático para la asignación de números equiprobables.	prem1_hyp2	El sorteo se realiza introduciendo papeletas numeradas en un recipiente y sacando una al azar.	2
+prem2	Enrike Eizagirre y Ane Sarasketa ofreciendo la emocionante danza de Arratia.	prem2_hyp0	Enrique y Ana bailando pasos de baile.	0
+prem2	Enrike Eizagirre y Ane Sarasketa ofreciendo la emocionante danza de Arratia.	prem2_hyp1	Ane y Enrique tienen pantalones azules.	1
+prem2	Enrike Eizagirre y Ane Sarasketa ofreciendo la emocionante danza de Arratia.	prem2_hyp2	Enrique Izaguirre y Ana Sarasqueta estaban comiendo helado.	2
+prem3	El gaztetxe Sorgintxulo fue ocupado en el año 1998 en los locales vacíos de la iglesia del Carmelo.	prem3_hyp0	La iglesia del Carmen era la propietaria del gaztetxe Sorgintxulo.	0
+prem3	El gaztetxe Sorgintxulo fue ocupado en el año 1998 en los locales vacíos de la iglesia del Carmelo.	prem3_hyp1	Se ofrecen varios conciertos en el gaztetxe Sorgintxulo.	1
+prem3	El gaztetxe Sorgintxulo fue ocupado en el año 1998 en los locales vacíos de la iglesia del Carmelo.	prem3_hyp2	El gaztetxe Sorgintxulo fue cedido por el ayuntamiento a un grupo de jóvenes.	2
+prem4	En el disco compuesto por nueve canciones se mezclan el hardcore con el rock y el metal.	prem4_hyp0	El disco tiene menos de diez canciones en total.	0
+prem4	En el disco compuesto por nueve canciones se mezclan el hardcore con el rock y el metal.	prem4_hyp1	La duración de cada canción es de aproximadamente tres minutos, aunque también hay una de seis minutos.	1
+prem4	En el disco compuesto por nueve canciones se mezclan el hardcore con el rock y el metal.	prem4_hyp2	Los sonidos tranquilos predominan en el disco.	2
+prem5	"La película ""Ballerina"" llegará pasado mañana a las salas de cine, en euskera."	prem5_hyp0	La película Ballerina podrá verse en euskera.	0
+prem5	"La película ""Ballerina"" llegará pasado mañana a las salas de cine, en euskera."	prem5_hyp1	"""Ballerina"" es una película de animación hecha en Francia."	1
+prem5	"La película ""Ballerina"" llegará pasado mañana a las salas de cine, en euskera."	prem5_hyp2	"No se podrá ver ""Ballerina"" en el cine hasta dentro de un mes."	2
+prem6	Hoy se ha publicado el nuevo trabajo del grupo Solte de Santutxu.	prem6_hyp0	El grupo Solte de Santutxu ha realizado un nuevo trabajo.	0
+prem6	Hoy se ha publicado el nuevo trabajo del grupo Solte de Santutxu.	prem6_hyp1	El disco ha llegado después de estar parado durante los últimos cinco años.	1
+prem6	Hoy se ha publicado el nuevo trabajo del grupo Solte de Santutxu.	prem6_hyp2	El grupo Solte desapareció hace tres años.	2
+prem7	Aunque el bertsolari Txirrita era una persona que no sabía leer, tenía un instinto extraordinario para hacer lecturas de la información que había recopilado.	prem7_hyp0	Txirrita no leyó ni un solo libro en toda su vida.	0
+prem7	Aunque el bertsolari Txirrita era una persona que no sabía leer, tenía un instinto extraordinario para hacer lecturas de la información que había recopilado.	prem7_hyp1	Al bertsolari Basarri, por su parte, le gustaba mucho leer novelas.	1
+prem7	Aunque el bertsolari Txirrita era una persona que no sabía leer, tenía un instinto extraordinario para hacer lecturas de la información que había recopilado.	prem7_hyp2	Mientras tomaba café, Txirrita leía el periódico todas las mañanas.	2
+prem8	Los trabajos no tendrán más de dos páginas, en formato A4 (vertical).	prem8_hyp0	Se deberá utilizar el formato A4 para realizar los trabajos.	0
+prem8	Los trabajos no tendrán más de dos páginas, en formato A4 (vertical).	prem8_hyp1	Se debe utilizar obligatoriamente el tamaño Arial 12 para escribir.	1
+prem8	Los trabajos no tendrán más de dos páginas, en formato A4 (vertical).	prem8_hyp2	También se aceptarán trabajos de cuatro páginas.	2
+prem9	¡Realmente peculiar fue la vida de este Antton y su morada aún más fascinante!	prem9_hyp0	El lugar donde vivió Antton era extraño.	0
+prem9	¡Realmente peculiar fue la vida de este Antton y su morada aún más fascinante!	prem9_hyp1	Antton tuvo dos hijas siendo muy joven.	1
+prem9	¡Realmente peculiar fue la vida de este Antton y su morada aún más fascinante!	prem9_hyp2	Antón tuvo una vida tranquila, sin grandes aventuras.	2
+prem10	El Centro Empresarial de Santurtzi está ubicado en el polígono industrial El Árbol de Santurtzi, cerca de la autopista A-8.	prem10_hyp0	El Centro Empresarial de Santurce no está lejos de la autopista A-8.	0
+prem10	El Centro Empresarial de Santurtzi está ubicado en el polígono industrial El Árbol de Santurtzi, cerca de la autopista A-8.	prem10_hyp1	En el polígono industrial El Árbol hay un total de 27 empresas.	1
+prem10	El Centro Empresarial de Santurtzi está ubicado en el polígono industrial El Árbol de Santurtzi, cerca de la autopista A-8.	prem10_hyp2	El Centro Empresarial Santurtzi está en Portugalete, aunque por el nombre no lo parezca.	2
+prem11	"""Ballerina"" es una de las mayores coproducciones de animación realizadas en Europa en los últimos años."	prem11_hyp0	"La película de animación ""Ballerina"" está hecha en Europa."	0
+prem11	"""Ballerina"" es una de las mayores coproducciones de animación realizadas en Europa en los últimos años."	prem11_hyp1	La protagonista de la película es una chica.	1
+prem11	"""Ballerina"" es una de las mayores coproducciones de animación realizadas en Europa en los últimos años."	prem11_hyp2	"Aunque fue hecha en los Estados Unidos de América, la historia de ""Ballerina"" se sitúa en Europa."	2
+prem12	Es cierto, por cierto, que probablemente se entienden mejor varios pasajes después de haber leído el libro.	prem12_hyp0	Algunos pasajes son más difíciles de entender sin haber leído el libro.	0
+prem12	Es cierto, por cierto, que probablemente se entienden mejor varios pasajes después de haber leído el libro.	prem12_hyp1	Han modificado algunos pasajes del libro que eran de terror.	1
+prem12	Es cierto, por cierto, que probablemente se entienden mejor varios pasajes después de haber leído el libro.	prem12_hyp2	No tiene ningún efecto no haber leído el libro.	2
+prem13	Mientras Miren fumaba un cigarrillo junto a la ventana de casa, Lucia se le acercó y, delante de su marido, empezó a tocar a Miren.	prem13_hyp0	Mientras Miren estaba junto a la ventana de casa, Lucia empezó a tocarla.	0
+prem13	Mientras Miren fumaba un cigarrillo junto a la ventana de casa, Lucia se le acercó y, delante de su marido, empezó a tocar a Miren.	prem13_hyp1	El marido de Miren estaba viendo la televisión cuando llegó Lucia.	1
+prem13	Mientras Miren fumaba un cigarrillo junto a la ventana de casa, Lucia se le acercó y, delante de su marido, empezó a tocar a Miren.	prem13_hyp2	Cuando llegó Lucía no se atrevió a acercarse a Miren, ya que su marido estaba presente.	2
+prem14	"Este otoño comenzarán su tercer año en el programa de radio ""Sukalde dema"" de Radio Euskadi."	prem14_hyp0	Los concursos de cocina llevan más de un año en Radio Euskadi.	0
+prem14	"Este otoño comenzarán su tercer año en el programa de radio ""Sukalde dema"" de Radio Euskadi."	prem14_hyp1	Los presentadores del concurso de cocina cambiaron después del primer año.	1
+prem14	"Este otoño comenzarán su tercer año en el programa de radio ""Sukalde dema"" de Radio Euskadi."	prem14_hyp2	"El programa ""Desafío de cocina"" solo duró un año en radio euskadi."	2
+prem15	Además, el parte de accidente no lo tienen ni en euskera ni en euskera-castellano.	prem15_hyp0	No tienen el parte de accidente en euskera.	0
+prem15	Además, el parte de accidente no lo tienen ni en euskera ni en euskera-castellano.	prem15_hyp1	Tuvo un accidente en el coche rojo hace dos semanas.	1
+prem15	Además, el parte de accidente no lo tienen ni en euskera ni en euskera-castellano.	prem15_hyp2	Me han dicho que tienen un parte de accidente que está completamente en euskera.	2
+prem16	En España, el 60% de los matrimonios terminan en divorcio.	prem16_hyp0	Más de la mitad de los matrimonios se divorcia en España.	0
+prem16	En España, el 60% de los matrimonios terminan en divorcio.	prem16_hyp1	Cada vez son menos los que se casan por la iglesia en el estado español.	1
+prem16	En España, el 60% de los matrimonios terminan en divorcio.	prem16_hyp2	Menos de la mitad son los que se separan después de casarse.	2
+prem17	Un pueblo que no se imagina no puede existir.	prem17_hyp0	Todos los pueblos que existen pueden ser imaginados.	0
+prem17	Un pueblo que no se imagina no puede existir.	prem17_hyp1	Hay algunos pueblos que tienen todas las casas blancas.	1
+prem17	Un pueblo que no se imagina no puede existir.	prem17_hyp2	Ayer vimos un pueblo que no se imagina.	2
+prem18	En los últimos días hemos conocido las peticiones fiscales contra 48 personas por trabajar en el ámbito de los presos políticos vascos, algunas de ellas superiores a 20 años.	prem18_hyp0	La fiscalía ha solicitado penas para varias personas.	0
+prem18	En los últimos días hemos conocido las peticiones fiscales contra 48 personas por trabajar en el ámbito de los presos políticos vascos, algunas de ellas superiores a 20 años.	prem18_hyp1	La mayoría de los que trabajan en el tema de los presos políticos son guipuzcoanos.	1
+prem18	En los últimos días hemos conocido las peticiones fiscales contra 48 personas por trabajar en el ámbito de los presos políticos vascos, algunas de ellas superiores a 20 años.	prem18_hyp2	La Fiscalía ha dado el visto bueno a la labor que realizan quienes trabajan en el tema de los presos políticos.	2
+prem19	Hasta ahora, debido al bajo nivel de euskera, la nota general en selectividad bajaba mucho a los estudiantes locales.	prem19_hyp0	El nivel de idioma influía en la nota general de selectividad.	0
+prem19	Hasta ahora, debido al bajo nivel de euskera, la nota general en selectividad bajaba mucho a los estudiantes locales.	prem19_hyp1	El año pasado se registraron las notas más bajas de la historia en los exámenes de selectividad.	1
+prem19	Hasta ahora, debido al bajo nivel de euskera, la nota general en selectividad bajaba mucho a los estudiantes locales.	prem19_hyp2	El nivel de euskera no tenía importancia en la nota de selectividad.	2
+prem20	Mi amigo dice que, aunque haya viajado por todo el mundo, el día que enferme volverá inmediatamente al País Vasco.	prem20_hyp0	El amigo anda por el mundo.	0
+prem20	Mi amigo dice que, aunque haya viajado por todo el mundo, el día que enferme volverá inmediatamente al País Vasco.	prem20_hyp1	El amigo no nació en el País Vasco.	1
+prem20	Mi amigo dice que, aunque haya viajado por todo el mundo, el día que enferme volverá inmediatamente al País Vasco.	prem20_hyp2	El amigo dice que tiene la intención de viajar por el mundo para siempre.	2
+prem21	Aunque han pasado más de 40 años, la película 'Alien, el octavo pasajero' no envejece.	prem21_hyp0	La película 'Alien, el octavo pasajero' se realizó hace más de cuatro décadas.	0
+prem21	Aunque han pasado más de 40 años, la película 'Alien, el octavo pasajero' no envejece.	prem21_hyp1	La película 'Alien, el octavo pasajero' no recibió críticas especialmente buenas en un principio.	1
+prem21	Aunque han pasado más de 40 años, la película 'Alien, el octavo pasajero' no envejece.	prem21_hyp2	La película 'Alien, el octavo pasajero' se estrenará próximamente.	2
+prem22	Nuestro trabajo muchas veces puede ser muy difícil, muy duro y muy negro, y necesitamos recurrir al humor de vez en cuando.	prem22_hyp0	Nuestro trabajo suele ser duro más de una vez.	0
+prem22	Nuestro trabajo muchas veces puede ser muy difícil, muy duro y muy negro, y necesitamos recurrir al humor de vez en cuando.	prem22_hyp1	Tenemos buena relación entre compañeros de trabajo, aunque a veces también tenemos algunos desacuerdos.	1
+prem22	Nuestro trabajo muchas veces puede ser muy difícil, muy duro y muy negro, y necesitamos recurrir al humor de vez en cuando.	prem22_hyp2	Siempre tenemos que estar muy serios en el trabajo.	2
+prem23	Es sabido que cualquier persona que se acerque a un sistema de salud público encontrará algún fallo y motivo para enfadarse.	prem23_hyp0	Hay errores en el sistema de salud público.	0
+prem23	Es sabido que cualquier persona que se acerque a un sistema de salud público encontrará algún fallo y motivo para enfadarse.	prem23_hyp1	Los médicos del sistema público de salud están enfadados con las medidas adoptadas.	1
+prem23	Es sabido que cualquier persona que se acerque a un sistema de salud público encontrará algún fallo y motivo para enfadarse.	prem23_hyp2	Se puede decir que el sistema de salud público de aquí es perfecto.	2
+prem24	Por lo tanto, la asociación vecinal no resulta atractiva para la gente joven.	prem24_hyp0	La mayoría de la gente que se acerca a la asociación vecinal es adulta.	0
+prem24	Por lo tanto, la asociación vecinal no resulta atractiva para la gente joven.	prem24_hyp1	La asociación vecinal cumplió veinte años el año pasado.	1
+prem24	Por lo tanto, la asociación vecinal no resulta atractiva para la gente joven.	prem24_hyp2	Últimamente hay muchos jóvenes participando en la asociación vecinal.	2
+prem25	El premio creado por la Diputación Foral, el premio Antton Abbadie, ha sido un merecido reconocimiento.	prem25_hyp0	Merecía recibir el premio Antton Abbadie.	0
+prem25	El premio creado por la Diputación Foral, el premio Antton Abbadie, ha sido un merecido reconocimiento.	prem25_hyp1	Además del premio Antton Abbadie, ha recibido otros también.	1
+prem25	El premio creado por la Diputación Foral, el premio Antton Abbadie, ha sido un merecido reconocimiento.	prem25_hyp2	Le otorgaron el premio Antton Abbadie a la Diputación Foral.	2
+prem26	En este libro, se han recogido sus declaraciones y los detalles de su forma de hablar.	prem26_hyp0	Lo que ellos indicaron ha quedado recogido en el libro.	0
+prem26	En este libro, se han recogido sus declaraciones y los detalles de su forma de hablar.	prem26_hyp1	La persona que ha escrito el libro es famosa.	1
+prem26	En este libro, se han recogido sus declaraciones y los detalles de su forma de hablar.	prem26_hyp2	Hay muy poco en el libro sobre el lenguaje.	2
+prem27	Será interesante comparar la construcción futura con las fotografías tomadas allí.	prem27_hyp0	Se han sacado las fotos allí.	0
+prem27	Será interesante comparar la construcción futura con las fotografías tomadas allí.	prem27_hyp1	La construcción del futuro será mejor.	1
+prem27	Será interesante comparar la construcción futura con las fotografías tomadas allí.	prem27_hyp2	Es aburrido estar comparando construcciones.	2
+prem28	El frontón cuenta con 65 asientos para personas con movilidad reducida, y el Trinquete con 16.	prem28_hyp0	El frontón tiene más asientos para personas con movilidad reducida que el Trinquete.	0
+prem28	El frontón cuenta con 65 asientos para personas con movilidad reducida, y el Trinquete con 16.	prem28_hyp1	Suele ir más gente al Frontón a ver partidos que al Trinquete.	1
+prem28	El frontón cuenta con 65 asientos para personas con movilidad reducida, y el Trinquete con 16.	prem28_hyp2	El Trinquet tiene al menos tantos asientos como el Frontón para personas con movilidad reducida.	2
+prem29	He realizado una visita guiada al Acuario de San Sebastián en octubre.	prem29_hyp0	Estuve en San Sebastián en octubre.	0
+prem29	He realizado una visita guiada al Acuario de San Sebastián en octubre.	prem29_hyp1	He estado en el acuario tres veces en total.	1
+prem29	He realizado una visita guiada al Acuario de San Sebastián en octubre.	prem29_hyp2	He estado sin ir al Acuario durante todo el otoño.	2
+prem30	Sin embargo, estamos inmersos en pleno cambio y, entre otras cosas, también estamos trabajando en la revisión de los criterios lingüísticos.	prem30_hyp0	Entre otras cosas, estamos revisando los criterios lingüísticos.	0
+prem30	Sin embargo, estamos inmersos en pleno cambio y, entre otras cosas, también estamos trabajando en la revisión de los criterios lingüísticos.	prem30_hyp1	El objetivo principal del cambio es facilitar la oportunidad de aprender más idiomas.	1
+prem30	Sin embargo, estamos inmersos en pleno cambio y, entre otras cosas, también estamos trabajando en la revisión de los criterios lingüísticos.	prem30_hyp2	Parecía que teníamos intención de hacer algunos cambios, pero al final hemos decidido seguir igual.	2
+prem31	Las leyendas más interesantes que gobiernan nuestros cerebros han nacido en la oscuridad.	prem31_hyp0	Las historias más interesantes de nuestro cerebro nacen en la oscuridad.	0
+prem31	Las leyendas más interesantes que gobiernan nuestros cerebros han nacido en la oscuridad.	prem31_hyp1	No podemos saber de dónde vienen todas las leyendas interesantes.	1
+prem31	Las leyendas más interesantes que gobiernan nuestros cerebros han nacido en la oscuridad.	prem31_hyp2	Todas las historias interesantes de nuestro cerebro nacen en la luz.	2
+prem32	El primer día nos encontramos con tres grupos; solo uno era en euskera.	prem32_hyp0	Un tercio de los grupos que se encontraron el primer día eran en euskera.	0
+prem32	El primer día nos encontramos con tres grupos; solo uno era en euskera.	prem32_hyp1	Los grupos del primer día eran muy heterogéneos, había gente de diferentes edades y culturas.	1
+prem32	El primer día nos encontramos con tres grupos; solo uno era en euskera.	prem32_hyp2	La mayoría de los grupos encontrados el primer día eran en euskera.	2
+prem33	Muchos niños asisten a cursos de castellano en San Sebastián.	prem33_hyp0	En San Sebastián muchos padres llevan a sus hijos a cursos de castellano.	0
+prem33	Muchos niños asisten a cursos de castellano en San Sebastián.	prem33_hyp1	Los cursos infantiles en San Sebastián son por las tardes.	1
+prem33	Muchos niños asisten a cursos de castellano en San Sebastián.	prem33_hyp2	Los cursos de castellano en San Sebastián están vacíos.	2
+prem34	Para recuperar el billete de viaje, debes acceder a tu expediente en la sede electrónica.	prem34_hyp0	Puede recuperar el billete de viaje accediendo a su expediente en la sede electrónica.	0
+prem34	Para recuperar el billete de viaje, debes acceder a tu expediente en la sede electrónica.	prem34_hyp1	Accede a tu expediente en la sede electrónica y recuperarás el billete de viaje en el plazo de una semana.	1
+prem34	Para recuperar el billete de viaje, debes acceder a tu expediente en la sede electrónica.	prem34_hyp2	Es suficiente llamar por teléfono para recuperar el billete de viaje.	2
+prem35	El curso le ha venido bien para ganar destreza con el equilibrio y los saltos.	prem35_hyp0	Gracias al curso ha mejorado su equilibrio y ha ganado destreza con los saltos.	0
+prem35	El curso le ha venido bien para ganar destreza con el equilibrio y los saltos.	prem35_hyp1	Gracias al curso ha mejorado mucho su elasticidad.	1
+prem35	El curso le ha venido bien para ganar destreza con el equilibrio y los saltos.	prem35_hyp2	No le ha servido de nada hacer el curso.	2
+prem36	A las puertas de los 60 años ambos, hemos empezado a fijarnos en cosas que hasta ahora nos resultaban invisibles, en la salud, en los amigos que mueren cada vez con más frecuencia.	prem36_hyp0	Entre los dos tenemos menos de 61 años.	0
+prem36	A las puertas de los 60 años ambos, hemos empezado a fijarnos en cosas que hasta ahora nos resultaban invisibles, en la salud, en los amigos que mueren cada vez con más frecuencia.	prem36_hyp1	A las puertas de los 60 años es mejor no fijarse en el pasado.	1
+prem36	A las puertas de los 60 años ambos, hemos empezado a fijarnos en cosas que hasta ahora nos resultaban invisibles, en la salud, en los amigos que mueren cada vez con más frecuencia.	prem36_hyp2	El envejecimiento no ha cambiado nuestra perspectiva sobre la salud y la muerte.	2
+prem37	Inmediatamente después del sorteo, se adjudican las plazas ofertadas.	prem37_hyp0	Las plazas se asignan por sorteo.	0
+prem37	Inmediatamente después del sorteo, se adjudican las plazas ofertadas.	prem37_hyp1	El sorteo para la adjudicación de plazas se realiza informáticamente.	1
+prem37	Inmediatamente después del sorteo, se adjudican las plazas ofertadas.	prem37_hyp2	Las plazas se adjudican dos semanas después del sorteo.	2
+prem38	El evento del sábado fue suave y bonito.	prem38_hyp0	El evento del sábado fue agradable.	0
+prem38	El evento del sábado fue suave y bonito.	prem38_hyp1	Vi el evento del sábado desde casa.	1
+prem38	El evento del sábado fue suave y bonito.	prem38_hyp2	El evento del sábado no fue de mi agrado, le faltó contundencia.	2
+prem39	El amor romántico es un dispositivo para garantizar la supervivencia del sistema patriarcal.	prem39_hyp0	El amor romántico se utiliza para que el sistema patriarcal sobreviva.	0
+prem39	El amor romántico es un dispositivo para garantizar la supervivencia del sistema patriarcal.	prem39_hyp1	Existen varios dispositivos para que el sistema patriarcal sobreviva.	1
+prem39	El amor romántico es un dispositivo para garantizar la supervivencia del sistema patriarcal.	prem39_hyp2	El sistema patriarcal es un dispositivo para garantizar la supervivencia del amor romántico.	2
+prem40	Tenía 46 años y una muerte repentina se lo llevó de nuestro lado.	prem40_hyp0	Murió repentinamente a los 46 años.	0
+prem40	Tenía 46 años y una muerte repentina se lo llevó de nuestro lado.	prem40_hyp1	Tuvo una vida feliz.	1
+prem40	Tenía 46 años y una muerte repentina se lo llevó de nuestro lado.	prem40_hyp2	Murió de una larga enfermedad.	2
+prem41	El programa Zinema Euskaraz dobló 15 películas al euskera el año pasado, y 2017 también ha comenzado con buen ritmo.	prem41_hyp0	El programa Cine en Euskera dobla películas al euskera.	0
+prem41	El programa Zinema Euskaraz dobló 15 películas al euskera el año pasado, y 2017 también ha comenzado con buen ritmo.	prem41_hyp1	Todos los doblajes realizados por el programa Cine en Euskera han sido del castellano al euskera.	1
+prem41	El programa Zinema Euskaraz dobló 15 películas al euskera el año pasado, y 2017 también ha comenzado con buen ritmo.	prem41_hyp2	Parece que el programa Cine en Euskera también doblará muy pocas películas en 2017.	2
+prem42	La semana pasada la Oficina de Ocupación de Bilbao cumplió cuatro años.	prem42_hyp0	La Oficina de Ocupación de Bilbao celebró su cuarto aniversario.	0
+prem42	La semana pasada la Oficina de Ocupación de Bilbao cumplió cuatro años.	prem42_hyp1	La Oficina de Empleo de Bilbao contratará nuevos trabajadores el próximo mes.	1
+prem42	La semana pasada la Oficina de Ocupación de Bilbao cumplió cuatro años.	prem42_hyp2	Han pasado dos años desde que cerró la Oficina de Ocupación de Bilbao.	2
+prem43	La oferta cultural en Getaria se ha cuadruplicado desde que yo vivía allí.	prem43_hyp0	En Getaria hay cada vez más oferta cultural.	0
+prem43	La oferta cultural en Getaria se ha cuadruplicado desde que yo vivía allí.	prem43_hyp1	Una cuarta parte de la oferta cultural de Getaria es teatro.	1
+prem43	La oferta cultural en Getaria se ha cuadruplicado desde que yo vivía allí.	prem43_hyp2	Antes en Getaria, cuando no vivía allí, había una mayor oferta cultural.	2
+prem44	Además de presentarlo en papel, también se presentarán en formato digital, siempre que sea posible.	prem44_hyp0	Se presentarán en papel y en formato digital.	0
+prem44	Además de presentarlo en papel, también se presentarán en formato digital, siempre que sea posible.	prem44_hyp1	Se presentarán en papel la semana que viene.	1
+prem44	Además de presentarlo en papel, también se presentarán en formato digital, siempre que sea posible.	prem44_hyp2	Se presentarán únicamente en formato digital.	2
+prem45	A pesar de ser un prolífico y destacado diseñador e ilustrador de libros, su contribución al mundo del cómic no ha sido menor.	prem45_hyp0	También ha hecho una gran contribución al mundo del cómic.	0
+prem45	A pesar de ser un prolífico y destacado diseñador e ilustrador de libros, su contribución al mundo del cómic no ha sido menor.	prem45_hyp1	La colección de cómics que acaba de publicar ha tenido un gran éxito entre los menores.	1
+prem45	A pesar de ser un prolífico y destacado diseñador e ilustrador de libros, su contribución al mundo del cómic no ha sido menor.	prem45_hyp2	Es dibujante de cómics y a veces hace ilustraciones.	2
+prem46	El Funicular de Artxanda, S.A. es una sociedad mercantil que pertenece íntegramente al Ayuntamiento de Bilbao.	prem46_hyp0	El Ayuntamiento de Bilbao es el propietario del Funicular de Artxanda.	0
+prem46	El Funicular de Artxanda, S.A. es una sociedad mercantil que pertenece íntegramente al Ayuntamiento de Bilbao.	prem46_hyp1	El presupuesto de explotación del Ayuntamiento de Bilbao recoge los derivados de todas las actividades que realiza la sociedad mercantil.	1
+prem46	El Funicular de Artxanda, S.A. es una sociedad mercantil que pertenece íntegramente al Ayuntamiento de Bilbao.	prem46_hyp2	El Ayuntamiento de Bilbao tiene alguna participación en el Funicular de Artxanda.	2
+prem47	En la costa de Guipúzcoa hubo muchas ballenas en una época, pero el historiador Xabier Alberdi menciona 4 ballenas conocidas en una entrevista realizada en Radio Euskadi.	prem47_hyp0	Xabier Alberdi es historiador y conoce bien las ballenas de los mares de la zona.	0
+prem47	En la costa de Guipúzcoa hubo muchas ballenas en una época, pero el historiador Xabier Alberdi menciona 4 ballenas conocidas en una entrevista realizada en Radio Euskadi.	prem47_hyp1	Xabier Alberdi ha mencionado que las ballenas que vivían en la costa de Gipuzkoa también vivían en otras costas.	1
+prem47	En la costa de Guipúzcoa hubo muchas ballenas en una época, pero el historiador Xabier Alberdi menciona 4 ballenas conocidas en una entrevista realizada en Radio Euskadi.	prem47_hyp2	Xabier Alberdi, en una entrevista en Radio Euskadi, menciona que nunca ha habido ballenas en la costa de Gipuzkoa.	2
+prem48	Hemos estado en el monte Ulia después de mucho tiempo.	prem48_hyp0	No hace mucho que no íbamos al monte Ulia.	0
+prem48	Hemos estado en el monte Ulia después de mucho tiempo.	prem48_hyp1	El monte Ulía nos ha parecido muy bonito.	1
+prem48	Hemos estado en el monte Ulia después de mucho tiempo.	prem48_hyp2	Hace años que no hemos estado en la montaña.	2
+prem49	El edificio principal para empresas de servicios tiene 19 módulos.	prem49_hyp0	El edificio principal para empresas de servicios está compuesto por 19 módulos.	0
+prem49	El edificio principal para empresas de servicios tiene 19 módulos.	prem49_hyp1	El edificio principal para empresas de servicios cuenta con 19 módulos y tres pisos.	1
+prem49	El edificio principal para empresas de servicios tiene 19 módulos.	prem49_hyp2	El edificio principal para empresas de servicios puede tener módulos, pero no es obligatorio.	2
+prem50	La Unión Europea está implementando una ordenanza llamada Uspace para crear espacios aéreos autorizados para drones automatizados.	prem50_hyp0	Las ordenanzas Uspace crearán zonas aéreas autorizadas para drones automatizados.	0
+prem50	La Unión Europea está implementando una ordenanza llamada Uspace para crear espacios aéreos autorizados para drones automatizados.	prem50_hyp1	La ordenanza Uspace entrará en vigor en 2030.	1
+prem50	La Unión Europea está implementando una ordenanza llamada Uspace para crear espacios aéreos autorizados para drones automatizados.	prem50_hyp2	Una ordenanza que prohibirá los drones aéreos automatizados en la Unión Europea entrará en vigor próximamente.	2
+prem51	El aterrizaje en Dublín ha sido muy incómodo, el avión se ha movido mucho, de un lado a otro.	prem51_hyp0	El aterrizaje en Dublín ha sido muy incómodo, el avión se ha movido mucho, de un lado a otro.	0
+prem51	El aterrizaje en Dublín ha sido muy incómodo, el avión se ha movido mucho, de un lado a otro.	prem51_hyp1	Los pasajeros empezaron a gritar de miedo durante el aterrizaje forzoso.	1
+prem51	El aterrizaje en Dublín ha sido muy incómodo, el avión se ha movido mucho, de un lado a otro.	prem51_hyp2	Los aterrizajes en Dublín siempre son muy tranquilos, sin turbulencias.	2
+prem52	Es sabido que Joxan Goikoetxea mantuvo una estrecha relación con Xabier Lete, especialmente durante los últimos años de su vida.	prem52_hyp0	Xabier Lete y Joxan Goikoetxea tuvieron una gran relación.	0
+prem52	Es sabido que Joxan Goikoetxea mantuvo una estrecha relación con Xabier Lete, especialmente durante los últimos años de su vida.	prem52_hyp1	Xabier Lete y Joxan Goikoetxea son de la misma edad.	1
+prem52	Es sabido que Joxan Goikoetxea mantuvo una estrecha relación con Xabier Lete, especialmente durante los últimos años de su vida.	prem52_hyp2	Xabier Lete y Joxan Goikoetxea tuvieron su mayor relación durante la juventud.	2
+prem53	"El teatro Arriaga de Bilbao ha presentado la obra ""Tiempos Difíciles"", basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	prem53_hyp0	"La obra de teatro ""Tiempos Difíciles"" está basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	0
+prem53	"El teatro Arriaga de Bilbao ha presentado la obra ""Tiempos Difíciles"", basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	prem53_hyp1	La obra de teatro Tiempos Míseros presentada por el teatro Arriaga de Bilbao es espectacular.	1
+prem53	"El teatro Arriaga de Bilbao ha presentado la obra ""Tiempos Difíciles"", basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	prem53_hyp2	"La obra de teatro ""Tiempos Mezquinos"" que presentará el teatro Arriaga de Bilbao está basada en uno de los grandes clásicos del dramaturgo noruego Henrik Ibsen."	2
+prem54	El sábado, 31 de octubre, recibimos una invitación para ir a ver una película del Festival de Cine de Terror.	prem54_hyp0	Nos invitaron a ver una película del Festival de Cine de Terror.	0
+prem54	El sábado, 31 de octubre, recibimos una invitación para ir a ver una película del Festival de Cine de Terror.	prem54_hyp1	El sábado vimos dos películas del Festival de Cine de Terror.	1
+prem54	El sábado, 31 de octubre, recibimos una invitación para ir a ver una película del Festival de Cine de Terror.	prem54_hyp2	Le invitamos a ver una película del Festival de Cine de Terror.	2
+prem55	"Adarretatik es un festival recién creado en Zarauz que busca hacerse un hueco entre los festivales musicales de verano y tiene como objetivo ""llevar las músicas periféricas al centro""."	prem55_hyp0	Han creado un nuevo festival de música de verano en Zarautz que visibiliza la música alternativa: Adarretatik.	0
+prem55	"Adarretatik es un festival recién creado en Zarauz que busca hacerse un hueco entre los festivales musicales de verano y tiene como objetivo ""llevar las músicas periféricas al centro""."	prem55_hyp1	El festival Adarretatik congregó a una multitud en las calles de Zarautz.	1
+prem55	"Adarretatik es un festival recién creado en Zarauz que busca hacerse un hueco entre los festivales musicales de verano y tiene como objetivo ""llevar las músicas periféricas al centro""."	prem55_hyp2	"El festival de música de verano Adarretatik de Zarautz lleva años trabajando para ""traer las músicas periféricas al centro""."	2
+prem56	Las asociaciones europeas han denunciado firmemente el caso contra Goioaga.	prem56_hyp0	Las asociaciones europeas no están de acuerdo con el proceso contra Goioaga.	0
+prem56	Las asociaciones europeas han denunciado firmemente el caso contra Goioaga.	prem56_hyp1	El caso contra Goioaga ha tenido numerosas denuncias.	1
+prem56	Las asociaciones europeas han denunciado firmemente el caso contra Goioaga.	prem56_hyp2	La asociación europea ha denunciado duramente los casos contra Goioaga.	2
+prem57	"El grupo Solte ha preparado un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	prem57_hyp0	El último disco del grupo Solte es 'IXA'.	0
+prem57	"El grupo Solte ha preparado un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	prem57_hyp1	El grupo musical Solte utiliza ritmos intensos, como lo demuestra su canción 'Mundo transformado'.	1
+prem57	"El grupo Solte ha preparado un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	prem57_hyp2	'IXA' es el primer disco del grupo musical Solte.	2
+prem58	Muchos trabajadores no saben qué está bien y qué está mal, no saben cómo actuar.	prem58_hyp0	Distinguir entre el bien y el mal no es fácil para muchos trabajadores.	0
+prem58	Muchos trabajadores no saben qué está bien y qué está mal, no saben cómo actuar.	prem58_hyp1	A los trabajadores les afecta mucho no saber cómo actuar.	1
+prem58	Muchos trabajadores no saben qué está bien y qué está mal, no saben cómo actuar.	prem58_hyp2	Los trabajadores no tienen dudas, siempre saben cómo deben actuar.	2
+prem59	Conocimos un lugar recomendable el fin de semana pasado. Es un pequeño conjunto de casas creado en ambiente familiar y con un toque sudamericano.	prem59_hyp0	El fin de semana pasado estuvimos en un pequeño conjunto de casas que tiene un toque sudamericano.	0
+prem59	Conocimos un lugar recomendable el fin de semana pasado. Es un pequeño conjunto de casas creado en ambiente familiar y con un toque sudamericano.	prem59_hyp1	El pequeño conjunto de casas que conocí el fin de semana pasado me lo recomendó mi tía, está creado en un ambiente familiar y tiene un toque sudamericano.	1
+prem59	Conocimos un lugar recomendable el fin de semana pasado. Es un pequeño conjunto de casas creado en ambiente familiar y con un toque sudamericano.	prem59_hyp2	El pequeño conjunto de casas que conocimos el fin de semana pasado no es recomendable.	2
+prem60	Los premiados recibirán diversos materiales de informática y dibujo, y el cómic ganador será publicado en la revista BERTON de Mahatserri.	prem60_hyp0	Los premiados ganarán material de informática y dibujo.	0
+prem60	Los premiados recibirán diversos materiales de informática y dibujo, y el cómic ganador será publicado en la revista BERTON de Mahatserri.	prem60_hyp1	Cada participante podrá presentar un solo cómic.	1
+prem60	Los premiados recibirán diversos materiales de informática y dibujo, y el cómic ganador será publicado en la revista BERTON de Mahatserri.	prem60_hyp2	Los cómics premiados serán publicados en la revista BERTON de Mahatsarri.	2
+prem61	El grupo Zea Mays lanzará su octavo trabajo, titulado 'Harro', el 3 de noviembre.	prem61_hyp0	El grupo Zea Mays publicará un nuevo disco.	0
+prem61	El grupo Zea Mays lanzará su octavo trabajo, titulado 'Harro', el 3 de noviembre.	prem61_hyp1	El grupo Zea Mays está formado por cinco miembros.	1
+prem61	El grupo Zea Mays lanzará su octavo trabajo, titulado 'Harro', el 3 de noviembre.	prem61_hyp2	El grupo Zea Mays no ha publicado ni un solo disco.	2
+prem62	La misma tripulación de pescadores ganó la primera bandera de la Concha para Orio.	prem62_hyp0	Orio consiguió la primera bandera de la Concha.	0
+prem62	La misma tripulación de pescadores ganó la primera bandera de la Concha para Orio.	prem62_hyp1	La tripulación de Orio suele vestir de amarillo.	1
+prem62	La misma tripulación de pescadores ganó la primera bandera de la Concha para Orio.	prem62_hyp2	Hondarribia ganó la primera bandera de la Concha.	2
+prem63	Acabo de estar en Roma con los hijos.	prem63_hyp0	He estado en Italia hace poco.	0
+prem63	Acabo de estar en Roma con los hijos.	prem63_hyp1	Mis hijos me quieren mucho.	1
+prem63	Acabo de estar en Roma con los hijos.	prem63_hyp2	Nunca he estado en Italia.	2
+prem64	"La obra de teatro ""Gabon, Txirrita"", escrita y dirigida por Xabier Lete, fue llevada a escena en 1982."	prem64_hyp0	Gabon Txirrita es el nombre de una obra de teatro.	0
+prem64	"La obra de teatro ""Gabon, Txirrita"", escrita y dirigida por Xabier Lete, fue llevada a escena en 1982."	prem64_hyp1	Xabier Lete era un excelente cantante.	1
+prem64	"La obra de teatro ""Gabon, Txirrita"", escrita y dirigida por Xabier Lete, fue llevada a escena en 1982."	prem64_hyp2	Xabier Lete no escribió obras de teatro.	2
+prem65	"Recientemente estrenó ""Orm en el Reino de las Nieves"", y próximamente estrenará ""La película de Lego Batman""."	prem65_hyp0	Las películas de animación suelen ser dobladas al euskera.	0
+prem65	"Recientemente estrenó ""Orm en el Reino de las Nieves"", y próximamente estrenará ""La película de Lego Batman""."	prem65_hyp1	Cada vez menos gente va al cine.	1
+prem65	"Recientemente estrenó ""Orm en el Reino de las Nieves"", y próximamente estrenará ""La película de Lego Batman""."	prem65_hyp2	ORM será la última película que se proyectará en el Reino de las Nieves.	2
+prem66	Amazon ofrece inteligencia artificial para escuelas, la nube y Alexa echo dot y Alexa echo plus.	prem66_hyp0	Amazon tiene muchos productos relacionados con la inteligencia artificial.	0
+prem66	Amazon ofrece inteligencia artificial para escuelas, la nube y Alexa echo dot y Alexa echo plus.	prem66_hyp1	Los productos de Amazon suelen ser baratos.	1
+prem66	Amazon ofrece inteligencia artificial para escuelas, la nube y Alexa echo dot y Alexa echo plus.	prem66_hyp2	No hay productos de inteligencia artificial dirigidos a las escuelas.	2
+prem67	Para una primera aproximación al euskera, resulta interesante el método de aprendizaje del euskera publicado en su día por la Universidad de Deusto.	prem67_hyp0	La Universidad de Deusto ha desarrollado un método para aprender euskera.	0
+prem67	Para una primera aproximación al euskera, resulta interesante el método de aprendizaje del euskera publicado en su día por la Universidad de Deusto.	prem67_hyp1	La Universidad de Deusto tiene varias escuelas y facultades.	1
+prem67	Para una primera aproximación al euskera, resulta interesante el método de aprendizaje del euskera publicado en su día por la Universidad de Deusto.	prem67_hyp2	La Universidad de Deusto ha desarrollado únicamente material para aprender castellano.	2
+prem68	Si quisieras saber cuál es tu nivel de euskera, la red también te ofrece esa posibilidad.	prem68_hyp0	Existe la posibilidad de medir cuál es el nivel de euskera de cada uno.	0
+prem68	Si quisieras saber cuál es tu nivel de euskera, la red también te ofrece esa posibilidad.	prem68_hyp1	El nivel de uso del euskera está disminuyendo últimamente.	1
+prem68	Si quisieras saber cuál es tu nivel de euskera, la red también te ofrece esa posibilidad.	prem68_hyp2	Es obligatorio realizar una entrevista presencial para conocer el nivel de euskera de cada persona.	2
+prem69	El certificado incluye la identificación del titular de la sede electrónica y se emite mediante un dispositivo seguro o un medio equivalente.	prem69_hyp0	El certificado intenta garantizar la identidad de cada persona.	0
+prem69	El certificado incluye la identificación del titular de la sede electrónica y se emite mediante un dispositivo seguro o un medio equivalente.	prem69_hyp1	No existe una única técnica para asegurar la identificación del titular.	1
+prem69	El certificado incluye la identificación del titular de la sede electrónica y se emite mediante un dispositivo seguro o un medio equivalente.	prem69_hyp2	El certificado transmite la información del titular en bruto, sin cifrar.	2
+prem70	Algo que hace dos semanas te hacía gracia hoy puede estar completamente quemado.	prem70_hyp0	La duración de los chistes es limitada, no es para siempre.	0
+prem70	Algo que hace dos semanas te hacía gracia hoy puede estar completamente quemado.	prem70_hyp1	Lo que a un amigo le hace gracia a otro no le gusta.	1
+prem70	Algo que hace dos semanas te hacía gracia hoy puede estar completamente quemado.	prem70_hyp2	A la gente le gusta escuchar los mismos chistes una y otra vez.	2
+prem71	Cuenta con instalaciones modernas, wifi gratuito en zonas comunes y servicio de seguridad permanente las 24 horas.	prem71_hyp0	Puedes conectarte a Internet si vas a ese lugar.	0
+prem71	Cuenta con instalaciones modernas, wifi gratuito en zonas comunes y servicio de seguridad permanente las 24 horas.	prem71_hyp1	Alquilar ese espacio es muy caro.	1
+prem71	Cuenta con instalaciones modernas, wifi gratuito en zonas comunes y servicio de seguridad permanente las 24 horas.	prem71_hyp2	La inseguridad es evidente en ese espacio durante la noche.	2
+prem72	Hemos pasado un poco de miedo este mes con la película 'It Follows' dirigida por David Robert Mitchell.	prem72_hyp0	Es una película de terror.	0
+prem72	Hemos pasado un poco de miedo este mes con la película 'It Follows' dirigida por David Robert Mitchell.	prem72_hyp1	La película 'It follows' es la continuación de la película 'It'.	1
+prem72	Hemos pasado un poco de miedo este mes con la película 'It Follows' dirigida por David Robert Mitchell.	prem72_hyp2	El director David Robert Mitchell solo hace comedias.	2
+prem73	Los otros 5 edificios tienen dos plantas cada uno; en la planta baja hay módulos industriales, y en la planta superior hay módulos de oficinas.	prem73_hyp0	Los edificios están preparados para uso industrial.	0
+prem73	Los otros 5 edificios tienen dos plantas cada uno; en la planta baja hay módulos industriales, y en la planta superior hay módulos de oficinas.	prem73_hyp1	Los edificios son muy modernos.	1
+prem73	Los otros 5 edificios tienen dos plantas cada uno; en la planta baja hay módulos industriales, y en la planta superior hay módulos de oficinas.	prem73_hyp2	Todos los edificios tienen una sola planta.	2
+prem74	¡A ver si todos los corredores usamos más el euskera de ahora en adelante!	prem74_hyp0	Muchos corredores no utilizan el euskera.	0
+prem74	¡A ver si todos los corredores usamos más el euskera de ahora en adelante!	prem74_hyp1	Correr es saludable en general.	1
+prem74	¡A ver si todos los corredores usamos más el euskera de ahora en adelante!	prem74_hyp2	Todo aquel que corre también lo hace en euskera.	2
+prem75	Todavía tenemos capacidad para influir en la opinión pública.	prem75_hyp0	La opinión pública puede cambiar.	0
+prem75	Todavía tenemos capacidad para influir en la opinión pública.	prem75_hyp1	La gente tiene opiniones muy diversas.	1
+prem75	Todavía tenemos capacidad para influir en la opinión pública.	prem75_hyp2	La opinión pública es firme.	2
+prem76	En la página web Ikasbil hay miles y miles de artículos, textos, vídeos y audios.	prem76_hyp0	No se pueden encontrar textos, videos ni audios en Internet.	0
+prem76	En la página web Ikasbil hay miles y miles de artículos, textos, vídeos y audios.	prem76_hyp1	Iskanbil es un conocido sitio web de internet.	1
+prem76	En la página web Ikasbil hay miles y miles de artículos, textos, vídeos y audios.	prem76_hyp2	En el sitio web Iskanbil solo hay texto.	2
+prem77	En el catálogo de trámites de la sede electrónica encontrará información detallada sobre cada procedimiento, trámite y servicio.	prem77_hyp0	La documentación que explica el trámite y el funcionamiento de los servicios está accesible.	0
+prem77	En el catálogo de trámites de la sede electrónica encontrará información detallada sobre cada procedimiento, trámite y servicio.	prem77_hyp1	El acceso a la sede electrónica es muy complejo.	1
+prem77	En el catálogo de trámites de la sede electrónica encontrará información detallada sobre cada procedimiento, trámite y servicio.	prem77_hyp2	No se necesita ninguna documentación para aprender los trámites y servicios.	2
+prem78	En ese Centro Empresarial de Sondika hay módulos industriales y módulos de oficinas, distribuidos en 5 edificios.	prem78_hyp0	Varias empresas tienen su sede ubicada en Sondika.	0
+prem78	En ese Centro Empresarial de Sondika hay módulos industriales y módulos de oficinas, distribuidos en 5 edificios.	prem78_hyp1	El Centro Empresarial de Sondika es uno de los más importantes de Bizkaia.	1
+prem78	En ese Centro Empresarial de Sondika hay módulos industriales y módulos de oficinas, distribuidos en 5 edificios.	prem78_hyp2	El Centro Empresarial de Sondika tiene dos edificios.	2
+prem79	Somos cinco amigos, y yo soy el más joven.	prem79_hyp0	Hay amigos de diferentes edades en el grupo.	0
+prem79	Somos cinco amigos, y yo soy el más joven.	prem79_hyp1	Si quisiéramos jugar al mus, uno de los cinco tendría que quedarse fuera.	1
+prem79	Somos cinco amigos, y yo soy el más joven.	prem79_hyp2	Cinco amigos nacimos el mismo día y año.	2
+prem80	El juez condenó a seis meses de prisión a cuatro jóvenes del vecindario.	prem80_hyp0	Hay varios jóvenes en el barrio que han recibido condenas de prisión.	0
+prem80	El juez condenó a seis meses de prisión a cuatro jóvenes del vecindario.	prem80_hyp1	Como la pena de prisión es inferior a dos años, los cuatro jóvenes no entrarán en la cárcel.	1
+prem80	El juez condenó a seis meses de prisión a cuatro jóvenes del vecindario.	prem80_hyp2	El juez absolvió a los cuatro jóvenes del barrio.	2
+prem81	La relación de Miren y Andrea fue clandestina desde el principio, porque la pareja estaba fuera de la normativa.	prem81_hyp0	Miren y Andrea tienen una relación sentimental.	0
+prem81	La relación de Miren y Andrea fue clandestina desde el principio, porque la pareja estaba fuera de la normativa.	prem81_hyp1	Las relaciones homosexuales deben vivirse con normalidad.	1
+prem81	La relación de Miren y Andrea fue clandestina desde el principio, porque la pareja estaba fuera de la normativa.	prem81_hyp2	La relación entre Miren y Andrea fue completamente normal.	2
+prem82	Al ser un festival internacional, también hay propuestas del exterior, aunque predomina la presencia de grupos vascos.	prem82_hyp0	Grupos internacionales tocan en este festival.	0
+prem82	Al ser un festival internacional, también hay propuestas del exterior, aunque predomina la presencia de grupos vascos.	prem82_hyp1	Los festivales son oportunidades incomparables para vivir la música en directo.	1
+prem82	Al ser un festival internacional, también hay propuestas del exterior, aunque predomina la presencia de grupos vascos.	prem82_hyp2	En este festival tocó solamente un grupo vasco.	2
+prem83	Por tercer año consecutivo, el Grupo Montañero Santutxu ha organizado una marcha regulada para el sábado 20 de octubre.	prem83_hyp0	El Grupo Montañero Santutxu suele organizar excursiones de montaña.	0
+prem83	Por tercer año consecutivo, el Grupo Montañero Santutxu ha organizado una marcha regulada para el sábado 20 de octubre.	prem83_hyp1	Mucha gente acude a las excursiones del Grupo Montañero Santutxu.	1
+prem83	Por tercer año consecutivo, el Grupo Montañero Santutxu ha organizado una marcha regulada para el sábado 20 de octubre.	prem83_hyp2	El Grupo Montañero Santutxu se formó el año pasado.	2
+prem84	Son canciones con letras y arreglos elaborados que trabajan el estilo R 'N' R y el rock sureño.	prem84_hyp0	Se puede decir que el estilo principal de las canciones que componen el disco es rock.	0
+prem84	Son canciones con letras y arreglos elaborados que trabajan el estilo R 'N' R y el rock sureño.	prem84_hyp1	Las guitarras predominan en las canciones de rock del sur.	1
+prem84	Son canciones con letras y arreglos elaborados que trabajan el estilo R 'N' R y el rock sureño.	prem84_hyp2	Todas las canciones del disco son instrumentales.	2
+prem85	Un padre toma fotos de los niños y prepara una invitación especial para repartir a 60 niños.	prem85_hyp0	Los niños recibirán una invitación especial.	0
+prem85	Un padre toma fotos de los niños y prepara una invitación especial para repartir a 60 niños.	prem85_hyp1	Los niños siempre salen bien en las fotos.	1
+prem85	Un padre toma fotos de los niños y prepara una invitación especial para repartir a 60 niños.	prem85_hyp2	Los niños han sacado una foto a uno de los padres.	2
+prem86	La Ertzaintza identificó y detuvo a once personas durante los disturbios.	prem86_hyp0	La Ertzaintza detuvo a muchas personas.	0
+prem86	La Ertzaintza identificó y detuvo a once personas durante los disturbios.	prem86_hyp1	Mucha gente detenida quedará libre.	1
+prem86	La Ertzaintza identificó y detuvo a once personas durante los disturbios.	prem86_hyp2	La Ertzaintza detuvo a todas las personas que participaron en los disturbios.	2
+prem87	Antes de ser músico o escritor, Xabier Lete fue actor de teatro.	prem87_hyp0	Xabier Lete fue un artista que se desenvolvió en diversos campos.	0
+prem87	Antes de ser músico o escritor, Xabier Lete fue actor de teatro.	prem87_hyp1	La voz de Xabier Lete era muy agradable.	1
+prem87	Antes de ser músico o escritor, Xabier Lete fue actor de teatro.	prem87_hyp2	Xabier Lete no cultivó ninguna disciplina artística hasta que empezó a cantar.	2
+prem88	El último día, cuando solo faltaban 3 kilómetros para llegar a Logroño, conocí a la hija de María la de los Higos.	prem88_hyp0	Pasé varios días en el camino a Logroño.	0
+prem88	El último día, cuando solo faltaban 3 kilómetros para llegar a Logroño, conocí a la hija de María la de los Higos.	prem88_hyp1	La hija de María de los Higos es muy amable.	1
+prem88	El último día, cuando solo faltaban 3 kilómetros para llegar a Logroño, conocí a la hija de María la de los Higos.	prem88_hyp2	Todos los hijos de María de los Higos eran varones.	2
+prem89	Bien sabemos que yo no soy un pájaro como él y que él tampoco nació para estar atado a un lugar.	prem89_hyp0	La naturaleza de ambos es muy diferente.	0
+prem89	Bien sabemos que yo no soy un pájaro como él y que él tampoco nació para estar atado a un lugar.	prem89_hyp1	Hay diferentes tipos de personalidades, y una no es mejor que otra.	1
+prem89	Bien sabemos que yo no soy un pájaro como él y que él tampoco nació para estar atado a un lugar.	prem89_hyp2	Prefiere quedarse en casa antes que andar viajando por ahí.	2
+prem90	Celebrarán el cuarto aniversario de la Oficina de Ocupación el 20 de octubre	prem90_hyp0	El aniversario de la Oficina de Ocupación se celebra en otoño.	0
+prem90	Celebrarán el cuarto aniversario de la Oficina de Ocupación el 20 de octubre	prem90_hyp1	El próximo año celebrarán el aniversario de la Oficina de Ocupación en San Sebastián.	1
+prem90	Celebrarán el cuarto aniversario de la Oficina de Ocupación el 20 de octubre	prem90_hyp2	El año pasado celebraron el cuarto aniversario de la Oficina de Ocupación.	2
+prem91	Por decisión de los padres o tutores, el euskera será el idioma que utilizarán los participantes	prem91_hyp0	Los padres y tutores han decidido que los participantes hablarán en euskera.	0
+prem91	Por decisión de los padres o tutores, el euskera será el idioma que utilizarán los participantes	prem91_hyp1	Los padres y tutores han decidido hablar en euskera con los niños.	1
+prem91	Por decisión de los padres o tutores, el euskera será el idioma que utilizarán los participantes	prem91_hyp2	Los participantes han decidido que los padres y tutores hablarán en euskera.	2
+prem92	Lagun Aro ha colocado avisos escritos únicamente en castellano a ambos lados de la puerta en la sucursal de Benta Berri de Antiguo.	prem92_hyp0	Los avisos colocados por el amigo Aro en la sucursal de Benta Berri de Antiguo estaban escritos en castellano.	0
+prem92	Lagun Aro ha colocado avisos escritos únicamente en castellano a ambos lados de la puerta en la sucursal de Benta Berri de Antiguo.	prem92_hyp1	Las notas que puso el amigo Aro en la sucursal de Benta Berri de Antiguo estaban bien escritas.	1
+prem92	Lagun Aro ha colocado avisos escritos únicamente en castellano a ambos lados de la puerta en la sucursal de Benta Berri de Antiguo.	prem92_hyp2	Los avisos colocados por el amigo Aro en la sucursal de Benta Berri de Antiguo estaban escritos en inglés.	2
+prem93	Se han recibido denuncias de torturas de todas las policías, incluida la Ertzaintza.	prem93_hyp0	Han denunciado que la Ertzaintza también ha practicado torturas.	0
+prem93	Se han recibido denuncias de torturas de todas las policías, incluida la Ertzaintza.	prem93_hyp1	La Ertzaintza ha denunciado casos de tortura policial.	1
+prem93	Se han recibido denuncias de torturas de todas las policías, incluida la Ertzaintza.	prem93_hyp2	La Ertzaintza queda libre de acusaciones de tortura.	2
+prem94	Mi hermana ha querido recuperar la receta de la abuela Jesusa para hacer magdalenas.	prem94_hyp0	La abuela Jesusa tenía la receta para hacer magdalenas.	0
+prem94	Mi hermana ha querido recuperar la receta de la abuela Jesusa para hacer magdalenas.	prem94_hyp1	A mi hermana solo le gustan las magdalenas que hace la Abuela Jesusa.	1
+prem94	Mi hermana ha querido recuperar la receta de la abuela Jesusa para hacer magdalenas.	prem94_hyp2	La abuela Jesusa ha querido recuperar la receta de mi hermana para hacer magdalenas.	2
+prem95	No se requiere identificación presencial para activar y emitir el BAK: se realiza a través de Internet.	prem95_hyp0	Puedes solicitar por Internet que te activen y envíen la BAK.	0
+prem95	No se requiere identificación presencial para activar y emitir el BAK: se realiza a través de Internet.	prem95_hyp1	Puedes solicitar la anulación de tu BAK a través de Internet.	1
+prem95	No se requiere identificación presencial para activar y emitir el BAK: se realiza a través de Internet.	prem95_hyp2	Debes solicitar por Internet que te activen y envíen la BAK.	2
+prem96	Solo he podido guardar tres fotos.	prem96_hyp0	No he tenido la oportunidad de guardar las cuatro fotos.	0
+prem96	Solo he podido guardar tres fotos.	prem96_hyp1	Tenía guardadas cuatro fotografías.	1
+prem96	Solo he podido guardar tres fotos.	prem96_hyp2	Solo tengo guardadas cuatro fotografías.	2
+prem97	El sábado, 31 de octubre, recibimos una invitación para ir a ver una película del Festival de Cine de Terror.	prem97_hyp0	Nos invitaron a ver una película del Festival de Cine de Terror.	0
+prem97	El sábado, 31 de octubre, recibimos una invitación para ir a ver una película del Festival de Cine de Terror.	prem97_hyp1	Fuimos a ver una película del Festival de Cine de Terror.	1
+prem97	El sábado, 31 de octubre, recibimos una invitación para ir a ver una película del Festival de Cine de Terror.	prem97_hyp2	Nos invitaron a participar en una película del Festival de Cine de Terror.	2
+prem98	Caja Laboral ha vuelto a colocar a un empleado que no sabe euskera para hacer la declaración de la renta en la sucursal de la calle Matia de Antiguo, en San Sebastián.	prem98_hyp0	El empleado que ayuda a hacer la declaración de la renta en la sucursal de Caja Laboral de la calle Matia de El Antiguo es exclusivamente castellanoparlante.	0
+prem98	Caja Laboral ha vuelto a colocar a un empleado que no sabe euskera para hacer la declaración de la renta en la sucursal de la calle Matia de Antiguo, en San Sebastián.	prem98_hyp1	Los empleados de la sucursal de Caja Laboral en la calle Matia de El Antiguo hablan solamente en castellano.	1
+prem98	Caja Laboral ha vuelto a colocar a un empleado que no sabe euskera para hacer la declaración de la renta en la sucursal de la calle Matia de Antiguo, en San Sebastián.	prem98_hyp2	Los empleados de la sucursal de Caja Laboral en la calle Matia de El Antiguo hablan solamente en euskera.	2
+prem99	El humor entre las enfermeras hace que todo sea más llevadero.	prem99_hyp0	Si las enfermeras bromean entre ellas, todo se lleva mejor.	0
+prem99	El humor entre las enfermeras hace que todo sea más llevadero.	prem99_hyp1	Que las enfermeras estén de buen humor ayuda mucho a los pacientes.	1
+prem99	El humor entre las enfermeras hace que todo sea más llevadero.	prem99_hyp2	Las enfermeras tienen prohibido usar el humor.	2
+prem100	Además de los evidentes daños causados por la pandemia, lo ocurrido ha puesto de manifiesto y ha sacado a la luz de manera dramática las debilidades de la Unión Europea y, entre otras cosas, ha denunciado el declive de la innovación tecnológica europea y la falta de liderazgo industrial.	prem100_hyp0	Lo ocurrido ha dejado claro que, además de los daños causados por la pandemia, la Unión Europea es débil y no es líder mundial en innovación tecnológica e industrial.	0
+prem100	Además de los evidentes daños causados por la pandemia, lo ocurrido ha puesto de manifiesto y ha sacado a la luz de manera dramática las debilidades de la Unión Europea y, entre otras cosas, ha denunciado el declive de la innovación tecnológica europea y la falta de liderazgo industrial.	prem100_hyp1	Lo ocurrido ha dejado claro que, debido a los daños causados por la pandemia, la Unión Europea debe recuperar el liderazgo en innovación tecnológica e industrial en el mundo.	1
+prem100	Además de los evidentes daños causados por la pandemia, lo ocurrido ha puesto de manifiesto y ha sacado a la luz de manera dramática las debilidades de la Unión Europea y, entre otras cosas, ha denunciado el declive de la innovación tecnológica europea y la falta de liderazgo industrial.	prem100_hyp2	Lo ocurrido ha dejado claro que, además de los daños causados por la pandemia, la Unión Europea es débil pero es líder mundial en innovación tecnológica e industrial.	2
+prem101	Las personas que no obtienen plaza entran en la lista de espera, en el mismo orden del sorteo.	prem101_hyp0	Si no consigues plaza, entrarás en la lista de espera, manteniendo el orden del sorteo.	0
+prem101	Las personas que no obtienen plaza entran en la lista de espera, en el mismo orden del sorteo.	prem101_hyp1	Las personas que no obtienen plaza tienen la oportunidad de participar en un sorteo.	1
+prem101	Las personas que no obtienen plaza entran en la lista de espera, en el mismo orden del sorteo.	prem101_hyp2	Si no consigues plaza, entrarás en un sorteo para determinar el orden en la lista de espera.	2
+prem102	Si no nos representamos, seremos representados.	prem102_hyp0	Si no nos imaginamos a nosotros mismos, otros nos imaginarán.	0
+prem102	Si no nos representamos, seremos representados.	prem102_hyp1	Si no nos hacemos visibles, proliferarán las opiniones erróneas sobre nosotros.	1
+prem102	Si no nos representamos, seremos representados.	prem102_hyp2	Si no nos imaginamos, la representación sobre nosotros dejará de existir.	2
+prem103	El Gobierno Vasco ha subrayado que en 2003 comenzó a implementar el Protocolo de Prevención de Malos Tratos de la Ertzaintza para reforzar la garantía legal de los detenidos.	prem103_hyp0	El Protocolo de Prevención de Malos Tratos de la Ertzaintza está en vigor desde 2003 para garantizar los derechos de los detenidos, según el Gobierno Vasco.	0
+prem103	El Gobierno Vasco ha subrayado que en 2003 comenzó a implementar el Protocolo de Prevención de Malos Tratos de la Ertzaintza para reforzar la garantía legal de los detenidos.	prem103_hyp1	El Gobierno Vasco comenzó a elaborar el Protocolo de Prevención de Malos Tratos de la Ertzaintza en enero de 2003 para reforzar la garantía legal de los detenidos.	1
+prem103	El Gobierno Vasco ha subrayado que en 2003 comenzó a implementar el Protocolo de Prevención de Malos Tratos de la Ertzaintza para reforzar la garantía legal de los detenidos.	prem103_hyp2	Según el Gobierno Vasco, la Ertzaintza comenzó a implementar el Protocolo de Prevención de Malos Tratos en 2003 para agilizar el proceso de liberación de presos.	2
+prem104	Las secuelas del heteropatriarcado se encuentran en las entrañas de los hogares, y las relaciones afectivo-sexuales construidas sobre el amor romántico son su manifestación.	prem104_hyp0	Las relaciones afectivo-sexuales construidas sobre el amor romántico demuestran que la influencia del heteropatriarcado está presente en todas partes.	0
+prem104	Las secuelas del heteropatriarcado se encuentran en las entrañas de los hogares, y las relaciones afectivo-sexuales construidas sobre el amor romántico son su manifestación.	prem104_hyp1	Hay que tener en cuenta lo que expresan las relaciones afectivo-sexuales construidas sobre el amor romántico.	1
+prem104	Las secuelas del heteropatriarcado se encuentran en las entrañas de los hogares, y las relaciones afectivo-sexuales construidas sobre el amor romántico son su manifestación.	prem104_hyp2	Las relaciones afectivo-sexuales construidas en el amor romántico están acostumbradas a luchar contra el heteropatriarcado.	2
+prem105	Ha sido el primer libro que he leído en ebook y me ha gustado la experiencia	prem105_hyp0	Este es el único libro que he leído en formato ebook y fue una experiencia agradable.	0
+prem105	Ha sido el primer libro que he leído en ebook y me ha gustado la experiencia	prem105_hyp1	No esperaba que el primer libro que leería en ebook fuera una experiencia tan bonita.	1
+prem105	Ha sido el primer libro que he leído en ebook y me ha gustado la experiencia	prem105_hyp2	Aunque ya había leído un libro en formato ebook, me ha gustado la experiencia.	2
+prem106	El trabajo de masterización ha estado nuevamente a cargo de Andy Hippy Baldwin, en los estudios Metropolis de Londres.	prem106_hyp0	Andy Hippy Baldwin del estudio Metropolis de Londres ha vuelto a colaborar en el trabajo de masterización.	0
+prem106	El trabajo de masterización ha estado nuevamente a cargo de Andy Hippy Baldwin, en los estudios Metropolis de Londres.	prem106_hyp1	Andy Hippy Baldwin ha realizado todo el trabajo de masterización en el estudio Metropolis de Londres.	1
+prem106	El trabajo de masterización ha estado nuevamente a cargo de Andy Hippy Baldwin, en los estudios Metropolis de Londres.	prem106_hyp2	Por primera vez, Andy Hippy Baldwin ha realizado el trabajo de masterización en el estudio Metropolis de Londres.	2
+prem107	El 4 de diciembre de 2018 modificó el nombre y objeto social de la sociedad, con el fin de ampliar su ámbito de actuación a la Margen Izquierda y al Txorierri.	prem107_hyp0	A finales del año 2018 se modificaron el nombre y el objeto social de la sociedad, con el fin de ofrecer sus actividades también en la Margen Izquierda y en el Txorierri.	0
+prem107	El 4 de diciembre de 2018 modificó el nombre y objeto social de la sociedad, con el fin de ampliar su ámbito de actuación a la Margen Izquierda y al Txorierri.	prem107_hyp1	En el año 2018, además de cambiar el nombre y el objeto social de la sociedad, también modificó el tipo de actividad.	1
+prem107	El 4 de diciembre de 2018 modificó el nombre y objeto social de la sociedad, con el fin de ampliar su ámbito de actuación a la Margen Izquierda y al Txorierri.	prem107_hyp2	El 4 de diciembre de 2018 modificó el nombre y objeto social de la sociedad, con el propósito de extender su ámbito de actividad a todas las áreas de Bilbao.	2
+prem108	Esta entrega de premios tiene como objetivo poner en valor la traducción realizada desde el euskera.	prem108_hyp0	El objetivo de esta entrega de premios es exaltar el valor de las traducciones realizadas desde el euskera.	0
+prem108	Esta entrega de premios tiene como objetivo poner en valor la traducción realizada desde el euskera.	prem108_hyp1	El único objetivo de esta entrega de premios es poner en valor la traducción realizada desde el euskera.	1
+prem108	Esta entrega de premios tiene como objetivo poner en valor la traducción realizada desde el euskera.	prem108_hyp2	Esta entrega de premios tiene como objetivo poner en valor las traducciones realizadas al euskera.	2
+prem109	Hace tiempo que nos metimos en este lío y ya no hay vuelta atrás.	prem109_hyp0	Tenemos este conflicto desde hace mucho tiempo y no podemos dar marcha atrás.	0
+prem109	Hace tiempo que nos metimos en este lío y ya no hay vuelta atrás.	prem109_hyp1	Empezamos a luchar hace mucho tiempo y no tenemos forma de ganar.	1
+prem109	Hace tiempo que nos metimos en este lío y ya no hay vuelta atrás.	prem109_hyp2	Hace poco nos metimos en esta lucha y no hay vuelta atrás.	2
+prem110	Siempre hay que romper alguna ley para ganar derechos.	prem110_hyp0	Para conseguir más derechos, siempre hay que hacer algo que está prohibido.	0
+prem110	Siempre hay que romper alguna ley para ganar derechos.	prem110_hyp1	Cuantas más leyes se rompan, más derechos se ganan.	1
+prem110	Siempre hay que romper alguna ley para ganar derechos.	prem110_hyp2	Siempre se obtienen más derechos cuando se respetan las leyes.	2
+prem111	El guía ha proporcionado datos interesantes y ha sido muy entretenido.	prem111_hyp0	Los datos interesantes que ha ofrecido el guía han convertido la experiencia en entretenida.	0
+prem111	El guía ha proporcionado datos interesantes y ha sido muy entretenido.	prem111_hyp1	El conductor se ha entretenido dando datos que le han resultado interesantes.	1
+prem111	El guía ha proporcionado datos interesantes y ha sido muy entretenido.	prem111_hyp2	Aunque los datos proporcionados por el conductor fueron de escaso interés, la experiencia ha sido entretenida.	2
+prem112	Era un sueño de hace tiempo conocer Praga.	prem112_hyp0	Ha tenido muchas ganas de conocer Praga durante mucho tiempo.	0
+prem112	Era un sueño de hace tiempo conocer Praga.	prem112_hyp1	Ha soñado que conocía Praga.	1
+prem112	Era un sueño de hace tiempo conocer Praga.	prem112_hyp2	Conoce Praga desde hace tiempo.	2
+prem113	Los que nos movemos en el mundo del euskera sabemos muy bien lo agotador que es la defensa de nuestros intereses.	prem113_hyp0	Los que nos movemos en el mundo del euskera sabemos lo agotador que resulta defender nuestros intereses.	0
+prem113	Los que nos movemos en el mundo del euskera sabemos muy bien lo agotador que es la defensa de nuestros intereses.	prem113_hyp1	Los que nos movemos en el mundo del euskera estamos cansados de defender nuestros intereses.	1
+prem113	Los que nos movemos en el mundo del euskera sabemos muy bien lo agotador que es la defensa de nuestros intereses.	prem113_hyp2	Los que nos movemos en el mundo del euskera lo pasamos bien defendiendo nuestros intereses.	2
+prem114	Amazon ha presentado una patente para realizar entregas con drones.	prem114_hyp0	Amazon ha enviado la patente para distribuir paquetes con drones.	0
+prem114	Amazon ha presentado una patente para realizar entregas con drones.	prem114_hyp1	Amazon ha distribuido drones para introducir patentes.	1
+prem114	Amazon ha presentado una patente para realizar entregas con drones.	prem114_hyp2	Amazon está esperando a que se apruebe la patente para realizar repartos con drones.	2
+prem115	Numerosos vecinos de Santutxu se han acercado a los alrededores del Gaztetxe para protestar contra su cierre.	prem115_hyp0	Mucha gente que vive en Santutxu ha venido a pedir que se mantenga abierto el gaztetxe.	0
+prem115	Numerosos vecinos de Santutxu se han acercado a los alrededores del Gaztetxe para protestar contra su cierre.	prem115_hyp1	Numerosos vecinos de Santutxu han rodeado el gaztetxe para protestar contra su cierre.	1
+prem115	Numerosos vecinos de Santutxu se han acercado a los alrededores del Gaztetxe para protestar contra su cierre.	prem115_hyp2	Numerosos vecinos de Santutxu se han acercado para pedir el cierre del gaztetxe.	2
+prem116	La música ha sido muy importante en mi vida.	prem116_hyp0	He sentido la importancia de la música a lo largo de la vida.	0
+prem116	La música ha sido muy importante en mi vida.	prem116_hyp1	Se dice que la música es muy importante en la vida.	1
+prem116	La música ha sido muy importante en mi vida.	prem116_hyp2	La importancia que tiene la música en mi vida es nueva.	2
+prem117	La fuerza en sí es natural, por lo tanto su uso no puede ser bueno o malo como un valor absoluto.	prem117_hyp0	Como la fuerza es natural, no hay manera absoluta de decir si su uso es bueno o malo.	0
+prem117	La fuerza en sí es natural, por lo tanto su uso no puede ser bueno o malo como un valor absoluto.	prem117_hyp1	No podemos normalizar el juzgar si quien ha recurrido al uso de la fuerza es bueno o malo.	1
+prem117	La fuerza en sí es natural, por lo tanto su uso no puede ser bueno o malo como un valor absoluto.	prem117_hyp2	Para saber si el uso de la fuerza es bueno o malo, los valores absolutos son lo más natural posible.	2
+prem118	En momentos específicos se manifiesta claramente la respuesta y el compromiso de la gente.	prem118_hyp0	La gente responde a los problemas en momentos específicos.	0
+prem118	En momentos específicos se manifiesta claramente la respuesta y el compromiso de la gente.	prem118_hyp1	La gente siempre está dispuesta a hacer cualquier cosa.	1
+prem118	En momentos específicos se manifiesta claramente la respuesta y el compromiso de la gente.	prem118_hyp2	En momentos específicos la gente tiene miedo	2
+prem119	El objetivo de mañana será realizar aportaciones a los 18 proyectos propuestos dentro de la dinámica Gazteok Eraikitzen.	prem119_hyp0	Entre los proyectos está la construcción de un nuevo gaztetxe.	0
+prem119	El objetivo de mañana será realizar aportaciones a los 18 proyectos propuestos dentro de la dinámica Gazteok Eraikitzen.	prem119_hyp1	Gazteok Eraikitzen se creó en marzo de 2018.	1
+prem119	El objetivo de mañana será realizar aportaciones a los 18 proyectos propuestos dentro de la dinámica Gazteok Eraikitzen.	prem119_hyp2	La contribución de mañana se trasladará a la próxima semana.	2
+prem120	Si yo aprendo el idioma del otro, pero el otro no respeta el mío, hablar su idioma no es un gesto de apertura, sino un gesto de dependencia y sumisión	prem120_hyp0	Si otra persona no respeta mi idioma, una cosa está clara: sus padres no cuidaron bien a sus hijos.	0
+prem120	Si yo aprendo el idioma del otro, pero el otro no respeta el mío, hablar su idioma no es un gesto de apertura, sino un gesto de dependencia y sumisión	prem120_hyp1	Aprender otros idiomas es bueno para las personas.	1
+prem120	Si yo aprendo el idioma del otro, pero el otro no respeta el mío, hablar su idioma no es un gesto de apertura, sino un gesto de dependencia y sumisión	prem120_hyp2	Es necesario respetar otros idiomas.	2
+prem121	Es un hermoso paraje donde la montaña y el mar se unen.	prem121_hyp0	Donde se encuentran la montaña y el mar puedes encontrar la belleza.	0
+prem121	Es un hermoso paraje donde la montaña y el mar se unen.	prem121_hyp1	El mundo está lleno de lugares hermosos.	1
+prem121	Es un hermoso paraje donde la montaña y el mar se unen.	prem121_hyp2	Las montañas y los mares están llenos de basura.	2
+prem122	Se proponen herramientas para dar un impulso a la dinámica de la propia asociación, empresa u organización.	prem122_hyp0	La mejor manera de cambiar la dinámica es ponerse en la piel del otro.	0
+prem122	Se proponen herramientas para dar un impulso a la dinámica de la propia asociación, empresa u organización.	prem122_hyp1	Cambiar la dinámica abre la mente de la gente.	1
+prem122	Se proponen herramientas para dar un impulso a la dinámica de la propia asociación, empresa u organización.	prem122_hyp2	Cambiar la dinámica puede traer muchos problemas, por ejemplo incomodidad.	2
+prem123	Lucía está casada con un hombre.	prem123_hyp0	Un hombre está casado con Lucía.	0
+prem123	Lucía está casada con un hombre.	prem123_hyp1	Los hombres y las mujeres se casan frecuentemente.	1
+prem123	Lucía está casada con un hombre.	prem123_hyp2	Lucía está divorciada.	2
+prem124	No hay nadie en el País Vasco que haya practicado el teatro desde tantos puntos de vista como Lete	prem124_hyp0	Lete ganó muchos premios por su obra de teatro.	0
+prem124	No hay nadie en el País Vasco que haya practicado el teatro desde tantos puntos de vista como Lete	prem124_hyp1	Se han realizado obras de teatro durante 500 años.	1
+prem124	No hay nadie en el País Vasco que haya practicado el teatro desde tantos puntos de vista como Lete	prem124_hyp2	Lete no ha trabajado desde tantos puntos de vista.	2
+prem125	El año pasado decidí que debía celebrar mi 40 aniversario por todo lo alto y con frecuencia.	prem125_hyp0	En mi 40 cumpleaños tuve la fiesta del mundo.	0
+prem125	El año pasado decidí que debía celebrar mi 40 aniversario por todo lo alto y con frecuencia.	prem125_hyp1	Los aniversarios son importantes.	1
+prem125	El año pasado decidí que debía celebrar mi 40 aniversario por todo lo alto y con frecuencia.	prem125_hyp2	Me olvidé de mi 40 aniversario.	2
+prem126	La sociedad está dirigida por un Consejo de Administración que cuenta con representantes de todos los partidos políticos, y la Junta General es el propio Pleno Municipal.	prem126_hyp0	Entre los partidos políticos se encuentran el PP, PNV, PSOE y Sumar.	0
+prem126	La sociedad está dirigida por un Consejo de Administración que cuenta con representantes de todos los partidos políticos, y la Junta General es el propio Pleno Municipal.	prem126_hyp1	El ayuntamiento trabaja junto con el Gobierno Vasco.	1
+prem126	La sociedad está dirigida por un Consejo de Administración que cuenta con representantes de todos los partidos políticos, y la Junta General es el propio Pleno Municipal.	prem126_hyp2	El ayuntamiento no es de los políticos, sino de los funcionarios y de los ciudadanos.	2
+prem127	Desde el principio fijaron el objetivo: que nuestros hijos fueran bilingües equilibrados.	prem127_hyp0	Nuestro objetivo es tener hijos.	0
+prem127	Desde el principio fijaron el objetivo: que nuestros hijos fueran bilingües equilibrados.	prem127_hyp1	Todos nuestros hijos e hijas deberían ser bilingües.	1
+prem127	Desde el principio fijaron el objetivo: que nuestros hijos fueran bilingües equilibrados.	prem127_hyp2	No quieren tener hijos.	2
+prem128	El 1 de mayo de 2016, la Asociación de Espeleología ADES descubrió un importante conjunto de arte rupestre en la cueva de Armintxe en Lekeitio.	prem128_hyp0	El arte rupestre trataba sobre la caza de un visón.	0
+prem128	El 1 de mayo de 2016, la Asociación de Espeleología ADES descubrió un importante conjunto de arte rupestre en la cueva de Armintxe en Lekeitio.	prem128_hyp1	El arte rupestre más antiguo data del año 600 a.C.	1
+prem128	El 1 de mayo de 2016, la Asociación de Espeleología ADES descubrió un importante conjunto de arte rupestre en la cueva de Armintxe en Lekeitio.	prem128_hyp2	El arte rupestre fue un grafiti.	2
+prem129	Y hemos comprado pan delicioso en el caserío de los mormones.	prem129_hyp0	El pan que han hecho las hormigas está muy rico.	0
+prem129	Y hemos comprado pan delicioso en el caserío de los mormones.	prem129_hyp1	El pan está bueno para uno o dos días.	1
+prem129	Y hemos comprado pan delicioso en el caserío de los mormones.	prem129_hyp2	El pan que hemos comprado a los fantasmas es duro y sin sabor	2
+prem130	Aunque denunciaron la tortura, la noticia no se difundió.	prem130_hyp0	Estuvieron torturando a ese pobre hombre durante 3 años.	0
+prem130	Aunque denunciaron la tortura, la noticia no se difundió.	prem130_hyp1	Torturar a alguien es la peor cosa del mundo.	1
+prem130	Aunque denunciaron la tortura, la noticia no se difundió.	prem130_hyp2	El mundo se sorprendió al descubrir que habían torturado.	2
+prem131	El humor es muy variable, fluctúa mucho.	prem131_hyp0	Siempre hemos sabido que su humor es cambiante.	0
+prem131	El humor es muy variable, fluctúa mucho.	prem131_hyp1	El humor de una persona no es siempre el mismo.	1
+prem131	El humor es muy variable, fluctúa mucho.	prem131_hyp2	Siempre está contento.	2
+prem132	Ya que puedes ir a San Sebastián en transporte público, o aparcar en algún barrio cercano, o en un parking de pago.	prem132_hyp0	Si van a tomar transporte público, cojan el autobús, ni se les ocurra tomar el tren.	0
+prem132	Ya que puedes ir a San Sebastián en transporte público, o aparcar en algún barrio cercano, o en un parking de pago.	prem132_hyp1	El transporte en autobús desde Bilbao a San Sebastián tarda aproximadamente una hora y media.	1
+prem132	Ya que puedes ir a San Sebastián en transporte público, o aparcar en algún barrio cercano, o en un parking de pago.	prem132_hyp2	No vayas a San Sebastián, todo es muy caro.	2
+prem133	El documental comenzará a las seis de la tarde en el gaztetxe Uztaldi.	prem133_hyp0	El gaztetxe está abierto por las tardes.	0
+prem133	El documental comenzará a las seis de la tarde en el gaztetxe Uztaldi.	prem133_hyp1	El centro juvenil está lleno de jóvenes.	1
+prem133	El documental comenzará a las seis de la tarde en el gaztetxe Uztaldi.	prem133_hyp2	Al centro juvenil Uztaldi se le ha roto la televisión.	2
+prem134	Los finales felices que promete la monogamia fiel no son tan comunes como se cree.	prem134_hyp0	Tienes que trabajar para tener un final feliz.	0
+prem134	Los finales felices que promete la monogamia fiel no son tan comunes como se cree.	prem134_hyp1	La monogamia y la poligamia son opuestas.	1
+prem134	Los finales felices que promete la monogamia fiel no son tan comunes como se cree.	prem134_hyp2	La monogamia, como en los cuentos de hadas, siempre trae un final feliz.	2
+prem135	Para hacer frente a una realidad impuesta por la fuerza, la fuerza es necesaria, ante todo.	prem135_hyp0	La fuerza sola no es suficiente, también se necesita perseverancia.	0
+prem135	Para hacer frente a una realidad impuesta por la fuerza, la fuerza es necesaria, ante todo.	prem135_hyp1	Para enfrentarse a una realidad primero hay que estar preparado.	1
+prem135	Para hacer frente a una realidad impuesta por la fuerza, la fuerza es necesaria, ante todo.	prem135_hyp2	La comunicación es el primer paso contra una realidad impuesta por la fuerza.	2
+prem136	Junto con los cursos de Monitor y Director de Tiempo Libre, se encuentra entre las Titulaciones Oficiales otorgadas por el Gobierno Vasco.	prem136_hyp0	El curso de Monitor de Tiempo Libre es de 150 horas y se puede realizar tanto de forma extensiva como intensiva.	0
+prem136	Junto con los cursos de Monitor y Director de Tiempo Libre, se encuentra entre las Titulaciones Oficiales otorgadas por el Gobierno Vasco.	prem136_hyp1	Los cursos son las mejores formas de aprender cosas nuevas.	1
+prem136	Junto con los cursos de Monitor y Director de Tiempo Libre, se encuentra entre las Titulaciones Oficiales otorgadas por el Gobierno Vasco.	prem136_hyp2	El curso de Monitor de Tiempo Libre está entre las Titulaciones Oficiales expedidas por el gobierno central.	2
+prem137	Los Premios ON Bizkaia reconocen la contribución de las empresas en la creación de actividad económica y puestos de trabajo.	prem137_hyp0	Este año se han creado 1.300.000 nuevos puestos de trabajo.	0
+prem137	Los Premios ON Bizkaia reconocen la contribución de las empresas en la creación de actividad económica y puestos de trabajo.	prem137_hyp1	Los trabajos actuales son cada vez más avanzados en comparación con los de hace 1000 años.	1
+prem137	Los Premios ON Bizkaia reconocen la contribución de las empresas en la creación de actividad económica y puestos de trabajo.	prem137_hyp2	Son puestos de trabajo temporales que se crean y por eso no deberíamos dar un premio.	2
+prem138	Fue un gran placer llegar arriba.	prem138_hyp0	Cuando llegamos arriba las vistas eran hermosas.	0
+prem138	Fue un gran placer llegar arriba.	prem138_hyp1	Cumplir los objetivos es increíble	1
+prem138	Fue un gran placer llegar arriba.	prem138_hyp2	No llegamos arriba porque Mikel se rompió la pierna.	2
+prem139	Se organizarán cursos específicos a lo largo del año para abordar diferentes temas: espacios, psicomotricidad...	prem139_hyp0	Entre los cursos, el arte moderno abstracto es el mejor, Mikel ya se ha inscrito.	0
+prem139	Se organizarán cursos específicos a lo largo del año para abordar diferentes temas: espacios, psicomotricidad...	prem139_hyp1	El objetivo de los cursos siempre es enseñar cosas nuevas a la gente.	1
+prem139	Se organizarán cursos específicos a lo largo del año para abordar diferentes temas: espacios, psicomotricidad...	prem139_hyp2	Los cursos son inútiles porque la gente no aprende nada si no trabaja.	2
+prem140	Ha hecho profundas reflexiones sobre el estado de nuestro arte.	prem140_hyp0	Hemos hablado mucho sobre nuestro arte.	0
+prem140	Ha hecho profundas reflexiones sobre el estado de nuestro arte.	prem140_hyp1	El arte que cada uno tiene es único.	1
+prem140	Ha hecho profundas reflexiones sobre el estado de nuestro arte.	prem140_hyp2	No nos importa nuestro arte.	2
+prem141	Han organizado más actividades esta semana dentro de la campaña anticapitalista.	prem141_hyp0	Entre las nuevas iniciativas hay un concierto.	0
+prem141	Han organizado más actividades esta semana dentro de la campaña anticapitalista.	prem141_hyp1	Las campañas anticapitalistas y las campañas antisocialistas son opuestas.	1
+prem141	Han organizado más actividades esta semana dentro de la campaña anticapitalista.	prem141_hyp2	Han suspendido la campaña anticapitalista debido a que no se presentó la gente.	2
+prem142	"Para modificar estas direcciones, debes acceder a la sección ""Mis Datos"" de la sede electrónica."	prem142_hyp0	"Después de introducir mis datos, debes pulsar el botón ""OK""."	0
+prem142	"Para modificar estas direcciones, debes acceder a la sección ""Mis Datos"" de la sede electrónica."	prem142_hyp1	Las direcciones de correo electrónico se utilizan para enviar mensajes.	1
+prem142	"Para modificar estas direcciones, debes acceder a la sección ""Mis Datos"" de la sede electrónica."	prem142_hyp2	Es imposible cambiar las direcciones porque la página web se ha caído.	2
+prem143	La transformación digital ha cambiado la forma de trabajar y relacionarse.	prem143_hyp0	La gente pasa más tiempo en el móvil y en el ordenador.	0
+prem143	La transformación digital ha cambiado la forma de trabajar y relacionarse.	prem143_hyp1	La transformación digital es el siguiente avance que el mundo necesita.	1
+prem143	La transformación digital ha cambiado la forma de trabajar y relacionarse.	prem143_hyp2	La gente trabaja como siempre.	2
+prem144	Siempre hay motivo para quejarse, sobre todo cuando uno es débil y la ayuda nunca llega a ser perfecta.	prem144_hyp0	Con ayuda cualquiera puede hacer cualquier cosa.	0
+prem144	Siempre hay motivo para quejarse, sobre todo cuando uno es débil y la ayuda nunca llega a ser perfecta.	prem144_hyp1	Todos necesitamos ayuda de vez en cuando.	1
+prem144	Siempre hay motivo para quejarse, sobre todo cuando uno es débil y la ayuda nunca llega a ser perfecta.	prem144_hyp2	No hay gente débil, sino gente que no quiere trabajar.	2
+prem145	No sabía que estaba muerto.	prem145_hyp0	Parecía que estaba muerto.	0
+prem145	No sabía que estaba muerto.	prem145_hyp1	Las personas que están muertas no se mueven.	1
+prem145	No sabía que estaba muerto.	prem145_hyp2	No estaba muerta, estaba dormida.	2
+prem146	Me quedé completamente conmovido con esta despedida inesperada.	prem146_hyp0	Afortunadamente fue una buena sorpresa.	0
+prem146	Me quedé completamente conmovido con esta despedida inesperada.	prem146_hyp1	Las sorpresas pueden ser buenas o malas.	1
+prem146	Me quedé completamente conmovido con esta despedida inesperada.	prem146_hyp2	Me enteré de esa sorpresa hace muchas semanas.	2
+prem147	Samsung tiene una smart school y propone dar clases con sus gafas Samsung Gear VR y sus pizarras MagiclWB S2.	prem147_hyp0	Samsung tendrá la clase tecnológica más avanzada del mundo.	0
+prem147	Samsung tiene una smart school y propone dar clases con sus gafas Samsung Gear VR y sus pizarras MagiclWB S2.	prem147_hyp1	Samsung fabrica televisores, teléfonos móviles y cámaras.	1
+prem147	Samsung tiene una smart school y propone dar clases con sus gafas Samsung Gear VR y sus pizarras MagiclWB S2.	prem147_hyp2	Samsung no puede dar clases con gafas de realidad virtual porque los niños estarían jugando.	2
+prem148	El libro GETAIKO EUSKERA es el resultado del proyecto GETARIAKO AHOTSAK, que recopila el habla y el patrimonio oral de Getaria.	prem148_hyp0	En el libro EUSKERA DE GUETARIA se puede encontrar el habla de Guetaria.	0
+prem148	El libro GETAIKO EUSKERA es el resultado del proyecto GETARIAKO AHOTSAK, que recopila el habla y el patrimonio oral de Getaria.	prem148_hyp1	No me gusta el libro EUSKERA DE GUETARIA.	1
+prem148	El libro GETAIKO EUSKERA es el resultado del proyecto GETARIAKO AHOTSAK, que recopila el habla y el patrimonio oral de Getaria.	prem148_hyp2	El libro EUSKERA DE GUETARIA recoge el euskera de Vizcaya.	2
+prem149	En los inicios de la digitalización, se crearon las páginas web, y ofrecieron oportunidades para democratizar la comunicación.	prem149_hyp0	En los inicios de la digitalización, las páginas web se volvieron más conocidas.	0
+prem149	En los inicios de la digitalización, se crearon las páginas web, y ofrecieron oportunidades para democratizar la comunicación.	prem149_hyp1	La digitalización ocurrió hace mucho tiempo.	1
+prem149	En los inicios de la digitalización, se crearon las páginas web, y ofrecieron oportunidades para democratizar la comunicación.	prem149_hyp2	Al principio de la digitalización, las opciones de comunicación fueron destruidas.	2
+prem150	Dos jóvenes chicas aparecieron para la entrega de premios, la introducción fue en euskera y ocasionalmente también, pero el contenido principal fue en castellano.	prem150_hyp0	Las chicas hablaron más en castellano que en euskera.	0
+prem150	Dos jóvenes chicas aparecieron para la entrega de premios, la introducción fue en euskera y ocasionalmente también, pero el contenido principal fue en castellano.	prem150_hyp1	La entrega de premios fue en Lekeitio.	1
+prem150	Dos jóvenes chicas aparecieron para la entrega de premios, la introducción fue en euskera y ocasionalmente también, pero el contenido principal fue en castellano.	prem150_hyp2	Las chicas hablaron en inglés durante la entrega de premios.	2
+prem151	Es totalmente recomendable conocer el monte San Antón (el ratón).	prem151_hyp0	Vale la pena conocer la media de San Antón.	0
+prem151	Es totalmente recomendable conocer el monte San Antón (el ratón).	prem151_hyp1	El Monte San Antón está en España.	1
+prem151	Es totalmente recomendable conocer el monte San Antón (el ratón).	prem151_hyp2	El monte San Antón es muy feo.	2
+prem152	Nos encontramos con Lili cara a cara.	prem152_hyp0	Vimos la flor.	0
+prem152	Nos encontramos con Lili cara a cara.	prem152_hyp1	La flor estaba muy bonita.	1
+prem152	Nos encontramos con Lili cara a cara.	prem152_hyp2	Hace mucho que no vemos a Lili.	2
+prem153	El sol no es más que una circunferencia cada vez más roja en los ojos del adolescente.	prem153_hyp0	Los adolescentes no prestan mucha atención a todas las demás cosas.	0
+prem153	El sol no es más que una circunferencia cada vez más roja en los ojos del adolescente.	prem153_hyp1	Los adolescentes son muy divertidos.	1
+prem153	El sol no es más que una circunferencia cada vez más roja en los ojos del adolescente.	prem153_hyp2	Los adolescentes se dan cuenta de todo.	2
+prem154	"El grupo Solte ha preparado un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	prem154_hyp0	El grupo Solte ha preparado un nuevo videoclip.	0
+prem154	"El grupo Solte ha preparado un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	prem154_hyp1	La famosa canción ha ganado mucho en poco tiempo.	1
+prem154	"El grupo Solte ha preparado un innovador videoclip con la canción ""Eraldatutako mundua"" de su último disco 'IXA' (Taupaka elkartea, 2016)."	prem154_hyp2	El grupo de solteros se ha retirado y no harán nada más.	2
+prem155	La transformación digital supone un gran cambio de paradigma en el ámbito cultural y creativo.	prem155_hyp0	La transformación digital te ofrece más oportunidades en el ámbito cultural y creativo.	0
+prem155	La transformación digital supone un gran cambio de paradigma en el ámbito cultural y creativo.	prem155_hyp1	La transformación digital todavía puede traer muchas innovaciones a nuestra sociedad.	1
+prem155	La transformación digital supone un gran cambio de paradigma en el ámbito cultural y creativo.	prem155_hyp2	La transformación digital supone un pequeño cambio de paradigma en el ámbito cultural y creativo.	2
+prem156	La Unión Europea ha sido durante muchas décadas la referencia del primer mundo en cuanto a democracia, igualdad, seguridad y bienestar.	prem156_hyp0	La Unión Europea es una referencia del primer mundo en muchos ámbitos.	0
+prem156	La Unión Europea ha sido durante muchas décadas la referencia del primer mundo en cuanto a democracia, igualdad, seguridad y bienestar.	prem156_hyp1	Hay varios países en la Unión Europea.	1
+prem156	La Unión Europea ha sido durante muchas décadas la referencia del primer mundo en cuanto a democracia, igualdad, seguridad y bienestar.	prem156_hyp2	Estados Unidos ha sido la referencia del primer mundo en democracia, igualdad, seguridad y bienestar.	2
+prem157	Miramos la vida con lógica comercial: todo fácil, cómodo, intercambiable, de calidad y barato.	prem157_hyp0	Si miráramos la vida a través de la lógica comercial todo sería más fácil.	0
+prem157	Miramos la vida con lógica comercial: todo fácil, cómodo, intercambiable, de calidad y barato.	prem157_hyp1	La lógica comercial es un concepto nuevo de la actualidad.	1
+prem157	Miramos la vida con lógica comercial: todo fácil, cómodo, intercambiable, de calidad y barato.	prem157_hyp2	Miramos la vida con lógica comercial: todo difícil, incómodo, inmutable, mediocre y caro.	2
+prem158	En la Audiencia Nacional, ante el juez, no ratificaron la declaración.	prem158_hyp0	No le confesaron al juez lo que debían confesar.	0
+prem158	En la Audiencia Nacional, ante el juez, no ratificaron la declaración.	prem158_hyp1	Se deciden en la Audiencia Nacional.	1
+prem158	En la Audiencia Nacional, ante el juez, no ratificaron la declaración.	prem158_hyp2	Lo confesaron todo ante el juez.	2
+prem159	Antton Olariaga recibirá el premio Joseph Camino en Santutxu, dentro de las jornadas Parrapean Komiki Egunak dedicadas al cómic vasco.	prem159_hyp0	Antton Olariaga ganará el premio Joseph Camino por su trabajo realizado.	0
+prem159	Antton Olariaga recibirá el premio Joseph Camino en Santutxu, dentro de las jornadas Parrapean Komiki Egunak dedicadas al cómic vasco.	prem159_hyp1	Joseph Camino murió en 2015.	1
+prem159	Antton Olariaga recibirá el premio Joseph Camino en Santutxu, dentro de las jornadas Parrapean Komiki Egunak dedicadas al cómic vasco.	prem159_hyp2	Joseph Camino recibirá el premio en Madrid.	2
+prem160	Ayer vi por un momento al actor gallego Nancho Novo en la televisión en el papel del padre de Jesús, tremendamente serio.	prem160_hyp0	Ayer vi una película tremendamente seria por un momento.	0
+prem160	Ayer vi por un momento al actor gallego Nancho Novo en la televisión en el papel del padre de Jesús, tremendamente serio.	prem160_hyp1	El actor Nacho Novo nació el 17 de septiembre de 1958.	1
+prem160	Ayer vi por un momento al actor gallego Nancho Novo en la televisión en el papel del padre de Jesús, tremendamente serio.	prem160_hyp2	El actor Nacho Novo siempre interpreta papeles cómicos.	2
+prem161	El local inaugurado el 13 de julio fue clausurado por la Ertzaintza el 28 de septiembre en cumplimiento de una orden judicial de desalojo.	prem161_hyp0	El local ha estado abierto poco más de un mes.	0
+prem161	El local inaugurado el 13 de julio fue clausurado por la Ertzaintza el 28 de septiembre en cumplimiento de una orden judicial de desalojo.	prem161_hyp1	Me gustaba mucho el local.	1
+prem161	El local inaugurado el 13 de julio fue clausurado por la Ertzaintza el 28 de septiembre en cumplimiento de una orden judicial de desalojo.	prem161_hyp2	El local inaugurado el 13 de julio sigue abierto y nunca ha cerrado.	2
+prem162	Una noche, mientras Lucia y Miren estaban tomando unos vinos, invitaron a Andrea a la casa del jefe, y los tres mantuvieron relaciones sexuales.	prem162_hyp0	Tuvieron relaciones sexuales el día que estuvieron en la casa del jefe.	0
+prem162	Una noche, mientras Lucia y Miren estaban tomando unos vinos, invitaron a Andrea a la casa del jefe, y los tres mantuvieron relaciones sexuales.	prem162_hyp1	Hay que tener mucho cuidado con las enfermedades de transmisión sexual al mantener relaciones sexuales.	1
+prem162	Una noche, mientras Lucia y Miren estaban tomando unos vinos, invitaron a Andrea a la casa del jefe, y los tres mantuvieron relaciones sexuales.	prem162_hyp2	Lucía, Miren y Andrea son vírgenes.	2
+prem163	Próximamente se anunciará qué sala proyectará la película.	prem163_hyp0	Se verá en una sala de cine.	0
+prem163	Próximamente se anunciará qué sala proyectará la película.	prem163_hyp1	La gente está ansiosa por ver la película.	1
+prem163	Próximamente se anunciará qué sala proyectará la película.	prem163_hyp2	Se anunciará tarde en qué sala se ha proyectado.	2
+prem164	Nuestro campo ha sufrido, y tenemos una gran capacidad de adaptación.	prem164_hyp0	Se realizan muchos trabajos arduos en nuestro campo.	0
+prem164	Nuestro campo ha sufrido, y tenemos una gran capacidad de adaptación.	prem164_hyp1	Aunque sea sufrido, nos gusta mucho nuestro campo.	1
+prem164	Nuestro campo ha sufrido, y tenemos una gran capacidad de adaptación.	prem164_hyp2	En nuestro campo no hacemos nada, es muy aburrido.	2
+prem165	Tiene como objetivo impulsar la economía de Orduña y es miembro de la Red de Agencias de Desarrollo de la Red de Desarrollo del País Vasco.	prem165_hyp0	Quiere ayudar a la economía de Orduña.	0
+prem165	Tiene como objetivo impulsar la economía de Orduña y es miembro de la Red de Agencias de Desarrollo de la Red de Desarrollo del País Vasco.	prem165_hyp1	Orduña está situada en Álava.	1
+prem165	Tiene como objetivo impulsar la economía de Orduña y es miembro de la Red de Agencias de Desarrollo de la Red de Desarrollo del País Vasco.	prem165_hyp2	La Red de Agencias de Desarrollo de Euskadi no tiene miembros.	2
+prem166	Las personas que disponen de menos tiempo también tienen la opción de realizar cursos más cortos.	prem166_hyp0	También piensan en las personas que tienen menos tiempo.	0
+prem166	Las personas que disponen de menos tiempo también tienen la opción de realizar cursos más cortos.	prem166_hyp1	No sabía que había ese tipo de oportunidades en ese curso.	1
+prem166	Las personas que disponen de menos tiempo también tienen la opción de realizar cursos más cortos.	prem166_hyp2	Las personas que disponen de menos tiempo también tienen la opción de realizar cursos más largos.	2
+prem167	Después de haber sido durante tres años y medio un punto de encuentro para los jóvenes del barrio, el Gaztetxe Lakomi cerró sus puertas en noviembre de 2011.	prem167_hyp0	Hoy en día el Gaztetxe Lakomi no está abierto.	0
+prem167	Después de haber sido durante tres años y medio un punto de encuentro para los jóvenes del barrio, el Gaztetxe Lakomi cerró sus puertas en noviembre de 2011.	prem167_hyp1	Pasé mucho tiempo en el Rejuvenecimiento de Lakomi.	1
+prem167	Después de haber sido durante tres años y medio un punto de encuentro para los jóvenes del barrio, el Gaztetxe Lakomi cerró sus puertas en noviembre de 2011.	prem167_hyp2	El Gaztetxe Lakomi permaneció abierto durante 10 años.	2
+prem168	Comenzando en Zeruko Argia en 1972, dio un vuelco a la historia del humor gráfico vasco con un estilo innovador de gran personalidad.	prem168_hyp0	Zeruko Argia tuvo influencia en la historia del humor gráfico vasco.	0
+prem168	Comenzando en Zeruko Argia en 1972, dio un vuelco a la historia del humor gráfico vasco con un estilo innovador de gran personalidad.	prem168_hyp1	En 1972, además de Zeruko Argia, ocurrieron otras cosas.	1
+prem168	Comenzando en Zeruko Argia en 1972, dio un vuelco a la historia del humor gráfico vasco con un estilo innovador de gran personalidad.	prem168_hyp2	Comenzando en Zeruko Argia en 2015, revolucionó la historia del humor gráfico vasco con un estilo innovador de gran personalidad.	2
+prem169	La playa de Gaztetape está llena de piedras; pero nos encontramos con un bonito pulpo.	prem169_hyp0	La playa de Gaztetape no está cubierta de arena.	0
+prem169	La playa de Gaztetape está llena de piedras; pero nos encontramos con un bonito pulpo.	prem169_hyp1	Como el pulpo era muy venenoso, nunca volvimos a ir a la playa de Gaztetape.	1
+prem169	La playa de Gaztetape está llena de piedras; pero nos encontramos con un bonito pulpo.	prem169_hyp2	No hay pulpos en la playa de Gaztetape.	2
+prem170	Se encuentra bastante bien de salud y sigue firme en el trabajo, especialmente con el alquiler de las habitaciones.	prem170_hyp0	Hace un buen trabajo en los alquileres de habitaciones.	0
+prem170	Se encuentra bastante bien de salud y sigue firme en el trabajo, especialmente con el alquiler de las habitaciones.	prem170_hyp1	Durante un tiempo ha estado algo flojo, pero ahora va mejor.	1
+prem170	Se encuentra bastante bien de salud y sigue firme en el trabajo, especialmente con el alquiler de las habitaciones.	prem170_hyp2	Tiene varias enfermedades y está trabajando bastante mal.	2
+prem171	"Los miembros del equipo se mostraron muy contentos y ""entusiasmados"" por compartir el trabajo realizado con los aficionados."	prem171_hyp0	Los miembros del equipo están muy contentos con el trabajo realizado.	0
+prem171	"Los miembros del equipo se mostraron muy contentos y ""entusiasmados"" por compartir el trabajo realizado con los aficionados."	prem171_hyp1	Los fans tienen una inmensa ansiedad por escucharlo todo.	1
+prem171	"Los miembros del equipo se mostraron muy contentos y ""entusiasmados"" por compartir el trabajo realizado con los aficionados."	prem171_hyp2	Los miembros del equipo han estado desanimados.	2
+prem172	La democracia no nos hará libres.	prem172_hyp0	La democracia nos hará prisioneros.	0
+prem172	La democracia no nos hará libres.	prem172_hyp1	La democracia es una estructura política.	1
+prem172	La democracia no nos hará libres.	prem172_hyp2	La democracia nos liberará	2
+prem173	Con el fin de que los animales recogidos de las calles tengan un futuro digno, tiene como objetivo difundir el mensaje de la adopción de gatos.	prem173_hyp0	Los animales recogidos de las calles tienen peores condiciones que los adoptados.	0
+prem173	Con el fin de que los animales recogidos de las calles tengan un futuro digno, tiene como objetivo difundir el mensaje de la adopción de gatos.	prem173_hyp1	Hay muchos gatos en las calles.	1
+prem173	Con el fin de que los animales recogidos de las calles tengan un futuro digno, tiene como objetivo difundir el mensaje de la adopción de gatos.	prem173_hyp2	Tiene como objetivo sacar a la calle a los gatos adoptados.	2
+prem174	Quizás los cambios no se notarán de inmediato, pero estamos estableciendo criterios para dar pasos progresivamente en una nueva dirección.	prem174_hyp0	Los cambios se notarán poco a poco.	0
+prem174	Quizás los cambios no se notarán de inmediato, pero estamos estableciendo criterios para dar pasos progresivamente en una nueva dirección.	prem174_hyp1	Para lograr cambios hay que tener una mentalidad proactiva.	1
+prem174	Quizás los cambios no se notarán de inmediato, pero estamos estableciendo criterios para dar pasos progresivamente en una nueva dirección.	prem174_hyp2	Estamos estableciendo los criterios para dar en una dirección antigua.	2
+prem175	Un día Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) abrió la caja de Pandora y descubrió un mundo de mil colores.	prem175_hyp0	Si abres la caja de Pandora, puedes descubrir un mundo de mil colores.	0
+prem175	Un día Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) abrió la caja de Pandora y descubrió un mundo de mil colores.	prem175_hyp1	Amancay Gaztañaga Sagarzazu es guipuzcoana.	1
+prem175	Un día Amancay Gaztañaga Sagarzazu (Guayaquil, 1980) abrió la caja de Pandora y descubrió un mundo de mil colores.	prem175_hyp2	Amancay Gaztañaga Sagarzazu mantuvo cerrada la caja de Pandora.	2
+prem176	Con humor y alegría se consiguen muchas cosas con los niños.	prem176_hyp0	A los niños les gusta mucho el humor y la alegría.	0
+prem176	Con humor y alegría se consiguen muchas cosas con los niños.	prem176_hyp1	Los niños a veces son muy agotadores.	1
+prem176	Con humor y alegría se consiguen muchas cosas con los niños.	prem176_hyp2	Si usas el humor y la alegría con los niños, se aprovecharán de ti	2
+prem177	Por qué la falta de claridad, la oscuridad total, genera miedo en la mayoría de nosotros.	prem177_hyp0	La oscuridad y la falta de luz dan miedo a la mayoría de la sociedad.	0
+prem177	Por qué la falta de claridad, la oscuridad total, genera miedo en la mayoría de nosotros.	prem177_hyp1	No debemos tener miedo a la oscuridad, es un miedo irracional.	1
+prem177	Por qué la falta de claridad, la oscuridad total, genera miedo en la mayoría de nosotros.	prem177_hyp2	La sociedad es muy valiente, no tiene ningún miedo.	2
+prem178	La Escuela Urtxintxa ha recorrido un largo camino formando a la sociedad en valores a través de la educación no formal.	prem178_hyp0	La Escuela Urtxintxa lleva muchos años enseñando valores en cursos de educación no formal.	0
+prem178	La Escuela Urtxintxa ha recorrido un largo camino formando a la sociedad en valores a través de la educación no formal.	prem178_hyp1	La Escuela Urtxintxa ofrece cursos no presenciales de educación no formal.	1
+prem178	La Escuela Urtxintxa ha recorrido un largo camino formando a la sociedad en valores a través de la educación no formal.	prem178_hyp2	La Escuela Urtxintxa tiene poca experiencia en educación no formal.	2
+prem179	Posteriormente hubo varios intentos de ocupar locales, pero no prosperaron.	prem179_hyp0	Los locales quedaron desocupados, a pesar de los esfuerzos realizados.	0
+prem179	Posteriormente hubo varios intentos de ocupar locales, pero no prosperaron.	prem179_hyp1	Los jóvenes fueron los principales participantes en los intentos de ocupación de los locales.	1
+prem179	Posteriormente hubo varios intentos de ocupar locales, pero no prosperaron.	prem179_hyp2	Los intentos de ocupar varios locales fueron muy exitosos.	2
+prem180	La tradición del teatro es horizontal.	prem180_hyp0	Todos los participantes tienen la misma importancia en el teatro.	0
+prem180	La tradición del teatro es horizontal.	prem180_hyp1	El teatro tiene una larga tradición.	1
+prem180	La tradición del teatro es horizontal.	prem180_hyp2	La tradición del teatro es vertical o jerárquica.	2
+prem181	Se cerrará la circulación para los trabajos que se deben realizar con una grúa móvil y un camión para instalar una grúa en esa calle.	prem181_hyp0	El tráfico de esta calle será cortado para poder instalar una grúa móvil.	0
+prem181	Se cerrará la circulación para los trabajos que se deben realizar con una grúa móvil y un camión para instalar una grúa en esa calle.	prem181_hyp1	Se realizarán obras para mejorar la circulación en esa calle.	1
+prem181	Se cerrará la circulación para los trabajos que se deben realizar con una grúa móvil y un camión para instalar una grúa en esa calle.	prem181_hyp2	Durante el tiempo que duren las obras para instalar la grúa, los coches circularán continuamente por esa calle.	2
+prem182	Vemos el mundo con ojos aprendidos.	prem182_hyp0	Nuestra perspectiva no es innata, la aprendemos.	0
+prem182	Vemos el mundo con ojos aprendidos.	prem182_hyp1	Todos tenemos un punto de vista sobre la realidad.	1
+prem182	Vemos el mundo con ojos aprendidos.	prem182_hyp2	Nuestras opiniones no pueden ser condicionadas.	2
+prem183	La Escuela Urtxintxa ofrece la posibilidad de participar en cursos de corta duración desde octubre hasta junio.	prem183_hyp0	De octubre a junio, la Escuela Urtxintxa ofrece cursos cortos.	0
+prem183	La Escuela Urtxintxa ofrece la posibilidad de participar en cursos de corta duración desde octubre hasta junio.	prem183_hyp1	En la escuela Urtxintxa se pueden realizar formaciones de diferente duración según la época del año.	1
+prem183	La Escuela Urtxintxa ofrece la posibilidad de participar en cursos de corta duración desde octubre hasta junio.	prem183_hyp2	La escuela Urtxintxa solo ofrece cursos largos de octubre a junio.	2
+prem184	También hay lugares en la red para preparar el EGA.	prem184_hyp0	El EGA se puede preparar en modalidad no presencial.	0
+prem184	También hay lugares en la red para preparar el EGA.	prem184_hyp1	Hay que trabajar duro para preparar el examen EGA.	1
+prem184	También hay lugares en la red para preparar el EGA.	prem184_hyp2	El examen EGA solo se puede preparar en clases presenciales.	2
+prem185	El teatro Arriaga estrenará el 7 de febrero una versión de Macbeth, la obra clásica de Shakespeare.	prem185_hyp0	En el teatro Arriaga, el 7 de febrero, se representará una versión de una obra de Shakespeare, concretamente Macbeth.	0
+prem185	El teatro Arriaga estrenará el 7 de febrero una versión de Macbeth, la obra clásica de Shakespeare.	prem185_hyp1	La obra que se estrenará en el teatro Arriaga es una adaptación totalmente moderna de Macbeth.	1
+prem185	El teatro Arriaga estrenará el 7 de febrero una versión de Macbeth, la obra clásica de Shakespeare.	prem185_hyp2	El 7 de febrero el público no podrá ver Macbeth en el teatro Arriaga.	2
+prem186	Marijuli era una persona muy vital, dulce, cercana, responsable, cariñosa.	prem186_hyp0	Marijuli tenía mucha vitalidad y era muy amable y cercana con la gente.	0
+prem186	Marijuli era una persona muy vital, dulce, cercana, responsable, cariñosa.	prem186_hyp1	Marijuli era una mujer mayor del pueblo.	1
+prem186	Marijuli era una persona muy vital, dulce, cercana, responsable, cariñosa.	prem186_hyp2	Marijuli era una persona inanimada, descuidada, irresponsable, fría y desagradable.	2
+prem187	Berrizabal fue detenido en marzo de 2008 en relación con el macrosumario 18/98 y la Audiencia Nacional le impuso una pena de 12 años de prisión.	prem187_hyp0	En 2008, tras ser detenido por el macrosumario 19/98, la Audiencia Nacional determinó que Berrizabal era culpable y debería permanecer encarcelado durante 12 años.	0
+prem187	Berrizabal fue detenido en marzo de 2008 en relación con el macrosumario 18/98 y la Audiencia Nacional le impuso una pena de 12 años de prisión.	prem187_hyp1	Berrizabal fue detenido en 2008, y se le impuso prisión provisional hasta la llegada del juicio del macrosumario 18/98.	1
+prem187	Berrizabal fue detenido en marzo de 2008 en relación con el macrosumario 18/98 y la Audiencia Nacional le impuso una pena de 12 años de prisión.	prem187_hyp2	Berrizabal fue detenido en marzo de 2008 por el macrosumario 19/98, pero durante el juicio, la Audiencia Nacional declaró inocente al acusado y lo dejó libre de todos los cargos.	2
+prem188	Peru acaba de hacer un curso en el palacio de hielo.	prem188_hyp0	Peru ha estado recientemente en una pista de hielo.	0
+prem188	Peru acaba de hacer un curso en el palacio de hielo.	prem188_hyp1	Peru ha estado en una clase de patinaje sobre hielo.	1
+prem188	Peru acaba de hacer un curso en el palacio de hielo.	prem188_hyp2	Peru nunca ha estado en una pista de hielo.	2
+prem189	Los cuatro terminaron en una pequeña cama de la casa del jefe.	prem189_hyp0	Los cuatro fueron a casa de su jefe.	0
+prem189	Los cuatro terminaron en una pequeña cama de la casa del jefe.	prem189_hyp1	En la casa del jefe solo hay una pequeña cama libre.	1
+prem189	Los cuatro terminaron en una pequeña cama de la casa del jefe.	prem189_hyp2	Los cuatro terminaron en la calle.	2
+prem190	Peru va por las mañanas al campamento de inglés organizado por Kutxa.	prem190_hyp0	Cada mañana, Peru va a las colonias de verano para aprender inglés.	0
+prem190	Peru va por las mañanas al campamento de inglés organizado por Kutxa.	prem190_hyp1	En verano se organizan campamentos para niños y jóvenes.	1
+prem190	Peru va por las mañanas al campamento de inglés organizado por Kutxa.	prem190_hyp2	En verano, Peru pasa las mañanas en casa.	2
+prem191	Todos los pueblos tienen derecho a decidir.	prem191_hyp0	Cualquier país debe tener la opción de decidir.	0
+prem191	Todos los pueblos tienen derecho a decidir.	prem191_hyp1	El derecho a decidir está reconocido en la constitución de algunos países.	1
+prem191	Todos los pueblos tienen derecho a decidir.	prem191_hyp2	El derecho a decidir corresponde a unos pocos pueblos.	2
+prem192	Las fiestas de Santutxu comenzaron el sábado pasado con el pregón de los miembros del euskaltegi AEK y del grupo de danzas Gaztedi.	prem192_hyp0	El sábado pasado, comenzaron las fiestas de Santutxu de la mano de los pregoneros del euskaltegi AEK y del Grupo de Danzas Gaztedi.	0
+prem192	Las fiestas de Santutxu comenzaron el sábado pasado con el pregón de los miembros del euskaltegi AEK y del grupo de danzas Gaztedi.	prem192_hyp1	El sábado pasado, había un ambiente agradable en Santutxu debido al comienzo de las fiestas.	1
+prem192	Las fiestas de Santutxu comenzaron el sábado pasado con el pregón de los miembros del euskaltegi AEK y del grupo de danzas Gaztedi.	prem192_hyp2	El sábado pasado comenzaron las fiestas de Santutxu, a pesar de que los miembros del euskaltegi AEK y del grupo de danzas Gaztedi rechazaron ser pregoneros.	2
+prem193	El Centro Empresarial Markina es un Centro de Empresas con un marcado carácter industrial.	prem193_hyp0	La mayoría de las empresas que se reúnen en el Elkartegi de Markina pertenecen al sector secundario.	0
+prem193	El Centro Empresarial Markina es un Centro de Empresas con un marcado carácter industrial.	prem193_hyp1	En el Centro Empresarial de Markina se concentran empresas medianas del sector industrial.	1
+prem193	El Centro Empresarial Markina es un Centro de Empresas con un marcado carácter industrial.	prem193_hyp2	Las empresas que se reúnen en el Centro Empresarial de Markina pertenecen al sector primario, es decir, se dedican a la agricultura y la ganadería.	2
+prem194	Lo vi por última vez hace tres semanas.	prem194_hyp0	Hace tres semanas que no lo/la he visto.	0
+prem194	Lo vi por última vez hace tres semanas.	prem194_hyp1	Hace tres semanas que salí a la calle.	1
+prem194	Lo vi por última vez hace tres semanas.	prem194_hyp2	Lo veré por primera vez dentro de tres semanas.	2
+prem195	El Centro Empresarial Gernika es un centro de empresas creado para acoger proyectos empresariales de nueva creación y empresas en proceso de expansión.	prem195_hyp0	El objetivo del Centro Empresarial Gernika es agrupar a empresas de reciente creación o que se encuentran en proceso de expansión.	0
+prem195	El Centro Empresarial Gernika es un centro de empresas creado para acoger proyectos empresariales de nueva creación y empresas en proceso de expansión.	prem195_hyp1	El Parque Tecnológico de Guernica es muy grande y alberga numerosas empresas de reciente creación.	1
+prem195	El Centro Empresarial Gernika es un centro de empresas creado para acoger proyectos empresariales de nueva creación y empresas en proceso de expansión.	prem195_hyp2	El Centro Empresarial Gernika sirve para destruir nuevos proyectos empresariales y empresas en expansión.	2
+prem196	Digamos que tiene un oficio asombroso: trotamundos.	prem196_hyp0	Es poco común tener como profesión viajar por el mundo.	0
+prem196	Digamos que tiene un oficio asombroso: trotamundos.	prem196_hyp1	Hay que trabajar para ganar dinero.	1
+prem196	Digamos que tiene un oficio asombroso: trotamundos.	prem196_hyp2	Realiza su trabajo sin moverse de casa.	2
+prem197	El vuelo de Chicago a Los Ángeles tuvo un retraso de dos horas.	prem197_hyp0	El avión que iba de Chicago a Los Ángeles llegó tarde.	0
+prem197	El vuelo de Chicago a Los Ángeles tuvo un retraso de dos horas.	prem197_hyp1	Sale un vuelo de Chicago a Los Ángeles cada tres horas.	1
+prem197	El vuelo de Chicago a Los Ángeles tuvo un retraso de dos horas.	prem197_hyp2	El vuelo de Chicago a Los Ángeles adelantó su llegada dos horas.	2
+prem198	Después de recorrer en piragua los ríos y los impresionantes lagos de Alaska por los parajes de Jack London, ayer vino a visitarme al hospital un gran amigo.	prem198_hyp0	Ayer, un amigo que había estado viajando por California y Alaska me visitó en el hospital.	0
+prem198	Después de recorrer en piragua los ríos y los impresionantes lagos de Alaska por los parajes de Jack London, ayer vino a visitarme al hospital un gran amigo.	prem198_hyp1	Conozco desde muy pequeño al amigo íntimo que me visitó ayer en el hospital.	1
+prem198	Después de recorrer en piragua los ríos y los impresionantes lagos de Alaska por los parajes de Jack London, ayer vino a visitarme al hospital un gran amigo.	prem198_hyp2	Ayer estuve solo en el hospital.	2
+prem199	Hemos tenido cuatro largas temporadas de las cuatro estaciones en el cine Paraíso.	prem199_hyp0	Las cuatro temporadas que hemos comentado en el cine Paradisu son de larga duración.	0
+prem199	Hemos tenido cuatro largas temporadas de las cuatro estaciones en el cine Paraíso.	prem199_hyp1	Las temporadas comentadas en el cine Paradisu tienen una duración variable.	1
+prem199	Hemos tenido cuatro largas temporadas de las cuatro estaciones en el cine Paraíso.	prem199_hyp2	En el cine Paradisu hemos estado proyectando cuatro cortometrajes de las cuatro estaciones.	2
+prem200	De esta manera, los niños y jóvenes del País Vasco tienen la oportunidad de disfrutar del cine en su idioma, el euskera, al mismo tiempo que se estrenan las versiones en castellano.	prem200_hyp0	Como las versiones en euskera y castellano se estrenarán simultáneamente, los niños y jóvenes del País Vasco podrán disfrutar del cine en euskera desde el principio.	0
+prem200	De esta manera, los niños y jóvenes del País Vasco tienen la oportunidad de disfrutar del cine en su idioma, el euskera, al mismo tiempo que se estrenan las versiones en castellano.	prem200_hyp1	En el País Vasco a veces también se pueden disfrutar las películas en inglés desde su estreno.	1
+prem200	De esta manera, los niños y jóvenes del País Vasco tienen la oportunidad de disfrutar del cine en su idioma, el euskera, al mismo tiempo que se estrenan las versiones en castellano.	prem200_hyp2	De esta manera, los niños y jóvenes del País Vasco podrán ver las películas en castellano desde su estreno, pero tendrán que esperar mucho tiempo para verlas en euskera.	2
+prem201	"La Asamblea Juvenil de Santutxu ha organizado dos iniciativas esta semana ""frente al capitalismo opresor""."	prem201_hyp0	La Asamblea Juvenil de Santutxu organiza acciones contra la opresión del capitalismo.	0
+prem201	"La Asamblea Juvenil de Santutxu ha organizado dos iniciativas esta semana ""frente al capitalismo opresor""."	prem201_hyp1	En la Asamblea Juvenil de Santutxu se organizan actividades semanalmente.	1
+prem201	"La Asamblea Juvenil de Santutxu ha organizado dos iniciativas esta semana ""frente al capitalismo opresor""."	prem201_hyp2	Esta semana, la Asamblea Juvenil de Santutxu ha organizado dos actividades para defender el aspecto liberador del capitalismo.	2
+prem202	El regalo de cumpleaños este año tenía que ser especial: un álbum de fotos de la vida de mamá y una merienda sorpresa.	prem202_hyp0	Para que el regalo de cumpleaños de este año fuera diferente, le preparamos a mamá una merienda sorpresa y le regalamos un álbum de fotos.	0
+prem202	El regalo de cumpleaños este año tenía que ser especial: un álbum de fotos de la vida de mamá y una merienda sorpresa.	prem202_hyp1	Para que el cumpleaños de mamá de este año fuera especial, toda la familia nos hemos reunido para merendar.	1
+prem202	El regalo de cumpleaños este año tenía que ser especial: un álbum de fotos de la vida de mamá y una merienda sorpresa.	prem202_hyp2	El regalo de cumpleaños de este año para mamá tenía que ser algo totalmente normal, por eso solo le hemos regalado un álbum de fotos.	2
+prem203	Además, da alegría de vivir que hubiera alguien en la aristocracia que dio pasos para que el euskera fuera amado y utilizado.	prem203_hyp0	Algún aristócrata hizo esfuerzos para promover el uso del euskera porque le gustaba la lengua, y eso es alentador.	0
+prem203	Además, da alegría de vivir que hubiera alguien en la aristocracia que dio pasos para que el euskera fuera amado y utilizado.	prem203_hyp1	Entre la aristocracia, algunos se dedicaban a la lingüística vasca, y eso produce alegría.	1
+prem203	Además, da alegría de vivir que hubiera alguien en la aristocracia que dio pasos para que el euskera fuera amado y utilizado.	prem203_hyp2	Todos los aristócratas odiaban el euskera, por eso tomaron medidas para reducir su uso.	2
+prem204	Solo en la medida en que los vascoparlantes nos dirijamos en euskera a los receptores pasivos, y solo entonces, lograremos cambiar los patrones de uso.	prem204_hyp0	Para aumentar el uso del euskera, los vascoparlantes debemos hablar en euskera a los receptores pasivos.	0
+prem204	Solo en la medida en que los vascoparlantes nos dirijamos en euskera a los receptores pasivos, y solo entonces, lograremos cambiar los patrones de uso.	prem204_hyp1	Cuando hay niños presentes, los vascoparlantes hablamos más frecuentemente en euskera con los receptores pasivos.	1
+prem204	Solo en la medida en que los vascoparlantes nos dirijamos en euskera a los receptores pasivos, y solo entonces, lograremos cambiar los patrones de uso.	prem204_hyp2	Para revolucionar el uso del euskera, los vascoparlantes debemos hablar en castellano a los receptores pasivos.	2
+prem205	Atzerri es la novela que Mikel Antza publicó en 2012; se dice que la autoficción es la esencia de la novela.	prem205_hyp0	Mikel Antza escribió la novela Atzerri, y según dicen, el eje central de la novela es una mezcla entre sus vivencias y la ficción.	0
+prem205	Atzerri es la novela que Mikel Antza publicó en 2012; se dice que la autoficción es la esencia de la novela.	prem205_hyp1	La novela Atzerri de Mikel Antza fue publicada en 2012, y desde entonces ha tenido un gran éxito entre los lectores vascos.	1
+prem205	Atzerri es la novela que Mikel Antza publicó en 2012; se dice que la autoficción es la esencia de la novela.	prem205_hyp2	En 2012, Mikel Antza publicó Atzerri, es decir, un libro autobiográfico que recoge sus vivencias.	2
+prem206	Cuando terminó aplaudí por primera vez en mi vida.	prem206_hyp0	Al terminar, he expresado que me ha gustado.	0
+prem206	Cuando terminó aplaudí por primera vez en mi vida.	prem206_hyp1	Mis reacciones finales son muy comunes.	1
+prem206	Cuando terminó aplaudí por primera vez en mi vida.	prem206_hyp2	Cuando terminó, como siempre, me quedé completamente inmóvil.	2
+prem207	También cuenta con una sala de emprendimiento y coworking, con toda la infraestructura necesaria para poner en marcha un proyecto empresarial.	prem207_hyp0	Dispone de las infraestructuras necesarias para fomentar la colaboración entre empresas y promover la creación de nuevas empresas.	0
+prem207	También cuenta con una sala de emprendimiento y coworking, con toda la infraestructura necesaria para poner en marcha un proyecto empresarial.	prem207_hyp1	Las infraestructuras básicas necesarias para poner en marcha un proyecto empresarial dependen de las necesidades de la empresa.	1
+prem207	También cuenta con una sala de emprendimiento y coworking, con toda la infraestructura necesaria para poner en marcha un proyecto empresarial.	prem207_hyp2	Aunque dispone de una sala para emprendimiento y coworking, sus infraestructuras son demasiado escasas para poner en marcha un proyecto empresarial.	2

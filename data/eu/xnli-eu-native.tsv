@@ -1,0 +1,622 @@
+premise	hypothesis	label
+Zozketa notario baten aurrean egiten da eta zenbaki ekiprobableak esleitzeko programa informatiko baten bidez egiten da.	Ordenagailu bat eta notario bat behar dira zozketa egiteko.	0
+Zozketa notario baten aurrean egiten da eta zenbaki ekiprobableak esleitzeko programa informatiko baten bidez egiten da.	Zozketa guztietan notario bera izaten da normalean.	1
+Zozketa notario baten aurrean egiten da eta zenbaki ekiprobableak esleitzeko programa informatiko baten bidez egiten da.	Zozketa zenbakidun papertxoak ontzi batean sartu eta ausaz bat hartuta egiten da.	2
+Enrike Eizagirre eta Ane Sarasketa Arratiako dantza kilikagarria eskaintzen.	Enrike eta Ane dantza-pausuak egiten.	0
+Enrike Eizagirre eta Ane Sarasketa Arratiako dantza kilikagarria eskaintzen.	Anek eta Enrikek galtza urdinak dituzte.	1
+Enrike Eizagirre eta Ane Sarasketa Arratiako dantza kilikagarria eskaintzen.	Enrike Izagirre eta Ane Sarasketa izozkia jaten ari ziren.	2
+Sorgintxulo gaztetxea 1998. urtean okupatu zen Karmelo elizaren lokal hutsetan.	Sorgintxulo gaztetxearen jabea Karmelo eliza zen.	0
+Sorgintxulo gaztetxea 1998. urtean okupatu zen Karmelo elizaren lokal hutsetan.	Hainbat kontzertu eskaintzen dira Sorgintxulo gaztetxean.	1
+Sorgintxulo gaztetxea 1998. urtean okupatu zen Karmelo elizaren lokal hutsetan.	Sorgintxulo gaztetxea udaletxeak eman zion gazte talde bati.	2
+Bederatzi kantuz osatutako diskoan hardcorea rock eta metalarekin nahasten dira.	Diskoak hamar kantu baino gutxiago ditu guztira.	0
+Bederatzi kantuz osatutako diskoan hardcorea rock eta metalarekin nahasten dira.	Abesti bakoitzaren iraupena hiru minutu ingurukoa da, baina sei minutuko bat ere badago.	1
+Bederatzi kantuz osatutako diskoan hardcorea rock eta metalarekin nahasten dira.	Doinu lasaiak dira nagusi diskoan.	2
+"Etzi helduko da ""Ballerina"" filma zinema aretoetara, euskaraz."	Ballerina filma euskaraz ikusi ahal izango da.	0
+"Etzi helduko da ""Ballerina"" filma zinema aretoetara, euskaraz."	"Animaziozko filma da ""Ballerina"" eta Frantzian egina."	1
+"Etzi helduko da ""Ballerina"" filma zinema aretoetara, euskaraz."	"Hilabete barru arte ezingo da ""Ballerina"" zineman ikusi."	2
+Gaur kaleratu da Solte talde santutxuarraren lan berria.	Santutxuko Solte taldeak lan berria egin du.	0
+Gaur kaleratu da Solte talde santutxuarraren lan berria.	Azken bost urteetan geldirik egon ondoren etorri da diskoa.	1
+Gaur kaleratu da Solte talde santutxuarraren lan berria.	Solte taldea duela hiru urte desagertu zen.	2
+Txirrita bertsolaria irakurtzen ez zekien pertsona izan arren, sekulako sena zeukan bildutako informazioaren gaineko irakurketak egiteko.	Txirritak ez zuen bere bizitza osoan liburu bat bera ere irakurri.	0
+Txirrita bertsolaria irakurtzen ez zekien pertsona izan arren, sekulako sena zeukan bildutako informazioaren gaineko irakurketak egiteko.	Basarri bertsolariari, berriz, asko gustatzen zitzaion eleberriak irakurtzea.	1
+Txirrita bertsolaria irakurtzen ez zekien pertsona izan arren, sekulako sena zeukan bildutako informazioaren gaineko irakurketak egiteko.	Kafea hartzen zuen bitartean, egunkaria irakurtzen zuen Txirritak goizero.	2
+Lanek bi orrialde baino ez dituzte izango, A4 formatuan (bertikalean).	Lanak egiteko A4 formatua erabili beharko da.	0
+Lanek bi orrialde baino ez dituzte izango, A4 formatuan (bertikalean).	Arial 12 tamaina erabili behar da derrigorrez idazteko.	1
+Lanek bi orrialde baino ez dituzte izango, A4 formatuan (bertikalean).	Lau orrialdeko lanak ere onartuko dira.	2
+Benetan bitxia izan zen Antton honen bizimodua eta bizitokia oraindik liluragarriagoa!	Antton bizi izan zen lekua bitxia zen.	0
+Benetan bitxia izan zen Antton honen bizimodua eta bizitokia oraindik liluragarriagoa!	Anttonek bi alaba izan zituen oso gazterik.	1
+Benetan bitxia izan zen Antton honen bizimodua eta bizitokia oraindik liluragarriagoa!	Bizimodu lasaia izan zuen Anttonek, abentura handirik gabekoa.	2
+Santurtzi Elkartegia Santurtziko El Árbol industrialdean dago, A-8 autobidearen inguruetan.	Santurtzi Elkartegia ez dago A-8 autobidetik urrun.	0
+Santurtzi Elkartegia Santurtziko El Árbol industrialdean dago, A-8 autobidearen inguruetan.	El Árbol industrialdean 27 enpresa daude denera.	1
+Santurtzi Elkartegia Santurtziko El Árbol industrialdean dago, A-8 autobidearen inguruetan.	Santurtzi Elkartegia Portugaleten dago, izenagatik ematen ez duen arren.	2
+"Azken urteotan Europan egin den animaziozko koprodukzio handienetakoa da ""Ballerina""."	"Europan egina da ""Ballerina"" animaziozko filma."	0
+"Azken urteotan Europan egin den animaziozko koprodukzio handienetakoa da ""Ballerina""."	Filmeko protagonista neska da.	1
+"Azken urteotan Europan egin den animaziozko koprodukzio handienetakoa da ""Ballerina""."	"Ameriketako Estatu Batuetan egina izan arren, Europan kokatzen da ""Ballerina""-ko istorioa."	2
+Egia da, bidenabar, liburua irakurrita edukita hobeto ulertzen direla hainbat pasarte, seguruenik.	Pasarte batzuk zailagoak dira ulertzen liburua irakurri gabe.	0
+Egia da, bidenabar, liburua irakurrita edukita hobeto ulertzen direla hainbat pasarte, seguruenik.	Liburuan beldurrezkoak diren pasarte batzuk aldatu egin dituzte.	1
+Egia da, bidenabar, liburua irakurrita edukita hobeto ulertzen direla hainbat pasarte, seguruenik.	Liburua irakurri gabe izateak ez du batere eraginik.	2
+Miren etxeko leiho ondoan zigarro bat erretzen ari zela, Lucia gerturatu zitzaion, eta, bere gizonaren aurrean, Miren ukitzen hasi zen.	Miren etxeko leihoaren alboan zegoela, Lucia bera ukitzen hasi zen.	0
+Miren etxeko leiho ondoan zigarro bat erretzen ari zela, Lucia gerturatu zitzaion, eta, bere gizonaren aurrean, Miren ukitzen hasi zen.	Mirenen gizona telebista ikusten ari zen Lucia etorri zenean.	1
+Miren etxeko leiho ondoan zigarro bat erretzen ari zela, Lucia gerturatu zitzaion, eta, bere gizonaren aurrean, Miren ukitzen hasi zen.	Lucia iritsi zenean ez zen Mirenengana hurbiltzera ausartu, bere gizona aurrean baitzegoen.	2
+"Euskadi irratiko ""Sukalde dema"" irrati saioan hirugarren urtea hasiko dute udazken honetan."	Sukalde dema saioak urte bat baino gehiago darama euskadi irratian.	0
+"Euskadi irratiko ""Sukalde dema"" irrati saioan hirugarren urtea hasiko dute udazken honetan."	Sukalde dema saioan aurkezleak aldatu ziren lehenengo urtea eta gero.	1
+"Euskadi irratiko ""Sukalde dema"" irrati saioan hirugarren urtea hasiko dute udazken honetan."	"Urtebete bakarrik iraun zuen ""Sukalde dema"" saioak euskadi irratian."	2
+Gainera istripu-partea ez daukate ez euskaraz ezta euskara-gaztelaniaz ere.	Euskarazko istripu-parterik ez daukate.	0
+Gainera istripu-partea ez daukate ez euskaraz ezta euskara-gaztelaniaz ere.	Auto gorrian izan zuen istripua duela bi aste.	1
+Gainera istripu-partea ez daukate ez euskaraz ezta euskara-gaztelaniaz ere.	Euskara hutsean dagoen istripu-parte bat dutela esan didate.	2
+Espainian, ezkonduen %60 dibortziatzen dira.	Ezkonduen erdia baino gehiago banatu egiten da Espainian.	0
+Espainian, ezkonduen %60 dibortziatzen dira.	Espainiar estatuan gero eta gutxiago dira elizatik ezkontzen direnak.	1
+Espainian, ezkonduen %60 dibortziatzen dira.	Erdia baino gutxiago dira ezkondu eta gero banatzen direnak.	2
+Irudikatzen ez den herri bat ezin da existitu.	Existitzen diren herri guztiak irudikatu daitezke.	0
+Irudikatzen ez den herri bat ezin da existitu.	Badaude herri batzuk etxe guztiak zuriak dituztenak.	1
+Irudikatzen ez den herri bat ezin da existitu.	Irudikatzen ez den herri bat ikusi genuen atzo.	2
+Euskal preso politikoen alorrean lan egiteagatik 48 pertsonaren aurka egindako eskaera fiskalen berri izan dugu azken egunotan, haietako batzuk 20 urte baino gehiagokoak.	Fiskaltzak zenbait pertsonarentzat zigorrak eskatu ditu.	0
+Euskal preso politikoen alorrean lan egiteagatik 48 pertsonaren aurka egindako eskaera fiskalen berri izan dugu azken egunotan, haietako batzuk 20 urte baino gehiagokoak.	Preso politikoen gaian lan egiten duten gehienak Gipuzkoarrak dira.	1
+Euskal preso politikoen alorrean lan egiteagatik 48 pertsonaren aurka egindako eskaera fiskalen berri izan dugu azken egunotan, haietako batzuk 20 urte baino gehiagokoak.	Fiskaltzak ontzat eman du preso politikoen gaian ari direnek egiten duten lana.	2
+Orain arte euskara maila eskasagatik, selektibitatean nota orokorra asko jaisten zitzaien bertako ikasleei.	Hizkuntza mailak eragina zuen selektibitateko nota orokorrean.	0
+Orain arte euskara maila eskasagatik, selektibitatean nota orokorra asko jaisten zitzaien bertako ikasleei.	Iaz inoiz izan diren nota baxuenak izan ziren selektibitateko azterketetan.	1
+Orain arte euskara maila eskasagatik, selektibitatean nota orokorra asko jaisten zitzaien bertako ikasleei.	Euskara mailak ez zuen garrantzirik selektibitateko notan.	2
+Lagunak dio, mundu guztian ibiliagatik, gaixotzen den egunean bertan itzuliko dela Euskal Herrira.	Munduan zehar dabil laguna.	0
+Lagunak dio, mundu guztian ibiliagatik, gaixotzen den egunean bertan itzuliko dela Euskal Herrira.	Laguna ez zen Euskal Herrian jaio.	1
+Lagunak dio, mundu guztian ibiliagatik, gaixotzen den egunean bertan itzuliko dela Euskal Herrira.	Lagunak betiko munduan zehar ibiltzeko asmoa duela dio.	2
+40 urte baino gehiago pasa badira ere'Alien, zortzigarren bidaiaria' filma ez da zahartzen.	Duela lau hamarkada baino gehiago egin zen 'Alien, zortzigarren bidaiaria' filma.	0
+40 urte baino gehiago pasa badira ere'Alien, zortzigarren bidaiaria' filma ez da zahartzen.	Alien, zortzigarren bidaiaria' filmak ez zuen bereziki kritika onik jaso hasieran.	1
+40 urte baino gehiago pasa badira ere'Alien, zortzigarren bidaiaria' filma ez da zahartzen.	Alien, zortzigarren bidaiaria' filma laster estreinatuko da.	2
+Gure lana askotan oso zaila, oso gogorra eta oso beltza izan daiteke, eta beharra dugu tarteka umorera jotzeko.	Gogorra izaten da gure lana behin baino gehiagotan.	0
+Gure lana askotan oso zaila, oso gogorra eta oso beltza izan daiteke, eta beharra dugu tarteka umorera jotzeko.	Lankideen artean harreman ona dugu, nahiz eta batzuetan desadostasun batzuk ere izaten ditugun.	1
+Gure lana askotan oso zaila, oso gogorra eta oso beltza izan daiteke, eta beharra dugu tarteka umorera jotzeko.	Lanean oso serio egon behar izaten dugu beti.	2
+Jakina da osasun sistema publiko batera hurbiltzen den edonork aurkituko duela akatsa eta haserretzeko bidea zerbaitekin.	Osasun sistema publikoan akatsak egoten dira.	0
+Jakina da osasun sistema publiko batera hurbiltzen den edonork aurkituko duela akatsa eta haserretzeko bidea zerbaitekin.	Osasun sistema publikoko medikuak haserre daude hartu diren neurriekin.	1
+Jakina da osasun sistema publiko batera hurbiltzen den edonork aurkituko duela akatsa eta haserretzeko bidea zerbaitekin.	Hemengo osasun sistema publikoa perfektua dela esan daiteke.	2
+Hortaz, gazte jendearentzat auzo elkartea ez da erakargarria.	Auzo elkartera hurbiltzen den jende gehiena heldua da.	0
+Hortaz, gazte jendearentzat auzo elkartea ez da erakargarria.	Auzo elkarteak hogei urte bete zituen iaz.	1
+Hortaz, gazte jendearentzat auzo elkartea ez da erakargarria.	Gazte asko dabil auzo elkartean azken aldian.	2
+Foru Aldundiak sortu zuen saria, Antton Abbadie saria, ondo merezitako laudorioa izan da.	Merezi zuen Antton Abbadie saria jasotzea.	0
+Foru Aldundiak sortu zuen saria, Antton Abbadie saria, ondo merezitako laudorioa izan da.	Antton Abbadie sariaz gain beste batzuk ere jaso ditu.	1
+Foru Aldundiak sortu zuen saria, Antton Abbadie saria, ondo merezitako laudorioa izan da.	Foru Aldundiari Antton Abbadie saria eman zioten.	2
+Liburu honetan, haien adierazpenak eta hizkeraren xehetasunak jaso dira.	Haiek adierazitakoak liburuan jasota geratu dira.	0
+Liburu honetan, haien adierazpenak eta hizkeraren xehetasunak jaso dira.	Liburua idatzi duena pertsona ezaguna da.	1
+Liburu honetan, haien adierazpenak eta hizkeraren xehetasunak jaso dira.	Liburuan ezer gutxi dago hizkerari buruz.	2
+Bertan ateratako argazkiekin etorkizuneko eraikuntza konparatzea interesgarria izango da.	Argazkiak atera dira bertan.	0
+Bertan ateratako argazkiekin etorkizuneko eraikuntza konparatzea interesgarria izango da.	Etorkizuneko eraikuntza hobea izango da.	1
+Bertan ateratako argazkiekin etorkizuneko eraikuntza konparatzea interesgarria izango da.	Aspergarria da eraikuntzak konparatzen aritzea.	2
+Pilotalekuak 65 eserleku ditu mugikortasun urriko pertsonentzat, eta Trinketak 16.	Pilotalekuak eserleku gehiago ditu mugikortasun urriko pertsonentzat Trinketak baino.	0
+Pilotalekuak 65 eserleku ditu mugikortasun urriko pertsonentzat, eta Trinketak 16.	Jende gehiago joan ohi da Pilotalekura partiduak ikustera Trinketara baino.	1
+Pilotalekuak 65 eserleku ditu mugikortasun urriko pertsonentzat, eta Trinketak 16.	Trinketak Pilotalekuak adina eserleku baditu gutxienez mugikortasun urriko pertsonentzat.	2
+Donostiako Akuariumean bisita gidatua egin berri dut urrian.	Urrian Donostian egon nintzen.	0
+Donostiako Akuariumean bisita gidatua egin berri dut urrian.	Akuariumean hiru aldiz egon naiz guztira.	1
+Donostiako Akuariumean bisita gidatua egin berri dut urrian.	Udazken osoan Akuariumera joan gabe egon naiz.	2
+Aldaketa betean murgilduta gaude ordea eta tartean hizkuntza irizpideen berrikuspenean ere badihardugu.	Besteak beste, hizkuntza irizpideak berrikusten ari gara.	0
+Aldaketa betean murgilduta gaude ordea eta tartean hizkuntza irizpideen berrikuspenean ere badihardugu.	Aldaketaren helburu nagusia hizkuntza gehiago ikasteko aukera erraztea da.	1
+Aldaketa betean murgilduta gaude ordea eta tartean hizkuntza irizpideen berrikuspenean ere badihardugu.	Aldaketa batzuk egiteko asmoa genuela zirudien, baina azkenean berdin jarraitzea erabaki dugu.	2
+Iluntasunean sortu dira gure burmuinak gobernatzen dituzten kondaira interesgarrienak.	Gure burmuineko kondaira interesgarrienak iluntasunean sortuak dira.	0
+Iluntasunean sortu dira gure burmuinak gobernatzen dituzten kondaira interesgarrienak.	Ezin dugu jakin nondik datozen kondaira interesgarri guztiak.	1
+Iluntasunean sortu dira gure burmuinak gobernatzen dituzten kondaira interesgarrienak.	Gure burmuineko kondaira interesgarri guztiak argitan sortzen dira.	2
+Lehen egunean hiru talderekin topatu ginen; bakarra zen euskaraz.	Lehen egunean topo egindako taldeen herena euskaraz zen.	0
+Lehen egunean hiru talderekin topatu ginen; bakarra zen euskaraz.	Lehen eguneko taldeak oso heterogeneoak ziren, adin eta kultura ezberdinetako jendea zegoen.	1
+Lehen egunean hiru talderekin topatu ginen; bakarra zen euskaraz.	Lehen egunean topatutako talde gehienak euskaraz ziren.	2
+Donostian gaztelaniazko ikastarotan haur asko dabil.	Donostian gurasoek ume asko gaztelaniazko ikastaroetara eramaten dituzte.	0
+Donostian gaztelaniazko ikastarotan haur asko dabil.	Donostian haur ikastaroak arratsaldeetan dira.	1
+Donostian gaztelaniazko ikastarotan haur asko dabil.	Donostian gaztelaniazko ikastaroak hutsik daude.	2
+Bidaia-txartela berreskuratzeko, egoitza elektronikoko zure espedientera sartu behar duzu.	Egoitza elektronikoan zure espedientera sartuz berreskuratu dezakezu bidaia-txartela.	0
+Bidaia-txartela berreskuratzeko, egoitza elektronikoko zure espedientera sartu behar duzu.	Egoitza elektronikoko zure espedientera sartu eta astebeteko tartean berreskuratuko duzu bidaia-txartela.	1
+Bidaia-txartela berreskuratzeko, egoitza elektronikoko zure espedientera sartu behar duzu.	Bidaia-txartela berreskuratzeko telefonoz deitzearekin nahikoa da.	2
+Oreka eta botekin trebezia irabazteko ondo etorri zaio ikastaroa egitea.	Ikastaroari esker oreka hobetu eta botekin trebezia irabazi du.	0
+Oreka eta botekin trebezia irabazteko ondo etorri zaio ikastaroa egitea.	Ikastaroari esker elastikotasuna asko hobetu du.	1
+Oreka eta botekin trebezia irabazteko ondo etorri zaio ikastaroa egitea.	Ikastaroa egiteak ez dio ezertarako balio izan.	2
+60 urteren atarian biok, hasiak gara orain arte ikusezinak zitzaizkigun kontuei erreparatzen, osasunari, gero eta sarriago hiltzen diren lagunei.	61 urte baino gutxiago dauzkagu biok.	0
+60 urteren atarian biok, hasiak gara orain arte ikusezinak zitzaizkigun kontuei erreparatzen, osasunari, gero eta sarriago hiltzen diren lagunei.	60 urteren atarian hobe da iraganari ez erreparatzea.	1
+60 urteren atarian biok, hasiak gara orain arte ikusezinak zitzaizkigun kontuei erreparatzen, osasunari, gero eta sarriago hiltzen diren lagunei.	Adinean gora egiteak ez du osasunaren eta heriotzaren inguruko gure ikuspegia aldatu.	2
+Zozketa egin eta berehala, eskainitako plazak adjudikatzen dira.	Plazak zozketa bidez esleitzen dira.	0
+Zozketa egin eta berehala, eskainitako plazak adjudikatzen dira.	Plazak adjudikatzeko zozketa informatikoki egiten da.	1
+Zozketa egin eta berehala, eskainitako plazak adjudikatzen dira.	Plazak zozketa egin eta bi astetara adjudikatzen dira.	2
+Larunbateko ekitaldia leuna eta polita izan zen.	Larunbatekoa ekitaldi atsegina izan zen.	0
+Larunbateko ekitaldia leuna eta polita izan zen.	Larunbateko ekitaldia etxetik ikusi nuen.	1
+Larunbateko ekitaldia leuna eta polita izan zen.	Larunbateko ekitaldia ez zen nire gustukoa izan, gogortasuna falta zitzaion.	2
+Maitasun erromantikoa sistema patriarkalaren biziraupena bermatzeko dispositiboa da.	Sistema patriarkalak bizirik iraun dezan erabiltzen da maitasun erromantikoa.	0
+Maitasun erromantikoa sistema patriarkalaren biziraupena bermatzeko dispositiboa da.	Sistema patriarkalak biziraun dezan hainbat dispositibo daude.	1
+Maitasun erromantikoa sistema patriarkalaren biziraupena bermatzeko dispositiboa da.	Sistema patriarkala maitasun erromantikoaren biziraupena bermatzeko dispositiboa da.	2
+46 urte zituen eta bat-bateko heriotzak eraman zuen gure albotik.	46 urterekin hil zen bat-batean.	0
+46 urte zituen eta bat-bateko heriotzak eraman zuen gure albotik.	Bizitza zoriontsua izan zuen.	1
+46 urte zituen eta bat-bateko heriotzak eraman zuen gure albotik.	Gaixotasun luze batek hil zuen.	2
+Iaz 15 film bikoiztu zituen euskarara Zinema Euskaraz programak, eta 2017a ere martxa onean hasi du.	Zinema Euskaraz programak filmak euskarara bikoizten ditu.	0
+Iaz 15 film bikoiztu zituen euskarara Zinema Euskaraz programak, eta 2017a ere martxa onean hasi du.	Zinema Euskaraz programak eginiko bikoizketa guztiak gaztelaniatik euskarara izan dira.	1
+Iaz 15 film bikoiztu zituen euskarara Zinema Euskaraz programak, eta 2017a ere martxa onean hasi du.	Badirudi Zinema Euskaraz programak oso film gutxi bikoiztuko dituela 2017an ere.	2
+Aurreko astean Bilboko Okupazio Bulegoak lau urte bete zituen.	Bilboko Okupazio Bulegoak laugarren urteurrena ospatu zuen.	0
+Aurreko astean Bilboko Okupazio Bulegoak lau urte bete zituen.	Bilboko Okupazio Bulegoak langile berriak kontratatuko ditu datorren hilabetean.	1
+Aurreko astean Bilboko Okupazio Bulegoak lau urte bete zituen.	Bi urte igaro dira Bilboko Okupazio Bulegoak itxi zuenetik.	2
+Getarian kultur eskaintza laukoiztu egin da ni bertan bizi nintzenetik.	Getarian gero eta kultur eskaintza gehiago dago.	0
+Getarian kultur eskaintza laukoiztu egin da ni bertan bizi nintzenetik.	Getariako kultur eskaintzaren laurdena antzerkia da.	1
+Getarian kultur eskaintza laukoiztu egin da ni bertan bizi nintzenetik.	Lehen Getarian, bertan bizi ez nintzenean, kultur eskaintza handiagoa zegoen.	2
+Paperean aurkezteaz gain, formatu digitalean ere aurkeztuko dira, posible bada.	Paperean eta formatu digitalean aurkeztuko dira.	0
+Paperean aurkezteaz gain, formatu digitalean ere aurkeztuko dira, posible bada.	Paperean hurrengo astean aurkeztuko dira.	1
+Paperean aurkezteaz gain, formatu digitalean ere aurkeztuko dira, posible bada.	Formatu digitalean bakarrik aurkeztuko dira.	2
+Diseinatzaile eta liburu ilustratzaile oparo eta puntakoa izan arren, komikigintzari egindako ekarpena ez da txikiago izan.	Komikigintzari ere ekarpen handia egin dio.	0
+Diseinatzaile eta liburu ilustratzaile oparo eta puntakoa izan arren, komikigintzari egindako ekarpena ez da txikiago izan.	Argitaratu berri duen komiki bildumak arrakasta handia izan du adin txikikoen artean.	1
+Diseinatzaile eta liburu ilustratzaile oparo eta puntakoa izan arren, komikigintzari egindako ekarpena ez da txikiago izan.	Komikilaria da eta batzuetan ilustrazioak egiten ditu.	2
+Artxandako Funikularra, S.A. oso-osorik Bilboko Udalarena den merkataritza-sozietatea da.	Bilboko Udala Artxandako Funikularraren jabea da.	0
+Artxandako Funikularra, S.A. oso-osorik Bilboko Udalarena den merkataritza-sozietatea da.	Bilboko Udalaren ustiakuntzako aurrekontuak merkataritza-sozietateak egiten dituen jarduera guztietatik eratorritakoak biltzen ditu.	1
+Artxandako Funikularra, S.A. oso-osorik Bilboko Udalarena den merkataritza-sozietatea da.	Bilboko Udalak parte hartzeren bat du Artxandako Funikularrean.	2
+Gipuzkoako kostaldean balea asko ibili zen garai batean, baina 4 bale ezagun aipatzen ditu Xabier Alberdi historialariak Euskadi Irratian egindako elkarrizketan.	Xabier Alberdi historialaria da eta ondo ezagutzen ditu inguruko itsasoetako baleak.	0
+Gipuzkoako kostaldean balea asko ibili zen garai batean, baina 4 bale ezagun aipatzen ditu Xabier Alberdi historialariak Euskadi Irratian egindako elkarrizketan.	Gipuzkoako kostaldean bizi ziren gainerako baleak beste kostalde batzuetan ere bizi zirela aipatu du Xabier Alberdik.	1
+Gipuzkoako kostaldean balea asko ibili zen garai batean, baina 4 bale ezagun aipatzen ditu Xabier Alberdi historialariak Euskadi Irratian egindako elkarrizketan.	Xabier Alberdik, Euskadi Irratiko elkarrizketan, Gipuzkoako kostaldean sekula ez dela balearik ibili aipatzen du.	2
+Ulia mendian izan gara aspaldiko partez.	Orain dela asko ez ginela Ulia mendira joaten.	0
+Ulia mendian izan gara aspaldiko partez.	Ulia mendia oso polita iruditu zaigu.	1
+Ulia mendian izan gara aspaldiko partez.	Urteak dira ez garela mendian egon.	2
+Zerbitzu-enpresentzako eraikin nagusiak 19 modulu ditu.	Zerbitzu-enpresentzako eraikin nagusia 19 moduluk osatzen dute.	0
+Zerbitzu-enpresentzako eraikin nagusiak 19 modulu ditu.	Zerbitzu-enpresentzako eraikin nagusiak 19 modulu eta hiru pisu ditu.	1
+Zerbitzu-enpresentzako eraikin nagusiak 19 modulu ditu.	Zerbitzu-enpresentzako eraikin nagusiak moduluak izan ditzake, baina ez da nahitaezkoa.	2
+Europar Batasunak Uspace izeneko ordenantza bat ari da martxan jartzen, automatizatutako dronentzak aire eremu baimenduak sortzeko.	Uspace ordenantzak automatizatutako dronentzat aire eremu baimenduak sortuko ditu.	0
+Europar Batasunak Uspace izeneko ordenantza bat ari da martxan jartzen, automatizatutako dronentzak aire eremu baimenduak sortzeko.	Uspace ordenantza 2030ean jarriko da martxan.	1
+Europar Batasunak Uspace izeneko ordenantza bat ari da martxan jartzen, automatizatutako dronentzak aire eremu baimenduak sortzeko.	Europar Batasunean aireko dron automatizatuak debekatuko dituen ordenantza bat sartuko da indarrean laster.	2
+Dublingo lur-hartzea oso-oso deserosoa izan da, asko mugitu da hegazkina, alde batetik bestera.	Dublingo lur-hartzea oso-oso deserosoa izan da, asko mugitu da hegazkina, alde batetik bestera.	0
+Dublingo lur-hartzea oso-oso deserosoa izan da, asko mugitu da hegazkina, alde batetik bestera.	Dublingo luhartzean bidaiariak beldurrez garrasika hasi dira.	1
+Dublingo lurhartzea oso-oso deserosoa izan da, asko mugitu da hegazkina, alde batetik bestera.	Dublingo lur-hartzeak beti izaten dira oso lasaiak, turbulentziarik gabeak.	2
+Jakina da Joxan Goikoetxeak harreman estua izan zuela Xabier Leterekin, bereziki bere bizitzako azken urteetan.	Xabier Letek eta Joxan Goikoetxeak harreman handia izan zuten.	0
+Jakina da Joxan Goikoetxeak harreman estua izan zuela Xabier Leterekin, bereziki bere bizitzako azken urteetan.	Xabier Lete eta Joxan Goikoetxea adinkideak dira.	1
+Jakina da Joxan Goikoetxeak harreman estua izan zuela Xabier Leterekin, bereziki bere bizitzako azken urteetan.	Xabier Letek eta Joxan Goikoetxeak gaztetan izan zuten harreman handiena.	2
+Garai Zekenak antzezlana aurkeztu du Arriaga Bilboko antzokiak, Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarrituta.	Garai Zekenak antzezlana Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarritzen da.	0
+Garai Zekenak antzezlana aurkeztu du Arriaga Bilboko antzokiak, Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarrituta.	Arriaga Bilboko antzokiak aurkeztutako Garai Zekenak antzezlana ikusgarria da.	1
+Garai Zekenak antzezlana aurkeztu du Arriaga Bilboko antzokiak, Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarrituta.	Arriaga Bilboko antzokiak aurkeztuko duen Garai Zekenak antzezlana Henrik Ibsen norvegiar dramaturgoaren klasiko handietako batean oinarritzen da.	2
+Larunbatean, urriaren 31n, Beldurrezko Zinemaldiko pelikula bat ikustera joateko gonbita jaso genuen.	Beldurrezko Zinemaldiko pelikula bat ikustera gonbidatu gintuzten.	0
+Larunbatean, urriaren 31n, Beldurrezko Zinemaldiko pelikula bat ikustera joateko gonbita jaso genuen.	Larunbatean Beldurrezko Zinemaldiko bi pelikula ikusi genituen.	1
+Larunbatean, urriaren 31n, Beldurrezko Zinemaldiko pelikula bat ikustera joateko gonbita jaso genuen.	Beldurrezko Zinemaldiko pelikula bat ikustera gonbidatu genuen.	2
+"Zarautzen sortu berri den jaialdia da Adarretatik, udako musika festibaletan tokitxo bat egin guran datorrena, eta ""bazterreko musikak erdigunera"" ekartzea helburu duena."	Bazterreko musika ikustarazten duen udako musika jaialdi berria sortu dute Zarautzen: Adarretatik. 	0
+"Zarautzen sortu berri den jaialdia da Adarretatik, udako musika festibaletan tokitxo bat egin guran datorrena, eta ""bazterreko musikak erdigunera"" ekartzea helburu duena."	Adarretatik jaialdiak jendetza bildu zuen Zarauzko kaleetan.	1
+"Zarautzen sortu berri den jaialdia da Adarretatik, udako musika festibaletan tokitxo bat egin guran datorrena, eta ""bazterreko musikak erdigunera"" ekartzea helburu duena."	"Zarauzko Adarretatik udako musika jaialdiak urteak daramatza ""bazterreko musikak erdigunera"" ekartzeko lana egiten."	2
+Europako elkarteek gogor salatu dute Goioagaren aurkako auzia.	Europako elkarteak ez daude ados Goioagaren aurkako auziarekin.	0
+Europako elkarteek gogor salatu dute Goioagaren aurkako auzia.	Goioagaren aurkako auziak salaketa ugari izan ditu.	1
+Europako elkarteek gogor salatu dute Goioagaren aurkako auzia.	Goioagaren aurkako auziak gogor salatu ditu Europako elkarteak.	2
+Solte taldeak 'IXA' azken diskoaren (Taupaka elkartea, 2016) Eraldatutako mundua abestiarekin bideoklip berritzailea prestatu du.	Solte taldearen azken diskoa 'IXA' da.	0
+Solte taldeak 'IXA' azken diskoaren (Taupaka elkartea, 2016) Eraldatutako mundua abestiarekin bideoklip berritzailea prestatu du.	Solte musika taldeak erritmo biziak erabiltzen ditu, horren adierazle da 'Eraldatutako mundua' kanta.	1
+Solte taldeak 'IXA' azken diskoaren (Taupaka elkartea, 2016) Eraldatutako mundua abestiarekin bideoklip berritzailea prestatu du.	Solte muska taldearen lehen diskoa da 'IXA'.	2
+Langile askok ez dakite zer dagoen ondo eta zer txarto, ez dakite nola jokatu.	Ongia eta gaizkiaren artean bereiztea ez da erraza langile askorentzat.	0
+Langile askok ez dakite zer dagoen ondo eta zer txarto, ez dakite nola jokatu.	Langileei asko eragiten die nola jokatu ez jakiteak.	1
+Langile askok ez dakite zer dagoen ondo eta zer txarto, ez dakite nola jokatu.	Langileek ez daukate zalantzarik, beti dakite nola jokatu behar duten.	2
+Leku gomendagarri bat ezagutu genuen aurreko asteburuan. Famili giroan sortutako eta ukitu hego-amerikarra duen etxe multzo txiki bat da.	Aurreko asteburuan ukitu hego-amerikarra duen etxe multzo txiki batean egon ginen.	0
+Leku gomendagarri bat ezagutu genuen aurreko asteburuan. Famili giroan sortutako eta ukitu hego-amerikarra duen etxe multzo txiki bat da.	Aurreko asteburuan ezagututako etxe multzo txikia izekok gomendatu zidan, familia giroan sortutakoa da eta ukitu hego-amerikarra dauka. 	1
+Leku gomendagarri bat ezagutu genuen aurreko asteburuan. Famili giroan sortutako eta ukitu hego-amerikarra duen etxe multzo txiki bat da.	Aurreko asteburuan ezagututako etxe multzo txikia ez da gomendatzeko modukoa.	2
+Sarituek zenbait informatika eta marrazketa material jasoko dute, eta komiki irabazlea Mahatserriko BERTON aldizkarian argitaratuko da.	Sarituek informatika eta marrazketa materiala irabaziko dute.	0
+Sarituek zenbait informatika eta marrazketa material jasoko dute, eta komiki irabazlea Mahatserriko BERTON aldizkarian argitaratuko da.	Parte-hartzaile bakoitzak komiki bakarra aurkeztu ahal izango du.	1
+Sarituek zenbait informatika eta marrazketa material jasoko dute, eta komiki irabazlea Mahatserriko BERTON aldizkarian argitaratuko da.	Komiki sarituak Mahatserriko BERTON aldizkarian argitaratuko dira. 	2
+Azaroaren 3an kaleratuko du Zea Mays taldeak bere zortzigarren lana,'Harro' izenekoa.	Zea Mays taldeak disko berri bat argitaratuko du.	0
+Azaroaren 3an kaleratuko du Zea Mays taldeak bere zortzigarren lana,'Harro' izenekoa.	Bost kidek osatzen dute Zea Mays taldea.	1
+Azaroaren 3an kaleratuko du Zea Mays taldeak bere zortzigarren lana,'Harro' izenekoa.	Zea Mays taldeak ez du disko bat bera ere argitaratu.	2
+Arrantzale tripulazio berdinak irabazi zuen kontxako lehen bandera Oriorako.	Oriok eskuratu zuen kontxako lehen bandera.	0
+Arrantzale tripulazio berdinak irabazi zuen kontxako lehen bandera Oriorako.	Orioko tripulazioak horiz jantzi ohi da.	1
+Arrantzale tripulazio berdinak irabazi zuen kontxako lehen bandera Oriorako.	Hondarribiak irabazi zuen kontxako lehen bandera.	2
+Seme-alabekin izan berri naiz Erroman.	Duela gutxi Italian egon naiz.	0
+Seme-alabekin izan berri naiz Erroman.	Nere seme-alabek asko maite naute.	1
+Seme-alabekin izan berri naiz Erroman.	Ez naiz inoiz Italian izan.	2
+"Xabier Letek idatzi eta zuzendu zuen ""Gabon, Txirrita"" antzerki obra 1982an taularatu zen."	Gabon Txirrita antzerki obra baten izena da.	0
+"Xabier Letek idatzi eta zuzendu zuen ""Gabon, Txirrita"" antzerki obra 1982an taularatu zen."	Xabier Lete abeslari bikaina zen.	1
+"Xabier Letek idatzi eta zuzendu zuen ""Gabon, Txirrita"" antzerki obra 1982an taularatu zen."	Xabier Letek ez zuen antzerki obrarik idatzi.	2
+"Orain gutxi ""ORM Elurretako Erresuman"" pantailaratu zuen, eta aurki ""Batman Lego filma"" estreinatuko du."	Animazio-filmak euskaratu ohi dira.	0
+"Orain gutxi ""ORM Elurretako Erresuman"" pantailaratu zuen, eta aurki ""Batman Lego filma"" estreinatuko du."	Geroz eta jende gutxiago joaten da filmak ikustera.	1
+"Orain gutxi ""ORM Elurretako Erresuman"" pantailaratu zuen, eta aurki ""Batman Lego filma"" estreinatuko du."	ORM Elurretako Erresuman pantailaratuko den azken filma izango da.	2
+Amazonek eskaintzen du adimen artifiziala eskoletarako eta hodeia eta Alexa echo dot eta Alexa echo plus.	Amazonek produktu ugari ditu adimen artifizialaren inguruan.	0
+Amazonek eskaintzen du adimen artifiziala eskoletarako eta hodeia eta Alexa echo dot eta Alexa echo plus.	Amazonen produktuak merkeak izaten dira.	1
+Amazonek eskaintzen du adimen artifiziala eskoletarako eta hodeia eta Alexa echo dot eta Alexa echo plus.	Eskoletara zuzendutako adimen artifizialeko produkturik ez dago.	2
+Euskarari lehen hurbilketa egiteko, interesgarria da Deustuko Unibertsitateak bere garaian plazaratutako euskara ikasteko metodoa.	Deustuko Unibertsitateak metodo bat garatu du euskara ikasteko.	0
+Euskarari lehen hurbilketa egiteko, interesgarria da Deustuko Unibertsitateak bere garaian plazaratutako euskara ikasteko metodoa.	Deustuko Unibertsitateak hainbat eskola eta fakultate ditu.	1
+Euskarari lehen hurbilketa egiteko, interesgarria da Deustuko Unibertsitateak bere garaian plazaratutako euskara ikasteko metodoa.	Deustuko Unibertsitateak gaztelera ikasteko materiala garatu du soilik.	2
+Zure euskara maila zein den jakin nahiko bazenu, horretarako aukera ere ematen du sareak.	Aukera dago norberaren euskara maila zein den neurtzeko.	0
+Zure euskara maila zein den jakin nahiko bazenu, horretarako aukera ere ematen du sareak.	Euskararen erabilpen maila txikitzen ari da azken boladan.	1
+Zure euskara maila zein den jakin nahiko bazenu, horretarako aukera ere ematen du sareak.	Norberaren euskara maila jakiteko elkarrizketa presentziala egin behar da nahitaez.	2
+Ziurtagiriak egoitza elektronikoaren titularraren identifikazioa jasotzen du, eta dispositibo seguru baten edo bide baliokide baten bidez igortzen da.	Ziurtagiria lagun bakoitzaren identitatea bermatzen saiatzen da.	0
+Ziurtagiriak egoitza elektronikoaren titularraren identifikazioa jasotzen du, eta dispositibo seguru baten edo bide baliokide baten bidez igortzen da.	Ez dago teknika bakarra titularraren identifikazioa ziurtatzeko.	1
+Ziurtagiriak egoitza elektronikoaren titularraren identifikazioa jasotzen du, eta dispositibo seguru baten edo bide baliokide baten bidez igortzen da.	Ziurtagiriak titularraren informazioa gordina igortzen du, zifratu gabe.	2
+Duela bi aste grazia egiten zuen zerbait gaur erabat erreta egon daiteke.	Txisteen iraupena mugatua da, ez da betirako.	0
+Duela bi aste grazia egiten zuen zerbait gaur erabat erreta egon daiteke.	Lagun bati grazia egiten diona beste bati ez zaio gustatzen.	1
+Duela bi aste grazia egiten zuen zerbait gaur erabat erreta egon daiteke.	Jendeari gustatzen zaio txiste berdinak behin eta berriz entzutea.	2
+Instalazio modernoak ditu, doako wifia eremu komunetan, eta segurtasun-zerbitzu iraunkorra 24 orduan.	Internetera konekta zaitezke toki horretara joaten bazara.	0
+Instalazio modernoak ditu, doako wifia eremu komunetan, eta segurtasun-zerbitzu iraunkorra 24 orduan.	Espazio hori alokatzea oso garestia da.	1
+Instalazio modernoak ditu, doako wifia eremu komunetan, eta segurtasun-zerbitzu iraunkorra 24 orduan.	Gauean segurtasun-eza nabaria da espazio horretan.	2
+Beldur pixkat pasatu dugu hilabete honetan David Robert Michellek zuzendutako 'It Follows' filmarekin.	It follows' beldurrezko filma da.	0
+Beldur pixkat pasatu dugu hilabete honetan David Robert Michellek zuzendutako 'It Follows' filmarekin.	It follows' filma 'It' filmaren jarraipena da.	1
+Beldur pixkat pasatu dugu hilabete honetan David Robert Michellek zuzendutako 'It Follows' filmarekin.	David Robert Michell zuzendariak komediak egiten ditu soilik.	2
+Gainerako 5 eraikinek bina solairu dituzte; beheko solairuan industria-moduluak daude, eta goiko solairuan bulego-moduluak.	Eraikinak industriarako prestatuak daude.	0
+Gainerako 5 eraikinek bina solairu dituzte; beheko solairuan industria-moduluak daude, eta goiko solairuan bulego-moduluak.	Eraikinak oso modernoak dira.	1
+Gainerako 5 eraikinek bina solairu dituzte; beheko solairuan industria-moduluak daude, eta goiko solairuan bulego-moduluak.	Eraikin guztiek solairu bakarra dute.	2
+Ea korrikalari guztiak gehiago erabiltzen dugun euskara aurrerantzean!	Korrikalari askok ez dute euskara erabiltzen.	0
+Ea korrikalari guztiak gehiago erabiltzen dugun euskara aurrerantzean!	Korrika egitea osasungarria da oro har.	1
+Ea korrikalari guztiak gehiago erabiltzen dugun euskara aurrerantzean!	Korrika egiten duen orok euskaraz ere egiten du.	2
+Oraindik badugu iritzi publikoan eragiteko gaitasuna.	Iritzi publikoa aldatu daiteke.	0
+Oraindik badugu iritzi publikoan eragiteko gaitasuna.	Jendeak askotariko iritziak ditu.	1
+Oraindik badugu iritzi publikoan eragiteko gaitasuna.	Iritzi publikoa finkoa da.	2
+Ikasbil webgunean milaka eta milaka artikulu, testu, bideo eta audio daude.	Interneten ezin da testu, bideo eta audiorik aurkitu.	0
+Ikasbil webgunean milaka eta milaka artikulu, testu, bideo eta audio daude.	Iskanbil interneteko webgune ezaguna da.	1
+Ikasbil webgunean milaka eta milaka artikulu, testu, bideo eta audio daude.	Iskanbil webgunean soilik testua dago.	2
+Egoitza elektronikoaren izapideen katalogoan aurkituko duzu prozedura, izapide eta zerbitzu bakoitzari buruzko informazio zehatza.	Izapidea eta zerbitzuen funtzionamendua azaltzen duen dokumentazioa atzigarri dago.	0
+Egoitza elektronikoaren izapideen katalogoan aurkituko duzu prozedura, izapide eta zerbitzu bakoitzari buruzko informazio zehatza.	Egoitza elektronikoan sartzea konplexua da oso.	1
+Egoitza elektronikoaren izapideen katalogoan aurkituko duzu prozedura, izapide eta zerbitzu bakoitzari buruzko informazio zehatza.	Izapide eta zerbitzuak ikasteko ez da inolako dokumentaziorik behar.	2
+Sondikako Enpresa Zentro horretan industria-moduluak eta bulego-moduluak daude, 5 eraikinetan banatuta.	Hainbat enpresek dute beren egoitza Sondikan kokatuta.	0
+Sondikako Enpresa Zentro horretan industria-moduluak eta bulego-moduluak daude, 5 eraikinetan banatuta.	Sondikako Enpresa Zentroa Bizkaiko garrantzitsuenetakoa da.	1
+Sondikako Enpresa Zentro horretan industria-moduluak eta bulego-moduluak daude, 5 eraikinetan banatuta.	Sondikako Enpresa Zentroak bi eraikin ditu.	2
+Bost lagun gara, eta gazteena ni naiz.	Adin desberdineko lagunak gaude taldean.	0
+Bost lagun gara, eta gazteena ni naiz.	Musean jolas nahiko bagenu, bostetatik bat kanpo geratuko litzateke.	1
+Bost lagun gara, eta gazteena ni naiz.	Bost lagunek urte eta egun berean jaio ginen.	2
+Epaileak sei hilabeteko espetxera zigortu zituen auzoko lau gazte.	Auzoan hainbat gazte daude espetxe-zigorrak jaso dituztenak.	0
+Epaileak sei hilabeteko espetxera zigortu zituen auzoko lau gazte.	Espetxe zigorra bi urte baino txikiagoa denez, lau gazteak ez dira kartzelara sartuko.	1
+Epaileak sei hilabeteko espetxera zigortu zituen auzoko lau gazte.	Epaileak auzoko lau gazteak absolbitu zituen.	2
+Miren eta Andrearen erlazioa klandestinoa izan zen hasieratik, bikotea normatibatik at zegoelako.	Miren eta Andrea harreman sentimentala dute.	0
+Miren eta Andrearen erlazioa klandestinoa izan zen hasieratik, bikotea normatibatik at zegoelako.	Erlazio homosexualak normaltasunez bizi behar dira.	1
+Miren eta Andrearen erlazioa klandestinoa izan zen hasieratik, bikotea normatibatik at zegoelako.	Miren eta Andrearen erlazioa erabat arrunta izan zen.	2
+Nazioarteko festibala izaki, badira kanpoko proposamenak ere, nahiz eta euskal taldeen presentzia den nagusi.	Nazioarteko taldeak jotzen dute festibal honetan.	0
+Nazioarteko festibala izaki, badira kanpoko proposamenak ere, nahiz eta euskal taldeen presentzia den nagusi.	Festibalak musika zuzenean bizitzeko aukera paregabeak dira.	1
+Nazioarteko festibala izaki, badira kanpoko proposamenak ere, nahiz eta euskal taldeen presentzia den nagusi.	Festibal honetan talde euskaldun bakarra jo zuen.	2
+Hirugarren urtez jarraian, Santutxu Mendizale Taldeak ibilaldi neurtua antolatu du, urriaren 20rako, larunbata.	Santutxu Mendizale Taldeak mendi irteerak antolatu ohi ditu.	0
+Hirugarren urtez jarraian, Santutxu Mendizale Taldeak ibilaldi neurtua antolatu du, urriaren 20rako, larunbata.	Santutxu Mendizale Taldeko ibilaldietara jende ugari azaltzen da.	1
+Hirugarren urtez jarraian, Santutxu Mendizale Taldeak ibilaldi neurtua antolatu du, urriaren 20rako, larunbata.	Santutxu Mendizale Taldea iaz osatu zen.	2
+R 'N' R estiloa zein hegoaldeko rocka lantzen dituen letra eta konponketa landuak dira diskokoak.	Diskoa osatzen duten kanten estilo nagusia rock dela esan daiteke.	0
+R 'N' R estiloa zein hegoaldeko rocka lantzen dituen letra eta konponketa landuak dira diskokoak.	Hegoaldeko rock kantetan gitarrak dira nagusi.	1
+R 'N' R estiloa zein hegoaldeko rocka lantzen dituen letra eta konponketa landuak dira diskokoak.	Diskoaren kanta guztiak instrumentalak dira.	2
+Guraso batek haurrei argazkiak atera eta gonbidapen berezia prestatzen du 60 haurri banatzeko.	Haurrek gonbidapen berezia jasoko dute.	0
+Guraso batek haurrei argazkiak atera eta gonbidapen berezia prestatzen du 60 haurri banatzeko.	Haurrek beti ateratzen dira ondo argazkietan.	1
+Guraso batek haurrei argazkiak atera eta gonbidapen berezia prestatzen du 60 haurri banatzeko.	Guraso bati atera diote argazkia haurrek.	2
+Istiluetan hamaika lagun identifikatu eta atxilotu zituen Ertzaintzak.	Ertzainak lagun asko atxilotu zituen.	0
+Istiluetan hamaika lagun identifikatu eta atxilotu zituen Ertzaintzak.	Atxilotutako jende asko libre geratuko da.	1
+Istiluetan hamaika lagun identifikatu eta atxilotu zituen Ertzaintzak.	Istiluetan parte hartutako lagun guztiak atxilotu zituen Ertzainak.	2
+Xabier Lete musikari edo idazle izan aurretik antzerkiko aktore izan zen.	Xabier Lete hainbat arlotan ibilitako artista izan zen.	0
+Xabier Lete musikari edo idazle izan aurretik antzerkiko aktore izan zen.	Xabier Leteren ahotsa oso atsegina zen.	1
+Xabier Lete musikari edo idazle izan aurretik antzerkiko aktore izan zen.	Xabier Letek ez zuen inongo arlo artistikoa landu abesten hasi zen arte.	2
+Azken egunean, Logroñora iristeko 3 kilometro bakarrik falta zirenean, Maria la de los Higos-en alaba ezagutu nuen.	Hainbat egun pasa nituen Logroñoko bidean.	0
+Azken egunean, Logroñora iristeko 3 kilometro bakarrik falta zirenean, Maria la de los Higos-en alaba ezagutu nuen.	Maria de los Higos-en alaba oso jatorra da.	1
+Azken egunean, Logroñora iristeko 3 kilometro bakarrik falta zirenean, Maria la de los Higos-en alaba ezagutu nuen.	Maria de los Higos-en semeak gizonezkoak ziren denak.	2
+Ederki dakigu ni ez naizela bera bezalako hegazti eta bera ere ez dela jaioa egoteko lotuta leku bati.	Bion izaera oso desberdina da.	0
+Ederki dakigu ni ez naizela bera bezalako hegazti eta bera ere ez dela jaioa egoteko lotuta leku bati.	Izaera desberdin daude, eta bata ez da bestea baino hobea.	1
+Ederki dakigu ni ez naizela bera bezalako hegazti eta bera ere ez dela jaioa egoteko lotuta leku bati.	Bera nahiago du etxean geratu kanpotik bidaiatzen ibili baino.	2
+Okupazio Bulegoaren laugarren urteurrena ospatuko dute urriaren 20an	Okupazio Bulegoaren urteurrena udazkenean ospatzen da.	0
+Okupazio Bulegoaren laugarren urteurrena ospatuko dute urriaren 20an	Datorren urtean Donostian ospatuko dute Okupazio Bulegoaren urteurrena.	1
+Okupazio Bulegoaren laugarren urteurrena ospatuko dute urriaren 20an	Okupazio Bulegoaren laugarren urteurrena ospatu zuten iaz.	2
+Guraso edo tutoreek erabakita euskara izango da parte-hartzaileek erabiliko duten hizkuntza	Parte-hartzaileek euskaraz hitz egingo dutela erabaki dute guraso eta tutoreek.	0
+Guraso edo tutoreek erabakita euskara izango da parte-hartzaileek erabiliko duten hizkuntza	Guraso eta tutoreek erabaki dute euskaraz hitz egingo dutela haurrekin. 	1
+Guraso edo tutoreek erabakita euskara izango da parte-hartzaileek erabiliko duten hizkuntza	Guraso eta tutoreek euskaraz hitz egingo dutela erabaki dute parte-hartzaileek.	2
+Lagun Arok Antiguako Benta Berriko sukurtsalean gaztelania hutsean idatzitako oharrak paratu ditu atearen bi aldeetara.	Lagun Arok Antiguako Benta Berriko sukurtsalean jarritako oharrak erdaraz idatzita zeuden.	0
+Lagun Arok Antiguako Benta Berriko sukurtsalean gaztelania hutsean idatzitako oharrak paratu ditu atearen bi aldeetara.	Lagun Arok Antiguako Benta Berriko sukurtsalean jarritako oharrak ondo idatzita zeuden.	1
+Lagun Arok Antiguako Benta Berriko sukurtsalean gaztelania hutsean idatzitako oharrak paratu ditu atearen bi aldeetara.	Lagun Arok Antiguako Benta Berriko sukurtsalean jarritako oharrak ingelesez idatzita zeuden.	2
+Polizia guztien torturen salaketak jaso dira, Ertzaintzarenak tartean.	Ertzaintzak ere tortura egin duela salatu dute.	0
+Polizia guztien torturen salaketak jaso dira, Ertzaintzarenak tartean.	Ertzaintzak polizien tortura kasuak salatu ditu.	1
+Polizia guztien torturen salaketak jaso dira, Ertzaintzarenak tartean.	Ertzaintza tortura salaketetatik libre geratu da.	2
+Madalenak egiteko nire ahizpak amona Jexuxaren errezeta berreskuratu nahi izan du.	Amona Jexuxak madalenak egiteko errezeta zeukan.	0
+Madalenak egiteko nire ahizpak amona Jexuxaren errezeta berreskuratu nahi izan du.	Nire ahizpari bakarrik Amona Jexuxak egindako madalenak gustatzen zaizkio.	1
+Madalenak egiteko nire ahizpak amona Jexuxaren errezeta berreskuratu nahi izan du.	Madalenak egiteko amona Jexuxak nire ahizparen errezeta berreskuratu nahi izan du.	2
+Ez da aurrez aurreko identifikaziorik eskatzen BAK aktibatu eta igortzeko: Internet bidez egiten da.	Internet bidez eskatu dezakezu BAK aktibatu eta bidal diezazutela.	0
+Ez da aurrez aurreko identifikaziorik eskatzen BAK aktibatu eta igortzeko: Internet bidez egiten da.	Internet bidez eskatu dezakezu BAK baliogabe diezazutela.	1
+Ez da aurrez aurreko identifikaziorik eskatzen BAK aktibatu eta igortzeko: Internet bidez egiten da.	Internet bidez eskatu behar duzu BAK aktibatu eta bidal diezazutela.	2
+Hiru argazki bakarrik gorde ahal izan ditut.	Ez dut lau argazki gordetzeko aukerarik izan.	0
+Hiru argazki bakarrik gorde ahal izan ditut.	Lau argazki zituen gordeta.	1
+Hiru argazki bakarrik gorde ahal izan ditut.	Lau argazki bakarrik gordeta dauzkat.	2
+Larunbatean, urriaren 31ean, Beldurrezko Zinemaldiko pelikula bat ikustera joateko gonbita jaso genuen.	Beldurrezko Zinemaldiko pelikula bat ikusteko gonbidatu gintuzten.	0
+Larunbatean, urriaren 31ean, Beldurrezko Zinemaldiko pelikula bat ikustera joateko gonbita jaso genuen.	Beldurrezko Zinemaldiko pelikula bat ikustera joan ginen.	1
+Larunbatean, urriaren 31ean, Beldurrezko Zinemaldiko pelikula bat ikustera joateko gonbita jaso genuen.	Beldurrezko Zinemaldiko pelikula batean parte hartzeko gonbidatu gintuzten.	2
+Euskadiko Kutxak berriro ere errenta-aitorpena egiteko euskararik ez dakien langile bat ipini du Antiguako Matia kaleko sukurtsalean, Donostian.	Euskadiko Kutxako Antiguako Matia kaleko sukurtsaleko errenta-aitorpena egiten laguntzen duen langilea erdaldun hutsa da.	0
+Euskadiko Kutxak berriro ere errenta-aitorpena egiteko euskararik ez dakien langile bat ipini du Antiguako Matia kaleko sukurtsalean, Donostian.	Euskadiko Kutxako Antiguako Matia kaleko sukurtsaleko langileek erdaraz bakarrik hitz egiten dute.	1
+Euskadiko Kutxak berriro ere errenta-aitorpena egiteko euskararik ez dakien langile bat ipini du Antiguako Matia kaleko sukurtsalean, Donostian.	Euskadiko Kutxako Antiguako Matia kaleko sukurtsaleko langileek euskaraz bakarrik hitz egiten dute.	2
+Erizainen arteko umoreak eramangarriago egiten du guztia.	Erizainek bere artean bromak egiten badituzte, dena hobeto eramaten da.	0
+Erizainen arteko umoreak eramangarriago egiten du guztia.	Erizainak umore onez egoteak asko laguntzen die pazienteei.	1
+Erizainen arteko umoreak eramangarriago egiten du guztia.	Erizainek umorea erabiltzeko debekua dute.	2
+Pandemiak erakarri dituen begi bistako kalteez gainera, gertatuak ikaragarri nabarmendu eta azaleratu ditu Europar Batasunaren ahuleziak eta, besteak beste, salatu ditu Europako berrikuntza teknologikoaren gainbehera eta lidergo industrialik eza.	Gertatutakoak garbi utzi du, pandemiak eragindako kalteez bestealde, Europar Batasuna ahula dela eta ez dela berrikuntza teknologiko eta industrialaren munduko liderra.	0
+Pandemiak erakarri dituen begi bistako kalteez gainera, gertatuak ikaragarri nabarmendu eta azaleratu ditu Europar Batasunaren ahuleziak eta, besteak beste, salatu ditu Europako berrikuntza teknologikoaren gainbehera eta lidergo industrialik eza.	Gertatutakoak garbi utzi du, pandemiak eragindako kalteak direla medio, Europar Batasunak munduan berrikuntza teknologiko eta industrialaren lidergoa berreskuratu behar duela.	1
+Pandemiak erakarri dituen begi bistako kalteez gainera, gertatuak ikaragarri nabarmendu eta azaleratu ditu Europar Batasunaren ahuleziak eta, besteak beste, salatu ditu Europako berrikuntza teknologikoaren gainbehera eta lidergo industrialik eza.	Gertatutakoak garbi utzi du, pandemiak eragindako kalteez gain, Europar Batasuna ahula dela baina berrikuntza teknologiko eta industrialaren munduko liderra dela.	2
+Plazarik eskuratzen ez duten pertsonak itxaronzerrendan sartzen dira, zozketaren hurrenkera berean.	Plazarik lortu ezean, itxaronzerrendan sartuko zara, zozketaren ordena mantenduz.	0
+Plazarik eskuratzen ez duten pertsonak itxaronzerrendan sartzen dira, zozketaren hurrenkera berean.	Plaza eskuratzen ez duten pertsonek zozketa batean parte hartzeko aukera dute.	1
+Plazarik eskuratzen ez duten pertsonak itxaronzerrendan sartzen dira, zozketaren hurrenkera berean.	Plazarik eskuratzen ez baduzu, zozketa batean sartuko zara, itxaronzerrendako hurrenkera erabikitzeko.	2
+Ez bagara irudikatzen, irudikatuak izango gara.	Geuk geure burua irudikatzen ez badugu, besteek irudikatuko gaituzte.	0
+Ez bagara irudikatzen, irudikatuak izango gara.	Ez bagara irudikatzen, guri buruzko iritzi okerrak ugarituko dira.	1
+Ez bagara irudikatzen, irudikatuak izango gara.	Ez bagara irudikatzen, guri buruzko irudikapenak existitzeari utziko dio.	2
+Eusko Jaurlaritzak azpimarratu du 2003an hasi zela Ertzaintza Tratu Txarren Prebentziorako Protokoloa ezartzen atxilotuen lege-bermea indartzeko.	Ertzaintza Tratu Txarren Prebentziorako Protokoloa 2003tik dago indarrean atxilotuen eskubideak bermatzeko, Eusko Jaurlaritzaren arabera.	0
+Eusko Jaurlaritzak azpimarratu du 2003an hasi zela Ertzaintza Tratu Txarren Prebentziorako Protokoloa ezartzen atxilotuen lege-bermea indartzeko.	Eusko Jaurlaritza 2003ko urtarrilean hasi zen Ertzaintza Tratu Txarren Prebentziorako Protokoloa lantzen atxilotuen lege-bermea indartzeko.	1
+Eusko Jaurlaritzak azpimarratu du 2003an hasi zela Ertzaintza Tratu Txarren Prebentziorako Protokoloa ezartzen atxilotuen lege-bermea indartzeko.	Eusko Jaurlaritzaren esanetan, Ertzaintza Tratu Txarren Prebentziorako Protokoloa 2003an hasi zen ezartzen, presoen askatze prozesua arintzeko.	2
+Heteropatriarkatuaren kalte-ordainak etxeetako barrunbeetan daude, eta maitasun erromantikoan eraikitako harreman afektibo-sexualak dira horien adierazpide.	Maitasun erromantikoan eraikitako harreman afektibo-sexualek frogatzen dute heteropatriarkatuaren eragina nonahi dela.	0
+Heteropatriarkatuaren kalte-ordainak etxeetako barrunbeetan daude, eta maitasun erromantikoan eraikitako harreman afektibo-sexualak dira horien adierazpide.	Maitasun erromantikoan eraikitako harreman afektibo-sexualek adierazten dutena aintzat hartu behar da.	1
+Heteropatriarkatuaren kalte-ordainak etxeetako barrunbeetan daude, eta maitasun erromantikoan eraikitako harreman afektibo-sexualak dira horien adierazpide.	Maitasun erromantikoan eraikitako harreman afektibo-sexualak heteropatriarkatuaren aurka borrokatzera ohituta daude.	2
+Ebook-ean irakurri dudan lehen liburua izan da eta gustatu zait esperientzia	Hau ebook formatuan irakurri dudan liburu bakarra da eta atsegin zen esperientzia. 	0
+Ebook-ean irakurri dudan lehen liburua izan da eta gustatu zait esperientzia	Ez nuen espero ebook-ean irakurriko nuen lehen liburua hain esperientzia polita izatea.	1
+Ebook-ean irakurri dudan lehen liburua izan da eta gustatu zait esperientzia	Ebook formatuko liburu bat jada irakurri arren, gustatu zait esperientzia.	2
+Masterizazio lanean oraingo honetan ere Andy Hippy Baldwin aritu da, Londreseko Metropolis estudioan.	Londreseko Metropolis estudioko Andy Hippy Baldwin-ek berriro lagundu du masterizazio lanean.	0
+Masterizazio lanean oraingo honetan ere Andy Hippy Baldwin aritu da, Londreseko Metropolis estudioan.	Andy Hippy Baldwin-ek masterizazio lan guztia Londreseko Metropolis estudioan egin du.	1
+Masterizazio lanean oraingo honetan ere Andy Hippy Baldwin aritu da, Londreseko Metropolis estudioan.	Masterizazio lanean lehenbizikoz aritu da Andy Hippy Baldwin, Londreseko Metropolis estudioan.	2
+2018ko abenduaren 4an sozietatearen izena eta xedea aldatu zituen, bere jarduera-eremua Ibar Ezkerrera eta Txorierrira zabaltzeko asmoz.	2018ko urte bukaeran aldatu ziren sozietatearen izena eta xedea, bere ekintzak Ibar Ezkerrean eta Txorierrian ere eskaintzeko xedearekin.	0
+2018ko abenduaren 4an sozietatearen izena eta xedea aldatu zituen, bere jarduera-eremua Ibar Ezkerrera eta Txorierrira zabaltzeko asmoz.	2018ko urtean sozietatearen izena eta xedea aldatzeaz gain, jarduera mota ere aldatu zuen.	1
+2018ko abenduaren 4an sozietatearen izena eta xedea aldatu zituen, bere jarduera-eremua Ibar Ezkerrera eta Txorierrira zabaltzeko asmoz.	2018ko abenduaren 4an sozietatearen izena eta xedea aldatu zituen, bere jarduera-eremua Bilboko eremu guztietara hedatzeko asmoarekin. 	2
+Sari banaketa honek euskaratik egindako itzulpengintza balioan jartzea du helburu.	Sari banaketa honen xedea euskaratik egiten den itzulpenen balioa goraipatzea da.	0
+Sari banaketa honek euskaratik egindako itzulpengintza balioan jartzea du helburu.	Sari banaketa honen helburu bakarra euskaratik egindako itzulpengintza balioan jartzea da.	1
+Sari banaketa honek euskaratik egindako itzulpengintza balioan jartzea du helburu.	Sari banaketa honek euskarara egindako itzulpengintza balioan jartzea du helburu.	2
+Aspaldi sartu ginen istilu honetan eta dagoeneko ez du atzera bueltarik.	Aspalditik dugu istilu hau eta ezin dugu atzera egin.	0
+Aspaldi sartu ginen istilu honetan eta dagoeneko ez du atzera bueltarik.	Aspaldi hasi ginen borrokatzen eta ez dugu irabazteko modurik.	1
+Aspaldi sartu ginen istilu honetan eta dagoeneko ez du atzera bueltarik.	Orain dela gutxi sartu ginen borroka honetan eta ez du atzera bueltarik.	2
+Eskubideak irabazteko legeren bat hautsi beharra dago beti.	Eskubide gehiago erdietsi nahi izanez gero, debekatuta dagoen zerbait egin behar da beti.	0
+Eskubideak irabazteko legeren bat hautsi beharra dago beti.	Zenbat eta lege gehiago hautsi, orduan eta eskubide gehiago irabazi.	1
+Eskubideak irabazteko legeren bat hautsi beharra dago beti.	Eskubide gehiago beti lortzen dira legeak errespetatzen badira.	2
+Gidariak datu interesgarriak eman ditu eta oso entretenigarria izan da.	Gidariak eskaini dituen datu interesgarriek esperientzia entretenigarri bihurtu dute.	0
+Gidariak datu interesgarriak eman ditu eta oso entretenigarria izan da.	Gidaria entretenitu da beretzat interesgarria izan diren datuak emanez.	1
+Gidariak datu interesgarriak eman ditu eta oso entretenigarria izan da.	Gidariak eskainitako datuen interesa eskasekoa izan arren, esperientzia entretenigarria izan da.	2
+Aspaldiko ametsa zen Praga ezagutzea.	Praga ezagutzeko gogo handia izan du denbora luzez.	0
+Aspaldiko ametsa zen Praga ezagutzea.	Praga ezagutu duela amestu du.	1
+Aspaldiko ametsa zen Praga ezagutzea.	Praga ezagutzen du aspalditik.	2
+Euskararen munduan gabiltzanok ongi asko dakigu zein nekagarria den gure interesen defentsa.	Euskararen munduan gabiltzanok badakigu gure interesak defentatzeak nola nekatzen duen.	0
+Euskararen munduan gabiltzanok ongi asko dakigu zein nekagarria den gure interesen defentsa.	Euskararen munduan gabiltzanok gure interesak defendatzeaz nekatuta gaude.	1
+Euskararen munduan gabiltzanok ongi asko dakigu zein nekagarria den gure interesen defentsa.	Euskararen munduan gabiltzanok ongi pasatzen dugu gure interesak defendatuz.	2
+Amazonek dronekin banaketak egiteko patentea sartu du.	Paketeak dronekin banatzeko patentea bidali du Amazonek.	0
+Amazonek dronekin banaketak egiteko patentea sartu du.	Amazonek patenteak sartzeko dronak banatu ditu.	1
+Amazonek dronekin banaketak egiteko patentea sartu du.	Amazon dronekin banaketak egiteko patentea noiz sartu zain dago.	2
+Santutxuar ugari hurbildu da Gaztetxe ingurura itxieraren aurka protestatzera.	Santutxun bizi den jende asko etorri da gaztetxea irekita mantentzeko eskatzera.	0
+Santutxuar ugari hurbildu da Gaztetxe ingurura itxieraren aurka protestatzera.	Santutxuar ugarik inguratu dute gaztetxea itxieraren aurka protestatzeko.	1
+Santutxuar ugari hurbildu da Gaztetxe ingurura itxieraren aurka protestatzera.	Santutxuar ugari hurbildu da gaztetxea ixteko eskatzera.	2
+Musika oso garrantzitsua izan da nire bizitzan.	Musikaren garrantzia sumatu dut bizitzan zehar.	0
+Musika oso garrantzitsua izan da nire bizitzan.	Musika oso garrantzitsua omen da bizitzan.	1
+Musika oso garrantzitsua izan da nire bizitzan.	Musikak nire bizitzan duen oraingo garrantzia berria da.	2
+Indarra bera naturala da, beraz bere erabilerak ezin du ona edo txarra izan balio absolutu bat bezala.	Indarra naturala denez, bere erabilera ona edo txarra den esateko modu absoluturik ez dago.	0
+Indarra bera naturala da, beraz bere erabilerak ezin du ona edo txarra izan balio absolutu bat bezala.	Indarra erabiltzeaz baliatu dena ona edo txarra den esatea ezin dugu normalizatu.	1
+Indarra bera naturala da, beraz bere erabilerak ezin du ona edo txarra izan balio absolutu bat bezala.	Indarraren erabilera ona edo txarra den jakiteko, balio absolutuak ezin naturalagoak dira.	2
+Une zehatzetan jendearen erantzuna eta konpromisoa argiro azaltzen da.	Une zehatzetan jendeak erantzuten du arazoei.	0
+Une zehatzetan jendearen erantzuna eta konpromisoa argiro azaltzen da.	Jendea beti dago prest edozer egiteko.	1
+Une zehatzetan jendearen erantzuna eta konpromisoa argiro azaltzen da.	Une zehatzetan jendea beldurtzen da	2
+Gazteok Eraikitzen dinamikaren baitan proposaturiko 18 proiektuei ekarpenak egitea izango da biharko egunaren helburua.	Proiektuen artean gaztetxe berri bat eraikitzea dago.	0
+Gazteok Eraikitzen dinamikaren baitan proposaturiko 18 proiektuei ekarpenak egitea izango da biharko egunaren helburua.	Gazteok Eraikitzen 2018ko martxoan sortu zen.	1
+Gazteok Eraikitzen dinamikaren baitan proposaturiko 18 proiektuei ekarpenak egitea izango da biharko egunaren helburua.	Biharko ekarpena hurrengo astera mugituko da.	2
+Nik bestearen hizkuntza ikasten badut, baina besteak ez badu nirea errespetatzen, bere hizkuntza hitz egitea ez da irekitze keinu bat, mendekotasun eta sumisio keinua baizik	Beste pertsona nire hizkuntza ez badu errespetatzen gauza bat argi dago, beren gurasoek ez zuten ondo zaindu bere semeak.	0
+Nik bestearen hizkuntza ikasten badut, baina besteak ez badu nirea errespetatzen, bere hizkuntza hitz egitea ez da irekitze keinu bat, mendekotasun eta sumisio keinua baizik	Beste hizkuntzak ikastea ona da pertsonentzat.	1
+Nik bestearen hizkuntza ikasten badut, baina besteak ez badu nirea errespetatzen, bere hizkuntza hitz egitea ez da irekitze keinu bat, mendekotasun eta sumisio keinua baizik	Beste hizkuntzak errespetatzea beharrezkoa da.	2
+Paraje ederra da mendia eta itxasoak bat egiten duten hau.	Mendia eta itsasoa topatzen diren tokian edertasuna aurkitu dezakezu.	0
+Paraje ederra da mendia eta itxasoak bat egiten duten hau.	Mundua leku ederrez beteta dago.	1
+Paraje ederra da mendia eta itxasoak bat egiten duten hau.	Mendiak eta itsasoak zaborrez beteta dauda.	2
+Norbere elkarte, enpresa edo erakundearen dinamikari astindu bat emateko tresnak proposatzen dira bertan.	Dinamika aldatzeko modu hoberena bestearen larruan sartzea da.	0
+Norbere elkarte, enpresa edo erakundearen dinamikari astindu bat emateko tresnak proposatzen dira bertan.	Dinamika aldatzea jendearen adimena irekitzen du.	1
+Norbere elkarte, enpresa edo erakundearen dinamikari astindu bat emateko tresnak proposatzen dira bertan.	Dinamika aldatzea arazo asko ekarri dezake, adibidez deserosotasuna.	2
+Lucia gizon batekin ezkonduta dago.	Gizon bat Luciarekin ezkonduta dago.	0
+Lucia gizon batekin ezkonduta dago.	Gizonezkoak eta emakumeak maiz ezkontzen dira.	1
+Lucia gizon batekin ezkonduta dago.	Lucia dibortziatua da.	2
+Ez dago Euskal Herrian antzerkia Lete bezainbeste ikuspuntutatik praktikatu duenik	Lete sari asko irabazi zuen bere antzerki antzezlanagatik.	0
+Ez dago Euskal Herrian antzerkia Lete bezainbeste ikuspuntutatik praktikatu duenik	500 urtez egin dira antzezlanak.	1
+Ez dago Euskal Herrian antzerkia Lete bezainbeste ikuspuntutatik praktikatu duenik	Letek ez du hainbeste ikuspuntutatik lan egin.	2
+Iaz erabaki nuen 40. urteurrena goitik eta sarri ospatu behar nuela.	Nire 40 urteurrenean munduko festa izan nuen.	0
+Iaz erabaki nuen 40. urteurrena goitik eta sarri ospatu behar nuela.	Urteurrenak garrantzitsuak dira.	1
+Iaz erabaki nuen 40. urteurrena goitik eta sarri ospatu behar nuela.	Nire 40 urteurrena ahaztu nuen.	2
+Alderdi politiko guztietako ordezkariak dituen Administrazio Kontseiluak zuzentzen du sozietatea eta Batzar Nagusia Udalbatzarra bera da.	Alderdi politikoen artean PP, PNV, PSO, eta Sumar daude.	0
+Alderdi politiko guztietako ordezkariak dituen Administrazio Kontseiluak zuzentzen du sozietatea eta Batzar Nagusia Udalbatzarra bera da.	Udalbatzarra Eusko Jaurlaritzarekin batera egiten du lan.	1
+Alderdi politiko guztietako ordezkariak dituen Administrazio Kontseiluak zuzentzen du sozietatea eta Batzar Nagusia Udalbatzarra bera da.	Udalbatzarra ez da politikariena, funtzionarioena eta herritarrena baizik.	2
+Hasieratik helburua finkatu zuten: elebidun orekatuak izatea gure seme-alabak.	Gure helburua da seme-alabak izatea.	0
+Hasieratik helburua finkatu zuten: elebidun orekatuak izatea gure seme-alabak.	Denon seme-alabak elebidun izan beharko zuten.	1
+Hasieratik helburua finkatu zuten: elebidun orekatuak izatea gure seme-alabak.	Ez dute seme-alabarik nahi.	2
+2016ko maiatzaren 1ean, ADES Espeleologia Elkarteak labar-arte multzo garrantzitsua aurkitu zuen Lekeitioko Armintxe kobazuloan.	Labar-artea bisoi baten ehizari buruzkoa zen.	0
+2016ko maiatzaren 1ean, ADES Espeleologia Elkarteak labar-arte multzo garrantzitsua aurkitu zuen Lekeitioko Armintxe kobazuloan.	Labar-artea zaharrena K.a. 600. urtekoa da.	1
+2016ko maiatzaren 1ean, ADES Espeleologia Elkarteak labar-arte multzo garrantzitsua aurkitu zuen Lekeitioko Armintxe kobazuloan.	Labar-artea graffiti bat izan zen.	2
+Eta ogi goxoa erosi dugu mormoien baserrian.	Mormoiek egin duten ogia oso goxoa da.	0
+Eta ogi goxoa erosi dugu mormoien baserrian.	Ogiak ona dago bat edo bi egunetarako.	1
+Eta ogi goxoa erosi dugu mormoien baserrian.	Mormoiei erosi diegun ogia gogorra eta zapore gabekoa da	2
+Tortura salatu zenuten arren ez zen zabaldu berria.	3 urtez egon ziren torturatzen gizajo hori.	0
+Tortura salatu zenuten arren ez zen zabaldu berria.	Norbait torturatzea munduko gauza txarrena da.	1
+Tortura salatu zenuten arren ez zen zabaldu berria.	Tortura egin zutela mundua ezustean hartu zuen.	2
+Umorea oso aldakorra da, asko fluktuatzen du.	Betidanik dakigu bere umorea aldakorra dela.	0
+Umorea oso aldakorra da, asko fluktuatzen du.	Pertsona baten umorea ez da beti berdina.	1
+Umorea oso aldakorra da, asko fluktuatzen du.	Beti pozik dago.	2
+Zeren eta Donostira joan zaitezke garraio publikoan, edo inguruko auzoren batean aparkatu, edo ordainpeko parking batean.	Garraio publiko bat hartzen baduzue hartu autobusa, ez pentsa trena hartzean ere.	0
+Zeren eta Donostira joan zaitezke garraio publikoan, edo inguruko auzoren batean aparkatu, edo ordainpeko parking batean.	Bilbotik Donostiara autobuses garraioa ordu bat eta erdi da gutxi gora behera.	1
+Zeren eta Donostira joan zaitezke garraio publikoan, edo inguruko auzoren batean aparkatu, edo ordainpeko parking batean.	Ez joan Donostiara dena oso gareztia da.	2
+Arratsaldeko seietan hasiko da dokumentala Uztaldi gaztetxean.	Uztaldi gaztetxea arratsaldeetan irekita dago.	0
+Arratsaldeko seietan hasiko da dokumentala Uztaldi gaztetxean.	Uztaldi gaztetxea gazteez beteta dago.	1
+Arratsaldeko seietan hasiko da dokumentala Uztaldi gaztetxean.	Uztaldi gaztetxeari telebista apurtu zaio.	2
+Monogamia fidelak promesten dituen amaiera zoriontsuak ez dira uste bezain ohikoak.	Amaiera zoriontsua izateko lan egin behar duzu.	0
+Monogamia fidelak promesten dituen amaiera zoriontsuak ez dira uste bezain ohikoak.	Monogamia eta poligamia kontrakoak dira.	1
+Monogamia fidelak promesten dituen amaiera zoriontsuak ez dira uste bezain ohikoak.	Monogamia maitagarrien ipuinetan bezala beti amaiera zoriontsua dakar.	2
+Indarrez inposatutako errealitate bati aurre egiteko indarra beharrezkoa da, lehenik eta behin.	Indarra bakarrik ez da nahikoa, iraunkortasuna ere behar da.	0
+Indarrez inposatutako errealitate bati aurre egiteko indarra beharrezkoa da, lehenik eta behin.	Errealitate bati aurre egiteko lehenik prest egon behar zara.	1
+Indarrez inposatutako errealitate bati aurre egiteko indarra beharrezkoa da, lehenik eta behin.	Indarrez inposatutako errealitate baten aurka lehen urratsa komunikazioa da.	2
+Astialdiko Begirale eta Zuzendari ikastaroekin batera, Eusko Jaurlaritzak luzatutako Titulazio Ofizialen artean dago.	Astialdiko Begirale 150 orduko ikastaroa da eta modu estentsiboan zein intentsiboan egin daiteke.	0
+Astialdiko Begirale eta Zuzendari ikastaroekin batera, Eusko Jaurlaritzak luzatutako Titulazio Ofizialen artean dago.	Ikastaroak modu hoberenak dira gauza berriak ikasteko.	1
+Astialdiko Begirale eta Zuzendari ikastaroekin batera, Eusko Jaurlaritzak luzatutako Titulazio Ofizialen artean dago.	Astialdiko Begirale ikastaroa gobernu zentrala luzatutako Titulazio Ofizialen artean dago.	2
+ON Bizkaia Sariek jarduera ekonomikoa eta lanpostuak sortzeko enpresek egindako ekarpena goraipatzen dute.	Urte honetan 1.300.000 lanpostu berriak sortu dira.	0
+ON Bizkaia Sariek jarduera ekonomikoa eta lanpostuak sortzeko enpresek egindako ekarpena goraipatzen dute.	Gaur egungo lanak gero eta aurreratuagoak dira orain dela 1000 urterekin alderatuta.	1
+ON Bizkaia Sariek jarduera ekonomikoa eta lanpostuak sortzeko enpresek egindako ekarpena goraipatzen dute.	Sortzen diren behin-behineko lanpostuak dira eta horregatik ez genuke premio bat eman behar.	2
+Plazer handia izan zen gora iristea.	Gora iritsi genuenean bistak ederrak ziren.	0
+Plazer handia izan zen gora iristea.	Helburuak betetzea izugarria da	1
+Plazer handia izan zen gora iristea.	Ez genuen gora iritsi Mikelek hanka apurtu zuelako.	2
+Ikastaro zehatzak antolatuko dira urtean zehar gai ezberdinak jorratzeko: espazioak, psikomotrizitatea...	Ikastaroen artean arte moderno abstraktua hoberena da, Mikel dagoeneko izena eman du.	0
+Ikastaro zehatzak antolatuko dira urtean zehar gai ezberdinak jorratzeko: espazioak, psikomotrizitatea...	Ikastaroen helburua beti da jendeari gauza berriak irkatea.	1
+Ikastaro zehatzak antolatuko dira urtean zehar gai ezberdinak jorratzeko: espazioak, psikomotrizitatea...	Ikastaroak alferrikakoak dira, jendea ez duelako ezer ikasten ez badute lan egiten.	2
+Gogoeta sakonak eginak ditu gure artearen egoeraren inguruan.	Gurfe arteari buruz asko hitz egin dugu.	0
+Gogoeta sakonak eginak ditu gure artearen egoeraren inguruan.	Bakoitzak duen artea bakarra da.	1
+Gogoeta sakonak eginak ditu gure artearen egoeraren inguruan.	Ez zaigu axola ematen gure artea.	2
+Kanpaina antikapitalistaren barruan aste honetan ekimen gehiago antolatu dituzte.	Ekimen berrien artean kontzertu bat dago.	0
+Kanpaina antikapitalistaren barruan aste honetan ekimen gehiago antolatu dituzte.	Kanpaina antikapitalistak eta kanpaina antisozialistak kontrakoak dira.	1
+Kanpaina antikapitalistaren barruan aste honetan ekimen gehiago antolatu dituzte.	Kanpaina antikapitalista bertan behera utzi dute, ez baizen jendea agertu.	2
+"Helbide horiek aldatzeko, egoitza elektronikoko "" Nire Datuak "" atalera sartu behar duzu."	"Nire Datuak sartu eta gero, ""OK"" botoia sakatu behar duzu."	0
+"Helbide horiek aldatzeko, egoitza elektronikoko "" Nire Datuak "" atalera sartu behar duzu."	Helbide elektronikoak mezuak bidaltzeko erabiltzen dira.	1
+"Helbide horiek aldatzeko, egoitza elektronikoko "" Nire Datuak "" atalera sartu behar duzu."	Ezinezkoa da  helbideak aldatzea web orria erori delako.	2
+Lan egiteko eta harremanak izateko modua aldatu du eraldaketa digitalak.	Jendeak denbora gehiago mugikorrean eta ordenagailuan irauten du.	0
+Lan egiteko eta harremanak izateko modua aldatu du eraldaketa digitalak.	Eraldaketa digitala mundua behar duen hurrengo aurrerapena da.	1
+Lan egiteko eta harremanak izateko modua aldatu du eraldaketa digitalak.	Jendeak beti bezala lan egiten du.	2
+Beti bada kexarako bidea, batez ere norbera denean ahul eta laguntza inoiz ez denean perfektua izaten.	Laguntzarekin edonork edozer egin dezake.	0
+Beti bada kexarako bidea, batez ere norbera denean ahul eta laguntza inoiz ez denean perfektua izaten.	Guztiok behar dugu laguntza noizbehinka.	1
+Beti bada kexarako bidea, batez ere norbera denean ahul eta laguntza inoiz ez denean perfektua izaten.	Ez dago inor ahul, lan egin nahi ez duen jendea baizik.	2
+Ez zekien hilik zegoela.	Hil zegoela zirudien.	0
+Ez zekien hilik zegoela.	Hilik dauden pertsonak ez dira mugitzen.	1
+Ez zekien hilik zegoela.	Ez zegoen hilda, lotan zegoen.	2
+Zeharo hunkituta gelditu nintzen ezusteko agur honekin.	Zorionez ezusteko ona izan zen.	0
+Zeharo hunkituta gelditu nintzen ezusteko agur honekin.	Ezustekoak onak edo txarrak izan daitezke.	1
+Zeharo hunkituta gelditu nintzen ezusteko agur honekin.	Ezusteko horri buruz duela aste ugari izen nuen berri.	2
+Samsungek badu smart school bat eta proposatzen du klaseak ematea bere Samsung Gear VR betuarrekoekin eta MagiclWB S2 arbelekin.	Samsung munduko klase teknologikoena edukiko du.	0
+Samsungek badu smart school bat eta proposatzen du klaseak ematea bere Samsung Gear VR betuarrekoekin eta MagiclWB S2 arbelekin.	Samsung telebistak, mugikorrak eta kamerak egiten du.	1
+Samsungek badu smart school bat eta proposatzen du klaseak ematea bere Samsung Gear VR betuarrekoekin eta MagiclWB S2 arbelekin.	Samsung ezin du klaseak eman VR betaurrekoekin, haurrak jolasten egongo zirelako.	2
+Getariako hizkera eta ahozko ondarea biltzen dituen GETARIAKO AHOTSAK egitasmoaren emaitza da GETAIKO EUSKERA liburua.	GETAIKO EUSKERA liburuan Getariako hizkera aurkitu daiteke.	0
+Getariako hizkera eta ahozko ondarea biltzen dituen GETARIAKO AHOTSAK egitasmoaren emaitza da GETAIKO EUSKERA liburua.	Ez zait gustatzen GETAIKO EUSKERA liburua.	1
+Getariako hizkera eta ahozko ondarea biltzen dituen GETARIAKO AHOTSAK egitasmoaren emaitza da GETAIKO EUSKERA liburua.	GETAIKO EUSKERA liburuan Bizkaiko euskara jasotzen da.	2
+Digitalizazioaren hastapenetan, webguneak sortu ziren, eta komunikazioa demokratizatzeko aukerak eskaini zituzten.	Digitalizazioaren hastapenetan, webguneak ezagunagoak bihurtu ziren.	0
+Digitalizazioaren hastapenetan, webguneak sortu ziren, eta komunikazioa demokratizatzeko aukerak eskaini zituzten.	Digitalazioa orain dela asko gertatu zen.	1
+Digitalizazioaren hastapenetan, webguneak sortu ziren, eta komunikazioa demokratizatzeko aukerak eskaini zituzten.	Digitalazio hasieran, komunikazio aukerak suntsitu ziren.	2
+Sari-banaketarako bi neska gazte azaldu ziren, sarrera euskaraz eta tarteka ere bai, baina eduki nagusia gaztelaniaz.	Neskek gehiago hitz egin zuten gaztelaniaz euskaraz baino.	0
+Sari-banaketarako bi neska gazte azaldu ziren, sarrera euskaraz eta tarteka ere bai, baina eduki nagusia gaztelaniaz.	Sari-banaketa Lekeition izan zen.	1
+Sari-banaketarako bi neska gazte azaldu ziren, sarrera euskaraz eta tarteka ere bai, baina eduki nagusia gaztelaniaz.	Neskek ingelesez hitz egin zuten sari-banaketan.	2
+Guztiz gomendagarria da San Anton mendia (xagua) ezagutzea.	San Anton media ezagutzeak merezi du.	0
+Guztiz gomendagarria da San Anton mendia (xagua) ezagutzea.	San Anton Mendia Espainian dago.	1
+Guztiz gomendagarria da San Anton mendia (xagua) ezagutzea.	San Anton mendia oso itsusia da.	2
+Lilirekin eta aurrez aurre topo egin genuen.	Lili ikusi genuen.	0
+Lilirekin eta aurrez aurre topo egin genuen.	Lili oso polita zegoen.	1
+Lilirekin eta aurrez aurre topo egin genuen.	Lili orain dela asko ez dugula ikusten.	2
+Eguzkia gero eta gorriagoa den zirkuferentzia baino ez da nerabearen begietan.	Nerabeek ez dute kasu handirik egiten beste gauza guztiei.	0
+Eguzkia gero eta gorriagoa den zirkuferentzia baino ez da nerabearen begietan.	Nerabeak oso dibertigarriak dira.	1
+Eguzkia gero eta gorriagoa den zirkuferentzia baino ez da nerabearen begietan.	Nerabeak gauza guztietaz konturatzen dira.	2
+Solte taldeak 'IXA' azken diskoaren (Taupaka elkartea, 2016) Eraldatutako mundua abestiarekin bideoklip berritzailea prestatu du.	Solte taldeak bideoklip berri bat prestatu du.	0
+Solte taldeak 'IXA' azken diskoaren (Taupaka elkartea, 2016) Eraldatutako mundua abestiarekin bideoklip berritzailea prestatu du.	Abestia ospetsua handia irabazi du denbora gutxian.	1
+Solte taldeak 'IXA' azken diskoaren (Taupaka elkartea, 2016) Eraldatutako mundua abestiarekin bideoklip berritzailea prestatu du.	Solte taldea erretiratu egin dira eta ez dute ezer gehiago egingo.	2
+Eraldaketa digitalak paradigma aldaketa handia dakar kultura eta sormen-arloan.	Eraldaketa digitalak aukera gehiago ematen dizkizu kultura eta sormen-arloan.	0
+Eraldaketa digitalak paradigma aldaketa handia dakar kultura eta sormen-arloan.	Eraldaketa digitala oraindik berrikuntza asko ekar ditzake gure gizartean.	1
+Eraldaketa digitalak paradigma aldaketa handia dakar kultura eta sormen-arloan.	Eraldaketa digitalak paradigma aldaketa txikia dakar kultura eta sormen-arloan.	2
+Europar Batasuna edozenbat hamarkada luzetan aritu izan da lehen munduaren erreferentzia izaten demokraziaz, berdintasunaz, segurtasunaz eta ongizateaz.	Europar Batasuna haibat arlotan lehen munduko erreferentzia da.	0
+Europar Batasuna edozenbat hamarkada luzetan aritu izan da lehen munduaren erreferentzia izaten demokraziaz, berdintasunaz, segurtasunaz eta ongizateaz.	Europar Batasunean hainbat herrialde daude.	1
+Europar Batasuna edozenbat hamarkada luzetan aritu izan da lehen munduaren erreferentzia izaten demokraziaz, berdintasunaz, segurtasunaz eta ongizateaz.	Estatu Batuak izan dira lehen munduko erreferentzia demokraziaz, berdintasunaz, segurtasunaz eta ongizateaz.	2
+Logika komertzialarekin begiratzen dugu bizitza: dena erraz, eroso, aldagarri, kalitatezko eta merke.	Bizitza logika komertzialaren bitartez begiratzen badugu dena errazagoa izango litzateke.	0
+Logika komertzialarekin begiratzen dugu bizitza: dena erraz, eroso, aldagarri, kalitatezko eta merke.	Logika komertziala gaur eguneko kontzeptu berri bat da.	1
+Logika komertzialarekin begiratzen dugu bizitza: dena erraz, eroso, aldagarri, kalitatezko eta merke.	Logika komertzialarekin begiratzen dugu bizitza: dena zail, deseroso, aldaezin, erdipurdiko eta garesti.	2
+Entzutegi Nazionalean, epailearen aurrean, ez zuten aitorpena berretsi.	Epaileari ez zioten aitortu, aitortu beharrekoa.	0
+Entzutegi Nazionalean, epailearen aurrean, ez zuten aitorpena berretsi.	Entzutegi Nazionalean erabaki hartzen dira.	1
+Entzutegi Nazionalean, epailearen aurrean, ez zuten aitorpena berretsi.	Dena aitortu zuten epailearen aurrean.	2
+Joseph Camino saria jasoko du Antton Olariagak Santutxun, euskal komikiaren inguruko Parrapean Komiki Egunak jardunaldien baitan.	Antton Olariagak Joseph Camino saria irabaziko du egindako lanagatik.	0
+Joseph Camino saria jasoko du Antton Olariagak Santutxun, euskal komikiaren inguruko Parrapean Komiki Egunak jardunaldien baitan.	Joseph Camino 2015ean hil zen.	1
+Joseph Camino saria jasoko du Antton Olariagak Santutxun, euskal komikiaren inguruko Parrapean Komiki Egunak jardunaldien baitan.	Joseph Caminok saria Madrilen jasoko du.	2
+Atzo une batez Nancho Novo aktore galiziarra ikusi nuen telebistan Jesusen aitaren paperean, serio demonio.	Atzo une batez serio demonio pelikula ikusi nuen.	0
+Atzo une batez Nancho Novo aktore galiziarra ikusi nuen telebistan Jesusen aitaren paperean, serio demonio.	Nacho Novo aktorea 1958ko irailaren 17an jaio zen.	1
+Atzo une batez Nancho Novo aktore galiziarra ikusi nuen telebistan Jesusen aitaren paperean, serio demonio.	Nacho Novo aktoreak beti betetzen ditu umorezko paperak.	2
+Uztailaren 13an inauguratutako lokala irailaren 28an itxiarazi zuen Ertzaintzak epaileak sinatutako huste agindua betearaziz.	Lokalak hil bat baino pixka bat gehiago egon da irekita.	0
+Uztailaren 13an inauguratutako lokala irailaren 28an itxiarazi zuen Ertzaintzak epaileak sinatutako huste agindua betearaziz.	Lokala asko gustatzen zitzaidan.	1
+Uztailaren 13an inauguratutako lokala irailaren 28an itxiarazi zuen Ertzaintzak epaileak sinatutako huste agindua betearaziz.	Uztailaren 13an inauguratutako lokala irekita jarraitzen du eta ez sekula itxi.	2
+Gau batean, Lucia eta Miren ardo batzuen bueltan zebiltzala, Andrea gonbidatu zuten nagusiaren etxera, eta harreman sexualak izan zituzten hirurek.	Harreman sexualak izan zituzten egunean, nagusiaren etxean egon ziren.	0
+Gau batean, Lucia eta Miren ardo batzuen bueltan zebiltzala, Andrea gonbidatu zuten nagusiaren etxera, eta harreman sexualak izan zituzten hirurek.	Harreman sexualak edukitzerakoan kontu handia izan behar da sexu-transmisioko gaixotasunekin.	1
+Gau batean, Lucia eta Miren ardo batzuen bueltan zebiltzala, Andrea gonbidatu zuten nagusiaren etxera, eta harreman sexualak izan zituzten hirurek.	Lucia, Miren eta Andrea birjinak dira.	2
+Laster jakinaraziko da pelikula zein aretok proiektatuko duen.	Pelikula areto batean ikusiko da.	0
+Laster jakinaraziko da pelikula zein aretok proiektatuko duen.	Jendea pelikula ikusteko irrikaz dago.	1
+Laster jakinaraziko da pelikula zein aretok proiektatuko duen.	Berandu jakinaraziko dute zein aretotan proiektatu den.	2
+Gure arlo sufritua da, eta moldatzeko gaitasun handia daukagu.	Lan neketsu asko egiten dira gure arloan.	0
+Gure arlo sufritua da, eta moldatzeko gaitasun handia daukagu.	Sufritua izan arren, asko gustatzen zaigu gure arloa.	1
+Gure arlo sufritua da, eta moldatzeko gaitasun handia daukagu.	Gure arloan ez dugu ezer egiten, oso aspergarria da.	2
+Urduñako ekonomia sustatzea du helburu eta Euskadiko Garapen Agentzietako Garapen Sareko kidea da.	Urduñako ekonomiari lagundu nahi dio.	0
+Urduñako ekonomia sustatzea du helburu eta Euskadiko Garapen Agentzietako Garapen Sareko kidea da.	Urduña Araban dago kokatuta.	1
+Urduñako ekonomia sustatzea du helburu eta Euskadiko Garapen Agentzietako Garapen Sareko kidea da.	Euskadiko Garapen Agentzietako Garapen Sareak ez du kiderik.	2
+Denbora urriagoa dutenek ere badute ikastaro laburragoak egiteko aukera.	Denbora urriago duten pertsonetan ere pentsatzen dute.	0
+Denbora urriagoa dutenek ere badute ikastaro laburragoak egiteko aukera.	Ez nekien horrelako aukerarik zegoela ikastaro horretan.	1
+Denbora urriagoa dutenek ere badute ikastaro laburragoak egiteko aukera.	Denbora urriagoa dutenek ere badute ikastaro luzeagoak egiteko aukera.	2
+Hiru urte eta erdiz auzoko gazteen topaleku izan eta gero, Lakomi Gaztetxeak 2011ko azaroan itxi zituen ateak.	Gaur egun Lakomi Gaztetxea ez dago irekita.	0
+Hiru urte eta erdiz auzoko gazteen topaleku izan eta gero, Lakomi Gaztetxeak 2011ko azaroan itxi zituen ateak.	Denbora asko igaro nuen Lakomi Gaztetzean.	1
+Hiru urte eta erdiz auzoko gazteen topaleku izan eta gero, Lakomi Gaztetxeak 2011ko azaroan itxi zituen ateak.	Lakomi Gaztetxea 10 urte iraun zuen irekita.	2
+1972an Zeruko Argia-n hasi eta nortasun handiko estilo berritzailearekin, euskal umore grafikoaren historiari irauli bat eman zion.	Euskal umore grafikoaren historian Zeruko Argia-k eragina izan zuen.	0
+1972an Zeruko Argia-n hasi eta nortasun handiko estilo berritzailearekin, euskal umore grafikoaren historiari irauli bat eman zion.	1972an Zeruko Argia-z gain beste gauza batzuk gertatu ziren.	1
+1972an Zeruko Argia-n hasi eta nortasun handiko estilo berritzailearekin, euskal umore grafikoaren historiari irauli bat eman zion.	2015an Zeruko Argia-n hasi eta nortasun handiko estilo berritzailearekin, euskal umore grafikoaren historiari irauli bat eman zion.	2
+Gaztetape hondartzara harriz betea dago; baina olagarru polit batekin egin genuen topo.	Gaztetape hondartza ez dago hondarrez betea.	0
+Gaztetape hondartzara harriz betea dago; baina olagarru polit batekin egin genuen topo.	Olagarroa oso pozoitsua zenez, ez gara inoiz berriro joan Gaztetape hondartzara.	1
+Gaztetape hondartzara harriz betea dago; baina olagarru polit batekin egin genuen topo.	Gaztetape hondartzan ez dago olagarrorik.	2
+Osasunez nahiko ondo dabil eta lanean ere tinko dirau, batez ere gelen alokairuarekin.	Gela alokairuetan lan ona egiten du.	0
+Osasunez nahiko ondo dabil eta lanean ere tinko dirau, batez ere gelen alokairuarekin.	Denbora batez kaskar samar ibili da, baina orain hobeto dabil.	1
+Osasunez nahiko ondo dabil eta lanean ere tinko dirau, batez ere gelen alokairuarekin.	Hainbat gaixotasun ditu eta lanean kaskar samar dabil.	2
+"Oso pozik eta egindako lana zaleekin konpartitzeko ""gogotsu"" agertu dira taldekideak."	Taldekideak oso pozik daude egindako lanarekin.	0
+"Oso pozik eta egindako lana zaleekin konpartitzeko ""gogotsu"" agertu dira taldekideak."	Zaleak izugarrizko irrika dute dena entzuteko.	1
+"Oso pozik eta egindako lana zaleekin konpartitzeko ""gogotsu"" agertu dira taldekideak."	Taldekideak goibel egon dira.	2
+Demokraziak ez gaitu aske egingo.	Demokraziak preso egingo gaitu.	0
+Demokraziak ez gaitu aske egingo.	Demokrazia egitura politiko bat da.	1
+Demokraziak ez gaitu aske egingo.	Demokraziak askatu egingo gaitu	2
+Kaleetatik jasotako animaliek etorkizun duina izan dezaten, katuak adoptatzeko mezua jendarteratzea du xede.	Kaleetatik jasotako animaliek baldintza txarragoak dituzte, adoptatuak baino.	0
+Kaleetatik jasotako animaliek etorkizun duina izan dezaten, katuak adoptatzeko mezua jendarteratzea du xede.	Kaleetan katu asko daude.	1
+Kaleetatik jasotako animaliek etorkizun duina izan dezaten, katuak adoptatzeko mezua jendarteratzea du xede.	Adoptatutako katuak kaleratzea du xede.	2
+Ez dira aldaketak berehalakoan igarriko akaso, baina progresiboki urratsak norabide berri batean emateko irizpideak finkatzen dihardugu.	Aldaketak apurka-apurka nabarituko dira.	0
+Ez dira aldaketak berehalakoan igarriko akaso, baina progresiboki urratsak norabide berri batean emateko irizpideak finkatzen dihardugu.	Aldaketak lortzeko mentalitate ekina izan behar da.	1
+Ez dira aldaketak berehalakoan igarriko akaso, baina progresiboki urratsak norabide berri batean emateko irizpideak finkatzen dihardugu.	Norabide zahar batean emateko irizpideak finkatzen dihardugu.	2
+Egun batean Amancay Gaztañaga Sagarzazu k (Guayaquil, 1980) Pandoraren kutxa ireki eta mila koloreko mundua deskubritu zuen.	Pandoraren kutxa irekiz gero, mila koloreko mundua deskubritu dezakezu.	0
+Egun batean Amancay Gaztañaga Sagarzazu k (Guayaquil, 1980) Pandoraren kutxa ireki eta mila koloreko mundua deskubritu zuen.	 Amancay Gaztañaga Sagarzazu k gipuzkoarra da.	1
+Egun batean Amancay Gaztañaga Sagarzazu k (Guayaquil, 1980) Pandoraren kutxa ireki eta mila koloreko mundua deskubritu zuen.	 Amancay Gaztañaga Sagarzazu k Pandoraren kutxa itxita mantendu zuen.	2
+Umorea erabilita eta alaitasunarekin gauza asko lortzen dira umeekin.	Umeei asko gustatzen zaie umorea eta alaitasuna.	0
+Umorea erabilita eta alaitasunarekin gauza asko lortzen dira umeekin.	Umeak batzuetan oso neketsuak dira.	1
+Umorea erabilita eta alaitasunarekin gauza asko lortzen dira umeekin.	Umorea eta alaitasuna umeekin erabiliz gero, zutaz aprobetxatuko dira	2
+Zergatik sortzen duen gutako gehienongan beldurra argitasun ezak, erabateko iluntasunak.	Iluntasunak eta argi ezak beldurra gizarte gehienari beldurra ematen dio.	0
+Zergatik sortzen duen gutako gehienongan beldurra argitasun ezak, erabateko iluntasunak.	Ez dugu beldurrik izan behar iluntasunari, beldur irrazional bat da.	1
+Zergatik sortzen duen gutako gehienongan beldurra argitasun ezak, erabateko iluntasunak.	Gizartea oso ausarta da, ez du inolako beldurrik.	2
+Ibilbide luzea egin du Urtxintxa Eskolak jendartea balioetan trebatzen hezkuntza ez-formalean.	Urtxintxa Eskolak urte asko daramatza hezkuntza ez-formaleko ikastaroetan balioak irakasten.	0
+Ibilbide luzea egin du Urtxintxa Eskolak jendartea balioetan trebatzen hezkuntza ez-formalean.	Urtxintxa Eskolak hezkuntza ez-formaleko ikastaro ez-presentzialak eskaintzen ditu.	1
+Ibilbide luzea egin du Urtxintxa Eskolak jendartea balioetan trebatzen hezkuntza ez-formalean.	Urtxintxa Eskolak esperientzia eskasa dauka hezkuntza ez-formalean.	2
+Ondoren hainbat lokal okupatzeko saiakerak izan ziren, baina ez zuten aurrera egin.	Lokalak okupatu gabe gelditu ziren, egindako ahaleginak gorabehera.	0
+Ondoren hainbat lokal okupatzeko saiakerak izan ziren, baina ez zuten aurrera egin.	Lokalak okupatzeko saiakeretan batez ere gazteek hartu zuten parte.	1
+Ondoren hainbat lokal okupatzeko saiakerak izan ziren, baina ez zuten aurrera egin.	Hainbat lokal okupatzeko egindako ahaleginak oso arrakastatsuak izan ziren.	2
+Antzerkiaren tradizioa horizontala da.	Antzerkietan partaide guztiek dute garrantzia bera.	0
+Antzerkiaren tradizioa horizontala da.	Antzerkiak tradizio luzea du.	1
+Antzerkiaren tradizioa horizontala da.	Antzerkiaren tradizioa bertikala edo hierarkikoa da.	2
+Kale horretan garabi bat ipintzeko garabi mugikor batekin eta kamioi batekin egin beharreko lanetarako itxiko da zirkulazioa.	Kale horretako trafikoa eten egingo da garabi mugikorra jarri ahal izateko.	0
+Kale horretan garabi bat ipintzeko garabi mugikor batekin eta kamioi batekin egin beharreko lanetarako itxiko da zirkulazioa.	Kale horretan zirkulazioa hobetzeko obrak egingo dira.	1
+Kale horretan garabi bat ipintzeko garabi mugikor batekin eta kamioi batekin egin beharreko lanetarako itxiko da zirkulazioa.	Garabia ipintzeko lanek iraun bitartean, kale horretan autoak etengabe pasatzen ibiliko dira.	2
+Ikasitako begiekin ikusten dugu mundua.	Gure ikuspegia ez da jaiotzetikoa, ikasi egiten dugu.	0
+Ikasitako begiekin ikusten dugu mundua.	Guztiok dugu errealitateari buruzko ikuspuntu bat.	1
+Ikasitako begiekin ikusten dugu mundua.	Gure iritziak ezin dira baldintzatu.	2
+Urritik ekainera bitartean iraupen laburreko ikastaroetan parte hartzeko aukera ematen du Urtxintxa Eskolak.	Urritik ekainera, Urtxintxa Eskolak ikastaro motzak eskaintzen ditu.	0
+Urritik ekainera bitartean iraupen laburreko ikastaroetan parte hartzeko aukera ematen du Urtxintxa Eskolak.	Urtxintxa eskolan iraupen desberdineko formakuntzak egin daitezke urte sasoiaren arabera.	1
+Urritik ekainera bitartean iraupen laburreko ikastaroetan parte hartzeko aukera ematen du Urtxintxa Eskolak.	Urtxintxa eskolak ikastaro luzeak baino ez ditu eskaintzen urritik ekainera.	2
+EGA prestatzeko lekuak ere badaude sarean zehar.	EGA modalitate ez-presentzialean prestatu daiteke.	0
+EGA prestatzeko lekuak ere badaude sarean zehar.	EGA azterketa prestatzeko gogor egin behar da lan.	1
+EGA prestatzeko lekuak ere badaude sarean zehar.	EGA azterketa soilik aurrez-aurreko klaseetan prestatu daiteke.	2
+Arriaga antzokiak Macbeth, Shakespeareren lan klasikoaren bertsioa, estreinatuko du otsailaren 7an.	Arriaga antzokian otsailaren 7an, Shakespeareren lan baten bertsio bat antzeztuko da, Macbeth, hain zuzen ere.	0
+Arriaga antzokiak Macbeth, Shakespeareren lan klasikoaren bertsioa, estreinatuko du otsailaren 7an.	Arriaga antzokian estreinatuko den antzezlana Macbeth-en moldaketa guztiz modernoa da.	1
+Arriaga antzokiak Macbeth, Shakespeareren lan klasikoaren bertsioa, estreinatuko du otsailaren 7an.	Otsailaren 7an ikuslegoak ezingo du Macbeth ikusi Arriaga antzokian.	2
+Marijuli oso pertsona bizia zen, goxoa, hurbila, arduratsua, maitakorra.	Marijulik bizitasun handia zuen eta jendearekin oso atsegina eta gertukoa zen.	0
+Marijuli oso pertsona bizia zen, goxoa, hurbila, arduratsua, maitakorra.	Marijuli herriko emakume nagusi bat zen.	1
+Marijuli oso pertsona bizia zen, goxoa, hurbila, arduratsua, maitakorra.	Marijuli pertsona bizigabea, zatarra, arduragabea, hotza eta desatsegina zen.	2
+Berrizabal 2008ko martxoan atxilotu zuten 18/98 makrosumarioaren harira eta 12 urteko kartzela zigorra ezarri zion Auzitegi Nazionalak.	2008an 19/98 makrosumarioagatik atxilotua izan eta gero, Auzitegi Nazionalak erabaki zuen Berrizabal erruduna zela eta 12 urtez espetxeratuta egon beharko zuela.	0
+Berrizabal 2008ko martxoan atxilotu zuten 18/98 makrosumarioaren harira eta 12 urteko kartzela zigorra ezarri zion Auzitegi Nazionalak.	Berrizabal 2008an atxilotu zuten, eta 18/98 makrosumarioren epaiketa iritsi bitartean behin-behineko espetxeratzea ezarri zioten.	1
+Berrizabal 2008ko martxoan atxilotu zuten 18/98 makrosumarioaren harira eta 12 urteko kartzela zigorra ezarri zion Auzitegi Nazionalak.	Berrizabal 19/98 makrosumarioagatik atxilotu zuten 2008ko martxoan, baina epaitzerakoan, Auzitegi Nazionalak akusatua errugabe deklaratu eta karguetatik libre utzi zuen.	2
+Izotz jauregian ikastaro bat egin berri du Peruk.	Peruk duela gutxi izotz gaineko pista batean egon da.	0
+Izotz jauregian ikastaro bat egin berri du Peruk.	Peru izotz-gaineko patinaje klase batean egon da.	1
+Izotz jauregian ikastaro bat egin berri du Peruk.	Peru ez da sekula egon izotz gaineko pista batean.	2
+Nagusiaren etxeko ohe txiki batean amaitu zuten laurek.	Laurak euren buruzagiaren etxera joan ziren.	0
+Nagusiaren etxeko ohe txiki batean amaitu zuten laurek.	Nagusiaren etxean ohe txiki bat baino ez dago libre.	1
+Nagusiaren etxeko ohe txiki batean amaitu zuten laurek.	Kalean amaitu zuten laurek.	2
+Peru Kutxak antolatutako ingeleses udalekura joaten da goizetan.	Goizero, Peru udalekuetara doa ingelesera ikastera.	0
+Peru Kutxak antolatutako ingeleses udalekura joaten da goizetan.	Udan udalekuak antolatzen dira haur eta gazteentzako.	1
+Peru Kutxak antolatutako ingeleses udalekura joaten da goizetan.	Udan, Peruk goizak etxean pasatzen ditu.	2
+Herri guztiek dute erabakitzeko eskubidea.	Edozein herrialdek izan behar du erabakitzeko aukera.	0
+Herri guztiek dute erabakitzeko eskubidea.	Herrialde batzuen konstituzioan erabakitzeko eskubidea aitortzen da.	1
+Herri guztiek dute erabakitzeko eskubidea.	Herri banaka batzuei dagokie erabakitzeko eskubidea.	2
+Joan den larunbatean hasi ziren Santutxuko jaiak AEK euskaltegiko eta Gaztedi Dantzari Taldeko kideen pregoiarekin.	Aurreko larunbatean, Santutxuko jaiak hasi ziren AEK euskaltegiko eta Gaztedi Dantzari Taldeko pregoilarien eskutik.	0
+Joan den larunbatean hasi ziren Santutxuko jaiak AEK euskaltegiko eta Gaztedi Dantzari Taldeko kideen pregoiarekin.	Aurreko larunbatean, Santutxun giro atsegina zegoen jaien hasiera zela eta.	1
+Joan den larunbatean hasi ziren Santutxuko jaiak AEK euskaltegiko eta Gaztedi Dantzari Taldeko kideen pregoiarekin.	Joan den larunbatean, Santutxuko jaiak hasi ziren, AEK euskaltegiko eta Gaztedi Dantzari Taldeko kideek pregoilari izateari uko egin bazioten ere.	2
+Markina Elkartegia industria-izaera nabarmena duen Enpresa Zentroa da.	Markina Elkartegian biltzen diren enpresa gehienak bigarren-sektorekoak dira.	0
+Markina Elkartegia industria-izaera nabarmena duen Enpresa Zentroa da.	Markina Elkartegian industria erloko enpresa ertainak biltzen dira.	1
+Markina Elkartegia industria-izaera nabarmena duen Enpresa Zentroa da.	Markina Elkartegian biltzen diren enpresak lehen sektorekoak dira, hau da, nekazaritza eta abeltzaintzan dihardute.	2
+Orain hiru aste ikusi nuen azkenengoz.	Badira hiru aste ez dudala ikusi.	0
+Orain hiru aste ikusi nuen azkenengoz.	Badira hiru aste kalera irten nintzela.	1
+Orain hiru aste ikusi nuen azkenengoz.	Hiru aste barru ikusiko dut lehenengo aldiz.	2
+Gernika Elkartegia enpresa-zentro bat da, sortu berri diren enpresa-proiektuak eta hedapen-prozesuan dauden enpresak hartzeko sortua.	Gernika Elkartegiaren helburua da duela gutxi sortu diren edo hedapen-prozesuan dauden enpresak biltzea.	0
+Gernika Elkartegia enpresa-zentro bat da, sortu berri diren enpresa-proiektuak eta hedapen-prozesuan dauden enpresak hartzeko sortua.	Gernika Elkartegia oso handia da eta sortu berri diren enpresa ugari biltzen dira.	1
+Gernika Elkartegia enpresa-zentro bat da, sortu berri diren enpresa-proiektuak eta hedapen-prozesuan dauden enpresak hartzeko sortua.	Gernika Elkartegiak enpresa-proiektu berriak eta hedatzen ari diren enpresak suntsitzeko balio du.	2
+Esan dezagun ofizio harrigarri bat duela berak: munduko ibiltari.	Mundutik bidaiatzea ofizio izatea ez-ohikoa da.	0
+Esan dezagun ofizio harrigarri bat duela berak: munduko ibiltari.	Dirua irabazteko lan egin behar da.	1
+Esan dezagun ofizio harrigarri bat duela berak: munduko ibiltari.	Bere lana etxetik mugitu barik burutzen du.	2
+Chicagotik Los Angeleserakoko hegaldiak bi orduko atzerapena izan zuen.	Chicagotik Los Angelesera zihoan hegazkina berandu iritsi zen.	0
+Chicagotik Los Angeleserakoko hegaldiak bi orduko atzerapena izan zuen.	Chicagotik Los Angelesera hiru orduero hegaldi bat ateratzen da.	1
+Chicagotik Los Angeleserakoko hegaldiak bi orduko atzerapena izan zuen.	Chicagotik Los Angeleserako hegaldiak bere iritsiera bi orduz aurreratu zuen.	2
+Jack Londonen parajeetan piraguaz ibaiak eta Alaskako laku ikusgarrietan ibili ondoren, lagun handi bat etorri zitzaidan erietxera bisitan, atzo.	Atzo, Kaliforniatik eta Alaskatik bidaiatzen ibili zen lagun batek bisita egin zidan ospitalean.	0
+Jack Londonen parajeetan piraguaz ibaiak eta Alaskako laku ikusgarrietan ibili ondoren, lagun handi bat etorri zitzaidan erietxera bisitan, atzo.	Atzo erietxean bisitatu ninduen lagun mina txiki-txikitatik ezagutzen dut.	1
+Jack Londonen parajeetan piraguaz ibaiak eta Alaskako laku ikusgarrietan ibili ondoren, lagun handi bat etorri zitzaidan erietxera bisitan, atzo.	Atzo ni bakarrik egon nintzen erietxean.	2
+Lau urtarotako lau denboraldi luze izan ditugu Paradisu zineman.	Paradisu zineman komentatu ditugun lau denboraldiak iraupen luzekoak dira.	0
+Lau urtarotako lau denboraldi luze izan ditugu Paradisu zineman.	Paradisu zineman komentatutako denboraldiek luze-labur aldakorra dute.	1
+Lau urtarotako lau denboraldi luze izan ditugu Paradisu zineman.	Paradisu zineman lau urtarotako lau denboraldi laburrez aritu gara.	2
+Modu honetan, Euskal Herriko haur eta gazteek zinemaz gozatzeko aukera daukate euren hizkuntzan, euskaraz, gaztelerazko bertsioak estreinatzen diren momentu berean.	Euskarazko eta gaztelerazko bertsioak aldi berean kaleratuko direnez, Euskal Herriko haur eta gazteek hasieratik gozatu ahalko dute zinemaz euskaraz.	0
+Modu honetan, Euskal Herriko haur eta gazteek zinemaz gozatzeko aukera daukate euren hizkuntzan, euskaraz, gaztelerazko bertsioak estreinatzen diren momentu berean.	Euskal Herrian batzuetan filmak ingelesez ere gozatu daitezke estreinalditik.	1
+Modu honetan, Euskal Herriko haur eta gazteek zinemaz gozatzeko aukera daukate euren hizkuntzan, euskaraz, gaztelerazko bertsioak estreinatzen diren momentu berean.	Modu honetan, Euskal Herriko haur eta gazteek filmak gazteleraz ikusi ahalko dituzte estreinalditik, baina euskaraz ikusteko luzaroan itxaron beharko dute.	2
+"Santutxuko Gazte Asanbladak kapitalismo ""zapaltzailearen aurrean"", bi ekimen antolatu ditu aste honetan."	Santutxuko Gazte Asanbladak kapitalismoaren opresioaren kontrako ekintzak antolatzen ditu.	0
+"Santutxuko Gazte Asanbladak kapitalismo ""zapaltzailearen aurrean"", bi ekimen antolatu ditu aste honetan."	Santutxuko Gazte Asanbladan astero ekintzak antolatzen dira.	1
+"Santutxuko Gazte Asanbladak kapitalismo ""zapaltzailearen aurrean"", bi ekimen antolatu ditu aste honetan."	Aste honetan, Santutxuko Gazte Asanbladaren eskutik bi ekintza antolatu dira kapitalismoaren alderdi askatzailea defendatzeko.	2
+Urtebetetze oparia aurten berezia izan behar zuen: amaren bizitzako argazki-bilduma eta merienda sorpresa.	Urte honetako urtebetetze-oparia bestelakoa izan zedin, amari ezusteko merienda bat prestatu eta argazkien bilduma bat oparitu genion.	0
+Urtebetetze oparia aurten berezia izan behar zuen: amaren bizitzako argazki-bilduma eta merienda sorpresa.	Amaren aurtengo urtebetetzea berezia izan zedin, familia osoa elkartu gara meriendatzeko.	1
+Urtebetetze oparia aurten berezia izan behar zuen: amaren bizitzako argazki-bilduma eta merienda sorpresa.	Amaren aurtengo urtebetetze oparia guztiz arrunta izan behar zuen, hori dela eta argazkien bilduma bat baino ez diogu oparitu.	2
+Gainera bizipoza ematen du aristokrazian bat bazela euskara maite eta erabilia izan zedin urratsak eman zituena.	Aristokrataren batek euskararen erabilera bultzatzeko esfortzuak egin zituen hizkuntza atsegin zuelako, eta hori alaigarria da.	0
+Gainera bizipoza ematen du aristokrazian bat bazela euskara maite eta erabilia izan zedin urratsak eman zituena.	Aristokraziaren artean baten batek euskal hizkuntzalaritzan ziharduen, eta horrek poztasuna ematen du.	1
+Gainera bizipoza ematen du aristokrazian bat bazela euskara maite eta erabilia izan zedin urratsak eman zituena.	Aristokrata guztiek euskara gorrotatzen zuten, horregatik euskararen erabilera murrizteko urratsak eman zituzten.	2
+Euskaldunok hartzaile pasiboei euskaraz egiten diegun heinean, eta orduan bakarrik, irauliko dugu erabilera.	Euskararen erabilera handitzeko euskaldunok hartzaile pasiboei euskaraz hitz egin behar diegu.	0
+Euskaldunok hartzaile pasiboei euskaraz egiten diegun heinean, eta orduan bakarrik, irauliko dugu erabilera.	Haurrak aurrean daudenean, euskaldunok hartzaile pasiboekin maizago hitz egiten dugu euskaraz.	1
+Euskaldunok hartzaile pasiboei euskaraz egiten diegun heinean, eta orduan bakarrik, irauliko dugu erabilera.	Euskararen erabilera iraultzeko euskaldunok hartzaile pasiboei erdaraz hitz egiten behar diegu.	2
+Mikel Antzak 2012an argitaratu duen eleberria da Atzerri; autofikzioa omen da eleberriaren muina.	Mikel Antzak Atzerri nobela idatzi zuen, eta diotenez nobelaren ardatza bere bizipenen eta fikzioaren arteko nahasketa da.	0
+Mikel Antzak 2012an argitaratu duen eleberria da Atzerri; autofikzioa omen da eleberriaren muina.	Mikel Antzaren Atzerri eleberria 2012 argitaratu zen, eta geroztik arrakasta handia izan du euskal irakurleen artean.	1
+Mikel Antzak 2012an argitaratu duen eleberria da Atzerri; autofikzioa omen da eleberriaren muina.	2012an, Mikel Antzak Atzerri argitaratu du, hots, bere bizipenak biltzen dituen liburu autobiografikoa.	2
+Bukatu denean txaloak jo ditut, lehen aldiz nire bizitzan.	Amaitzean, atsegin izan dudala adierazi dut.	0
+Bukatu denean txaloak jo ditut, lehen aldiz nire bizitzan.	Nire amaierako erreakzioak oso ohikoak dira.	1
+Bukatu denean txaloak jo ditut, lehen aldiz nire bizitzan.	Amaitu denean, betiko legez, geldi-geldi geratu naiz.	2
+Ekintzailetzarako eta coworking areto bat ere badu, enpresa-proiektu bat abian jartzeko behar den azpiegitura guztiarekin.	Enpresen arteko elkarlana bultzatzeko eta enpresa berrien sorkuntza bultzatzeko behar diren azpiegiturak ditu.	0
+Ekintzailetzarako eta coworking areto bat ere badu, enpresa-proiektu bat abian jartzeko behar den azpiegitura guztiarekin.	Enpresa-proiektu bat martxan jartzeko beharrezkoak diren oinarrizko azpiegiturak enpresaren beharren araberakoak dira.	1
+Ekintzailetzarako eta coworking areto bat ere badu, enpresa-proiektu bat abian jartzeko behar den azpiegitura guztiarekin.	Nahiz eta ekintzailetzarako eta coworkinetako areto bat dituen, dituen azpiegiturak eskasegiak dira enpresa-proiektu bat martxan jartzeko.	2
