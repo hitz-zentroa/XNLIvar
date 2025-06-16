@@ -16,3 +16,16 @@ It introduces XNLIvar, a novel, manually-curated, variation inclusive NLI datase
 
 It provides scripts to fine-tune and evaluate discriminaitive models, as well as scripts to perform zero-shot prompting experiments with generative models. 
 
+
+## Citation
+The [paper]() that explains the dataset and experiments can be cited as follows:
+```
+@inproceedings{bengoetxea-et-al-2025,,
+    title = "Lost in Variation? Evaluating NLI Performance in Basque and Spanish Geographical Variants",
+    author = "Bengoetxea, Jaione  and
+      Gonzalez-Dios, Itziar  and
+      Agerri, Rodrigo",
+      year = "2025",
+      url = ""
+}
+```
