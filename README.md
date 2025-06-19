@@ -20,7 +20,7 @@ It provides scripts to fine-tune and evaluate discriminaitive models, as well as
 
 
 ## Citation
-The [paper]() that explains the dataset and experiments can be cited as follows:
+The [paper](https://arxiv.org/abs/2506.15239) that explains the dataset and experiments can be cited as follows:
 ```
 @inproceedings{bengoetxea-et-al-2025,,
     title = "Lost in Variation? Evaluating NLI Performance in Basque and Spanish Geographical Variants",
@@ -28,6 +28,6 @@ The [paper]() that explains the dataset and experiments can be cited as follows:
       Gonzalez-Dios, Itziar  and
       Agerri, Rodrigo",
       year = "2025",
-      url = ""
+      url = "https://arxiv.org/abs/2506.15239"
 }
 ```
